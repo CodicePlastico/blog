@@ -1,0 +1,55 @@
+---
+layout: default
+title: CodicePlastico
+---
+
+<div id="home" class="row">
+<div class="col-md-9">
+<div class="row bio">
+  <div class="col-md-12">
+        <h2>
+          CodicePlastico
+        </h2>
+        <ul class="list-inline tags">
+          <li>
+            <a href="https://twitter.com/codiceplastico">
+              Twitter
+            </a>
+          </li>
+          <li>
+            <a href="http://www.linkedin.com/in/codiceplastico">
+              Linkedin
+            </a>
+          </li>
+          <li>
+            <a href="http://www.github.com/codiceplastico">
+              Github
+            </a>
+          </li>
+        </ul>
+      
+      <p>
+        Siamo un team...
+      </p>
+  </div>
+</div>
+  
+  </div>
+  <div class="col-md-3">
+    <div class="right-panel">
+      <h3>Post recenti</h3>
+      <ul class="recent-posts">
+        {% for post in site.posts offset: 0 limit: 5  %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+  
+
+</script>
