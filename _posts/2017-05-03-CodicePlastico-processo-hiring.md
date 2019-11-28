@@ -3,6 +3,7 @@ layout: post
 title:  "CodicePlastico e il nostro processo di hiring"
 comments: true
 categories: Company
+author: Alessandro Melchiori
 ---
 
 Ho letto con molto interesse il [post](https://medium.com/@alekone/ciao-laureato-ecco-come-non-venire-mai-assunto-da-gummy-e-in-molti-altri-posti-f3d1b2aed52d) degli amici di [Gummy](http://gummyindustries.com/) con un po' di suggerimenti su cosa **non** fare per aumentare le proprie possibilità di essere presi in considerazione durante il loro processo di recruiting.

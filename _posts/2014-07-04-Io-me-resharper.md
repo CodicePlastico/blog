@@ -3,6 +3,7 @@ layout: post
 title:  "Io, me e R#"
 comments: true
 categories: Technology
+author: Alessandro Melchiori
 ---
 
 Sono sempre stato un grande fan di [R#](http://www.jetbrains.com/resharper/): il giusto completamento di un ottimo IDE come [Visual Studio](http://www.visualstudio.com/).  

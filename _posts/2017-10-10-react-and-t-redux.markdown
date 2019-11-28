@@ -3,7 +3,7 @@ layout: post
 title: "Reactjs Redux pattern"
 date: 2017-10-10
 comments: true
-categories:
+author: Emanuele DelBono
 ---
 
 # React and Redux

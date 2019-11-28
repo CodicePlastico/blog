@@ -3,6 +3,8 @@ layout: post
 slug: tastiere
 title: Danzare sulla tastiera
 date: 2019-04-30 00:00:00
+author: Emanuele DelBono
+
 ---
 
 Parecchi anni fa ero un fan di [Resharper](https://www.jetbrains.com/resharper), ricordo ancora alcuni degli shortcut che usavo e penso agli incredibili livelli di produttività che ti permetteva di raggiungere con Visual Studio. 

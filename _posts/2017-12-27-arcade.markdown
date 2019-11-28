@@ -4,6 +4,7 @@ date: 2017-12-27 00:00:00
 layout: post
 slug: arcade
 title: Arcade in Codiceplastico
+author: Emanuele DelBono
 ---
 In [CodicePlastico](http://codiceplastico.com) abbiamo sempre cercato modi per creare un ambiente piacevole in cui passare la giornata lavorativa. Sappiamo benissimo che il nostro lavoro di programmatori ha parecchi aspetti negativi legati principalmente al poco movimento e al prolungarsi delle ore passate a concentrarsi su un problema.
 Per questo, senza imporre regole o obblighi, nel tempo ci siamo inventati strumenti e metodi per migliorare la situazione.

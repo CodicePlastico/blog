@@ -3,7 +3,7 @@ layout: post
 title: "Projects structure"
 date: 2014-05-26
 comments: true
-categories:
+author: Emanuele DelBono
 ---
 
 Frameworks like [ASP.NET MVC](http://asp.net), [Rails](http://rubyonrails.com) & C. impose you a strict folder structure using a "topology approach". This means that files of same types are in the same folder. So you end up with a Controllers folder that contains tens of files that are uncorrelated since ControllerA doesn't have anything to do with ControllerB. Even worse the correlated files, for example the ModelA, are in a completely different folder mixed with other tens of uncorrelated files.

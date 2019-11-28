@@ -3,6 +3,7 @@ layout: post
 title:  "MVP su Azure...#estiqaatsi"
 comments: true
 categories: OT
+author: Alessandro Melchiori
 ---
 
 A conferma del periodo incasinato della mia vita, non solo lavorativa, mi ritrovo solo oggi, quasi una settimana dopo, a scrivere di quanto mi è successo la scorsa settimana.

@@ -10,7 +10,7 @@ layout: default
         <div class="blog-post-title">
           <a href="{{ post.url }}">{{ post.title }}</a>
         </div>
-        <div class="blog-post-date">{{ post.date | date_to_long_string }}</div>
+        <div class="blog-post-date">{{ post.date | date_to_long_string }} {% if post.author %}- {{post.author}}{% endif %}</div>
         <div>
             {{ post.content }}
         </div>

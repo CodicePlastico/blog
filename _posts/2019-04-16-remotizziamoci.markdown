@@ -4,6 +4,7 @@ date: 2019-04-15 00:00:00
 layout: post
 slug: remotizziamoci
 title: Remotizziamoci!
+author: Emanuele DelBono
 ---
 
 Il 2018 è stato per CodicePlastico un anno in cui sono maturatemolte nuove idee, mi piacerebbe raccontarle sia per riuscire a ripercorrerle e metabolizzarle sia per condividerle con la speranza che possano servire anche ad altre aziende o professionisti.

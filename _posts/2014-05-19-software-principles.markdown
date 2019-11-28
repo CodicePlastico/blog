@@ -3,7 +3,7 @@ layout: post
 title: "Software principles"
 date: 2014-05-19
 comments: true
-categories:
+author: Emanuele DelBono
 ---
 I have more than ten years of experience as a software developer, don’t know if I have to be happy or to be sad for the time that pass. 
 During these years I saw lot of technologies, frameworks, libraries passing, some of them are still here but most of them are dead. 

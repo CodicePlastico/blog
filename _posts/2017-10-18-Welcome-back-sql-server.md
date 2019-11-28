@@ -3,6 +3,7 @@ layout: post
 title:  "Bentornato SQL Server"
 comments: true
 categories: Technology SQLServer
+author: Alessandro Melchiori
 ---
 
 E'da un po' di tempo che ho in mente di scrivere questo post. Come al solito, sono in ritardo :)  

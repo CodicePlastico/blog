@@ -2,10 +2,13 @@
 layout: default
 ---
 <div class="row post-item posts">
-  <div class="blog-post-date">{{ page.date | date_to_string }}</div>
   <div class="blog-post-title">{{ page.title }}</div>
+  <div class="blog-post-date">{{ page.date | date_to_string }} {% if page.author %}- {{page.author}}{% endif %}</div>
 
   <div class="post">
   {{ content }}
+  </div>
+  <div class="author">
+    
   </div>
 </div>
