@@ -1,14 +1,52 @@
 ---
 layout: default
+current: post
+class: post-template
 ---
-<div class="row post-item posts">
-  <div class="blog-post-title">{{ page.title }}</div>
-  <div class="blog-post-date">{{ page.date | date_to_string }} {% if page.author %}- {{page.author}}{% endif %}</div>
 
-  <div class="post">
-  {{ content }}
-  </div>
-  <div class="author">
-    
-  </div>
-</div>
+<main id="site-main" class="site-main outer" role="main">
+ 
+
+      <article class="post {{ page.subclass }} ">
+        <header class="post-header">
+          {% if page.tags.size > 0 %}
+          <section class="post-tag">
+            {% for tag in page.tags %}
+                {% if forloop.index == page.tags.size %}
+                   <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
+                {% else %}
+                   <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>,
+                {% endif %}
+            {% endfor %}
+          </section>
+          {% endif %}
+          <h1 class="post-title">{{ page.title }}</h1>
+
+
+        <!-- #author-->
+        {% for author in site.data.authors %}
+          {% if author[1].username == page.author %}
+            <section class="post-author">
+               {% if author[1].picture %}
+                   <img class="post-author-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ page.author }}" />
+               {% endif %}
+                <h4 class="post-author-name"><a href="{{ site.baseurl }}author/{{ page.author }}">{{ author[1].name }}</a></h4>
+               </section>
+          {% endif %}
+        {% endfor %}
+        <time class="post-date" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
+        <!-- /author  -->
+      </header>
+
+      {% if page.cover %}
+      <figure class="post-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
+      </figure>
+      {% endif %}
+
+      <section class="post-content">
+              {{ content }}
+      </section>
+
+      </article>
+
+</main>

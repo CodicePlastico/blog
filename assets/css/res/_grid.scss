@@ -1,0 +1,49 @@
+  .row { 
+    display:flex;
+    flex-wrap: wrap;
+  }
+
+  .column {
+    min-width: 100%;
+    width: 100%;
+    margin: 10px 0;
+ }
+ @media #{$mqSM}{
+    .column {
+        flex-grow: 1;
+        flex-shrink: 1;
+        flex-basis: 1;
+        
+        margin: 10px;
+        padding: 10px;
+        
+      }
+      .col-1 {
+        max-width: calc(100% / 12);
+      }
+      .col-2 {
+        max-width: calc(100% / 12 * 2);
+      }
+      .col-3 {
+        max-width: calc(100% / 12 * 3);
+      }
+      .col-4 {
+        max-width: calc(100% / 12 * 4);
+      }
+      .col-5 {
+        max-width: calc(100% / 12 * 5);
+      }
+      .col-6 {
+        max-width: calc(100% / 2);
+      }
+ }
+
+  
+
+  
+
+  
+
+
+
+  

@@ -1,0 +1,18 @@
+ema:
+  username: ema
+  name: Emanuele DelBono
+  location: Brescia
+  bio: The professional publishing platform
+  picture: /assets/images/ema.png
+  facebook: ghost
+  twitter: tryghost
+  cover: False
+team:
+  username: team
+  name: Team Codice Plastico
+  location: Remote
+  bio: Team di Supereroi del codice
+  picture: False
+  facebook: False
+  twitter: codiceplastico
+

@@ -1,9 +1,13 @@
 ---
 layout: post
-slug: la-giornata-dello-sviluppatore
-title: La giornata dello sviluppatore
-date: 2019-11-28 00:00:00
-author: Emanuele DelBono
+current: post
+cover: '/assets/images/post-cover-la-giornata-dello-sviluppatore.jpg'
+slug: la-giornata-in-codiceplastico
+title: La giornata dello Sviluppatore
+date: 2019-11-28 14:00:00
+tags: [Vita Plastica]
+author: ema 
+
 ---
 
 Uno dei principi fondamentali sui quali abbiamo costruito CodicePlastico e’ la "**developer happiness**", adottiamo parecchie pratiche che cercano di **rendere migliore la vita e il lavoro delle persone** in CodicePlastico.  

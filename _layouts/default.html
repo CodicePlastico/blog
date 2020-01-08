@@ -9,11 +9,11 @@
       <meta name="author" content="CodicePlastico">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       {% feed_meta %}
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Barlow:300,600i,800&display=swap" rel="stylesheet">
       <link rel="shortcut icon" href="http://blog.codiceplastico.com/assets/images/favicon.ico" />
       <link href="{{ root_url }}/favicon.ico" rel="icon">
-      <link href="{{ root_url }}/assets/css/screen.css" rel="stylesheet">
-      <link href="{{ root_url }}/assets/css/custom.css" rel="stylesheet">
+      <link href="{{ root_url }}/assets/css/main.css" rel="stylesheet">
+
   </head>
   <body>
   <div id="cookies-eu-banner" style="display: none;">
@@ -21,78 +21,50 @@
       <button id="cookies-eu-reject">Reject</button>
       <button id="cookies-eu-accept">Accept</button>
     </div>
-    <nav id="navbar">
-      <div id="navbar-content-container" class="container">
-        <div id="navbar-content">
-          <div id="navbar-header">
-            <a id="navbar-brand" href="/">
-              <div id="header-logo"></div>
-            </a>
-            <a id="navbar-logo" class="hidden-xs" href="/">
-              <img src="/assets/images/codiceplastico.png" alt="CodicePlastico">
-            </a>
-            <button id="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-              </button>
-          </div>
-          <div id="navbar-collapse" class="collapse">
-            <ul id="nav">
-              <li>
-                <a href="{{ root_url }}/archive.html">
-                  Archivio
-                </a>
-              </li>
-              <li>
-                <a href="https://codiceplastico.com">
-                  Chi siamo
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </nav>
-    <div id="main" class="container">
-    <header>
-      <div class="picture">
-      </div>
-      <div class="title">
-        <a href="/">Il blog dei supereroi</a>
-        <p>
-          <a href="https://twitter.com/codiceplastico" class="twitter-link">@codiceplastico</a>
-        </p>
-      </div>
 
+
+    <header class="main-header">
+      <div class="content">
+        <div class="logo">
+          <a href="/" class=" pictogram"><img src="/assets/images/cp-web-logo.svg" alt="CodicePlastico"></a>
+          <a href="/" class=" lettering"><img src="/assets/images/codiceplastico.svg" alt="CodicePlastico"></a>
+        </div>
+        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+        <ul class="menu">
+            <li> <a href="/">Home</a></li>
+            <li><a href="{{ root_url }}/archive.html">Archivio</a></li>
+            <li><a href="https://codiceplastico.com">Chi siamo</a></li>
+        </ul>
+      </div>
+    
     </header>
+    {% if page.class == 'home-template' %}
+      {% include title_header.html %}
+    {% endif %}
 
-      {{ content | expand_urls: root_url }}
-      <div id="content-footer">
-        {% if paginator.total_pages > 1 %}
-        <div class="pagination">
-        <div class="pull-left">
-          {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="glyphicon glyphicon-chevron-left"></i>Older posts </a>
-          {% endif %}
-        </div>
-        <div class="pull-right">
-          {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Newer posts<i class="glyphicon glyphicon-chevron-right"></i></a>
-          {% endif %}
-
-        </div>
-        </div>
+    
+    <section class="container">
+      <div class="content"> {{ content }} </div>
+      {% if paginator.total_posts > site.paginate %}
+        
+        {% if page.class == 'author-template' %}
+            {% include author_pagination.html %}
+        {% elsif page.class == 'tag-template' %}
+            {% include tag_pagination.html %}
+        {% else %}
+            {% include post_pagination.html %}
         {% endif %}
-    </div>
-    <div id="footer-block">
-      <footer id="footer" class="container">
-        <div id="footer-content">
-          <div id="footer-logo"></div>
-          CodicePlastico
-        </div>
-      </footer>
-    </div>
+      {% endif %} 
+    </section>
+    
+    
+
+    <footer class="main-footer">
+      <div id="footer-logo"><img src="/assets/images/logo-footer.svg" alt="logo codiceplastico"></div>
+      <p>CodicePlastico - via Branze 45, 25123 Brescia - Tel +39 030 6595241</p>
+      <p>social icon</p>
+    </footer>
 
     <script>
       var domain = "{{ site.url }}";
@@ -104,9 +76,9 @@
       new CookiesEuBanner(function(){
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+        //gtag('js', new Date());
 
-        gtag('config', 'UA-139599974-1');
+        //gtag('config', 'UA-139599974-1');
       }); 
     </script>
     <!-- endbuild -->

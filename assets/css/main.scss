@@ -1,0 +1,22 @@
+@import "res/resethtml"; 
+@import "res/mediaquery";
+@import "res/colorset";
+@import "res/typography";
+@import "res/grid";
+
+
+
+/*Struct*/
+.content{
+width: 100%;
+
+max-width: 1400px; 
+margin: 0 auto; 
+    img{
+        max-width: 100%;
+    }
+}
+
+@import "partials/header";
+@import "partials/footer"; 
+@import "partials/post";
