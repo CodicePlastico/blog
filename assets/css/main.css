@@ -521,5 +521,15 @@ blockquote {
     flex-direction: column;
     margin: 0 auto;
     padding-bottom: 2em; } }
+nav.pagination {
+  text-align: center;
+  font-variant: small-caps;
+  margin: 2em; }
+  nav.pagination a {
+    color: #D93232;
+    text-decoration: underline;
+    font-variant: none;
+    font-size: 0.8em;
+    padding: 0 0.8em; }
 
 /*# sourceMappingURL=main.css.map */

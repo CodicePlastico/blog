@@ -28,7 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
-paginate: 13
+paginate: 6
 feed:
   path: atom.xml
 

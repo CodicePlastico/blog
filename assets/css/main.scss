@@ -21,3 +21,9 @@ margin: 0 auto;
 @import "partials/footer"; 
 @import "partials/post";
 @import "partials/post-feed";
+nav.pagination{
+    text-align: center;
+    font-variant: small-caps;
+    margin: 2em;
+    a{ color: $main-color; text-decoration: underline; font-variant: none; font-size: 0.8em; padding: 0 0.8em;}
+}
