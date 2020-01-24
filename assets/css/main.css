@@ -360,19 +360,21 @@ blockquote {
   padding: 3em;
   font-size: 0.8em; }
 
+.post-tag-style, .post .post-header .post-tag, .post-card .post-tag {
+  font-size: 0.8em; }
+  .post-tag-style a, .post .post-header .post-tag a, .post-card .post-tag a {
+    text-decoration: none;
+    color: #D93232; }
+
+.post-title-style, .post .post-header .post-title {
+  font-weight: 800;
+  line-height: 1.2em; }
+
 .post {
   padding: 6em 1em 3em 1em; }
   .post .post-header {
     padding-bottom: 2em;
     text-align: center; }
-    .post .post-header .post-tag {
-      font-size: 0.8em; }
-      .post .post-header .post-tag a {
-        text-decoration: none;
-        color: #D93232; }
-    .post .post-header .post-title {
-      font-weight: 800;
-      line-height: 1.2em; }
     .post .post-header .post-author .post-author-image {
       max-width: 30px;
       height: auto; }
@@ -385,8 +387,20 @@ blockquote {
     height: 330px;
     width: 90%;
     margin: 0 auto;
+    margin-bottom: 2em;
     background-size: cover;
-    margin-bottom: 2em; }
+    margin-bottom: 2em;
+    border-radius: 5px;
+    position: relative; }
+    .post .post-image:after {
+      content: " ";
+      position: absolute;
+      width: 100%;
+      height: 330px;
+      background-color: rgba(255, 0, 0, 0.4);
+      background-image: url("/assets/images/filigrana.png");
+      background-position: top left;
+      border-radius: 5px; }
   .post .post-content {
     max-width: 685px;
     width: 90%;
@@ -395,20 +409,117 @@ blockquote {
     .post {
       padding: 7em 1em 3em 1em; }
       .post .post-header .post-tag, .post .post-header .post-title, .post .post-header .post-author {
-        margin-bottom: 0.5rem; } }
+        margin-bottom: 0.5em; } }
   @media only screen and (min-width: 992px) {
     .post .post-header {
       padding-bottom: 3em; }
       .post .post-header .post-tag, .post .post-header .post-author {
-        margin-bottom: 1rem; }
+        margin-bottom: 1em; }
       .post .post-header .post-tag {
         font-size: 1em; }
       .post .post-header .post-title {
         font-size: 2.5em;
-        margin-bottom: 2.5rem; }
+        margin-bottom: 1.5em; }
       .post .post-header .post-author .post-author-image {
-        max-width: none; }
+        max-width: 60px; }
     .post .post-image {
-      margin-bottom: 2.5rem; } }
+      margin-bottom: 3em; } }
+
+.post-feed {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap; }
+
+.post-card {
+  flex: 1 1 320px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  margin: 0 20px 40px;
+  min-height: 300px;
+  background: #fff center center;
+  background-size: cover;
+  border-radius: 0px;
+  box-shadow: rgba(39, 44, 49, 0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
+  transition: all 0.5s ease; }
+
+.post-card:hover {
+  box-shadow: 0 0 1px rgba(39, 44, 49, 0.1), 0 3px 16px rgba(39, 44, 49, 0.07);
+  transition: all 0.3s ease;
+  transform: translate3D(0, -1px, 0); }
+
+.post-card {
+  display: flex;
+  flex-direction: column; }
+  .post-card .post-image-link {
+    height: 200px; }
+    .post-card .post-image-link .post-image {
+      background-size: cover;
+      height: 200px;
+      position: relative; }
+  .post-card .post-card-content {
+    text-align: center;
+    padding: 2em;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; }
+  .post-card .post-title {
+    font-size: 1.3em; }
+  .post-card .post-excerpt p {
+    font-size: 0.9em;
+    line-height: 1.1em; }
+  .post-card .post-author {
+    border-top: 1px solid #D93232;
+    padding: 1em 0;
+    margin: 0 1.2em;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+    .post-card .post-author .post-author-image {
+      max-height: 30px;
+      border-radius: 30px;
+      border: 1px solid #7D7D7D;
+      margin-right: 0.8em; }
+    .post-card .post-author .post-author-name {
+      text-transform: uppercase;
+      font-size: 0.7em; }
+
+@media only screen and (min-width: 992px) {
+  .home-template .post-feed .post-card:nth-child(6n+1) {
+    flex: 1 1 100%; }
+
+  .home-template .post-feed .post-card:nth-child(6n+1) .post-image-link {
+    height: 350px;
+    position: relative;
+    flex: 1 1 auto; }
+    .home-template .post-feed .post-card:nth-child(6n+1) .post-image-link .post-image {
+      height: 350px; }
+      .home-template .post-feed .post-card:nth-child(6n+1) .post-image-link .post-image:after {
+        content: " ";
+        position: absolute;
+        width: 100%;
+        height: 350px;
+        background-color: rgba(255, 0, 0, 0.4);
+        background-image: url("/assets/images/filigrana.png");
+        background-position: top left; }
+
+  .home-template .post-feed .post-card:nth-child(6n+1) h1 {
+    font-size: 2.8em;
+    font-weight: bold;
+    line-height: 1.2em; }
+
+  .home-template .post-feed .post-card:nth-child(6n+1) .post-excerpt {
+    max-width: 658px;
+    margin: 0 auto; }
+
+  .home-template .post-feed .post-card:nth-child(6n+1) p {
+    font-size: 1.2em;
+    line-height: 1.55em; }
+
+  .home-template .post-feed .post-card:nth-child(6n+1) .post-author {
+    flex-direction: column;
+    margin: 0 auto;
+    padding-bottom: 2em; } }
 
 /*# sourceMappingURL=main.css.map */

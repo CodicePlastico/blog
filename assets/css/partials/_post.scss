@@ -1,3 +1,24 @@
+
+//stili comuni
+.post-tag-style{
+    font-size: 0.8em;
+    a{ text-decoration: none; color: $main-color;}
+}
+.post-title-style{
+    font-weight: 800; line-height: 1.2em;
+}
+@mixin post-image-hoverlay($height:330px){
+            content:" ";
+            position: absolute;
+            width: 100%;
+            height: $height; 
+            background-color: rgba(255, 0, 0, 0.4);
+            background-image: url('/assets/images/filigrana.png');
+            background-position: top left ;
+          
+           
+}
+
 .post{
     padding: 6em 1em 3em 1em;
     .post-header{
@@ -6,10 +27,9 @@
         text-align: center;
        
         .post-tag{
-            font-size: 0.8em;
-            a{ text-decoration: none; color: $main-color;}
+           @extend .post-tag-style;
         }
-        .post-title{ font-weight: 800; line-height: 1.2em; }
+        .post-title{  @extend .post-title-style; }
         .post-author{
             .post-author-image{ max-width: 30px; height: auto;}
             .post-author-name{ font-weight: 300; font-size:0.9em;}
@@ -21,10 +41,16 @@
         height: 330px;
         width: 90%;
         margin: 0 auto;
+        margin-bottom: 2em; 
 
         background-size: cover;
         margin-bottom: 2em; ;
-        
+        border-radius: 5px;
+        position: relative;
+        &:after{
+            @include post-image-hoverlay;
+            border-radius: 5px;  
+        }
     }
     .post-content{
         max-width: 685px; 
@@ -35,21 +61,21 @@
     @media #{$mqSM}{
         padding: 7em 1em 3em 1em;
         .post-header{
-            .post-tag, .post-title,  .post-author {  margin-bottom: 0.5rem;}
+            .post-tag, .post-title,  .post-author {  margin-bottom: 0.5em;}
         }
     }
     @media #{$mqMD}{
         .post-header{
             padding-bottom: 3em; 
-            .post-tag,  .post-author {  margin-bottom: 1rem;}
+            .post-tag,  .post-author {  margin-bottom: 1em;}
             .post-tag{ font-size: 1em;}
-            .post-title{ font-size: 2.5em; margin-bottom: 2.5rem;}
+            .post-title{ font-size: 2.5em; margin-bottom: 1.5em;}
             .post-author{
-                .post-author-image{ max-width: none; }
+                .post-author-image{ max-width: 60px; }
             }
         }
         .post-image{
-            margin-bottom: 2.5rem;
+            margin-bottom: 3em;
         }
     }
 }

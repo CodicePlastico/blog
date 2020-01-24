@@ -2,17 +2,33 @@ ema:
   username: ema
   name: Emanuele DelBono
   location: Brescia
-  bio: The professional publishing platform
-  picture: /assets/images/ema.png
-  facebook: ghost
-  twitter: tryghost
+  url_full: False
+  url: False
+  bio: Changing the world, bit by bit. 
+  picture: assets/images/authors/av-ema.jpg
+  facebook: False
+  twitter: emadb
+  cover: False
+paolo:
+  username: paolo
+  name: Paolo Laurenti
+  location: Bologna
+  url_full: False
+  url: False
+  bio: Software dev w/ love for distribution & scalability challenges. Passionate about basketball, good food and mountains. NoSlidesConf & XPugBologna  organizer.
+  picture: assets/images/authors/av-paolo.jpg
+  facebook: False
+  twitter: paololaurenti
   cover: False
 team:
   username: team
   name: Team Codice Plastico
   location: Remote
+  url_full: False
+  url: False
   bio: Team di Supereroi del codice
   picture: False
   facebook: False
   twitter: codiceplastico
+  cover: False
 

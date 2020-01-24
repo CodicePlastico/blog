@@ -3,7 +3,7 @@ layout: post
 slug: agile-day-2019
 title: Agile Day 2019
 date: 2019-11-13 00:00:00
-author: Emanuele DelBono
+author: ema
 ---
 ![AgileDay2019](/assets/images/agile_day_2.jpg){:class="img-responsive-small"}
 Quest'anno sono tornato all'[Agile Day](https://www.agileday.it/front/) che si e' tenuto a Modena il 9 Novembre scorso. Una conferenza che ormai e' una certezza, sicuramente una delle piu' importanti conf italiane dedicate al mondo dello sviluppo software, frequentata da tantissimi professionisti interessati a scambiarsi opinioni, punti di vista e consigli su come migliorare il prorio lavoro.  

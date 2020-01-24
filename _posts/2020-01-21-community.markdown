@@ -1,12 +1,12 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post-cover/20191227-team-metriche.jpg'
-slug: un-anno-di-codiceplastico
-title: Xmas Stats - un anno di CodicePlastico
-date: 2019-12-27 14:00:00
-tags: [Vita Plastica]
-author: team
+cover: 'assets/images/post-cover/202001-cover-paolo-community.jpg'
+slug: perche-partecipare-ad-una-community
+title: Tre motivi per cui &egrave; bene partecipare alle community
+date: 2020-01-21 14:00:00
+tags: [Conf & Communities]
+author: paolo
 ---
 
 Negli ultimi giorni dell'anno è consuetudine "*fare il punto*": dalle metriche sulle playlist di spotify ai km tracciati dal fitbit, ai post di ricordi che affollano le nostre timeline, tutto ci porta a tirare di somme di **quanto è successo nei precedenti trecentosessantaquattro giorni**.

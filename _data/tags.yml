@@ -6,10 +6,9 @@ tech:
   name: Tech
   description: False
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
+conf-communities:
+  name: Conf & Communities
+  cover: False
 getting-started:
   name: getting-started
   description: False

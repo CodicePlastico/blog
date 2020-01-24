@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: '/assets/images/post-cover-la-giornata-dello-sviluppatore.jpg'
+cover: 'assets/images/post-cover/20191128-ema-flowchart.jpg'
 slug: la-giornata-in-codiceplastico
 title: La giornata dello Sviluppatore
 date: 2019-11-28 14:00:00

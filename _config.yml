@@ -17,7 +17,7 @@ title: Plastic Blog
 email: info@codiceplastico.com
 description: >- # this means to ignore newlines until "baseurl:"
   Il blog dei supereroi
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://blog.codiceplastico.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codiceplastico
 github_username:  codiceplastico
@@ -28,7 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
-paginate: 5
+paginate: 13
 feed:
   path: atom.xml
 
@@ -43,3 +43,8 @@ feed:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Permalinks
+permalink: /:title
+#permalink: /author/:author
+#permalink: /tag/:tag
