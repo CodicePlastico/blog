@@ -1,3 +1,25 @@
+ale:
+  username: ale
+  name: Alessandro Melchiori
+  location: Brescia
+  url_full: False
+  url: False
+  bio: Programming
+  picture: assets/images/authors/av-ale.jpg
+  facebook: False
+  twitter: amelchiori
+  cover: False
+pietro:
+  username: pietro
+  name: Pietro Martinelli
+  location: Brescia
+  url_full: False
+  url: False
+  bio: Programming
+  picture: assets/images/authors/av-pietro.jpg
+  facebook: False
+  twitter: amicofragile78
+  cover: False
 ema:
   username: ema
   name: Emanuele DelBono

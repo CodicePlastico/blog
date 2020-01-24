@@ -3,7 +3,8 @@ layout: post
 slug: tastiere
 title: Danzare sulla tastiera
 date: 2019-04-30 00:00:00
-author: Emanuele DelBono
+tags: [Tech]
+author: ema
 
 ---
 

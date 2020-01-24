@@ -3,7 +3,8 @@ layout: post
 title:  "Docker & Azure"
 comments: true
 categories: Technology Talk Conferences
-author: Alessandro Melchiori
+tags: [Conf & Communities]
+author: ale
 ---
 
 Venerdì 10 febbraio sarò a Roma dagli amici di [DomusDotNet](http://www.domusdotnet.org/) e [GetLatestVersion](http://www.getlatestversion.it/) per una ricca giornata di contenuti sul tema DevOps.

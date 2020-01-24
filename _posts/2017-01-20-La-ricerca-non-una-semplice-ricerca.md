@@ -3,7 +3,8 @@ layout: post
 title:  "La ricerca non è solo una ricerca"
 comments: true
 categories: Technology DDD CQRS
-author: Alessandro Melchiori
+tags: [Tech]
+author: ale
 ---
 
 Ultimo post datato: 07/10/2015...direi che è ora di ricominciare a bloggare, anche per evitare che [@mauroservienti](http://blogs.ugidotnet.org/topics) possa continuare indisturbato la sua serie di post su _Service (UI) composition_ senza qualcuno che faccia da bastian contrario :)  

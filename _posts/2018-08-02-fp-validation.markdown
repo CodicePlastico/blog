@@ -4,7 +4,8 @@ date: 2018-08-02 00:00:00
 layout: post
 slug: fp-validation
 title: Fp-ts validation spiegata bene
-author: Emanuele DelBono
+tags: [Tech]
+author: ema
 ---
 _In CodicePlastico stiamo studiando la programmazione funzionale, abbiamo fatto [un corso](https://www.avanscoperta.it/it/training/applied-functional-programming-workshop/) con [Matteo Baglini](https://twitter.com/matteobaglini) (che consiglio a tutti) e in questi giorni stiamo provando a fare un po' di refactoring verso il paradigma funzionale.
 Naturalmente i dubbi vengono, e ieri ho scritto una mail a Matteo per chiedere aiuto su una parte di codice dedicata alla validazione. La mail di risposta e' stata talmente dettagliata che ho pensato fosse uno spreco tenerla solo per me, così (con l'autorizzazione di matteo) la pubblico qui:_

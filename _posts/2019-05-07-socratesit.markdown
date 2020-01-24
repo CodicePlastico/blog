@@ -2,7 +2,8 @@
 layout: post
 slug: socratesit
 title: Socrates Italia
-author: Emanuele DelBono
+tags: [Conf & Communities]
+author: ema
 ---
 
 Ho sempre partecipato alle conferenze credendo molto nel valore raccolto durante le sessioni, e' stato il modo per imparare nuove cose, conoscere persone che facevano il mio stesso lavoro e capire cosa stesse succedendo nel mondo dello sviluppo software.

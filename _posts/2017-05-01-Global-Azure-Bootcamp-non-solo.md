@@ -3,7 +3,8 @@ layout: post
 title:  "Global Azure Bootcamp 2017 e non solo..."
 comments: true
 categories: Technology Talk Conferences
-author: Alessandro Melchiori
+tags: [Conf & Communities]
+author: ema
 ---
 
 La scorsa settimana ho avuto il piacere e l'onore di partecipare al Global Azure Bootcamp a Pordenone organizzato dagli amici di [Innova](https://www.facebook.com/1nn0va). 

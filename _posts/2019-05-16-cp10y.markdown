@@ -2,7 +2,8 @@
 layout: post
 slug: cp10y
 title: CP10Y il nostro primo company meeting
-author: Emanuele DelBono
+tags: [Vita Plastica]
+author: ema
 ---
 ![Codiceplastico](/assets/images/team.jpg){:class="img-responsive-small"}
 
