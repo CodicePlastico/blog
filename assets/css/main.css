@@ -554,15 +554,18 @@ nav.pagination {
   color: #FFF;
   text-align: center;
   display: block;
-  position: absolute;
+  position: fixed;
+  z-index: 999;
   bottom: 0;
   text-align: center;
   width: 100%;
-  min-height: 2em; }
+  padding: 2em; }
   #cookies-eu-banner button {
     background: #FFF;
     color: #D93232;
     text-transform: uppercase;
-    border-radius: 3px; }
+    border-radius: 3px;
+    border: 1px solid #FFF;
+    padding: 0.3em; }
 
 /*# sourceMappingURL=main.css.map */
