@@ -4,4 +4,11 @@
     text-align: center;
     padding: 3em; 
     font-size: 0.8em; 
+    .social-link{
+        display: flex; justify-content: center;
+        li{ list-style: none;
+            padding: 0.5em;
+            img{ max-width: 18px; }
+        }
+    }
 }

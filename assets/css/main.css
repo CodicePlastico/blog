@@ -359,6 +359,14 @@ blockquote {
   text-align: center;
   padding: 3em;
   font-size: 0.8em; }
+  .main-footer .social-link {
+    display: flex;
+    justify-content: center; }
+    .main-footer .social-link li {
+      list-style: none;
+      padding: 0.5em; }
+      .main-footer .social-link li img {
+        max-width: 18px; }
 
 .post-tag-style, .post .post-header .post-tag, .post-card .post-tag {
   font-size: 0.8em; }
