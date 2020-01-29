@@ -549,4 +549,20 @@ nav.pagination {
     font-size: 0.8em;
     padding: 0 0.8em; }
 
+#cookies-eu-banner {
+  background: #D93232;
+  color: #FFF;
+  text-align: center;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  min-height: 2em; }
+  #cookies-eu-banner button {
+    background: #FFF;
+    color: #D93232;
+    text-transform: uppercase;
+    border-radius: 3px; }
+
 /*# sourceMappingURL=main.css.map */

@@ -27,3 +27,18 @@ nav.pagination{
     margin: 2em;
     a{ color: $main-color; text-decoration: underline; font-variant: none; font-size: 0.8em; padding: 0 0.8em;}
 }
+
+#cookies-eu-banner{
+    background: $main-color;
+    color: $main-light;
+    text-align: center;
+    display: block;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    min-height: 2em;
+    button{
+        background: $main-light; color: $main-color; text-transform: uppercase; border-radius: 3px; 
+    }
+}
