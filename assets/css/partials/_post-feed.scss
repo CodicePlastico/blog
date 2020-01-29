@@ -118,3 +118,16 @@ $post-feed-border-radius: 0px;
     }
 
 }
+
+.archive-post-feed{
+   // border: 1px solid red; 
+    max-width: 685px; 
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 2em;
+    li{
+        display: flex;
+        margin-bottom: 0.5em;
+        .archive-post-date{ color: $main-color; padding-right: 1em; min-width: 6em;   }
+    }
+}

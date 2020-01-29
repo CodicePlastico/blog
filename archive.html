@@ -1,31 +1,25 @@
 ---
 layout: default
-title: Archive
+class: 'home-template'
 ---
 
-<div id="home" class="row">
-<div class="col-md-9">
-  <ul class="archive">
-    {% for post in site.posts %}
-      <li>
-        <span class="archive-post-date">{{ post.date | date_to_string }}</span>
-        <span class="archive-post-title">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </span>
-      </li>
-    {% endfor %}
-  </ul>
+<main id="site-main" class="site-main outer" role="main">
+  <div class="inner archive-template">
+
+      <div class="archive-post-feed">
+        <ul class="archive">
+          {% for post in site.posts %}
+            <li class="post-list">
+              
+            <span class="archive-post-date">{{ post.date | date_to_string }}</span>
+              <span class="archive-post-title">
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+              </span>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
   </div>
-  <div class="col-md-3">
-    <div class="right-panel">
-      <h3>Recent Posts</h3>
-      <ul class="recent-posts">
-        {% for post in site.posts offset: 0 limit: 5  %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-</div>
+</main>
+

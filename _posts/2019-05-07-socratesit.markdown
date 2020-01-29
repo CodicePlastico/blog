@@ -4,6 +4,7 @@ slug: socratesit
 title: Socrates Italia
 tags: [Conf & Communities]
 author: ema
+cover: 'assets/images/post-cover/20190507-socrates.jpg'
 ---
 
 Ho sempre partecipato alle conferenze credendo molto nel valore raccolto durante le sessioni, e' stato il modo per imparare nuove cose, conoscere persone che facevano il mio stesso lavoro e capire cosa stesse succedendo nel mondo dello sviluppo software.

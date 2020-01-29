@@ -91,25 +91,14 @@ article, footer {
   padding: 0; }
 
 /*end RESET*/
-/* helper*/
-.main-header {
-  border-top: 3px solid back; }
-
-@media only screen and (min-width: 480px) {
-  .main-header {
-    border-top: 3px solid lightseagreen; } }
-@media only screen and (min-width: 768px) {
-  .main-header {
-    border-top: 3px solid red; } }
-@media only screen and (min-width: 992px) {
-  .main-header {
-    border-top: 3px solid green; } }
-@media only screen and (min-width: 1200px) {
-  .main-header {
-    border-top: 3px solid yellow; } }
-@media only screen and (min-width: 1600px) {
-  .main-header {
-    border-top: 3px solid magenta; } }
+/* helper
+.main-header{ border-top: 3px solid back; }
+@media only screen and (min-width:  480px){  .main-header{ border-top: 3px solid lightseagreen; }}
+@media only screen and (min-width:  768px){  .main-header{ border-top: 3px solid red; }}
+@media only screen and (min-width:  992px){   .main-header{ border-top: 3px solid green; }}
+@media only screen and (min-width: 1200px){   .main-header{ border-top: 3px solid yellow; }}
+@media only screen and (min-width: 1600px){   .main-header{ border-top: 3px solid magenta; }} 
+*/
 /*colorset*/
 /*typography vars*/
 body {
@@ -335,19 +324,25 @@ blockquote {
         display: none; } }
 
 .title-header {
-  padding: 7em 1em 3em 1em; }
+  padding: 7em 1em 3em 1em;
+  text-align: center; }
+  .title-header img {
+    max-width: 100%; }
+  .title-header .header-content {
+    max-width: 1200px;
+    margin: 0 auto; }
   .title-header h1 {
     font-weight: bold;
     color: #D93232;
-    text-align: center; }
+    display: none; }
   .title-header h2 {
     font-weight: 300;
     font-size: 1.2em;
     text-align: center;
-    text-align: center; }
+    text-transform: uppercase; }
   @media only screen and (min-width: 992px) {
     .title-header {
-      padding: 8em 1em 3em 1em; }
+      padding: 8em 1em 6em 1em; }
       .title-header h1 {
         font-size: 3em; }
       .title-header h2 {
@@ -369,7 +364,8 @@ blockquote {
         max-width: 18px; }
 
 .post-tag-style, .post .post-header .post-tag, .post-card .post-tag {
-  font-size: 0.8em; }
+  font-size: 0.8em;
+  color: #D93232; }
   .post-tag-style a, .post .post-header .post-tag a, .post-card .post-tag a {
     text-decoration: none;
     color: #D93232; }
@@ -405,7 +401,7 @@ blockquote {
       position: absolute;
       width: 100%;
       height: 330px;
-      background-color: rgba(255, 0, 0, 0.4);
+      background-color: rgba(255, 255, 255, 0.4);
       background-image: url("/assets/images/filigrana.png");
       background-position: top left;
       border-radius: 5px; }
@@ -508,7 +504,7 @@ blockquote {
         position: absolute;
         width: 100%;
         height: 350px;
-        background-color: rgba(255, 0, 0, 0.4);
+        background-color: rgba(255, 255, 255, 0.4);
         background-image: url("/assets/images/filigrana.png");
         background-position: top left; }
 
@@ -529,6 +525,19 @@ blockquote {
     flex-direction: column;
     margin: 0 auto;
     padding-bottom: 2em; } }
+.archive-post-feed {
+  max-width: 685px;
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 2em; }
+  .archive-post-feed li {
+    display: flex;
+    margin-bottom: 0.5em; }
+    .archive-post-feed li .archive-post-date {
+      color: #D93232;
+      padding-right: 1em;
+      min-width: 6em; }
+
 nav.pagination {
   text-align: center;
   font-variant: small-caps;

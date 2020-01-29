@@ -12,10 +12,11 @@ $mqMD:  "only screen and (min-width:  #{$reflex-md})";
 $mqLG:  "only screen and (min-width: #{$reflex-lg})";
 $mqXL:  "only screen and (min-width: #{$reflex-xlg})";
 
-/* helper*/
+/* helper
 .main-header{ border-top: 3px solid back; }
 @media #{$mqXS}{  .main-header{ border-top: 3px solid lightseagreen; }}
 @media #{$mqSM}{  .main-header{ border-top: 3px solid red; }}
 @media #{$mqMD}{   .main-header{ border-top: 3px solid green; }}
 @media #{$mqLG}{   .main-header{ border-top: 3px solid yellow; }}
 @media #{$mqXL}{   .main-header{ border-top: 3px solid magenta; }} 
+*/

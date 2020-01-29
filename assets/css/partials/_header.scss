@@ -114,12 +114,17 @@
 
 .title-header{
   padding: 7em 1em 3em 1em;
-  h1{  font-weight: bold; color: $main-color; text-align: center;}
-  h2{ font-weight: 300; font-size: 1.2em;  text-align: center; text-align: center;}
+  text-align: center;
+  img{ max-width: 100%;} 
+  .header-content{ max-width: 1200px; margin:0 auto;  }
+
+  h1{  font-weight: bold; color: $main-color; display: none; }
+  h2{ font-weight: 300; font-size: 1.2em;  text-align: center; text-transform: uppercase; }
+  
   @media #{$mqMD}{
-    h1{ font-size: 3em;}
+    h1{ font-size: 3em; }
     h2{ font-size: 1.2em;}
-    padding: 8em 1em 3em 1em;
+    padding: 8em 1em 6em 1em;
    
   }
   
