@@ -18,7 +18,7 @@ Far parte di una Community significa, prima di tutto,  *mettere in atto uno scam
 Vale per tutti i campi: sono un programmatore e ovviamente lo ritengo fondamentale nell’ambito software, ma queste motivazioni sono assolutamente valide a prescindere da quale sia la vostra figura professionale.
 Che tu sia un UI Designer, Software Developer o DBA non cambia nulla: *partire dal confronto* è fondamentale sia nel lavoro sia, in generale, nella nostra vita.
 
-Dal 2014 anni faccio parte dello Staff di <a href="https://twitter.com/xpugbologna" target="_blank">XPug Bologna</a>, un gruppo di persone interessate ad "eXtreme Programming" e a tutto ciò che ruota intorno al mondo del software: tecnologie, pratiche e metodologie. 
+Dal 2014 faccio parte dello Staff di <a href="https://twitter.com/xpugbologna" target="_blank">XPug Bologna</a>, un gruppo di persone interessate ad "eXtreme Programming" e a tutto ciò che ruota intorno al mondo del software: tecnologie, pratiche e metodologie. 
 
 Stando all'illustre Vocabolario Treccani gli ingredienti ci sono tutti: ci sono le persone, ci sono gli interessi. 
 Nella definizione manca però un aspetto fondamentale: *il perchè*. 
@@ -51,7 +51,7 @@ Vediamole:
 
 **Nessuna community mi sembra interessante e perciò lascio perdere…**
 
-Fai un esperimento: crea una tua classifica personale delle community vicino a te e prova a partecipare per tre volte alle loro attività. Potresti avere grandi sorprese. 
+Fai un esperimento: crea una tua classifica personale delle community vicino a te, scegli quella che hai messo in prima posizione a secondo del tuo gusto e prova a partecipare per tre volte alle loro attività.
 (Perché tre volte? Una serata storta capita ovunque, trarre conclusioni affrettate non è mai una buona idea…)
 
 **Ho partecipato a diverse community ma nessuna tratta il tema che mi interessa maggiormente...**
