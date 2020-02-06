@@ -10,7 +10,7 @@ tags: [Tech]
 author: pietro
 
 ---
-Riparto da dove ero arrivato nel [post precedente](.net,testing,concurrency,multithreading,synchronization/2018/01/02/testare-comportamenti-multi-thread.html), nel quale si è parlato di come testare comportamenti soggetti a concorrenza e si sono viste alcune tecniche utili ad evitare *falsi positivi*: 
+Riparto da dove ero arrivato nel [post precedente](testare-comportamenti-multi-thread), nel quale si è parlato di come testare comportamenti soggetti a concorrenza e si sono viste alcune tecniche utili ad evitare *falsi positivi*: 
 <pre>
 [Fact]
 public void CanUseTheSameCounterInMultipleConcurrentThreads() {
