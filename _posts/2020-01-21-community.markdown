@@ -51,7 +51,7 @@ Vediamole:
 
 **Nessuna community mi sembra interessante e perciò lascio perdere…**
 
-Fai un esperimento: crea una tua classifica personale delle community vicino a te, scegli quella che hai messo in prima posizione a secondo del tuo gusto e prova a partecipare per tre volte alle loro attività.
+Fai un esperimento: crea una tua classifica personale delle community vicino a te, scegli quella che hai messo in prima posizione in base al tuo gusto, e prova a partecipare per tre volte alle loro attività.
 (Perché tre volte? Una serata storta capita ovunque, trarre conclusioni affrettate non è mai una buona idea…)
 
 **Ho partecipato a diverse community ma nessuna tratta il tema che mi interessa maggiormente...**
