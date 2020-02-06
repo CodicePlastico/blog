@@ -10,10 +10,11 @@ author: pietro
 Piccolo intermezzo di svago, qualche giorno fa, grazie all'ultimo acquisto del team, Paolo, ed
 alla sua fantastica *crescente* (a derivata rigorosamente positiva) *bolognese*, accompagnata da mortadella e brioche...
 
-<a href="/assets/images/post-content/P_20170926_110713_web.jpg">
-<img src="/assets/images/post-content/P_20170926_110713_web.jpg" title="Salato..." alt="Salato..." />
+<a href="/assets/images/post-content/P_20170926_110713_web.jpg" class="lightbox-image gallery">
+<img src="/assets/images/post-content/P_20170926_110713_web.jpg" title="Salato..."  alt="Salato..." />
 </a>
 
-<a href="/assets/images/post-content/P_20170926_110625_web.jpg">
-<img src="/assets/images/post-content/P_20170926_110625_web.jpg" title="... e dolce!" alt="... e dolce!" />
+<a href="/assets/images/post-content/P_20170926_110625_web.jpg" class="lightbox-image gallery" >
+<img src="/assets/images/post-content/P_20170926_110625_web.jpg" title="... e dolce!"  alt="... e dolce!" />
 </a>
+
