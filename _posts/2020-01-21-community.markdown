@@ -2,6 +2,7 @@
 layout: post
 current: post
 cover: 'assets/images/post-cover/202001-cover-paolo-community.jpg'
+
 slug: perche-partecipare-ad-una-community
 title: Tre motivi per cui &egrave; bene partecipare alle community
 date: 2020-01-21 14:00:00
