@@ -2,7 +2,7 @@
 layout: post
 title:  "Da Java a .Net: la mia esperienza, due anni dopo"
 subtitle: "A che cosa non rinuncerei e che cosa mi manca (parte prima)"
-date: 2017-10-31 12:00:00 +0200
+date: 2017-10-31 12:00:00
 categories: java,.net
 slug: da-java-a-dotnet-parte-i
 tags: [Tech]

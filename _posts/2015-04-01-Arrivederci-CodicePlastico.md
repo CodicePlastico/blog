@@ -3,7 +3,7 @@ layout: post
 title:  "Arrivederci CodicePlastico"
 comments: true
 categories: OT
-author: Alessandro Melchiori
+author: ale
 ---
 
 Questo e' un post un po' particolare, non tecnico come solitamente faccio su questo blog, ma piu' personale.  

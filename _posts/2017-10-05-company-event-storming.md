@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Event Storming e processo aziendale"
-date: 2017-10-05 15:00:00 +0200
+date: 2017-10-05 15:00:00
 categories: company team process
 slug: company-event-storming
 tags: [Tech]

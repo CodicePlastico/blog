@@ -2,13 +2,14 @@
 layout: post
 title:  "Da Java a .Net: la mia esperienza, due anni dopo"
 subtitle: "A che cosa non rinuncerei e che cosa mi manca (parte seconda)"
-date: 2017-11-08 08:00:00 +0100
+date: 2017-11-08 08:00:00
+
 categories: java,.net
 slug: da-java-a-dotnet-parte-ii
 tags: [Tech]
 author: pietro
-
 ---
+
 Seconda parte di un post sulla mia esperienza di _passaggio_ da piattaforma Java (e JEE) a piattaforma .Net: una settimana fa ho parlato ([qui](/java,.net/2017/10/31/da-java-a-dotnet-parte-i.html)) delle principali differenze tra i due linguaggi _principe_ dei due ecosistemi (Java e C#, rispettivamente), chiarendo quali caratteristiche dell'uno e dell'altro preferisco, e del fatto che esistono nelle due _community_ convenzioni di codifica diverse; oggi proseguirò parlando della differenza tra alcune caratteristiche peculiari delle due piattaforme e della vitalità dei due ecosistemi.
 
 ## Due piattaforme

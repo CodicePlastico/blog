@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Crescente bolognese"
-date: 2017-10-04 14:00:00 +0200
+date: 2017-10-04 14:00:00
 categories: playtime
 slug: testare-componenti.multi-thread-reprise
 tags: [Tech]
