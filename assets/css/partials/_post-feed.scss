@@ -85,7 +85,7 @@ $post-feed-border-radius: 0px;
                 @include post-image-hoverlay($height);
             }
         }
-        .post-author-image{ margin-right: 0;}
+       
         position: relative;
         flex: 1 1 auto;
         //border-radius: 5px 0 0 5px;
@@ -115,6 +115,7 @@ $post-feed-border-radius: 0px;
         flex-direction: column;
         margin: 0 auto;
         padding-bottom: 2em;
+        .post-author-image{ margin-right: 0 !important;}
     
     }
 

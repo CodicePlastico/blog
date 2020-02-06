@@ -7,6 +7,9 @@
 .post-title-style{
     font-weight: 800; line-height: 1.2em;
 }
+.post-subtitle-style{
+    font-weight: 300; line-height: 1.2em; 
+}
 @mixin post-image-hoverlay($height:330px){
             content:" ";
             position: absolute;
@@ -29,7 +32,11 @@
         .post-tag{
            @extend .post-tag-style;
         }
-        .post-title{  @extend .post-title-style; }
+        .post-title-container{  margin-bottom: 1em; 
+            .post-title{  @extend .post-title-style; }
+            .post-subtitle{ @extend .post-subtitle-style; font-size: 1.3em; }
+        }
+       
         .post-author{
             .post-author-image{ max-width: 30px; height: auto;}
             .post-author-name{ font-weight: 300; font-size:0.9em;}
@@ -61,15 +68,23 @@
     @media #{$mqSM}{
         padding: 7em 1em 3em 1em;
         .post-header{
-            .post-tag, .post-title,  .post-author {  margin-bottom: 0.5em;}
+            .post-tag, .post-title-container,  .post-author {  margin-bottom: 0.5em;}
+            .post-title-container{ margin-bottom: 1.5em; 
+           
+                .post-subtitle{ font-size: 1.6em; }
+            }
         }
+      
     }
     @media #{$mqMD}{
         .post-header{
             padding-bottom: 3em; 
             .post-tag,  .post-author {  margin-bottom: 1em;}
             .post-tag{ font-size: 1em;}
-            .post-title{ font-size: 2.5em; margin-bottom: 1.5em;}
+            .post-title-container{  margin-bottom: 1.5em;
+                .post-title{ font-size: 2.5em; }
+                .post-subtitle{ font-size: 1.8em;}
+            }
             .post-author{
                 .post-author-image{ max-width: 60px; }
             }

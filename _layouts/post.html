@@ -22,8 +22,13 @@ class: post-template
             {% endfor %}
           </section>
           {% endif %}
-          <h1 class="post-title">{{ page.title }}</h1>
-
+          <div class="post-title-container">
+            <h1 class="post-title">{{ page.title }}</h1>
+            {% if page.subtitle %}
+              <h2 class="post-subtitle">{{ page.subtitle }}</h2>
+            {% endif %}
+          </div>
+         
 
         <!-- #author-->
         {% for author in site.data.authors %}

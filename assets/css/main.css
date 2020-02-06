@@ -156,7 +156,7 @@ em {
 
 p, li, address {
   font-size: 1em;
-  line-height: 1.35em; }
+  line-height: 1.45em; }
 
 p.emph {
   font-size: 1.7em;
@@ -187,6 +187,33 @@ blockquote {
   line-height: 1.5em;
   font-style: italic;
   color: #333333; }
+
+pre {
+  display: block;
+  padding: 0.5em;
+  margin: 2em 0;
+  font-size: 13px;
+  line-height: 1.42857;
+  word-break: break-all;
+  word-wrap: break-word;
+  color: #333333;
+  background-color: whitesmoke;
+  border: 1px solid #cccccc;
+  border-radius: 4px; }
+
+code, pre {
+  font-family: Monaco, Menlo, Consolas, "Courier- New", monospace; }
+
+pre {
+  white-space: pre-wrap; }
+
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  white-space: nowrap;
+  border-radius: 4px; }
 
 .row {
   display: flex;
@@ -370,8 +397,12 @@ blockquote {
     text-decoration: none;
     color: #D93232; }
 
-.post-title-style, .post .post-header .post-title {
+.post-title-style, .post .post-header .post-title-container .post-title {
   font-weight: 800;
+  line-height: 1.2em; }
+
+.post-subtitle-style, .post .post-header .post-title-container .post-subtitle {
+  font-weight: 300;
   line-height: 1.2em; }
 
 .post {
@@ -379,6 +410,10 @@ blockquote {
   .post .post-header {
     padding-bottom: 2em;
     text-align: center; }
+    .post .post-header .post-title-container {
+      margin-bottom: 1em; }
+      .post .post-header .post-title-container .post-subtitle {
+        font-size: 1.3em; }
     .post .post-header .post-author .post-author-image {
       max-width: 30px;
       height: auto; }
@@ -412,8 +447,12 @@ blockquote {
   @media only screen and (min-width: 768px) {
     .post {
       padding: 7em 1em 3em 1em; }
-      .post .post-header .post-tag, .post .post-header .post-title, .post .post-header .post-author {
-        margin-bottom: 0.5em; } }
+      .post .post-header .post-tag, .post .post-header .post-title-container, .post .post-header .post-author {
+        margin-bottom: 0.5em; }
+      .post .post-header .post-title-container {
+        margin-bottom: 1.5em; }
+        .post .post-header .post-title-container .post-subtitle {
+          font-size: 1.6em; } }
   @media only screen and (min-width: 992px) {
     .post .post-header {
       padding-bottom: 3em; }
@@ -421,9 +460,12 @@ blockquote {
         margin-bottom: 1em; }
       .post .post-header .post-tag {
         font-size: 1em; }
-      .post .post-header .post-title {
-        font-size: 2.5em;
+      .post .post-header .post-title-container {
         margin-bottom: 1.5em; }
+        .post .post-header .post-title-container .post-title {
+          font-size: 2.5em; }
+        .post .post-header .post-title-container .post-subtitle {
+          font-size: 1.8em; }
       .post .post-header .post-author .post-author-image {
         max-width: 60px; }
     .post .post-image {
@@ -507,8 +549,6 @@ blockquote {
         background-color: rgba(255, 255, 255, 0.4);
         background-image: url("/assets/images/filigrana.png");
         background-position: top left; }
-    .home-template .post-feed .post-card:nth-child(6n+1) .post-image-link .post-author-image {
-      margin-right: 0; }
 
   .home-template .post-feed .post-card:nth-child(6n+1) h1 {
     font-size: 2.8em;
@@ -526,7 +566,9 @@ blockquote {
   .home-template .post-feed .post-card:nth-child(6n+1) .post-author {
     flex-direction: column;
     margin: 0 auto;
-    padding-bottom: 2em; } }
+    padding-bottom: 2em; }
+    .home-template .post-feed .post-card:nth-child(6n+1) .post-author .post-author-image {
+      margin-right: 0 !important; } }
 .archive-post-feed {
   max-width: 685px;
   width: 90%;
