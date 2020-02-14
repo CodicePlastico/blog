@@ -1,0 +1,129 @@
+
+$primary: #707070;
+$secondary: #4a80bc;
+$background: #efefef;
+$lineno-background: #f3f3f3;
+$selected: #70c0b1;
+$operator: #70c0b1;
+$keyword: #c397d8;
+$namespace: #e7c547;
+$comment: #969896;
+$scoped: #d54e53;
+$numeric: #e78c45;
+$string: #4abc7d;
+
+  
+  
+
+
+pre > code { background-color: $background; }
+
+
+
+
+
+html { -webkit-font-smoothing: antialiased; } /* only if background darker than font */
+
+.highlighter-rouge {
+  background: $background;
+  color: $primary;
+  padding: 0.2em; border-radius: 2px; 
+  font-family: Monaco, Menlo, Consolas, "Courier- New", monospace;
+}
+
+.highlighter-rouge > code { color: $secondary; }
+
+.highlighter-rouge .hll { background-color: $selected; }
+
+.highlighter-rouge.lineno {
+  background-color: $lineno-background;
+  color: $secondary;
+}
+
+/* $- Generics $- */
+.highlighter-rouget .ge { font-style: italic; } /* emph */
+.highlighter-rouge .gs { font-weight: bold; } /* strong */
+
+/* $- Operators $- */
+.highlighter-rouge .o { color: $operator; } /* Operator */
+.highlighter-rouge .ow { color: $operator; } /* Word */
+
+/* $- Comments $- */
+.highlighter-rouge .c { color: $comment; font-style: italic; } /* Comment */
+.highlighter-rouge .cm { color: $comment; font-style: italic; } /* Multi-line */
+.highlighter-rouge .cp { color: $comment; font-style: italic; } /* Preproc */
+.highlighter-rouge .c1 { color: $comment; font-style: italic; } /* Single */
+.highlighter-rouge .cs { color: $comment; font-style: italic; } /* Special */
+
+/* $- Names $- */
+.highlighter-rouge .n { color: $primary; } /* Name */
+.highlighter-rouge .py { color: $primary; } /* Property */
+.highlighter-rouge .nl { color: $primary; } /* Label */
+.highlighter-rouge .ni { color: $primary; } /* Entity */
+.highlighter-rouge .nb { color: $primary; } /* Builtin */ /* shell commands */
+.highlighter-rouge .bp { color: $primary; } /* Builtin.Pseudo */
+.highlighter-rouge .nf { color: $secondary; } /* Function */
+.highlighter-rouge .na { color: $secondary; } /* Attribute */
+.highlighter-rouge .nx { color: $secondary; } /* Other */
+.highlighter-rouge .nc { color: $namespace; } /* Class */
+.highlighter-rouge .nn { color: $namespace; } /* Namespace */
+.highlighter-rouge .no { color: $scoped; } /* Constant */
+.highlighter-rouge .ne { color: $scoped; } /* Exception */
+.highlighter-rouge .nd { color: $operator; } /* Decorator */
+.highlighter-rouge .nt { color: $operator; } /* Tag */
+
+/* $- Keywords $- */
+.highlighter-rouge .kn { color: $operator; } /* Namespace */
+.highlighter-rouge .k { color: $keyword; } /* Keyword */
+.highlighter-rouge .kc { color: $keyword; } /* Constant */
+.highlighter-rouge .kd { color: $keyword; } /* Declaration */
+.highlighter-rouge .kp { color: $keyword; } /* Pseudo */
+.highlighter-rouge .kr { color: $keyword; } /* Reserved */
+.highlighter-rouge .kt { color: $namespace; } /* Type */
+
+/* $- Variables $- */
+.highlighter-rouge .nv { color: $scoped; } /* Variable */
+.highlighter-rouge .vc { color: $scoped; } /* Class */
+.highlighter-rouge .vg { color: $scoped; } /* Global */
+.highlighter-rouge .vi { color: $scoped; } /* Instance */
+
+/* $- Numerals $- */
+.highlighter-rouge .m { color: $numeric; } /* Number */
+.highlighter-rouge .il { color: $numeric; } /* Long */
+.highlighter-rouge .mf { color: $numeric; } /* Float */
+.highlighter-rouge .mh { color: $numeric; } /* Hex */
+.highlighter-rouge .mi { color: $numeric; } /* Integer */
+.highlighter-rouge .mo { color: $numeric; } /* Oct */
+
+/* $- Strings $- */
+.highlighter-rouge .s { color: $string; } /* String */
+.highlighter-rouge .sr { color: $string; } /* Regex */
+.highlighter-rouge .sb { color: $string; } /* Backtick */
+.highlighter-rouge .s2 { color: $string; } /* Double */
+.highlighter-rouge .sh { color: $string; } /* Heredoc */
+.highlighter-rouge .sx { color: $string; } /* Other */
+.highlighter-rouge .s1 { color: $string; } /* Single */
+.highlighter-rouge .ss { color: $string; } /* Symbol */
+.highlighter-rouge .se { color: $numeric; } /* Escape */
+.highlighter-rouge .si { color: $numeric; } /* Interpol */
+.highlighter-rouge .sc { color: $primary; } /* Char */
+.highlighter-rouge .sd { color: $comment; } /* Doc */
+
+/* $- Other Literals $- */
+.highlighter-rouge .l { color: $numeric; } /* Literal */
+.highlighter-rouge .ld { color: $string; } /* Date */
+
+/* $- Typographic Elements $- */
+.highlighter-rouge .p { color: $primary; } /* Punctuation */
+.highlighter-rouge .w { color: $primary; } /* Whitespace */ /* shouldn't this have a background-color instead ? */
+
+/* $- Others $- */
+.highlighter-rouge .err { color: $scoped; } /* Error */
+.highlighter-rouge .gp { color: $namespace; } /* shell prompt */
+
+/* $- Style $- */
+.highlighter-rouge .gi { color: $string; } /* inserted */
+.highlighter-rouge .gd { color: $scoped; } /* deleted */
+.highlighter-rouge .gh { color: $primary; font-weight: bold; } /* heading */
+.highlighter-rouge .gu { color: $operator; font-weight: bold; } /* subheading */
+
