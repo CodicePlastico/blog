@@ -149,11 +149,11 @@ img {
   display: inline-block; }
 
 strong {
-  font-weight: 600i; }
+  font-weight: 400; }
 
 em {
   font-style: italic;
-  font-size: 1.05em; }
+  font-weight: 300 !important; }
 
 p, li, address {
   font-size: 1em;

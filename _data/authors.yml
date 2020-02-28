@@ -42,6 +42,28 @@ paolo:
   facebook: False
   twitter: paololaurenti
   cover: False
+chiara:
+  username: chiara
+  name: Chiara Ghiselli
+  location: Brescia
+  url_full: False
+  url: False
+  bio: ''
+  picture: assets/images/authors/av-chiara.jpg
+  facebook: False
+  twitter: False
+  cover: False
+mery:
+  username: mery
+  name: Mariachiara Pezzotti
+  location: Cremona
+  url_full: False
+  url: False
+  bio: ''
+  picture: assets/images/authors/av-mery.jpg
+  facebook: False
+  twitter: False
+  cover: False
 team:
   username: team
   name: Team Codice Plastico
