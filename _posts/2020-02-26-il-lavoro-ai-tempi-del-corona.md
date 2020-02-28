@@ -5,7 +5,7 @@ cover: 'assets/images/post-cover/202002-mery.jpg'
 
 slug: il-lavoro-ai-tempi-del-corona
 title: 'Il Lavoro ai tempi del Corona'
-date: 2020-02-28 00:00:00
+date: 2020-02-26 00:00:00
 tags: [Vita Plastica]
 author: mery
 ---
