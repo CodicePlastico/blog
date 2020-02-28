@@ -13,6 +13,18 @@
       <link rel="shortcut icon" href="http://blog.codiceplastico.com/assets/images/favicon.ico" />
       <link href="{{ root_url }}/favicon.ico" rel="icon">
       <link href="{{ root_url }}/assets/css/main.css" rel="stylesheet">
+     
+      <!-- Twitter cards -->
+      <meta name="twitter:site"    content="CodicePlastico - PlasticBlog">
+      <meta name="twitter:creator" content="CodicePlastico">
+      <meta name="twitter:title"   content="{{ page.title }}">
+
+ 
+      {% if page.cover %}
+      <meta name="twitter:card"  content="summary_large_image">
+      <meta name="twitter:image" content="{{ site.url }}{{ page.cover }}">
+      {% endif %}
+      <!-- end of Twitter cards -->
 
    
   </head>
