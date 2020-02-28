@@ -10,7 +10,7 @@ tags: [Vita Plastica]
 author: mery
 ---
 &Egrave; da qualche giorno, che insieme alle tristi notizie sull’emergenza sanitaria che ha colpito il Nord Italia, sono tornati alla ribalta con plauso, temi quali <em>remote working</em> e <em>smart working</em>.
-Domenica, man mano che si avvicendavano informazioni sulle ordinanze che limitavano spostamenti, orari e aperture, il mio whatsApp ha cominciato a cominciato a riempirsi di messaggi di amici e parenti per confrontarsi sulla situazione. 
+Domenica, man mano che si avvicendavano informazioni sulle ordinanze che limitavano spostamenti, orari e aperture, il mio whatsApp ha cominciato a riempirsi di messaggi di amici e parenti per confrontarsi sulla situazione. 
 
 E alla domanda: “<em>ma tu come ti comporti con il lavoro?</em>” la mia risposta candida e beata è stata: “<em>Beh, a me la settimana non cambia di una virgola</em>”.
 
