@@ -29,7 +29,7 @@ Forse a questo punto la carta vincente non era più fingere che tutto ciò non m
 
 Partivo da una situazione di digiuno pressoché totale rispetto a ciò che lì si masticava invece in tutta serenità. Come ridurre allora (eliminarlo: impossibile) lo spiacevole gap?
 
-Anzitutto *chiedendo aiuto*, senza aver paura a farmi spiegare e rispiegare le cose più banali (per tutti ma non per me). E tenendo occhi e orecchie ben aperti per scoprire con il tempo che alcune parole, schemi, procedure erano ricorrenti e tutt altro che imprevedibili...forse si trattava di avere (anche) un po' di pazienza.
+Anzitutto *chiedendo aiuto*, senza aver paura a farmi spiegare e rispiegare le cose più banali (per tutti ma non per me). E tenendo occhi e orecchie ben aperti per scoprire con il tempo che alcune parole, schemi, procedure erano ricorrenti e tutt'altro che imprevedibili...forse si trattava di avere (anche) un po' di pazienza.
 
 ## 3. Stadio tre ovvero "nerd si nasce non si diventa"
 Arriviamo infine ai giorni nostri: rispetto al mio giorno uno (*o è meglio chiamarlo giorno zero?*) sento di avere imparato qualche termine tecnico, i nomi di molti linguaggi di programmazione, che una riga di codice può essere scritta in modo più o meno pulito, colgo qualche battuta in più, cerco di *non lasciare mai il portatile incustodito* ma soprattutto ho capito che *nerd è uno state of mind*, un modo di essere, una sorta di X Factor che si ha o non si ha.
