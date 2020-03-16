@@ -21,7 +21,10 @@
       <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncatewords: 30, ""}}">
    
     
-      {% if page.cover %}
+      {% if page.socialcover %}
+      <meta name="twitter:card"  content="summary_large_image">
+      <meta name="twitter:image" content="{{ site.url }}/{{ page.socialcover }}">
+      {% else %}
       <meta name="twitter:card"  content="summary_large_image">
       <meta name="twitter:image" content="{{ site.url }}/{{ page.cover }}">
       {% endif %}
