@@ -10,13 +10,13 @@ tags: [Vita Plastica]
 author: team
 ---
 
-In questo momento di isolamento, abbiamo pensato di condividere il nostro RemoteCoffee del mercoledì.
+In questo momento di isolamento, abbiamo pensato di condividere il nostro RemoteCoffee del mercoledì. Questa settimana ci riproviamo con Zoom ;)
 
 ![CodicePlastico](/assets/images/post-content/remote-coffe.jpg)
 
 ## Dove e quando?
-Mercoledì, dalle **16:30**, ti aspettiamo per un break di 15 minuti su hangouts per fare quattro chiacchiere come se fossimo davanti ad una **grande macchinetta del caffè**.
+Mercoledì, dalle **16:30**, ti aspettiamo per un break di 15 minuti su <strong>Zoom</strong> per fare quattro chiacchiere come se fossimo davanti ad una **grande macchinetta del caffè**.
 
 Save the date (e il link)! 
 
-<a href="https://hangouts.google.com/call/nsrHP0J96Dysw6UjwOVeAEEI" target="_blank">https://hangouts.google.com/call/nsrHP0J96Dysw6UjwOVeAEEI</a>
+<a href="https://zoom.us/j/570475607" target="_blank">https://zoom.us/j/570475607</a>
