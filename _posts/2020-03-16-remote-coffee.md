@@ -10,7 +10,8 @@ tags: [Vita Plastica]
 author: team
 ---
 
-In questo momento di isolamento, abbiamo pensato di condividere il nostro RemoteCoffee del mercoledì. Questa settimana ci riproviamo con Zoom ;)
+In questo momento di isolamento, abbiamo pensato di condividere il nostro RemoteCoffee del mercoledì. 
+Anche per il mese di aprile ci vediamo in Zoom ;)
 
 ![CodicePlastico](/assets/images/post-content/remote-coffe.jpg)
 
