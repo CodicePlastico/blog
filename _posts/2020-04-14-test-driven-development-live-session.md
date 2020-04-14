@@ -2,7 +2,7 @@
 layout: post
 current: post
 cover: 'assets/images/post-cover/20200414-tdd.jpg'
-socialcover: 'assets/images/post-content/20200414-tdd.jpg'
+socialcover: 'assets/images/post-cover/20200414-tdd.jpg'
 slug: test-driven-development-live-session
 title: 'L&rsquo;arte perduta del Test Driven Development'
 date: 2020-04-14 14:00:00
