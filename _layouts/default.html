@@ -20,18 +20,28 @@
       <meta name="twitter:creator" content="CodicePlastico">
       <meta name="twitter:title"   content="{{ page.title }}">
       <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncatewords: 30, "" }}">
-
-   
+      <!-- end of Twitter cards -->
+      <!-- Facebook card -->
+      <meta property="og:url"                content="{{ site.url }}/{{ page.slug }}" />
+      <meta property="og:type"               content="article" />
+      <meta property="og:title"              content="{{ page.title }}" />
+      <meta property="og:description"        content="{{ page.excerpt | strip_html | truncatewords: 30, "" }}" />
+      <!-- end facebook card-->  
     
       {% if page.socialcover %}
       <meta name="twitter:card"  content="summary_large_image">
       <meta name="twitter:image" content="{{ site.url }}/{{ page.socialcover }}">
+      <meta property="og:image"  content="{{ site.url }}/{{ page.socialcover }}" />
       {% else %}
       <meta name="twitter:card"  content="summary_large_image">
       <meta name="twitter:image" content="{{ site.url }}/{{ page.cover }}">
+      <meta property="og:image"  content="{{ site.url }}/{{ page.cover }}" />
       {% endif %}
-      <!-- end of Twitter cards -->
+     
 
+     
+     
+     
    
   </head>
   <body>
