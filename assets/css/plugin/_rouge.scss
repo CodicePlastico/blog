@@ -127,3 +127,12 @@ html { -webkit-font-smoothing: antialiased; } /* only if background darker than 
 .highlighter-rouge .gh { color: $primary; font-weight: bold; } /* heading */
 .highlighter-rouge .gu { color: $operator; font-weight: bold; } /* subheading */
 
+.highlighter-rouge.language-shell {
+  background: #111D24;
+  color: #fff;
+  .nb, .s2, .s{ color: #fff;}
+  pre > code {
+    background-color: #111D24;
+}
+
+}

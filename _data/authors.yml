@@ -64,6 +64,17 @@ mery:
   facebook: False
   twitter: False
   cover: False
+mery:
+  username: gio
+  name: Giovanni Caniato
+  location: Brescia
+  url_full: False
+  url: False
+  bio: ''
+  picture: assets/images/authors/av-gio.jpg
+  facebook: False
+  twitter: False
+  cover: False
 team:
   username: team
   name: Team Codice Plastico

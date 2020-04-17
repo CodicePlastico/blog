@@ -719,6 +719,14 @@ html {
   font-weight: bold; }
 
 /* subheading */
+.highlighter-rouge.language-shell {
+  background: #111D24;
+  color: #fff; }
+  .highlighter-rouge.language-shell .nb, .highlighter-rouge.language-shell .s2, .highlighter-rouge.language-shell .s {
+    color: #fff; }
+  .highlighter-rouge.language-shell pre > code {
+    background-color: #111D24; }
+
 /*Struct*/
 .content {
   width: 100%;
