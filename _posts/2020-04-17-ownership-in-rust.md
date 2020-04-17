@@ -157,7 +157,7 @@ error[E0382]: borrow of moved value: `jane`
   |                                    ^^^^ value borrowed here after move
 ```
 <br/>
-Capiremo meglio tutti i dettagli di questo messaggo di errore piu' avanti, quello
+Capiremo meglio tutti i dettagli di questo messaggio di errore piu' avanti, quello
 che ci interessa al momento è che tramite l'istruzione `let tom = jane` stiamo
 trasferendo l'ownership della `"torta di mele"` da `jane` a `tom`, operazione
 che in "Rustiano" è chiamata **move**. 
@@ -233,7 +233,7 @@ fn do_not_eat_cake(tom: String) -> String {
 ```
 <br/>
 In questo caso il codice compila perchè la funzione `do_not_eat_cake`
-sta **restiuendo l'ownership della stringa alla funzione chiamante**.
+sta **restituendo l'ownership della stringa alla funzione chiamante**.
 Cerchiamo adesso di dare almeno un senso a questo esempio modificando la
 stringa all'interno della funzione.
 <br/>
@@ -257,7 +257,7 @@ il contrario** utilizzando la parola chiave `mut`. Nell'ultimo esempio, infatti,
 dovuto annotare la variabile `tom` come mutabile.
 
 Si noti anche l'utilizzo dello **"shadowing"** che mi permette di ridefinire due volte la variabile
-`jane`, cambiano eventualmente anche il tipo della variabile
+`jane`, cambiando eventualmente anche il tipo della variabile
 (in questo caso il tipo rimane sempre `String`).
 
 Questo modo di operare, spostando la ownership di un dato da una variabile ad un'altra,
@@ -291,7 +291,7 @@ Il procedimento di passare un valore per riferimento viene anche detto **borrowi
 Si noti che il **passaggio per reference è necessariamente esplicito**, questo puo'
 sembrare scomodo ma è necessario perché il compilatore possa analizzare
 staticamente il codice, un piccolo prezzo da pagare per la "safety".
-Come le variabili, **le reference possono essere mutabili o meno**, nell'esempio stiamo utilizzato
+Come le variabili, **le reference possono essere mutabili o meno**, nell'esempio stiamo utilizzando
 una reference mutabile `&mut`, una reference non mutabile viene dichiarata usando semplicemente
 il carattere `&`.
 
@@ -348,7 +348,7 @@ Ad esempio, in un linguaggio ad oggetti spesso capita di avere
 un oggetto referenziato da svariate classi, ciascuna delle quali
 lo puo' modificare; man mano che l'applicazione si fa piu' complessa,
 **diventa molto difficile seguire il ciclo di vita dell'oggetto**
-(classico esempio: mi trovo un'oggetto modificato
+(classico esempio: mi trovo un oggetto modificato
 inaspettatamente, per poi scoprire che era modificato da una classe
 di cui nemmeno sapevo l'esistenza).
 In Rust una struttura dati del genere è difficile da implementare
