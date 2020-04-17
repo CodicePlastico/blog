@@ -2,7 +2,7 @@
 layout: post
 current: post
 cover: 'assets/images/post-cover/20200417-rust.jpg'
-socialcover: 'assets/images/post-cover/20200417-rust.jpg'
+socialcover: 'assets/images/post-cover/20200417-rust-social.jpg'
 slug: ownership-in-rust
 title: 'L&rsquo;ownership in Rust, spiegata con le torte'
 date: 2020-04-17 00:00:00
