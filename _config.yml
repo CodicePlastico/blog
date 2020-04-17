@@ -29,6 +29,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 paginate: 6
 feed:
   path: atom.xml
@@ -50,14 +51,3 @@ permalink: /:title
 #permalink: /author/:author
 #permalink: /tag/:tag
 
-# Sitemap
-sitemap:
-    filename: "sitemap.xml"
-    exclude:
-        - "atom.xml"
-        - "feed.xml"
-        - "feed/index.xml"
-    include_posts:
-        - "index.html"
-    change_frequency_name: "change_frequency"
-    priority_name: "priority"
