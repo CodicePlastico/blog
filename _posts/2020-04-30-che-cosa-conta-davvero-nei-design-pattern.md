@@ -7,7 +7,7 @@ slug: che-cosa-conta-davvero-nei-design-pattern
 title: 'Che cosa conta davvero nei design pattern'
 date: 2020-04-30 00:00:00
 tags: [Tech, Design, Philosophy]
-author: drtesting, andrea
+author: drtesting, mrbeastcorp
 ---
 
 Una delle attività di cui mi occupo in CodicePlastico consiste nell'organizzare e tenere sessioni di consulenza e formazione su varie tematiche, alcune più tecnologiche (Docker, MongoDb, Git, Java, ...) ed altre più teoriche (Design Pattern, Principi di Design, Testing).
