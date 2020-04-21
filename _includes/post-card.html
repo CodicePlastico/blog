@@ -4,7 +4,7 @@
     <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
         {% if post.cover %}
         <a class="post-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}"> 
-            <figure class="post-image"  style="background-image: url({{ site.baseurl }}{{ post.cover }})">
+            <figure class="post-image"  style="background-image: url({{ post.cover | relative_url}})">
             </figure>
         </a>
         {% endif %}
