@@ -3,7 +3,7 @@
       {% if paginator.previous_page == 1 %}
           <a class="newer-posts" href="{{ site.baseurl }}" title="Previous Page">&laquo; Articoli Recenti</a>
       {% else %}
-          <a class="newer-posts" href="{{ site.baseurl }}page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Articoli Recenti</a>
+          <a class="newer-posts" href="{{ paginator.previous_page_path }}/" title="Previous Page">&laquo; Articoli Recenti</a>
     {% endif %}
   {% endif %}
   <span class="page-number"> Pagina {{ paginator.page }} di {{ paginator.total_pages }} </span>
