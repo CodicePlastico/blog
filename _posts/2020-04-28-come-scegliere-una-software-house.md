@@ -18,7 +18,7 @@ Un aspetto su cui stiamo lavorando nell’ultimo anno in CodicePlastico è trova
 
 Abbiamo quindi colto l’occasione, nel mettere nero su bianco uno “nostro metodo”, per <strong>dare valore a tutti quei processi che esulano dalla programmazione</strong> ma che sono altrettanto fondamentali per la buona riuscita di un progetto. Ne sono uscite alcune riflessioni interessanti, che impattano fortemente sul come creare le giuste sinergie con i clienti. Ve le raccontiamo per punti, andando ad individuare gli aspetti che un’azienda potrebbe (o dovrebbe!) considerare, nello scegliere una software house,  che vanno oltre ai classici “tempi” e “costi”.
 
-## I valori
+### I valori
 
 <strong>È meglio un mobile fatto su misura o uno comprato in una catena multinazionale? </strong>
 
@@ -27,7 +27,7 @@ L’unica risposta corretta a questa domanda è: dipende! Ci saranno state occas
 Per il software è la stessa cosa. <br/>
 Nel  mercato IT trovere realtà orientate al prodotto che offrono soluzioni consolidate e “pronte all’uso”, così come realtà, come <strong>CodicePlastico</strong>, in cui l’attività di <strong>scrivere codice è letteralmente un’attività artigianale</strong>. Siamo specializzati nella realizzazione di software altamente customizzato e ci rivolgiamo ad aziende che cercano soluzioni su misura e consulenze specifiche. Quindi, la prima domanda che ti devi fare è: cosa mi serve?
 
-## Le dimensioni
+### Le dimensioni
 
 Azienda grande o azienda piccola? Spesso si tende a valutare la solidità di un’impresa in base al numero dei suoi dipendenti. <strong>Per il software non è un’equazione scontata</strong>: non basta aggiungere una persona per produrre software più velocemente, così come non tutte le persone sono facilmente sostituibili o turnabili con altre. 
 
@@ -39,7 +39,7 @@ Oltre le 20 persone le <strong>relazioni interne</strong> inizierebbero a sfilac
 
 Oltre le 20 persone è anche più difficile che i <strong>team riescano ad auto-organizzarsi</strong> e si renderebbe necessaria l’introduzione di un livello di management, cosa che porterebbe ad un’azienda più strutturata, rigida e lenta e forse anche un approccio allo sviluppo del software più industriale.
 
-## L’organizzazione
+### L’organizzazione
 
 Partiamo dal presupposto che la realizzazione di un software non è un’attività istantanea.  Nell’arco temporale che copre il design, lo sviluppo, il testing e il supporto avrai a che fare con diverse persone.  Per questo, nella scelta di una software house, è bene farsi anche queste domande.
 
@@ -54,11 +54,11 @@ Si parla solo di sviluppo o anche di design, esperienza utente, progettazione, t
 (Se ve lo state chiedendo, in CodicePlastico… non ci son commerciali :) )
 
 
-##### Come faccio a capire se sono bravi? 
+#### Come faccio a capire se sono bravi? 
 
 Oltre alle classiche referenze, un buon metro di misura è quanto l’azienda investe in formazione. Puoi anche scoprire se i membri del team partecipano a convegni, seminari, tengono corsi, talk tecnici etc… La comunità IT è molto recettiva ed in continuo cambiamento, è facile individuare la figure di riferimento.
 
-## Le nostre scelte (e le tue scelte)
+### Le nostre scelte (e le tue scelte)
 Le <strong>scelte</strong> che abbiamo fatto, per essere aderenti ai nostri valori, hanno portato a quello che e’ oggi <strong>CodicePlastico, un’azienda piccola e ben organizzata</strong>. 
 
 Abbiamo <strong>scelto</strong> di rimanere piccoli, di prenderci cura personalmente dei nostri clienti, di scrivere ogni singola riga di codice con attenzione. 
