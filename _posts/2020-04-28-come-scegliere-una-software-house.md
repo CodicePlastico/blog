@@ -16,7 +16,7 @@ author: ema
 
 Un aspetto su cui stiamo lavorando nell’ultimo anno in CodicePlastico è trovare il modo migliore per spiegare ai clienti il nostro lavoro. CodicePlastico nasce con una **forte identità tecnica**: siamo ingegneri, siamo appassionati, investiamo in formazione continua e ciò che ci entusiasma di più quando approcciamo un nuovo progetto è senza dubbio l’aspetto tecnologico. In altre parole, spesso cadiamo nella tentazione di parlare in *tecnichese*... lingua decisamente ostica per chi non è del settore.
 
-Abbiamo quindi colto l’occasione, nel mettere nero su bianco uno “nostro metodo”, per <strong>dare valore a tutti quei processi che esulano dalla programmazione</strong> ma che sono altrettanto fondamentali per la buona riuscita di un progetto. Ne sono uscite alcune riflessioni interessanti, che impattano fortemente sul come creare le giuste sinergie con i clienti. Ve le raccontiamo per punti, andando ad individuare gli aspetti che un’azienda potrebbe (o dovrebbe!) considerare, nello scegliere una software house,  che vanno oltre ai classici “tempi” e “costi”.
+Abbiamo quindi colto l’occasione, nel mettere nero su bianco un “nostro metodo”, per <strong>dare valore a tutti quei processi che esulano dalla programmazione</strong> ma che sono altrettanto fondamentali per la buona riuscita di un progetto. Ne sono uscite alcune riflessioni interessanti, che impattano fortemente sul come creare le giuste sinergie con i clienti. Ve le raccontiamo per punti, andando ad individuare gli aspetti che un’azienda potrebbe (o dovrebbe!) considerare, nello scegliere una software house,  che vanno oltre ai classici “tempi” e “costi”.
 <br/>
 <cite>È meglio un mobile fatto su misura o uno comprato in una catena multinazionale? </cite>
 <br/>
@@ -32,7 +32,7 @@ Nel  mercato IT trovere realtà orientate al prodotto che offrono soluzioni cons
 <h3 style="color:#D93232">Le dimensioni</h3>
 Spesso si tende a valutare la solidità di un’impresa in base al numero dei suoi dipendenti. <strong>Per il software non è un’equazione scontata</strong>: non basta aggiungere una persona per produrre software più velocemente, così come non tutte le persone sono facilmente sostituibili o turnabili con altre. 
 
-Undici anni fa, quando CodicePlastico è stata fondata, non avremmo mai scommesso sulla dimensione a cui siamo arrivati oggi. Pur rientrando nella definizione di piccola impresa  il nostro team di 20 persone è un grande traguardo e si sta avvicinando al limite per mantenere i vivi principi sui quali abbiamo costruito CodicePlastico.
+Undici anni fa, quando CodicePlastico è stata fondata, non avremmo mai scommesso sulla dimensione a cui siamo arrivati oggi. Pur rientrando nella definizione di piccola impresa  il nostro team di 20 persone è un grande traguardo. Venti è un numero molto vicino al limite massimo, necessario a mantenere i vivi princìpi sui quali abbiamo costruito CodicePlastico.
 
 In un mondo ossessionato alla crescita continua sembra un controsenso, ma siamo convinti che un’azienda di dimensioni medio/grandi non  riesca a produrre software nel modo in cui lo facciamo noi (costruito su misura per il cliente) e con la qualità , la cura e la professionalità che mettiamo nell’intero progetto.
 
