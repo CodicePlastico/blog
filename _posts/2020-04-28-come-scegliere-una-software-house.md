@@ -17,20 +17,19 @@ author: ema
 Un aspetto su cui stiamo lavorando nell’ultimo anno in CodicePlastico è trovare il modo migliore per spiegare ai clienti il nostro lavoro. CodicePlastico nasce con una **forte identità tecnica**: siamo ingegneri, siamo appassionati, investiamo in formazione continua e ciò che ci entusiasma di più quando approcciamo un nuovo progetto è senza dubbio l’aspetto tecnologico. In altre parole, spesso cadiamo nella tentazione di parlare in *tecnichese*... lingua decisamente ostica per chi non è del settore.
 
 Abbiamo quindi colto l’occasione, nel mettere nero su bianco uno “nostro metodo”, per <strong>dare valore a tutti quei processi che esulano dalla programmazione</strong> ma che sono altrettanto fondamentali per la buona riuscita di un progetto. Ne sono uscite alcune riflessioni interessanti, che impattano fortemente sul come creare le giuste sinergie con i clienti. Ve le raccontiamo per punti, andando ad individuare gli aspetti che un’azienda potrebbe (o dovrebbe!) considerare, nello scegliere una software house,  che vanno oltre ai classici “tempi” e “costi”.
-
-<h3 style="color:#D93232">I valori</h3>
-
+<br/>
 <cite>È meglio un mobile fatto su misura o uno comprato in una catena multinazionale? </cite>
-
+<br/>
+<h3 style="color:#D93232">I valori</h3>
 L’unica risposta corretta a questa domanda è: dipende! Ci saranno state occasioni in cui la praticità di una libreria di ikea ti ha fatto risparmiare tempo e denaro, così come altre occasioni in cui hai toccato con mano la soddisfazione di vedere un falegname all’opera,  nella realizzazione di una tua idea. 
 
 Per il software è la stessa cosa. <br/>
 Nel  mercato IT trovere realtà orientate al prodotto che offrono soluzioni consolidate e “pronte all’uso”, così come realtà, come <strong>CodicePlastico</strong>, in cui l’attività di <strong>scrivere codice è letteralmente un’attività artigianale</strong>. Siamo specializzati nella realizzazione di software altamente customizzato e ci rivolgiamo ad aziende che cercano soluzioni su misura e consulenze specifiche. Quindi, la prima domanda che ti devi fare è: cosa mi serve?
+<br/>
+<cite>Azienda grande o azienda piccola? </cite>
+<br/>
 
 <h3 style="color:#D93232">Le dimensioni</h3>
-
-<cite>Azienda grande o azienda piccola? </cite>
-
 Spesso si tende a valutare la solidità di un’impresa in base al numero dei suoi dipendenti. <strong>Per il software non è un’equazione scontata</strong>: non basta aggiungere una persona per produrre software più velocemente, così come non tutte le persone sono facilmente sostituibili o turnabili con altre. 
 
 Undici anni fa, quando CodicePlastico è stata fondata, non avremmo mai scommesso sulla dimensione a cui siamo arrivati oggi. Pur rientrando nella definizione di piccola impresa  il nostro team di 20 persone è un grande traguardo e si sta avvicinando al limite per mantenere i vivi principi sui quali abbiamo costruito CodicePlastico.
@@ -60,10 +59,11 @@ Si parla solo di sviluppo o anche di design, esperienza utente, progettazione, t
 
 Oltre alle classiche referenze, un buon metro di misura è quanto l’azienda investe in formazione. Puoi anche scoprire se i membri del team partecipano a convegni, seminari, tengono corsi, talk tecnici etc… La comunità IT è molto recettiva ed in continuo cambiamento, è facile individuare la figure di riferimento.
 
-<h3 style="color:#D93232"> Le nostre scelte (e le tue scelte)</h3>
+<h3 style="color:#D93232"> Le nostre scelte</h3>
 Le <strong>scelte</strong> che abbiamo fatto, per essere aderenti ai nostri valori, hanno portato a quello che e’ oggi <strong>CodicePlastico, un’azienda piccola e ben organizzata</strong>. 
 
-Abbiamo <strong>scelto</strong> di rimanere piccoli, di prenderci cura personalmente dei nostri clienti, di scrivere ogni singola riga di codice con attenzione. 
-<br/>Abbiamo <strong>scelto</strong> di dedicare tempo alle PR, ai test, di diventare un team migliore, di scrivere software divertendoci, di studiare nuovi linguaggi e nuove tecnologie,  di mettere da parte le soluzioni “ready-to-go” in favore del su misura. 
+Abbiamo <strong>scelto</strong> di rimanere piccoli, di prenderci cura personalmente dei nostri clienti, di scrivere ogni singola riga di codice con attenzione.
+
+Abbiamo <strong>scelto</strong> di dedicare tempo alle PR, ai test, di diventare un team migliore, di scrivere software divertendoci, di studiare nuovi linguaggi e nuove tecnologie,  di mettere da parte le soluzioni “ready-to-go” in favore del su misura. 
 
 Se è questo è quello che stai cercando, allora orienta la tua <strong>scelta</strong> nelle piccole imprese che lavorano con passione. 
