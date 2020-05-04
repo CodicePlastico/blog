@@ -10,6 +10,9 @@ tags: [Tech, Design]
 author: [pietro, andrea]
 ---
 
+<code>Un post di Pietro Martinelli, con le illustrazioni di Andrea Gadaldi </code>
+<br/><br/>
+
 Una delle attività di cui mi occupo in CodicePlastico consiste nell'organizzare e tenere sessioni di consulenza e formazione su varie tematiche, alcune più tecnologiche (Docker, MongoDb, Git, Java, ...) ed altre più teoriche (Design Pattern, Principi di Design, Testing).
 Questo mi dà l'occasione di riflettere da punti di vista sempre diversi su questioni che sono il pane quotidiano di un ingegnere del software; il tema dei *[design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)* è uno di questi - e vorrei cogliere l'occasione di questo post per condividere una consapevolezza che ho maturato di recente in proposito.
 
@@ -35,7 +38,7 @@ I **principi** cui faccio riferimento sono, tra gli altri, le linee guida [GRASP
 
 
 Se dunque la conoscenza e l'applicazione di principi astratti porta all'adozione di soluzioni di design analoghe a quelle suggerite da *design pattern* più o meno noti, qual è il motivo per cui è importante studiare, analizzare ed interiorizzare i *cataloghi* di *pattern* più noti? 
-  <img src="/assets/images/post-content/design-pattern-3.jpg" alt="Vocabolario">
+ <figure class="image"> <img src="/assets/images/post-content/design-pattern-3.jpg" alt="Vocabolario">
   
 </figure>
 <h3 style="color:#D93232">Costruire un vocabolario comune</h3>
@@ -67,7 +70,7 @@ Se poniamo l'accento su questo aspetto, infatti, ci rendiamo conto di come sia q
 Allo stesso modo, *decorator*, *proxy* e *chain of responsibility* condividono la struttura (n implementazioni di una stessa interfaccia, ciascuna delle quali possiede un riferimento ad un'altra implementazione) ma la sfruttano per supportare intenti diversi: arricchire le funzionalità di un'implementazione base senza modificarla (*decorator*), incapsulare logiche di accesso condizionato ad un'implementazione esistente (*proxy*), gestire la scelta dell'handler giusto per una richiesta in modo [OCP](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)-compliant (*chain of responsibility* o varianti come *[set of responsibility](https://javapeanuts.blogspot.com/2018/10/set-of-responsibility.html)*).
 <figure class="image">
   <img src="/assets/images/post-content/design-pattern-8.jpg" alt="Vocabolario">
-  <figcaption>Object Adapter & Bridge</figcaption>
+  <figcaption>Bridge & Object Adapter </figcaption>
 </figure>
 Ancora, *object adapter* e *bridge* condividono la struttura ma non l'intento: adattare un'implementazione esistente ad un'interfaccia nel primo caso, permettere ad interfaccia ed implementazione di variare indipendentemente nel secondo.
 
@@ -75,11 +78,11 @@ Ricapitolando:
 - un *design pattern* è una soluzione nota e condivisa ad un problema ricorrente
 - il design proposto da un *pattern* deriva da **principi più astratti**, l'applicazione dei quali porterebbe ad un design simile anche chi non fosse a conoscenza del *pattern* stesso
 - l'importanza di un catalogo di *pattern* risiede dunque nella definizione di un **vocabolario condiviso**, che facilita la comunicazione individuando per ogni *pattern* un **intento**, che lo differenzia rispetto ad altri *pattern* con struttura identica o simile
-
+<br/><br/><br/>
 #### Riferimenti
 
-[1] - Software Dedign Patterns - https://en.wikipedia.org/wiki/Software_design_pattern
-[2] - Design Patterns, Elements of reusable object-oriented software - https://en.wikipedia.org/wiki/Design_Patterns
-[3] - GRASP - https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)
-[4] - SOLID principles - https://en.wikipedia.org/wiki/SOLID
-[5] - Head First, Design Patterns - https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124
+[1] - [Software Dedign Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) <br/>
+[2] - [Design Patterns, Elements of reusable object-oriented software](https://en.wikipedia.org/wiki/Design_Patterns)<br/>
+[3] - [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))<br/>
+[4] - [SOLID principles](https://en.wikipedia.org/wiki/SOLID)<br/>
+[5] - [Head First, Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)<br/>
