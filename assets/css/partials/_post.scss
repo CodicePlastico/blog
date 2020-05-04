@@ -21,7 +21,9 @@
           
            
 }
-
+.post, .post-card{
+    .authors{ display: flex; justify-content: center;}
+}
 .post{
     padding: 6em 1em 3em 1em;
     .post-header{
@@ -36,8 +38,9 @@
             .post-title{  @extend .post-title-style; }
             .post-subtitle{ @extend .post-subtitle-style; font-size: 1.3em; }
         }
-       
+        
         .post-author{
+            margin: 0.2em;
             .post-author-image{ max-width: 30px; height: auto;}
             .post-author-name{ font-weight: 300; font-size:0.9em;}
         

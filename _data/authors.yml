@@ -75,6 +75,32 @@ gio:
   facebook: False
   twitter: False
   cover: False
+
+andrea:
+  username: andrea
+  name: Andrea Gadaldi
+  location: Brescia
+  url_full: False
+  url: False
+  bio: ''
+  picture: assets/images/authors/av-andrea.jpg
+  facebook: False
+  twitter: False
+  cover: False
+
+pietroandrea:
+  username: pietroandrea
+  name: Pietro Martinelli & Andrea Gadaldi
+  location: Brescia
+  url_full: False
+  url: False
+  bio: ''
+  picture: assets/images/authors/av-andrea.jpg
+  facebook: False
+  twitter: False
+  cover: False
+  
+  
 team:
   username: team
   name: Team Codice Plastico
