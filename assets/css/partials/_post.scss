@@ -99,13 +99,15 @@
 }
 .row-images{
     display: block;
-    @media #{$mqSM}{
-        display: flex;
-    justify-content: space-around;
-    div{ text-align: center;
-        img{
-        max-width: 90%; height: auto;
-    }}
-       
+        @media #{$mqSM}{
+            display: flex;
+        justify-content: space-around;
+        div{ 
+            text-align: center;
+            img{
+                max-width: 90%; height: auto;
+            }
+        }
+        
     }
 }

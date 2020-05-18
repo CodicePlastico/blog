@@ -38,7 +38,7 @@ Allora ho semplificato. L’idea l’ho presa da un’[inchiesta di qualche anno
 
 Armata di pazienza, ho scaricato dall’[Anagrafe Nazionale degli Studenti](http://www.anagrafe.miur.it/) i dati relativi ai laureati nelle principali discipline informatiche, divisi per genere.
 
-Siamo onesti: la laurea non è necessariamente un indicatore di occupazione (conosco bravissimi _Dev_o Team lead senza laurea o laureati nelle materie più disparate), ma possiamo sfruttare i dati sui corsi di laurea legati all’ambiente informatico per dedurre un certo grado di interesse al tema.  
+Siamo onesti: la laurea non è necessariamente un indicatore di occupazione (conosco bravissimi _Dev_ o Team lead senza laurea o laureati nelle materie più disparate), ma possiamo sfruttare i dati sui corsi di laurea legati all’ambiente informatico per dedurre un certo grado di interesse al tema.  
 
 <br/><br/>
 
