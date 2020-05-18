@@ -30,23 +30,26 @@ class: post-template
           </div>
          
         <div class="authors">
-        <!-- #author-->
-        {% for i in page.author %}
-          {% for author in site.data.authors %}
-            {% if author[1].username == i %}
-              <section class="post-author">
-                {% if author[1].picture %}
-                    <img class="post-author-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ page.author }}" />
-                {% endif %}
-                  <h4 class="post-author-name">
-                    <!--a href="{{ site.baseurl }}author/{{ page.author }}"-->{{ author[1].name }}
-                    <!-- /a-->
-                  </h4>
-                </section>
+  
+         
+        {% for current-author in page.author %}
+        
+          {% assign author = site.authors | where: 'short_name', current-author | first %}
+          {% if author %}
+          <section class="post-author">
+            {% if author.picture %}
+                <img class="post-author-image" src="{{ site.baseurl }}{{ author.picture }}" alt="{{ author.name }}" />
             {% endif %}
-          {% endfor %}
+              <h4 class="post-author-name">
+                <a href="{{ author.url }}">{{ author.name }}</a>
+              </h4>
+            </section> 
+          {% endif %}
          
         {% endfor %}
+
+        <!-- #author-->
+       
       </div>
         <time class="post-date" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
         <!-- /author  -->
