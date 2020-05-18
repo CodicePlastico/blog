@@ -143,4 +143,4 @@ Questo percorso di “mappatura” si può mettere in atto in mille modi:  dai [
 
 Il punto non è creare un oroscopo dove incasellare le persone, ma scegliere un **modello** che aiuti le persone a conoscersi ed interagire al meglio, andando oltre agli stereotipi.
 
-Un’occasione da cogliere, soprattutto nel nostro settore, per dimostrare con coraggio che **le differenze non significano disuguaglianze, ma una risorsa **preziosa per imparare a progettare fuori dai propri schemi**.
+Un’occasione da cogliere, soprattutto nel nostro settore, per dimostrare con coraggio che **le differenze non significano disuguaglianze, ma una risorsa  preziosa per imparare a progettare fuori dai propri schemi**.
