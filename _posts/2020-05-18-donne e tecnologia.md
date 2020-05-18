@@ -108,7 +108,7 @@ Ma la difficoltà delle donne nel farsi avanti (il famoso “Lean In” di Shery
 
 Secondo action point: abbiamo bisogno di costruire ambienti in cui **possiamo sbagliare tutti allo stesso modo** e svolgere il nostro lavoro in un modo straordinariamente _normale_.
 <br/><br/>
-<cite  style="text-align:center">“OOOH, ma come tel a prendi! <br/>Stavo solo scherzando!</cite>
+<cite  style="text-align:center">“OOOH, ma come te la prendi! <br/>Stavo solo scherzando!</cite>
 <br/><br/>
 
 ### Non conta solo quello che dici, ma come lo dici
