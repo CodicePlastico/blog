@@ -964,6 +964,18 @@ html {
     .post .post-image {
       margin-bottom: 3em; } }
 
+.row-images {
+  display: block; }
+  @media only screen and (min-width: 768px) {
+    .row-images {
+      display: flex;
+      justify-content: space-around; }
+      .row-images div {
+        text-align: center; }
+        .row-images div img {
+          max-width: 90%;
+          height: auto; } }
+
 .post-feed {
   position: relative;
   display: flex;
