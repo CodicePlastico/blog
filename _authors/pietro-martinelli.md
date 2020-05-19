@@ -2,6 +2,7 @@
 short_name: pietro
 position: Software Analyst @ CodicePlastico
 name: Pietro Martinelli
+nick: Pietro
 location: Brescia
 cite: 
 picture: assets/images/authors/av-pietro-martinelli-codiceplastico.jpg

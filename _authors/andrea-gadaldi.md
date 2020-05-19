@@ -2,6 +2,7 @@
 short_name: andrea
 position: Designer & FrontEnd Dev @ CodicePlastico
 name: Andrea Gadaldi
+name: Andrea
 location: Brescia
 cite:
 picture: assets/images/authors/av-andrea-gadaldi-codiceplastico.jpg

@@ -2,6 +2,7 @@
 short_name: ema
 position: Founder & Software Analyst @ CodicePlastico
 name: Emanuele DelBono
+nick: Emanuele
 location: Brescia
 cite: Changing the world, bit by bit. 
 picture: assets/images/authors/av-emanuele-delbono-codiceplastico.jpg
