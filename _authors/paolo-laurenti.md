@@ -1,6 +1,6 @@
 ---
 short_name: paolo
-position: Software Analyst @ CodicePlastico
+position: Software Developer @ CodicePlastico
 name: Paolo Laurenti
 nick: Paolo
 location: Bologna
