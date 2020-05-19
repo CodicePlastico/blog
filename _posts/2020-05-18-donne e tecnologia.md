@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/post-cover/donne-it.jpg'
 socialcover: 'assets/images/post-cover/donne-it-s.jpg'
 slug: donne-tecnologia
-title: 'Donne e IT:<br/>un viaggio tra dati, stereotipi e action points'
+title: 'Donne e IT: un viaggio tra dati, stereotipi e action points'
 date: 2020-05-18 00:00:00
 tags: [Vita Plastica]
 author: [mery]
@@ -108,7 +108,7 @@ Ma la difficoltà delle donne nel farsi avanti (il famoso “Lean In” di Shery
 
 Secondo action point: abbiamo bisogno di costruire ambienti in cui **possiamo sbagliare tutti allo stesso modo** e svolgere il nostro lavoro in un modo straordinariamente _normale_.
 <br/><br/>
-<cite  style="text-align:center">“OOOH, ma come te la prendi! <br/>Stavo solo scherzando!</cite>
+<cite  style="text-align:center">OOOH, ma come te la prendi! <br/>Stavo solo scherzando!</cite>
 <br/><br/>
 
 ### Non conta solo quello che dici, ma come lo dici
