@@ -6,7 +6,7 @@ nick: Chiara
 location: Brescia
 cite: 
 picture: assets/images/authors/av-chiara-ghiselli-codiceplastico.jpg
-single-picture: assets/images/authors/chiara-ghiselli.jpg
+single-picture: assets/images/authors/chiara-ghiselli-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/chiara-ghiselli-2bb56a98/
 twitter: 
 ---
