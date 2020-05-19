@@ -110,6 +110,7 @@ cite{
   &:before{
     content:"“";
     margin-left: -1em;
+    top:0; left: 0;
   }
   &:after{
     content:"„";

@@ -2,28 +2,53 @@
 layout: default
 ---
 
-<main id="site-main" class="site-main outer" role="main">
+<main id="site-main" class="site-main outer single-author" role="main">
  
 
-    <article class="authors  ">
-        <figure>
-            <img src="{{ page.single-picture | relative_url  }}" alt="{{ page.name }}"/>
+    <article class="author ">
+        <section class="author-info">
+        <figure class="au_photo">
+            <img    src="{{ page.single-picture | relative_url  }}" alt="{{ page.name }}"/>
         </figure>
-        <section>
-            <h1>{{ page.name }}  </h1>
-            <h2>{{ page.position }} - {{location}}</h2>
+        <div>
+            <h1 class="au_name">{{ page.name }}  </h1>
+            <h2 class="au_position">{{ page.position }} - {{ page.location }}</h2>
             
-            <cite>{{page.cite}}</cite>
+            
+            <div class="au_bio">
+                {{content}}
+            </div>
+          
+            <nav class="au_social">
 
-            {{content}}
-            <nav>
-                <ul>
-                    {% if page.twitter %} <li><a href="{{page.twitter}}" target="_blank"><img src="/assets/images/social/twitter.png"/></a></li> {% endif %}
-                    {% if page.linkedin  %} <li><a href="{{page.linkedin}}" target="_blank"><img src="/assets/images/social/linkedin.png"/></a></li> {% endif %}
-                </ul>
+                <ul class="social-link">
+                    
+                    {% if page.twitter %}<li><a href="{{page.twitter}}" target="_blank"> {% include ico-twitter.html %}</a></li>{% endif %}
+                   
+                    {% if page.linkedin %}<li><a href="{{page.linkedin}}" target="_blank">{% include ico-linkedin.html %}</a></li>{% endif %}
+                    
+                  </ul>
+            
+                   
+                
             </nav>
 
+        </div>
+    </section>
+        <section class="author post-list">
+            <h2>I post di {{ page.nick }}</h2>
+            <div class="post-feed">
+                {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+                {% for post in filtered_posts %}
+                {%  include post-card.html %}
+                {% endfor %}
+            </div>
         </section>
+       {% if  page.cite  %}
+        <footer class="author footer">
+            <cite class="au_cite">{{ page.cite }}</cite>
+        </footer>
+        {% endif %}
     </article>
 </main>
 

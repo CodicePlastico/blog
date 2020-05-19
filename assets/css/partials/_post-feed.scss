@@ -32,6 +32,7 @@ $post-feed-border-radius: 0px;
         $height:200px;
         height: $height;
         .post-image{
+            margin: 0 ;
             background-size: cover;
             height: $height;
             position: relative;

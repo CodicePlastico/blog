@@ -1,0 +1,73 @@
+.single-author{
+    padding-top: 2em;
+    @media #{$mqSM}{
+        padding-top: 6em;
+        
+        margin: 0 auto;
+    }
+    
+    .author{
+        text-align: center;
+        padding: 0 1em;
+        .au_photo{
+            @media #{$mqSM}{
+                min-width: 22%;
+                max-width: 22%;
+            }
+            img{ max-width: 60%;
+                @media #{$mqSM}{
+                   max-width: 100%; 
+                }
+            }
+        }
+        .au_name{
+            font-weight: 200; color: $main-color;
+        }
+        .au_position{
+            font-size: 0.8em; font-weight: 200; text-transform: uppercase; letter-spacing: 4px;
+            padding-bottom: 1em;
+        }
+       .author-info{ border-bottom: 1px solid $main-color;
+        @media #{$mqSM}{
+            display: flex;
+            text-align: left;
+        }
+       }
+       .au_social{
+        .social-link{
+            justify-content: left;
+            li{ margin-left: 0;               
+               .svg-ico{
+                   svg, g, defs, path {
+                      fill: $main-dark;
+                      
+                   }
+                   
+               }
+            &:hover{
+                .svg-ico{
+                    svg, g, defs, path {
+                       fill: $main-color;
+                       
+                    }
+                    
+                }
+            }
+            }
+        }
+    }
+        
+       .post-list{
+           h2{margin-bottom: 2em;
+            font-size: 1em;
+            font-weight: 100;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: #666;
+        }
+           padding: 2em 0;
+       }
+       .footer{ margin: 2em 0 4em 0;}
+    }
+    
+}

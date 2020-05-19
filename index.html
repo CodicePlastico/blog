@@ -8,7 +8,9 @@ class: 'home-template'
 
       <div class="post-feed">
           <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-          {%  include post-card.html %}
+          {% for post in paginator.posts %}
+            {%  include post-card.html %}
+          {% endfor %}
       </div>
 
   </div>

@@ -239,7 +239,9 @@ cite {
   line-height: 1.1em; }
   cite:before {
     content: "“";
-    margin-left: -1em; }
+    margin-left: -1em;
+    top: 0;
+    left: 0; }
   cite:after {
     content: "„";
     bottom: 0;
@@ -868,14 +870,16 @@ html {
   text-align: center;
   padding: 3em;
   font-size: 0.8em; }
-  .main-footer .social-link {
-    display: flex;
-    justify-content: center; }
-    .main-footer .social-link li {
-      list-style: none;
-      padding: 0.5em; }
-      .main-footer .social-link li img {
-        max-width: 18px; }
+
+.social-link {
+  display: flex;
+  justify-content: center; }
+  .social-link li {
+    list-style: none;
+    padding: 0.5em; }
+    .social-link li .svg-ico svg {
+      width: 30px;
+      height: 30px; }
 
 .post-tag-style, .post .post-header .post-tag, .post-card .post-tag {
   font-size: 0.8em;
@@ -919,6 +923,7 @@ html {
     height: 330px;
     width: 90%;
     margin: 0 auto;
+    /*margin-top: 0 !important;*/
     margin-bottom: 2em;
     background-size: cover;
     margin-bottom: 2em;
@@ -1005,6 +1010,7 @@ html {
   .post-card .post-image-link {
     height: 200px; }
     .post-card .post-image-link .post-image {
+      margin: 0;
       background-size: cover;
       height: 200px;
       position: relative; }
@@ -1085,6 +1091,59 @@ html {
       color: #D93232;
       padding-right: 1em;
       min-width: 6em; }
+
+.single-author {
+  padding-top: 2em; }
+  @media only screen and (min-width: 768px) {
+    .single-author {
+      padding-top: 6em;
+      margin: 0 auto; } }
+  .single-author .author {
+    text-align: center;
+    padding: 0 1em; }
+    @media only screen and (min-width: 768px) {
+      .single-author .author .au_photo {
+        min-width: 22%;
+        max-width: 22%; } }
+    .single-author .author .au_photo img {
+      max-width: 60%; }
+      @media only screen and (min-width: 768px) {
+        .single-author .author .au_photo img {
+          max-width: 100%; } }
+    .single-author .author .au_name {
+      font-weight: 200;
+      color: #D93232; }
+    .single-author .author .au_position {
+      font-size: 0.8em;
+      font-weight: 200;
+      text-transform: uppercase;
+      letter-spacing: 4px;
+      padding-bottom: 1em; }
+    .single-author .author .author-info {
+      border-bottom: 1px solid #D93232; }
+      @media only screen and (min-width: 768px) {
+        .single-author .author .author-info {
+          display: flex;
+          text-align: left; } }
+    .single-author .author .au_social .social-link {
+      justify-content: left; }
+      .single-author .author .au_social .social-link li {
+        margin-left: 0; }
+        .single-author .author .au_social .social-link li .svg-ico svg, .single-author .author .au_social .social-link li .svg-ico g, .single-author .author .au_social .social-link li .svg-ico defs, .single-author .author .au_social .social-link li .svg-ico path {
+          fill: #000; }
+        .single-author .author .au_social .social-link li:hover .svg-ico svg, .single-author .author .au_social .social-link li:hover .svg-ico g, .single-author .author .au_social .social-link li:hover .svg-ico defs, .single-author .author .au_social .social-link li:hover .svg-ico path {
+          fill: #D93232; }
+    .single-author .author .post-list {
+      padding: 2em 0; }
+      .single-author .author .post-list h2 {
+        margin-bottom: 2em;
+        font-size: 1em;
+        font-weight: 100;
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+        color: #666; }
+    .single-author .author .footer {
+      margin: 2em 0 4em 0; }
 
 nav.pagination {
   text-align: center;
