@@ -17,8 +17,8 @@ title: Plastic Blog
 email: info@codiceplastico.com
 description: >- # this means to ignore newlines until "baseurl:"
   Il blog dei supereroi
-baseurl: "/" # the subpath of your site, e.g. /blog
-#baseurl: "https://blog.codiceplastico.com/" # the subpath of your site, e.g. /blog
+#baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "https://blog.codiceplastico.com/" # the subpath of your site, e.g. /blog
 url: "https://blog.codiceplastico.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codiceplastico
 github_username:  codiceplastico
@@ -33,6 +33,27 @@ plugins:
 paginate: 6
 feed:
   path: atom.xml
+
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
