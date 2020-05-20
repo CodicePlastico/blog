@@ -1,0 +1,44 @@
+section.newsletter{
+    background: #f9f9f9; padding: 2em 2em;
+    text-align: center;
+    .label-email{ display: none;}
+    input[type="email"] { width: 88%; margin-bottom: 0.8em; }
+    input[type="submit"] { width: 100%;}
+    .mc-field-group.input-group{
+        text-align: left;
+        strong{ text-transform: uppercase; font-size: 12px; letter-spacing: 1px;}
+        ul{
+            li{ list-style-type: none; margin-left: 0;}
+        }
+        margin-bottom: 1.1em;
+    }
+    .privacy-disclaimer{ font-size: 12px; margin-top: 0.8em;
+        @media #{$mqXS}{ text-align: left;} 
+        @media #{$mqMD}{ margin-top: -3.8em;}
+    }
+}
+#mc_embed_signup{
+    div { /*border: 1px solid red;*/ }
+    @media #{$mqXS}{ //blu
+    #mc_embed_signup_scroll{
+        text-align: left;
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        .email-group, .mc-field-group.input-group{ width: 60%;}
+        .email-group{
+            input{ width: 93%;}
+        }
+    }
+    }
+    @media #{$mqMD}{
+        #mc_embed_signup_scroll{
+            .email-group, .mc-field-group.input-group{ width: auto;}
+            ul{ display: flex; li{ margin-right: 0.8em;}}
+            .email-group { flex: 1; margin: 0 0.8em; }
+            h3{ align-self: flex-start;     padding-top: 0.5em;}
+        }
+
+    }
+}

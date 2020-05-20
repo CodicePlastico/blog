@@ -2,12 +2,13 @@
     background: $main-dark;
     color: $main-light; 
     text-align: center;
-    padding: 3em; 
+    padding: 3em;   a{ color: $main-light !important;}
     font-size: 0.8em; 
     
 }
 .social-link{
     display: flex; justify-content: center;
+  
     li{ list-style: none;
         padding: 0.5em;
        .svg-ico{

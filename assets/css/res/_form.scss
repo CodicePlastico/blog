@@ -1,0 +1,61 @@
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="textarea"]{
+    padding: 0.8em; background: none;
+    border: 1px solid $main-dark; 
+}
+input[type="submit"],
+button{
+    padding: 0.8em; background: $main-color;
+    color: $main-light; text-transform: uppercase;
+    border: 0;
+    cursor: pointer;
+}
+
+input[type=checkbox].checkbox-custom + label {
+    display: block;
+    margin: 0.2em;
+    cursor: pointer;
+ 
+  }
+  
+  input[type=checkbox].checkbox-custom  {
+    display: none;
+  }
+  
+  input[type=checkbox].checkbox-custom  + label:before {
+    content: "\2714";
+    border: 1px  solid $main-dark ;
+    display: inline-block;
+
+    width: 1.1em;
+    height: 0.8em;
+    padding-left: 0.3em;
+    padding-bottom: 0.6em;
+    margin-right: 0.4em;
+    vertical-align: bottom;
+    color: transparent;
+    transition: .2s;
+  }
+  
+  input[type=checkbox].checkbox-custom  + label:active:before {
+    transform: scale(0);
+  }
+  
+  input[type=checkbox].checkbox-custom:checked + label:before {
+    background-color:$main-dark;
+    border-color:$main-dark;
+    color: #fff;
+  }
+  
+  input[type=checkbox].checkbox-custom:disabled + label:before {
+    transform: scale(1);
+    border-color: #aaa;
+  }
+  
+  input[type=checkbox].checkbox-custom:checked:disabled + label:before {
+    transform: scale(1);
+    background-color: #bfb;
+    border-color: #bfb;
+  }

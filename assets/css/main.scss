@@ -4,6 +4,7 @@
 @import "res/typography";
 @import "res/grid";
 @import "res/lightbox";
+@import "res/form";
 @import "plugin/rouge";
 
 
@@ -23,6 +24,8 @@ margin: 0 auto;
 @import "partials/post";
 @import "partials/post-feed";
 @import "partials/authors";
+@import "partials/mailchimp";
+
 nav.pagination{
     text-align: center;
     font-variant: small-caps;

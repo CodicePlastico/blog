@@ -433,6 +433,61 @@ cite {
   -ms-user-select: none;
   user-select: none; }
 
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="textarea"] {
+  padding: 0.8em;
+  background: none;
+  border: 1px solid #000; }
+
+input[type="submit"],
+button {
+  padding: 0.8em;
+  background: #D93232;
+  color: #FFF;
+  text-transform: uppercase;
+  border: 0;
+  cursor: pointer; }
+
+input[type=checkbox].checkbox-custom + label {
+  display: block;
+  margin: 0.2em;
+  cursor: pointer; }
+
+input[type=checkbox].checkbox-custom {
+  display: none; }
+
+input[type=checkbox].checkbox-custom + label:before {
+  content: "\2714";
+  border: 1px solid #000;
+  display: inline-block;
+  width: 1.1em;
+  height: 0.8em;
+  padding-left: 0.3em;
+  padding-bottom: 0.6em;
+  margin-right: 0.4em;
+  vertical-align: bottom;
+  color: transparent;
+  transition: .2s; }
+
+input[type=checkbox].checkbox-custom + label:active:before {
+  transform: scale(0); }
+
+input[type=checkbox].checkbox-custom:checked + label:before {
+  background-color: #000;
+  border-color: #000;
+  color: #fff; }
+
+input[type=checkbox].checkbox-custom:disabled + label:before {
+  transform: scale(1);
+  border-color: #aaa; }
+
+input[type=checkbox].checkbox-custom:checked:disabled + label:before {
+  transform: scale(1);
+  background-color: #bfb;
+  border-color: #bfb; }
+
 pre > code {
   background-color: #efefef; }
 
@@ -870,6 +925,8 @@ html {
   text-align: center;
   padding: 3em;
   font-size: 0.8em; }
+  .main-footer a {
+    color: #FFF !important; }
 
 .social-link {
   display: flex;
@@ -1144,6 +1201,64 @@ html {
         color: #666; }
     .single-author .author .footer {
       margin: 2em 0 4em 0; }
+
+section.newsletter {
+  background: #f9f9f9;
+  padding: 2em 2em;
+  text-align: center; }
+  section.newsletter .label-email {
+    display: none; }
+  section.newsletter input[type="email"] {
+    width: 88%;
+    margin-bottom: 0.8em; }
+  section.newsletter input[type="submit"] {
+    width: 100%; }
+  section.newsletter .mc-field-group.input-group {
+    text-align: left;
+    margin-bottom: 1.1em; }
+    section.newsletter .mc-field-group.input-group strong {
+      text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: 1px; }
+    section.newsletter .mc-field-group.input-group ul li {
+      list-style-type: none;
+      margin-left: 0; }
+  section.newsletter .privacy-disclaimer {
+    font-size: 12px;
+    margin-top: 0.8em; }
+    @media only screen and (min-width: 480px) {
+      section.newsletter .privacy-disclaimer {
+        text-align: left; } }
+    @media only screen and (min-width: 992px) {
+      section.newsletter .privacy-disclaimer {
+        margin-top: -3.8em; } }
+
+#mc_embed_signup div {
+  /*border: 1px solid red;*/ }
+@media only screen and (min-width: 480px) {
+  #mc_embed_signup #mc_embed_signup_scroll {
+    text-align: left;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; }
+    #mc_embed_signup #mc_embed_signup_scroll .email-group, #mc_embed_signup #mc_embed_signup_scroll .mc-field-group.input-group {
+      width: 60%; }
+    #mc_embed_signup #mc_embed_signup_scroll .email-group input {
+      width: 93%; } }
+@media only screen and (min-width: 992px) {
+  #mc_embed_signup #mc_embed_signup_scroll .email-group, #mc_embed_signup #mc_embed_signup_scroll .mc-field-group.input-group {
+    width: auto; }
+  #mc_embed_signup #mc_embed_signup_scroll ul {
+    display: flex; }
+    #mc_embed_signup #mc_embed_signup_scroll ul li {
+      margin-right: 0.8em; }
+  #mc_embed_signup #mc_embed_signup_scroll .email-group {
+    flex: 1;
+    margin: 0 0.8em; }
+  #mc_embed_signup #mc_embed_signup_scroll h3 {
+    align-self: flex-start;
+    padding-top: 0.5em; } }
 
 nav.pagination {
   text-align: center;
