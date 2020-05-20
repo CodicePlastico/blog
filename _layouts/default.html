@@ -38,6 +38,40 @@
       <meta property="og:image"  content="{{ site.url }}/{{ page.cover }}" />
       {% endif %}
      
+      {% if page.layout == 'post' %}
+      <script type="application/ld+json">
+        {
+          "@context" : "http://schema.org",
+          "@type" : "Article",
+          "name" : "{{ page.title}}",
+         
+          {% if page.author.size > 0 %}
+          "author" : [ 
+            {% for current-author in page.author %}
+              {
+              "@type" : "Person",
+              {% assign author = site.authors | where: 'short_name', current-author | first %}
+                {% if author %}
+                "name" : {{ author.name }}
+                {% endif %}
+              },
+            {% endfor %}
+        ],
+         {% endif %}
+          "datePublished" : "{{ page.date }}",
+          "image" : {{ site.url }}/{{ page.socialcover }},
+          "articleBody" : "{{ page.content}}",
+          "url" : "{{ site.url }}/{{ page.slug }}",
+          "publisher" : {
+            "@type" : "Organization",
+            "name" : "CodicePlastico"
+          }
+        }
+      </script>
+      {% endif %}
+
+     
+
 
      
      
