@@ -54,17 +54,21 @@
                 {% if author %}
                 "name" : "{{ author.name }}"
                 {% endif %}
-              },
+              }
+              {% if forloop.last == false %}, {% endif %}
+          
             {% endfor %}
         ],
          {% endif %}
           "datePublished" : "{{ page.date }}",
-          "image" : {{ site.url }}/{{ page.socialcover }},
-          "articleBody" : "{{ page.content}}",
+          "image" : "{{ site.url }}/{{ page.socialcover }}",
+         
           "url" : "{{ site.url }}/{{ page.slug }}",
+          "headline": "{{ page.content | strip_html | truncate: 109, "" }}",
           "publisher" : {
             "@type" : "Organization",
-            "name" : "CodicePlastico"
+            "name" : "CodicePlastico",
+            "logo":  "{{ site.url }}/assets/images/firma-email/logo-cp.png"
           }
         }
       </script>
@@ -77,14 +81,15 @@
           "@context": "https://schema.org/",
           "@type": "Person",
           "name": "{{ page.name}}",
-          "url": ""{{ site.url }}/authors/{{ page.slug }}"",
+          "url": "{{ site.url }}/authors/{{ page.slug }}",
           "image": "{{ site.url }}/{{page.single-picture}}",
           "sameAs": [
             {% if page.linkedin %}            
-              "{{page.linkedin}}", 
+              "{{page.linkedin}}"
+              {% if page.twitter %}, {% endif %}
             {% endif %}
             {% if page.twitter %}            
-              "{{page.twitter}}", 
+              "{{page.twitter}}"
             {% endif %}
           ],
           "jobTitle": "{{ page.position}}",
