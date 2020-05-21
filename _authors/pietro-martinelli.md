@@ -3,12 +3,13 @@ short_name: pietro
 position: Software Engineer & Teacher @ CodicePlastico
 name: Pietro Martinelli
 nick: Pietro
+slug: pietro-martinelli
 location: Brescia
 cite: 
 picture: assets/images/authors/av-pietro-martinelli-codiceplastico.jpg
 single-picture: assets/images/authors/pietro-martinelli-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/pietromartinelli/
-
+layout: author
 ---
 <p>Lavoro come ingegnere del software da circa $(expr $(date +%Y) - 2003) anni.<br/>
 Sono cresciuto professionalmente nel mondo Java e JEE ma, da parecchi anni, lavoro principalmente su piattaforma .Net. Ho sempre cercato di mantenere vivi la mia curiosità ed il mio desiderio di imparare ogni giorno qualcosa di nuovo, forte della convinzione che le  competenze architetturali e metodologiche vadano al di là del contesto tecnologico e che la vera lingua comune consista nella passione per il "fare le cose bene" e per la condivisione continua di informazioni ed esperienze.</p>

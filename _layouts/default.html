@@ -52,7 +52,7 @@
               "@type" : "Person",
               {% assign author = site.authors | where: 'short_name', current-author | first %}
                 {% if author %}
-                "name" : {{ author.name }}
+                "name" : "{{ author.name }}"
                 {% endif %}
               },
             {% endfor %}
@@ -69,8 +69,32 @@
         }
       </script>
       {% endif %}
-
-     
+  
+      {% if page.layout == 'author' %}
+      
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "Person",
+          "name": "{{ page.name}}",
+          "url": ""{{ site.url }}/authors/{{ page.slug }}"",
+          "image": "{{ site.url }}/{{page.single-picture}}",
+          "sameAs": [
+            {% if page.linkedin %}            
+              "{{page.linkedin}}", 
+            {% endif %}
+            {% if page.twitter %}            
+              "{{page.twitter}}", 
+            {% endif %}
+          ],
+          "jobTitle": "{{ page.position}}",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "Codiceplastico"
+          }  
+        }
+        </script>
+      {% endif %}
 
       <script type="text/javascript">
         var _iub = _iub || [];
