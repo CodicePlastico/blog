@@ -118,11 +118,16 @@
   img{ max-width: 100%;} 
   .header-content{ max-width: 1200px; margin:0 auto;  }
 
-  h1{  font-weight: bold; color: $main-color; display: none; }
+  h1{  font-weight: 300; color: $main-color; color: $main-dark; font-size: 3.8em; font-family: 'Barlow Condensed', sans-serif;
+    span{ font-weight: bold; 
+      strong{color: $main-color; font-weight: bold; }
+     }
+  }
   h2{ font-weight: 300; font-size: 1.2em;  text-align: center; text-transform: uppercase; }
   
   @media #{$mqMD}{
-    h1{ font-size: 3em; }
+    h1{ font-size: 10.8em;
+      line-height: 0.58em;}
     h2{ font-size: 1.2em;}
     padding: 8em 1em 6em 1em;
    
