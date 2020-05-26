@@ -38,6 +38,11 @@ feed:
 collections:
   authors:
     output: true
+  categories:
+    output: true
+  tags:
+    output: true
+ 
 
 defaults:
   - scope:
@@ -54,6 +59,10 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: "categories"
+    values:
+        layout: "categories"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -69,6 +78,11 @@ defaults:
 
 # Permalinks
 permalink: /:title
+
+
+
+
+
 #permalink: /author/:author
 #permalink: /tag/:tag
 

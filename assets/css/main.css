@@ -960,11 +960,13 @@ html {
       height: 30px; }
 
 .post-tag-style, .post .post-header .post-tag, .post-card .post-tag {
-  font-size: 0.8em;
+  font-size: 1.1em;
   color: #D93232; }
   .post-tag-style a, .post .post-header .post-tag a, .post-card .post-tag a {
     text-decoration: none;
     color: #D93232; }
+    .post-tag-style a:hover, .post .post-header .post-tag a:hover, .post-card .post-tag a:hover {
+      text-decoration: underline; }
 
 .post-title-style, .post .post-header .post-title-container .post-title {
   font-weight: 800;
@@ -1075,6 +1077,17 @@ html {
   top: 0;
   width: 100%; }
 
+.related-posts {
+  margin: 2em 0; }
+  .related-posts h4 {
+    font-weight: 300;
+    text-align: center;
+    font-family: "Barlow Condensed", sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #D93232;
+    margin-bottom: 0.8em; }
+
 .post-feed {
   position: relative;
   display: flex;
@@ -1118,7 +1131,7 @@ html {
   .post-card .post-tag {
     margin-bottom: 0.8em; }
   .post-card .post-title {
-    font-size: 1.3em;
+    font-size: 1.6em;
     margin-bottom: 0.8em; }
   .post-card .post-excerpt p {
     font-size: 1em;
@@ -1303,6 +1316,22 @@ section.newsletter {
   #mc_embed_signup #mc_embed_signup_scroll h3 {
     align-self: flex-start;
     padding-top: 0.5em; } }
+
+.single-category {
+  padding-top: 2em; }
+  @media only screen and (min-width: 768px) {
+    .single-category {
+      padding-top: 6em;
+      margin: 0 auto; } }
+  .single-category .page-title {
+    font-weight: bold;
+    font-size: 4em;
+    text-align: center;
+    color: #D93232; }
+  .single-category .page-content {
+    text-align: center; }
+  .single-category .post-list {
+    padding: 2em 0; }
 
 nav.pagination {
   text-align: center;

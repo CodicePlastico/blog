@@ -1,0 +1,26 @@
+---
+layout: default
+current: categories
+---
+
+<main id="site-main" class="site-main outer single-category" role="main">
+ <article>
+    <h1 class="page-title">  {{ page.name }}  </h1>
+    <div class="page-content">{{content}}</div>
+   
+        <section class="category post-list">
+            
+            <div class="post-feed">
+                {% assign filtered_posts = site.posts | where: 'categories', page.short_name %}
+                {% for post in filtered_posts %}
+                {%  include post-card.html %}
+                {% endfor %}
+            </div>
+        </section>
+      
+    </article>
+</main>
+
+
+
+

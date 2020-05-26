@@ -1,0 +1,18 @@
+.single-category{
+    padding-top: 2em;
+    @media #{$mqSM}{
+        padding-top: 6em;
+        
+        margin: 0 auto;
+    }
+    
+        .page-title{ font-weight: bold; font-size: 4em; text-align: center; color: $main-color;}
+        .page-content{ text-align: center;}
+       .post-list{
+          
+           padding: 2em 0;
+       }
+      
+    }
+    
+

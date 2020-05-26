@@ -1,41 +1,33 @@
 ---
 layout: default
-current: tag
-title: Tag Page
-permalink: /tag/
-cover: false
-class: 'tag-template'
+title: Tag
 ---
 
-<!-- default -->
-<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
 
-<!-- The big featured header, it uses blog cover image as a BG if available -->
-<!-- #tag -->
-{% include dynamic_tag_info.html %}
-<header class="site-header outer {% if cover or page.cover %}" style="background-image: url({{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}) {% else %}no-cover{% endif %}">
-    <div class="inner">
-        {% include site-nav.html %}
-        <div class="site-header-content">
-            <h1 class="site-title">{{ page.tag | capitalizeall }}</h1>
-            <h2 class="site-description">
-                {% if tag_description %}
-                    {{ tag_description }}
-                {% elsif page.tag %}
-    			    A collection of {{ paginator.total_posts }} posts
-                {% endif %}
-            </h2>
-        </div>
-    </div>
-</header>
-<!-- tag -->
-
-<!-- The main content area -->
-<main id="site-main" class="site-main outer" role="main">
-    <div class="inner">
-        <div class="post-feed">
-            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
-            {%  include post-card.html %}
-        </div>
-    </div>
-</main>
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}

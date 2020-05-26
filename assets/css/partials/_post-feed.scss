@@ -57,7 +57,7 @@ $post-feed-border-radius: 0px;
         justify-content: center;
     }
     .post-tag{ @extend .post-tag-style;  margin-bottom: 0.8em; }
-    .post-title{  font-size: 1.3em; margin-bottom: 0.8em; }
+    .post-title{  font-size: 1.6em; margin-bottom: 0.8em; }
     .post-excerpt p{ 
         font-size: 1em; line-height: 1.3em;
         @media #{$mqXS}{  font-size: 0.9em; line-height: 1.1em;}
