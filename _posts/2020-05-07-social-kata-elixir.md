@@ -22,7 +22,9 @@ Credo che sia l'unico caso in cui <em>"incrociare i flussi" (cit.)</em> sia una 
 Allora è nata un'idea: in questo periodo di reclusione forzata, in cui **spopolano video di "gente che fa cose"** perchè non fare un live in cui, risolvendo un semplice kata, cerchiamo di mostrare questo "flow"?
 E cosi, dopo una prova con zoom, una con meet, croppa di qua, condividi lo schermo di là, grazie al supporto di Paolo (grazie mille! ottimo regista) e Mariachiara...ecco il nostro primo live
 <br/><br/>
+<div class="rwd-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aTaoccAof6U?start=176" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <br/><br/>
 &Egrave; andata come volevamo: **non avevamo preparato nulla**, volevamo fosse il piu' naturale possibile, senza una roadmap implementativa o una possibile soluzione preconfezionata. Avevamo solo deciso quale kata, il social network kata, e con quale linguaggio lo avremmo risolto. E in questo caso eravamo concordi sul farlo in **Elixir**, un linguaggio che piace molto ad entrambi e su cui stiamo investendo e con cui stiamo lavorando molto in CodicePlastico.
 

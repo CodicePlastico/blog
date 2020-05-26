@@ -22,5 +22,8 @@ Ed è stato proprio questo il taglio che ho voluto dare, una sessione di live co
 
 Non è stato facile farlo live con *180 occhi virtuali che mi guardavano* e che non potevano aiutarti nel caso di errori, ma mi sono divertito e, a parte un paio di momenti di terrore per un test rosso che doveva essere verde tutto è andato bene e spero che il messaggio sia passato. 
 
-Il codice dell’esercizio si trova qui: [GitHub - emadb/birthday_greeting_js: The implementation of the birthday greeting kata (http://matteo.vaccari.name/blog/archives/154)](https://github.com/emadb/birthday_greeting_js) e il video dell’evento lo trovate qui: 
+Il codice dell’esercizio si trova qui: [GitHub - emadb/birthday_greeting_js: The implementation of the birthday greeting kata](https://github.com/emadb/birthday_greeting_js) e il video dell’evento lo trovate qui: 
+
+<div class="rwd-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c9F1w87VIAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
