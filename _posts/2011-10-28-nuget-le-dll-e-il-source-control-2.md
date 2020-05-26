@@ -2,7 +2,8 @@
 layout: post
 title:  "NuGet, le dll e il source control (2)"
 comments: true
-categories: Technology
+categories: tech
+
 ---
 
 

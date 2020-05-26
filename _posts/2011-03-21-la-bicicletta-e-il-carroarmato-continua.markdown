@@ -4,7 +4,8 @@ date: 2011-03-21 11:45:00
 layout: post
 slug: la-bicicletta-e-il-carroarmato-continua
 title: La bicicletta e il carroarmato (...continua)
-wordpress_id: 10
+categories: tech
+tags: [ror]
 ---
 
 Ho apprezzato i molti commenti al mio ultimo post, mi hanno fatto pensare ad alcune cose....

@@ -2,7 +2,7 @@
 layout: post
 title:  "Factory e leggibilità del codice (2/2)"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

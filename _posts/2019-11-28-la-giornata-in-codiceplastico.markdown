@@ -5,7 +5,8 @@ cover: 'assets/images/post-cover/20191128-ema-flowchart.jpg'
 slug: la-giornata-in-codiceplastico
 title: La giornata dello Sviluppatore
 date: 2019-11-28 14:00:00
-tags: [Vita Plastica]
+category : vita-plastica
+tags: [cp, remote, agile]
 author: ema 
 
 ---

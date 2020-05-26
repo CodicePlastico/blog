@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Dump di repositories svn con powershell"
-comments: true
-categories: Technology
+categories: tech
+tags: [powershell]
 ---
 
 

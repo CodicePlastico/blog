@@ -2,7 +2,7 @@
 layout: post
 title: "Software principles"
 date: 2014-05-19
-comments: true
+categories: tech
 author: Emanuele DelBono
 ---
 I have more than ten years of experience as a software developer, don’t know if I have to be happy or to be sad for the time that pass. 

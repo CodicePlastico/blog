@@ -2,8 +2,8 @@
 layout: post
 title:  "MVP su Azure...#estiqaatsi"
 comments: true
-categories: OT
-tags: [Tech]
+tags: [Azure]
+categories: tech
 author: ale
 ---
 

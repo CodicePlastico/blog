@@ -4,9 +4,10 @@ title:  "Da Java a .Net: la mia esperienza, due anni dopo - Parte II"
 subtitle: "A che cosa non rinuncerei e che cosa mi manca"
 date: 2017-11-08 08:00:00
 
-categories: java,.net
+categories: tech
+tags: [java,.net]
 slug: da-java-a-dotnet-parte-ii
-tags: [Tech]
+
 author: pietro
 ---
 

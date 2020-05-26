@@ -3,7 +3,7 @@ layout: post
 title: "ASP.NET WebApi succinctly"
 date: 2013-12-03 07:54
 comments: true
-categories: 
+categories: tech
 ---
 
 Months ago, while digging inside the [ASP.NET WebAPI](http://www.asp.net/web-api) I collected a lot of material and I decided to write a small book about the topics. I contacted [Syncfusion](http://www.syncfusion.com) beacause I really like their series "Succinctly": small books that go straight to the main topic without much introductions or ceremonies.

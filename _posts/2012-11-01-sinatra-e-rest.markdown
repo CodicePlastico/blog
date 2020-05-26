@@ -4,7 +4,7 @@ date: 2012-11-01 14:54:48
 layout: post
 slug: sinatra-e-rest
 title: Sinatra e REST
-wordpress_id: 457
+categories: tech
 ---
 
 Qualche settimana fa ho avuto il piacere di fare lo speaker alla prima european [WebNet conference](http://webnetconf.eu) con un talk su [sinatra](http://www.sinatrarb.com/).

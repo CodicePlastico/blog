@@ -2,7 +2,8 @@
 layout: post
 title:  "ITWPC2011.IsOver = true"
 comments: true
-categories: Technology
+categories: conf
+
 ---
 
 

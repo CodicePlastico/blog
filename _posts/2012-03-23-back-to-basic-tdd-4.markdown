@@ -4,11 +4,7 @@ date: 2012-03-23 15:32:14
 layout: post
 slug: back-to-basic-tdd-4
 title: 'Back to basic: TDD (4)'
-wordpress_id: 342
-categories:
-- Design &amp; Metodologie
-tags:
-- TDD
+categories: tech
 ---
 
 Continua la serie, per piccoli passi.

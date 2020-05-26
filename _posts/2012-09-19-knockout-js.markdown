@@ -4,7 +4,7 @@ date: 2012-09-19 10:48:10
 layout: post
 slug: knockout-js
 title: Knockout.js
-wordpress_id: 405
+categories: tech
 ---
 
 La moda dei framework javascript è esplosa, esistono [decine di librerie MVQualcosa](http://addyosmani.com/blog/javascript-mvc-jungle/) che supportano lo sviluppo di applicazioni client side di una certa complessità. Premesso che sceglierne una è quasi impossibile ([paradox of choice](http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less)) io, qualche tempo fa, mi sono buttato su [knockout.js](http://knockoutjs.com).

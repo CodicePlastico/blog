@@ -5,12 +5,8 @@ layout: post
 slug: nhibernate-e-i-trigger-del-syncframework
 title: NHibernate e i trigger del SyncFramework
 wordpress_id: 36
-categories:
-- .NET, C#
-tags:
-- c#
-- NHibernate
-- SyncFramework
+categories: tech
+tags: [SyncFramework, c#, NHibernate]
 ---
 
 In una applicazione che stiamo sviluppando siamo ricorsi al [Sync Framework](http://msdn.microsoft.com/en-us/sync/bb736753) di Microsoft per gestire la sincronizzazione di un database SQL Compact con il database principale SQL Server 2008.

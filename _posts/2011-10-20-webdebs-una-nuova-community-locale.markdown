@@ -5,11 +5,9 @@ layout: post
 slug: webdebs-una-nuova-community-locale
 title: WebDeBs una nuova community locale
 wordpress_id: 120
-categories:
-- Talk, conferenze e workshop
-tags:
-- community
-- webdebs
+categories: conf
+tag: [webdebs]
+
 ---
 
 Da poco più di un anno è attiva sul territorio bresciano una community, o meglio un gruppo di geek che va sotto il nome di [WebDeBs](http://webdebs.org). L'idea parte dal [Cirpo](http://twitter.com/cirpo) circa un anno e mezzo fa, organizzando una serie di aperitivi chiamati [BrainPirlo](http://it.wikipedia.org/wiki/Pirlo) per chiacchierare di tecnologia, web, social media ecc...e oggi ci troviamo ad essere in 30-40 geek che una volta al mese si incontrano per una serata su vari temi legati al mondo web.

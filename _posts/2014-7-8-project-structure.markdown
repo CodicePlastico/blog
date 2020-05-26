@@ -2,7 +2,7 @@
 layout: post
 title: "Projects structure"
 date: 2014-05-26
-comments: true
+categories: tech
 author: Emanuele DelBono
 ---
 

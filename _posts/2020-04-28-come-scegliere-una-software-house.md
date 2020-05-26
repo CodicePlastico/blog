@@ -6,7 +6,9 @@ socialcover: 'assets/images/post-cover/20200428-come-scegliere-una-software-hous
 slug: come-scegliere-una-software-house
 title: 'AAA Software House Cercasi'
 date: 2020-04-28 00:00:00
-tags: [Vita Plastica]
+
+category : vita-plastica
+tags: [agile, cp, metodologie, software]
 author: ema 
 ---
 

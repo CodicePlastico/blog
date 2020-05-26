@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Blob storage e hosting di siti statici"
-comments: true
-categories: Technology
+categories: tech
 ---
 
 

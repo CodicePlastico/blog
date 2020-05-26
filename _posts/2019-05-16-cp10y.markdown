@@ -2,7 +2,8 @@
 layout: post
 slug: cp10y
 title: CP10Y il nostro primo company meeting
-tags: [Vita Plastica]
+category : vita-plastica
+tags: [cp, company meeting]
 author: ema
 cover: 'assets/images/post-cover/20190515-cp10.jpg'
 ---

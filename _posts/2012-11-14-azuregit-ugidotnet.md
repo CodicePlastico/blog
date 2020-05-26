@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Azure and Git @ UgiDotNet"
-comments: true
-categories: Technology
+categories: tech
 ---
 
 

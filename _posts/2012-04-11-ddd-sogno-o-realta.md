@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "DDD: sogno o realtà?"
-comments: true
-categories: Technology
+categories: tech
 ---
 
 

@@ -4,7 +4,8 @@ date: 2017-11-19 00:00:00
 layout: post
 slug: lens-in-javascript
 title: Lens in javascript
-tags: [Tech]
+categories: tech
+tags: [javascript, api]
 author: ema
 ---
 

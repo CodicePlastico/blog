@@ -4,7 +4,8 @@ date: 2018-08-02 00:00:00
 layout: post
 slug: fp-validation
 title: Fp-ts validation spiegata bene
-tags: [Tech]
+category : tech
+tags: [functional]
 author: ema
 ---
 _In CodicePlastico stiamo studiando la programmazione funzionale, abbiamo fatto [un corso](https://www.avanscoperta.it/it/training/applied-functional-programming-workshop/) con [Matteo Baglini](https://twitter.com/matteobaglini) (che consiglio a tutti) e in questi giorni stiamo provando a fare un po' di refactoring verso il paradigma funzionale.

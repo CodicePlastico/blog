@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Blob storage: nuove API"
-comments: true
-categories: Technology
+categories: tech
 ---
 
 

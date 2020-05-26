@@ -2,7 +2,7 @@
 layout: post
 title:  "L'aggregate-root: la fonte della verità"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

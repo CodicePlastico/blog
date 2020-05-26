@@ -2,7 +2,8 @@
 layout: post
 title:  "Questo database amico-nemico"
 comments: true
-categories: Technology
+categories: tech
+tags: [database]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Domain events come se piovesse"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

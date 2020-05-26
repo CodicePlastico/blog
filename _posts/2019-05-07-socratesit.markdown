@@ -2,7 +2,8 @@
 layout: post
 slug: socratesit
 title: Socrates Italia
-tags: [Conf & Communities]
+category : conf
+tags: [networking]
 author: ema
 cover: 'assets/images/post-cover/20190507-socrates.jpg'
 ---

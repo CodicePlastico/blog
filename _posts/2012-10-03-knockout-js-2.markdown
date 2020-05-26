@@ -4,7 +4,7 @@ date: 2012-10-03 15:14:29
 layout: post
 slug: knockout-js-2
 title: knockout.js (2)
-wordpress_id: 414
+categories: tech
 ---
 
 Nel post precedente abbiamo visto le analogie tra knockout.js e le applicazioni WPF/Silverlight. Oggi vorrei aggiungere alcune funzionalità.

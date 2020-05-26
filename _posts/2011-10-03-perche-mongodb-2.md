@@ -2,7 +2,8 @@
 layout: post
 title:  "Perchè MongoDb?"
 comments: true
-categories: Technology
+categories: tech
+tags: [database, mongo]
 ---
 
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Azure.Intro()"
-comments: true
-categories: Technology
+categories: tech
 ---
 
 

@@ -3,7 +3,9 @@ layout: post
 title:  "Bentornato SQL Server"
 comments: true
 categories: Technology SQLServer
-tags: [Tech]
+
+categories: tech
+tags: [database,sql]
 author: ale
 ---
 

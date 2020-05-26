@@ -3,8 +3,8 @@ layout: post
 title:  "Crescente bolognese"
 date: 2017-10-04 14:00:00
 categories: playtime
-slug: crescente-bolognese
-tags: [Tech]
+tags: [cp]
+categories: vita-plastica
 author: pietro
 ---
 Piccolo intermezzo di svago, qualche giorno fa, grazie all'ultimo acquisto del team, Paolo, ed

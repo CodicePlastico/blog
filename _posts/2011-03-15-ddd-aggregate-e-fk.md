@@ -2,7 +2,8 @@
 layout: post
 title:  "DDD, Aggregate e FK"
 comments: true
-categories: Technology
+categories: tech
+tags: [ddd]
 ---
 
 

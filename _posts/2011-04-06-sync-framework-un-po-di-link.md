@@ -2,7 +2,8 @@
 layout: post
 title:  "Sync framework: un po' di link"
 comments: true
-categories: Technology
+categories: tech
+tags: [SyncFramework]
 ---
 
 

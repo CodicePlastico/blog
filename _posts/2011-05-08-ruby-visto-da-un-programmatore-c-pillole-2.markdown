@@ -4,12 +4,8 @@ date: 2011-05-08 21:46:00
 layout: post
 slug: ruby-visto-da-un-programmatore-c-pillole-2
 title: Ruby visto da un programmatore C# (pillole) [2]
-wordpress_id: 6
-categories:
-- Ruby &amp; RubyOnRails
-tags:
-- c#
-- Ruby &amp; RubyOnRails
+categories: tech
+tags: [c#, ruby]
 ---
 
 Nel post precedente abbiamo visto come è possibile aggiungere un metodo ad una classe, nello stesso modo in cui abbiamo aggiunto il metodo lo possiamo anche rimuovere.

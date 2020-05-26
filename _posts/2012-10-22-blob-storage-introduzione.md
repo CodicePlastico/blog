@@ -2,7 +2,7 @@
 layout: post
 title:  "Blob storage: introduzione"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

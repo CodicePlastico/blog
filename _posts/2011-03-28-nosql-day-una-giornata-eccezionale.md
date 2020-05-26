@@ -2,7 +2,8 @@
 layout: post
 title:  "NoSql day: una giornata eccezionale!!!"
 comments: true
-categories: Technology
+categories: tech
+tags: [nosql]
 ---
 
 

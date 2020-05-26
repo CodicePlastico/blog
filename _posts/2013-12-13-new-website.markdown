@@ -3,7 +3,7 @@ layout: post
 title: "New website"
 date: 2013-12-13 17:06
 comments: true
-categories: 
+categories: tech
 ---
 
 Today we launched our new company web site. You can view it here: [http://codiceplastico.com](http://codiceplastico.com).

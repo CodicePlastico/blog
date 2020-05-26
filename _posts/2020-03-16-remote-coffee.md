@@ -6,7 +6,8 @@ socialcover: 'assets/images/post-content/remote-coffe.jpg'
 slug: remote-coffee
 title: 'Bevi un remote Coffee con noi!'
 date: 2020-03-10 14:00:00
-tags: [Vita Plastica]
+category : vita-plastica
+tags: [networking, remote]
 author: team
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "WAS: windows azure storage"
-comments: true
-categories: Technology
+categories: tech
 ---
 
 

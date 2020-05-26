@@ -2,8 +2,7 @@
 layout: post
 title: "Usare dropbox da un'applicazione rails"
 date: 2013-03-22 09:57
-comments: true
-categories: [rails]
+categories: tech
 ---
 Utlimamente mi è capitato di dover integrare un'applicazione rails con [dropbox](http://www.dropbox.com), in particolare l'applicazione genera un PDF che deve essere salvato su dropbox.
 Ho deciso di utilizzare la gemma [dropbox-api](http://github.com/RISCfuture/dropbox) invece di quella ufficiale perchè leggendo alcuni articoli in rete mi è sembrata meno a basso livello e più facilmente utilizzabile.

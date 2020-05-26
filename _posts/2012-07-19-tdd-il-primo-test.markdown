@@ -5,10 +5,8 @@ layout: post
 slug: tdd-il-primo-test
 title: TDD il primo test
 wordpress_id: 381
-categories:
-- .NET, C#
-tags:
-- TDD
+tag: [.net, c#, tdd]
+categories: tech
 ---
 
 Insegnando il TDD un problema che vedo emergere subito è quello del primo test. Vedo dev come scrittori davanti allo schermo bianco in attesa di un'ispirazione.

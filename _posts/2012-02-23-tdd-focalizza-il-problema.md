@@ -2,7 +2,8 @@
 layout: post
 title:  "TDD: focalizza il problema"
 comments: true
-categories: Technology
+categories: tech
+tags: [tdd ]
 ---
 
 

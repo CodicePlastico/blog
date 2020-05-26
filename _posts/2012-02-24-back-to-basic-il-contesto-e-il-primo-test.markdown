@@ -5,8 +5,8 @@ layout: post
 slug: back-to-basic-il-contesto-e-il-primo-test
 title: 'Back to basic: il contesto e il primo test'
 wordpress_id: 273
-categories:
-- Design &amp; Metodologie
+categories: tech
+tags: [ metodologie, tdd ]
 ---
 
 Per partire con la serie di post sull'applicazione del TDD dobbiamo prima identificare un contesto che sia abbastanza semplice da capire ma anche abbastanza complesso da implementare.

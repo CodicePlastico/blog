@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Toolkit per lo sviluppo di applicazioni WPF/SL/WP/W8"
-comments: true
-categories: Technology
+categories: tech
 ---
 
 

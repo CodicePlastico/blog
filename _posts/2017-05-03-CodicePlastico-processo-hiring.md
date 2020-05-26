@@ -2,8 +2,8 @@
 layout: post
 title:  "CodicePlastico e il nostro processo di hiring"
 comments: true
-categories: Company
-tags: [Vita Plastica]
+categories: vita-plastica
+tags: [cp, hiring]
 author: ale
 ---
 

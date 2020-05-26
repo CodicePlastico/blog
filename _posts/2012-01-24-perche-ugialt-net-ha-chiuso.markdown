@@ -4,13 +4,8 @@ date: 2012-01-24 15:30:28
 layout: post
 slug: perche-ugialt-net-ha-chiuso
 title: Perchè UGIALT.net ha chiuso?
-wordpress_id: 224
-categories:
-- .NET, C#
-tags:
-- community
-- ugialtnetconf
-- webdebs
+categories: conf
+tags: [ c#, webdebs ]
 ---
 
 Sabato 21 gennaio si è tenuta l'ultima [ugialt.net](http://ugialt.net) conference, ultima nel senso che non ce ne saranno altre. Basta. Finito. Chiuso.

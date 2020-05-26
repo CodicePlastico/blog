@@ -4,9 +4,10 @@ current: post
 title: "Testare comportamenti multi-thread (reprise)"
 subtitle: "Una classe helper riutilizzabile"
 date: 2018-02-01 07:00:00 +0100
-categories: .net,testing,concurrency,multithreading,synchronization
+categories: tech
+tags: [.net,testing,concurrency,multithreading,synchronization]
 slug: testare-componenti.multi-thread-reprise
-tags: [Tech]
+
 author: pietro
 
 ---

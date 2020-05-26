@@ -4,12 +4,9 @@ date: 2011-06-01 09:08:05
 layout: post
 slug: ruby-visto-da-un-programmatore-c-pillole-3
 title: Ruby visto da un programmatore C# (pillole) [3]
-wordpress_id: 32
-categories:
-- Ruby &amp; RubyOnRails
-tags:
-- c#
-- Ruby &amp; RubyOnRails
+
+categories: tech
+tags: [ruby, c#]
 ---
 
 Come già detto più volte Ruby è un linguaggio interpretato e ogni riga di codice scritta viene di fatto eseguita dal runtime. Questo vale anche per le definizioni delle classi che possono quindi sfruttare questo aspetto per migliorare la leggibilità rimanendo comunque sintetiche.

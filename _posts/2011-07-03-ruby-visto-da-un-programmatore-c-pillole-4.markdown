@@ -4,12 +4,9 @@ date: 2011-07-03 12:08:18
 layout: post
 slug: ruby-visto-da-un-programmatore-c-pillole-4
 title: Ruby visto da un programmatore C# (pillole) [4]
-wordpress_id: 59
-categories:
-- Ruby &amp; RubyOnRails
-tags:
-- c#
-- Ruby &amp; RubyOnRails
+categories: tech
+tags: [ruby, c#]
+
 ---
 
 Uno dei punti forti di Ruby è la metaprogrammazione resa potente grazie al fatto che Ruby è un linguaggio interpretato e dinamico. Rails ne fa largo uso e molto del _magic_ che fornisce funziona grazie alla metaprogrammazione.

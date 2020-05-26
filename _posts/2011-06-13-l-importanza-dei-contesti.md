@@ -2,7 +2,8 @@
 layout: post
 title:  "L'importanza dei contesti"
 comments: true
-categories: Technology
+categories: tech
+tags: [database]
 ---
 
 

@@ -4,9 +4,8 @@ date: 2012-06-14 07:01:56
 layout: post
 slug: node-js
 title: Node.js
-wordpress_id: 357
-categories:
-- nodejs
+
+categories: tech
 ---
 
 Node.js è il framework del momento, nato solo 3 anni fa, in poco tempo ha suscitato entusiasmo nella community degli sviluppatori fino a farlo diventare un framework diffuso al punto che anche Microsoft, di solito distante a queste novità, ha deciso di supportarlo e ha aiutato il team ad effettuare il porting su windows.

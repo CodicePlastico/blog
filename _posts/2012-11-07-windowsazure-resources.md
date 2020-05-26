@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "WindowsAzure.Resources"
-comments: true
-categories: Technology
+categories: tech
 ---
 
 

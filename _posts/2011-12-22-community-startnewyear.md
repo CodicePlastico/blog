@@ -2,7 +2,8 @@
 layout: post
 title:  "community.StartNewYear()"
 comments: true
-categories: Technology
+categories: conf
+
 ---
 
 

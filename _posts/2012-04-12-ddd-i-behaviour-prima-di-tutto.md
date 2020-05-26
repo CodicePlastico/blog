@@ -2,7 +2,7 @@
 layout: post
 title:  "DDD: i behavior prima di tutto"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

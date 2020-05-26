@@ -2,8 +2,8 @@
 layout: post
 title:  "Global Azure Bootcamp 2017 e non solo..."
 comments: true
-categories: Technology Talk Conferences
-tags: [Conf & Communities]
+tags: [azure, doker]
+categories: conf
 author: ema
 ---
 

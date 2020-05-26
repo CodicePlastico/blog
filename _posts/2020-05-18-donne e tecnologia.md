@@ -6,7 +6,8 @@ socialcover: 'assets/images/post-cover/donne-it-s.jpg'
 slug: donne-tecnologia
 title: 'Donne e IT: un viaggio tra dati, stereotipi e action points'
 date: 2020-05-18 00:00:00
-tags: [Vita Plastica]
+categories: [vita-plastica]
+tags: [women IT]
 author: [mery]
 ---
 <cite>Se dovessi esprimere un desiderio per il futuro delle donne nell’IT è quello di smettere di leggere articoli che parlano delle donne nell’IT, come questo.</cite>

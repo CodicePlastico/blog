@@ -2,8 +2,9 @@
 layout: post
 title:  "La ricerca non è solo una ricerca"
 comments: true
-categories: Technology DDD CQRS
-tags: [Tech]
+tags: [ddd,CQRS]
+categories: tech
+
 author: ale
 ---
 

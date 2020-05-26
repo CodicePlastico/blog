@@ -2,7 +2,7 @@
 layout: post
 title:  "CQRS: perchè e quando"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

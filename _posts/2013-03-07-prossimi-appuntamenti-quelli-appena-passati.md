@@ -2,7 +2,7 @@
 layout: post
 title:  "I prossimi appuntamenti...e quelli appena passati"
 comments: true
-categories: Technology
+categories: conf
 ---
 
 

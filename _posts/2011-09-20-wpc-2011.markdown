@@ -4,9 +4,8 @@ date: 2011-09-20 16:56:20
 layout: post
 slug: wpc-2011
 title: WPC 2011
-wordpress_id: 124
-categories:
-- Talk, conferenze e workshop
+categories: conf
+tags: [wpc, tdd]
 ---
 
 ![](http://www.wpc2011.it/images/media/b1_300x250.jpg)

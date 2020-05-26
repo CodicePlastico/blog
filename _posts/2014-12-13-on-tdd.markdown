@@ -2,7 +2,7 @@
 layout: post
 title: "On learning TDD"
 date: 2014-12-13
-comments: true
+categories: tech
 author: Emanuele DelBono
 ---
 

@@ -5,13 +5,8 @@ layout: post
 slug: i-wanna-be-a-polyglot-programmer
 title: I wanna be a polyglot programmer
 wordpress_id: 125
-categories:
-- .NET, C#
-tags:
-- c#
-- dotNet
-- Nodejs
-- OpenSource
+categories: tech
+tags: [ruby, c#]
 ---
 
 In questi giorni mi sto chiedendo quanto senso ha oggi scrivere un'applicazione (di medie/grosse dimensioni) in un solo linguaggio/framework.

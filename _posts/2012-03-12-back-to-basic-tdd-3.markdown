@@ -5,8 +5,8 @@ layout: post
 slug: back-to-basic-tdd-3
 title: 'Back to basic: TDD (3)'
 wordpress_id: 321
-categories:
-- Design &amp; Metodologie
+categories: tech
+tags: [ metodologie, tdd ]
 ---
 
 Nei primi 2 step abbiamo introdotto una piccola funzionalità che permette di aggiungere un articolo al carrello. Continuiamo sullo stesso tema introducendo la seguente funzionalità:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Chocolatey: un package manager per windows"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

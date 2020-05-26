@@ -3,7 +3,7 @@ layout: post
 title: "Ruby loves DDD"
 date: 2013-07-01 22:36
 comments: true
-categories: ruby
+categories: tech
 ---
 
 On 14th june, in Milan, I spoke at the [rubyday](http://rubyday.it), and I presented a possible implementation of Domain Driven Design (with CQRS and Event Sourcing).

@@ -2,7 +2,8 @@
 layout: post
 title:  "CommunityDays: che esperienza!!!"
 comments: true
-categories: Technology
+categories: conf
+tags: [microsoft]
 ---
 
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "Download delle sessioni del MIX 2011"
 comments: true
-categories: Technology
+categories: tech
+
 ---
 
 

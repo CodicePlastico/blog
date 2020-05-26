@@ -3,7 +3,7 @@ layout: post
 title: "Ruby Loves DDD (Part 6)"
 date: 2014-02-12
 comments: true
-categories: 
+categories: tech
 ---
 We are almost at the end of our tour. In the last post we analysed what happens when a command is executed, we learnt that the events are collected in a collection of "uncommitted_events" inside the aggregate.
 Now we will give a look at what happen when these uncommitted events will be...committed.

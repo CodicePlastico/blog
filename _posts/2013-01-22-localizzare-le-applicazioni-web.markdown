@@ -4,7 +4,7 @@ date: 2013-01-22 10:36:34
 layout: post
 slug: localizzare-le-applicazioni-web
 title: Localizzare le applicazioni web
-wordpress_id: 507
+categories: tech
 ---
 
 Sempre più spesso ci capita di realizzare applicazioni web multilingua e questo ci ha spinto a trovare una soluzione che sia facilmente riutilizzabile e che sia sostenibile facilmente.

@@ -2,7 +2,8 @@
 layout: post
 title:  "CQRS @ UgiAltNet"
 comments: true
-categories: Technology
+categories: tech
+tags: [cqrs]
 ---
 
 

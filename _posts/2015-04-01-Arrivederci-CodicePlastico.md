@@ -2,7 +2,8 @@
 layout: post
 title:  "Arrivederci CodicePlastico"
 comments: true
-categories: OT
+tags: [cp]
+categories: vita-plastica
 author: ale
 ---
 

@@ -6,7 +6,8 @@ socialcover: 'assets/images/post-cover/20200504-design-pattern-s.jpg'
 slug: che-cosa-conta-davvero-nei-design-pattern
 title: 'Che cosa conta davvero nei design pattern'
 date: 2020-05-04 00:00:00
-tags: [Tech, Design]
+category : tech
+tags: [design pattern, illustrazioni]
 author: [pietro, andrea]
 ---
 

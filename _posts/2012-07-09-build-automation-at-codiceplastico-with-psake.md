@@ -2,7 +2,7 @@
 layout: post
 title:  "Build automation @codiceplastico with psake"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

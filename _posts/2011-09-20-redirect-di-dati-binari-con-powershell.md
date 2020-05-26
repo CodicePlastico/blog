@@ -2,7 +2,8 @@
 layout: post
 title:  "Redirect di dati binari con powershell"
 comments: true
-categories: Technology
+categories: tech
+tags: [powershell]
 ---
 
 

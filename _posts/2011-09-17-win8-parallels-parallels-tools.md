@@ -2,7 +2,8 @@
 layout: post
 title:  "Win8, parallels e i parallels tools"
 comments: true
-categories: Technology
+categories: tech
+tags: [windows, microsoft]
 ---
 
 

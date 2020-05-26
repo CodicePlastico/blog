@@ -5,7 +5,8 @@ cover: 'assets/images/post-cover/20191227-team-metriche.jpg'
 slug: un-anno-di-codiceplastico
 title: Xmas Stats - un anno di CodicePlastico
 date: 2019-12-27 14:00:00
-tags: [Vita Plastica]
+category : vita-plastica
+tags: [cp, remote]
 author: team
 ---
 

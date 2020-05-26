@@ -3,8 +3,10 @@ comments: true
 date: 2011-03-17 21:15:00
 layout: post
 slug: la-bicicletta-e-il-carroarmato
-title: La bicicletta e il carroarmato
-wordpress_id: 11
+categories: tech
+tags: [ror]
+
+
 ---
 
 E' un po' di tempo che studio e gioco con Ruby e RubyOnRails e a dicembre insieme al Makka ho iniziato un progetto vero (ossia pagato da un cliente) basato su RoR. Sono passati ormai alcuni mesi e sto cominciando a prendere confidenza con l'ecosistema RoR e volevo usare lo spazio di questo blog per fare un po' di confronto con il mondo MS.

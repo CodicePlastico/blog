@@ -2,7 +2,7 @@
 layout: post
 title:  "Io, me e R#"
 comments: true
-categories: Technology
+categories: tech
 author: Alessandro Melchiori
 ---
 

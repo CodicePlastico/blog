@@ -2,8 +2,7 @@
 layout: post
 title: "scrooge"
 date: 2013-04-12 22:04
-comments: true
-categories: ita
+categories: tech
 ---
 Sono freelance da parecchi anni e dalla prima fattura emessa ho sempre avuto la necessità di avere un "programmino" per gestire la contabilità. Il primo me lo sono scritto in Access, poi con [CodicePlastico](http://codiceplastico.com) è nata l'esigenza di qualcosa di più evoluto e con [Alessandro](http://melkio.codiceplastico.com) abbiamo scritto una mini applicazione web che, seppur grezza, ci ha aiutato per quasi 3 anni. Non avendo esperienza in campo amministrativo l'applicazione è nata sulle nostre esigenze di allora e in 3 anni sono cambiate tante cose e l'app sviluppata aveva bisogno di una profonda review. 
 

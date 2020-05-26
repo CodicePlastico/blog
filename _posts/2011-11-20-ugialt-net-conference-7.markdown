@@ -4,11 +4,8 @@ date: 2011-11-20 15:42:11
 layout: post
 slug: ugialt-net-conference-7
 title: UgiALT.net Conference 7
-wordpress_id: 157
-categories:
-- Talk, conferenze e workshop
-tags:
-- ugialtnetconf
+categories: conf
+
 ---
 
 Il motore organizzativo della ugialt.net conference si è attivato da qualche mese per organizzare la prossima conferenza.

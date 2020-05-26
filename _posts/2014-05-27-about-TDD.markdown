@@ -2,7 +2,8 @@
 layout: post
 title: "About TDD (IMHO)"
 date: 2014-05-26
-comments: true
+categories: tech
+tags: [tdd]
 author: Emanuele DelBono
 ---
 

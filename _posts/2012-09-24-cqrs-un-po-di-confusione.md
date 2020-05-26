@@ -2,7 +2,7 @@
 layout: post
 title:  "CQRS: un po' di confusione?"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Blogging with octopress on windows"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

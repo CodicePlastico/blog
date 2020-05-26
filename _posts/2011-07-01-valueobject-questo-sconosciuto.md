@@ -2,7 +2,8 @@
 layout: post
 title:  "ValueObject: questo sconosciuto"
 comments: true
-categories: Technology
+categories: tech
+tags: [value object]
 ---
 
 

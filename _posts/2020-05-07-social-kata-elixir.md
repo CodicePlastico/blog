@@ -6,7 +6,8 @@ socialcover: 'assets/images/post-cover/social-network-kata-elixir-pair-programmi
 slug: social-network-kata-elixir
 title: 'Il nostro Pair su Youtube:<br/>come è andata con il Social Network Kata in Elixir '
 date: 2020-05-07 00:00:00
-tags: [Tech]
+categories: tech
+tags: [kata, elixir, pair programming, video]
 author: [ale]
 ---
 

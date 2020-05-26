@@ -2,7 +2,8 @@
 layout: post
 title:  "C#, valori di default e la leggibilità"
 comments: true
-categories: Technology
+categories: tech
+tags: [c#]
 ---
 
 

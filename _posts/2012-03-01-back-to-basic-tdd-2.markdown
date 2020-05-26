@@ -5,8 +5,8 @@ layout: post
 slug: back-to-basic-tdd-2
 title: 'Back to basic: TDD (2)'
 wordpress_id: 301
-categories:
-- Design &amp; Metodologie
+categories: tech
+tags: [ metodologie, tdd ]
 ---
 
 Andiamo ancora piano piano...nel post introduttivo avevo evidenziato alcuni benefici del TDD mettendo in risalto il fatto che ti obbliga a pensare e ad essere sicuro di aver capito cosa vuole il committente. Di solito alla fine di ogni test mi chiedo se la funzionalità è davvero completa e se ci sono casi limite che vanno gestiti e in tal caso aggiungo altri test per capire come comportarmi in questi casi.

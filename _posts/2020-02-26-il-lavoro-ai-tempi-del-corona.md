@@ -6,7 +6,8 @@ cover: 'assets/images/post-cover/202002-mery.jpg'
 slug: il-lavoro-ai-tempi-del-corona
 title: 'Il Lavoro ai tempi del Corona'
 date: 2020-02-26 00:00:00
-tags: [Vita Plastica]
+category : vita-plastica
+tags: [remote, cp]
 author: mery
 ---
 &Egrave; da qualche giorno, che insieme alle tristi notizie sull’emergenza sanitaria che ha colpito il Nord Italia, sono tornati alla ribalta con plauso, temi quali <em>remote working</em> e <em>smart working</em>.

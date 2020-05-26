@@ -2,7 +2,8 @@
 layout: post
 title:  "Prism: il bootstrapper"
 comments: true
-categories: Technology
+categories: tech
+
 ---
 
 

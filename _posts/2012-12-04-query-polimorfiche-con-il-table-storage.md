@@ -2,7 +2,7 @@
 layout: post
 title:  "Query polimorfiche con il table storage"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

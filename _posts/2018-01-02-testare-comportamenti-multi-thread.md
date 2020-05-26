@@ -3,9 +3,10 @@ layout: post
 title:  "Testare comportamenti multi-thread"
 subtitle: "Quando la cosa difficile è far fallire i test ;-)..."
 date: 2018-01-02 07:25:00 +0100
-categories: .net,testing,concurrency,multithreading,synchronization
 slug: testare-comportamenti-multi-thread
-tags: [Tech]
+categories: tech
+categories: tech
+tags: [.net,testing,concurrency,multithreading,synchronization]
 author: pietro
 ---
 Mai scrivere codice di *produzione* se non a fronte di uno *unit test* che fallisce - e mai più dello stretto necessario a far passare il test: questo, fondamentalmente, lo spirito delle [*tre regole* del TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd).

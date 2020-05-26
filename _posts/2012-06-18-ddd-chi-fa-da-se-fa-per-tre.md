@@ -2,7 +2,7 @@
 layout: post
 title:  "DDD: chi fa da sè fa per tre"
 comments: true
-categories: Technology
+categories: tech
 ---
 
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "Prism: introduzione"
 comments: true
-categories: Technology
+categories: tech
+
 ---
 
 

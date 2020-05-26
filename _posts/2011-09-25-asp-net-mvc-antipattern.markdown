@@ -4,13 +4,8 @@ date: 2011-09-25 18:40:33
 layout: post
 slug: asp-net-mvc-antipattern
 title: Asp.net MVC Antipattern
-wordpress_id: 134
-categories:
-- .NET, C#
-tags:
-- ASPNETMVC
-- Patterns
-- REST
+categories: tech
+tags: [.net, c#]
 ---
 
 [ASP.NET MVC](http://www.asp.net/mvc/) è stato rilasciato alcuni anni fa e nonostante non sia ancora diffusissimo (più che altro per questioni psicologiche) sta pian piano mangiando terreno ad ASP.NET WebForm dimostrando ancora una volta che la semplicità paga.

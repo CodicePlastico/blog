@@ -2,9 +2,10 @@
 layout: post
 title:  "Event Storming e processo aziendale"
 date: 2017-10-05 15:00:00
-categories: company team process
+
 slug: company-event-storming
-tags: [Tech]
+tags: [agile, cp]
+categories: vita-plastica
 author: pietro
 ---
 La settimana scorsa l'intero *team* di CodicePlastico ha dedicato due giorni all'analisi dei processi operativi aziendali,

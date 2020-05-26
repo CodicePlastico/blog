@@ -6,7 +6,8 @@ cover: 'assets/images/post-cover/202003-chiara.jpg'
 slug: istruzioni-semiserie-di-sopravvivenza-per-non-dev
 title: 'Istruzioni semiserie di sopravvivenza per non Dev'
 date: 2020-03-10 14:00:00
-tags: [Vita Plastica]
+category : vita-plastica
+tags: [cp]
 author: chiara
 ---
 In CodicePlastico mi occupo di amministrazione e segreteria: sono - a seconda del punto di vista da cui si osserva la cosa - una mosca bianca o una pecora nera, l'unica non dev in un contesto fortemente nerdizzato.

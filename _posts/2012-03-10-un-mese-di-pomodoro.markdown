@@ -5,10 +5,8 @@ layout: post
 slug: un-mese-di-pomodoro
 title: Un mese di pomodoro
 wordpress_id: 298
-categories:
-- Design &amp; Metodologie
-tags:
-- pomodoro
+categories: tech
+tags: [agile, metodologie]
 ---
 
 Da circa un mese in [CodicePlastico](http://www.codiceplastico.com) abbiamo deciso di adottare la [tecnica del pomodoro](http://www.pomodorotechnique.com/) come strumento per misurare la durata delle nostre attività.

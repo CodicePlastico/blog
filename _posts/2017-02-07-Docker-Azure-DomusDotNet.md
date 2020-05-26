@@ -2,8 +2,8 @@
 layout: post
 title:  "Docker & Azure"
 comments: true
-categories: Technology Talk Conferences
-tags: [Conf & Communities]
+tags: [azure, doker]
+categories: conf
 author: ale
 ---
 

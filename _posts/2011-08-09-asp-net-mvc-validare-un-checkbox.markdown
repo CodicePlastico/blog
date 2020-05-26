@@ -5,13 +5,9 @@ layout: post
 slug: asp-net-mvc-validare-un-checkbox
 title: ASP.NET MVC validare un checkbox
 wordpress_id: 98
-categories:
-- .NET, C#
-tags:
-- ASP.NET MVC
-- CustomAttribute
-- Jquery
-- Validation
+categories: tech
+tags: [.net, c#]
+
 ---
 
 Conosciamo tutti gli attributi che possiamo mettere sulle proprietà di un modello e sappiamo che con ASP.NET MVC 3 abbiamo anche la possibilità di usare le regole di validazione client side.

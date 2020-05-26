@@ -4,10 +4,8 @@ date: 2011-07-06 12:03:45
 layout: post
 slug: il-sistema-operativo-non-conta-quello-che-conta-e-il-www
 title: Il Sistema Operativo non conta, quello che conta è il WWW
-wordpress_id: 67
-categories:
-- .NET, C#
-- Rant
+categories: tech
+tags: [.net, c#]
 ---
 
 Il [nostro](http://www.codiceplastico.com) ufficio sta diventando sempre più spesso il punto d'incontro di [professionisti](http://webdebs.org) e amici che operano nel settore sviluppo web/nuovi media/social/ecc. Organizziamo spesso serate di discussione molto interessanti in cui idee diverse vengono condivise, discusse, smontate e rimontate. Per me, che da anni lavoro sotto la cupola di Microsoft è anche il momento in cui toccare con mano altri mondi per capire cosa c'è davvero fuori dalla "finestra".

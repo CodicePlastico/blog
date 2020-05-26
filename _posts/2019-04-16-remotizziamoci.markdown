@@ -4,7 +4,8 @@ date: 2019-04-15 00:00:00
 layout: post
 slug: remotizziamoci
 title: Remotizziamoci!
-tags: [Vita Plastica]
+category : vita-plastica
+tags: [cp, remote]
 author: ema
 ---
 
