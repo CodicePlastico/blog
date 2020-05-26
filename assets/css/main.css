@@ -797,6 +797,12 @@ html {
   .highlighter-rouge.language-shell pre > code {
     background-color: #111D24; }
 
+.highlighter-rouge.language-elixir {
+  /* Single */ }
+  .highlighter-rouge.language-elixir .c1 {
+    color: #000;
+    font-style: normal; }
+
 /*Struct*/
 .content {
   width: 100%;

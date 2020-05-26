@@ -136,3 +136,7 @@ html { -webkit-font-smoothing: antialiased; } /* only if background darker than 
 }
 
 }
+
+.highlighter-rouge.language-elixir{
+  .c1 { color: $main-dark; font-style: normal; } /* Single */
+}
