@@ -509,6 +509,9 @@ html {
   border-radius: 2px;
   font-family: Monaco, Menlo, Consolas, "Courier- New", monospace; }
 
+pre.highlight {
+  overflow: auto; }
+
 .highlighter-rouge > code {
   color: #4a80bc; }
 
@@ -954,7 +957,8 @@ html {
   justify-content: center; }
   .social-link li {
     list-style: none;
-    padding: 0.5em; }
+    margin-left: 0;
+    padding: 1em; }
     .social-link li .svg-ico svg {
       width: 30px;
       height: 30px; }
@@ -996,9 +1000,15 @@ html {
         height: auto; }
       .post .post-header .post-author .post-author-name {
         font-weight: 300;
-        font-size: 0.9em; }
+        font-size: 1em; }
+        @media only screen and (min-width: 768px) {
+          .post .post-header .post-author .post-author-name {
+            font-size: 0.9em; } }
     .post .post-header .post-date {
-      font-size: 0.7em; }
+      font-size: 1em; }
+      @media only screen and (min-width: 768px) {
+        .post .post-header .post-date {
+          font-size: 0.7em; } }
   .post .post-image {
     height: 330px;
     width: 90%;
@@ -1105,6 +1115,10 @@ html {
   border-radius: 0px;
   box-shadow: rgba(39, 44, 49, 0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
   transition: all 0.5s ease; }
+  .post-card :after {
+    content: '';
+    min-height: inherit;
+    font-size: 0; }
 
 .post-card:hover {
   box-shadow: 0 0 1px rgba(39, 44, 49, 0.1), 0 3px 16px rgba(39, 44, 49, 0.07);

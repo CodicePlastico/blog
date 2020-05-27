@@ -44,10 +44,14 @@
         .post-author{
             margin: 0.2em;
             .post-author-image{ max-width: 30px; height: auto;}
-            .post-author-name{ font-weight: 300; font-size:0.9em;}
+            .post-author-name{ font-weight: 300;  font-size: 1em;
+                @media #{$mqSM}{font-size:0.9em;}
+            }
         
         }
-        .post-date{ font-size: 0.7em;}
+        .post-date{ font-size: 1em;
+            @media #{$mqSM}{ font-size: 0.7em;}
+        }
     }
     .post-image{
         height: 330px;
