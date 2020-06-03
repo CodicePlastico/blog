@@ -5,7 +5,7 @@ cover: 'assets/images/post-cover/stream-elixir.jpg'
 socialcover: 'assets/images/post-cover/stream-elixir-s.jpg'
 slug: stream-in-elixir
 title: 'Stream in Elixir'
-date: 2020-05-25 00:00:00
+date: 2020-06-03 00:00:00
 tags: [Tech]
 author: [ema]
 ---
