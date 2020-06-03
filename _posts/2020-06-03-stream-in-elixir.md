@@ -66,7 +66,7 @@ iex> 1..10 |> Stream.map(&(&1 * 2))
 #Stream<[enum: 1..10, funs: [#Function<48.48559900/1 in Stream.map/2>]]>
 ```
 <br/>
-E qui riusciamo bene a vedere l’altra interessante caratteristica, alcuni di voi  forse si aspettavano che risultato dell’operazione sopra fosse una lista contenente i numeri 2, 4, 6, 8, ... invece il **risultato è uno stream**.
+E qui riusciamo bene a vedere l’altra interessante caratteristica, alcuni di voi  forse si aspettavano che il risultato dell’operazione sopra fosse una lista contenente i numeri 2, 4, 6, 8, ... invece il **risultato è uno stream**.
 <br/>
 Il motivo è che gli stream vengono valutati in modalità **lazy**, ossia solo quando effettivamente richiesto, questo vuol dire che lo stream non ha eseguito nessuna operazione. Anche se andassimo ad aggiungere un inspect per “vedere” l’esecuzione otterremmo questo:
 <br/><br/>
