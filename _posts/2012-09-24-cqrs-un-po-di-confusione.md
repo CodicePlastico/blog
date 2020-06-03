@@ -3,6 +3,7 @@ layout: post
 title:  "CQRS: un po' di confusione?"
 comments: true
 categories: tech
+tags: [cqrs, metodologie]
 ---
 
 

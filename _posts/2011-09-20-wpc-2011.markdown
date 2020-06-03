@@ -5,7 +5,7 @@ layout: post
 slug: wpc-2011
 title: WPC 2011
 categories: conf
-tags: [wpc, tdd]
+tags: [wpc, tdd, microsoft, testing]
 ---
 
 ![](http://www.wpc2011.it/images/media/b1_300x250.jpg)

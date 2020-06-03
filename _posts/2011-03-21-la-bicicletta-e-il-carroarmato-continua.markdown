@@ -5,7 +5,7 @@ layout: post
 slug: la-bicicletta-e-il-carroarmato-continua
 title: La bicicletta e il carroarmato (...continua)
 categories: tech
-tags: [ror]
+tags: [ror, ruby]
 ---
 
 Ho apprezzato i molti commenti al mio ultimo post, mi hanno fatto pensare ad alcune cose....

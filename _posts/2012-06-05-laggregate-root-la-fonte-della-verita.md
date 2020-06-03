@@ -3,6 +3,7 @@ layout: post
 title:  "L'aggregate-root: la fonte della verità"
 comments: true
 categories: tech
+tags: [metodologie, ddd, community]
 ---
 
 

@@ -6,7 +6,8 @@ slug: xedotnet-test-driving-a-mvvm-application
 title: 'XeDotNet: Test Driving a MVVM Application'
 wordpress_id: 23
 categories: conf
-tags: [tdd, mvvm]
+tags: [tdd, mvvm, wpf, community, design pattern]
+author: [ale]
 ---
 
 Il prossimo 10 giugno sarò a Mestre dagli amici di [XeDotNet](http://www.xedotnet.org/) dove terrò un talk sulla realizzazione di un'applicazione WPF con Model View ViewModel completamente in TDD.

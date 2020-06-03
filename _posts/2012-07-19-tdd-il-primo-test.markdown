@@ -5,7 +5,7 @@ layout: post
 slug: tdd-il-primo-test
 title: TDD il primo test
 wordpress_id: 381
-tag: [.net, c#, tdd]
+tags: [metodologie, tdd, testing, .net, c#,]
 categories: tech
 ---
 

@@ -7,6 +7,7 @@ title: 'Professionisti del web: ecco cosa abbiamo fatto noi'
 wordpress_id: 211
 categories:
 - Personal
+tags: [cp, rant]
 ---
 
 Il [post](http://blog.codiceplastico.com/ema/?p=199) sui pagamenti ha fatto un po' di rumore ed era quello che volevo, i pensieri che ho raccontato sono il sunto di mesi di osservazioni e di situazioni che sono peggiorate col tempo. Verso la fine dello scorso anno abbiamo preso alcuni provvedimenti che vorrei condividere con voi a partire dai contratti.

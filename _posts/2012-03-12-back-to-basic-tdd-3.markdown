@@ -6,7 +6,7 @@ slug: back-to-basic-tdd-3
 title: 'Back to basic: TDD (3)'
 wordpress_id: 321
 categories: tech
-tags: [ metodologie, tdd ]
+tags: [metodologie, tdd, testing, .net, c#]
 ---
 
 Nei primi 2 step abbiamo introdotto una piccola funzionalità che permette di aggiungere un articolo al carrello. Continuiamo sullo stesso tema introducendo la seguente funzionalità:

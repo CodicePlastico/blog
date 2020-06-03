@@ -3,7 +3,7 @@ layout: post
 title:  "NoSql day: una giornata eccezionale!!!"
 comments: true
 categories: tech
-tags: [nosql]
+tags: [nosql, webdebs, community, mongo]
 ---
 
 

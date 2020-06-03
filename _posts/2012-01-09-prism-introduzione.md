@@ -3,7 +3,7 @@ layout: post
 title:  "Prism: introduzione"
 comments: true
 categories: tech
-
+tags: [wpf, mvvm, .net]
 ---
 
 

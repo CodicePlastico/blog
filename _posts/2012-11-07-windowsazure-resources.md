@@ -2,6 +2,7 @@
 layout: post
 title:  "WindowsAzure.Resources"
 categories: tech
+tags: [azure, microsoft, tech]
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Domain events come se piovesse"
 comments: true
 categories: tech
+tags: [metodologie, ddd]
 ---
 
 

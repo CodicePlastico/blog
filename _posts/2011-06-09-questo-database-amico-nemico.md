@@ -3,7 +3,7 @@ layout: post
 title:  "Questo database amico-nemico"
 comments: true
 categories: tech
-tags: [database]
+tags: [database, ddd]
 ---
 
 

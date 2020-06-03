@@ -5,7 +5,7 @@ layout: post
 slug: cosa-ho-imparato-al-nosqlday
 title: Cosa ho imparato al NoSqlDay
 categories: tech
-tags: [nosql]
+tags: [nosql, webdebs, community, mongo]
 ---
 
 Venerdi scorso si e tenuto a Brescia il primo [NoSQLDay](http://www.nosqlday.it) un'intera giornata per approndire una delle buzzword del momento e per capire che sotto c'e parecchia ciccia (cit.).

@@ -2,6 +2,7 @@
 layout: post
 title:  "Blob storage: nuove API"
 categories: tech
+tags: [azure, microsoft, tech]
 ---
 
 

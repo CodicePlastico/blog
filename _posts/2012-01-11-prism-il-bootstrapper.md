@@ -3,7 +3,7 @@ layout: post
 title:  "Prism: il bootstrapper"
 comments: true
 categories: tech
-
+tags: [wpf, mvvm, .net]
 ---
 
 

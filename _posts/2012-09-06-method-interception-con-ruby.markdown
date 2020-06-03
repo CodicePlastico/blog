@@ -5,6 +5,7 @@ layout: post
 slug: method-interception-con-ruby
 title: Method interception con Ruby
 categories: tech
+tags: [ruby]
 ---
 
 Durante le vacanze estive ho letto [Metaprogramming Ruby](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476/ref=sr_1_1?ie=UTF8&qid=1346860185&sr=8-1&keywords=metaprogramming+ruby) di [Paolo Perrotta](https://twitter.com/nusco), libro denso a tratti difficile ma di grandissimo interesse che ti porta a scoprire la potenzialità di Ruby che, per noi programmatori "statici" abituati a quel poco di reflection che il .NET framework mette a disposizione, sembra fanta-programmazione.

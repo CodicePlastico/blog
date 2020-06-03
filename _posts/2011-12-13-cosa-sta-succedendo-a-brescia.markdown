@@ -6,7 +6,7 @@ slug: cosa-sta-succedendo-a-brescia
 title: Cosa sta succedendo a brescia?
 wordpress_id: 163
 categories: conf
-
+tags: [community, webdebs]
 ---
 
 Da qualche mese brescia è diventata un vulcano di iniziative legate la mondo web&startup. Ho già parlato di [Webdebs](http://webdebs.org) ma in questo periodo stiamo andando oltre le nostre aspettative.

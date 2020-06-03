@@ -2,6 +2,7 @@
 layout: post
 title:  "WAS: windows azure storage"
 categories: tech
+tags: [azure, microsoft]
 ---
 
 

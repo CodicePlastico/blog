@@ -3,6 +3,7 @@ layout: post
 title:  "DDD: i behavior prima di tutto"
 comments: true
 categories: tech
+tags: [metodologie, ddd, community]
 ---
 
 

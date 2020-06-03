@@ -6,7 +6,7 @@ slug: webdebs-una-nuova-community-locale
 title: WebDeBs una nuova community locale
 wordpress_id: 120
 categories: conf
-tag: [webdebs]
+tag: [webdebs, community]
 
 ---
 

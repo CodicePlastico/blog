@@ -3,7 +3,7 @@ layout: post
 title:  "NuGet, le dll e il source control"
 comments: true
 categories: tech
-
+tags: [tech, .net]
 ---
 
 

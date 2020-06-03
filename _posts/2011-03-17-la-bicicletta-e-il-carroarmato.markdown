@@ -4,7 +4,7 @@ date: 2011-03-17 21:15:00
 layout: post
 slug: la-bicicletta-e-il-carroarmato
 categories: tech
-tags: [ror]
+tags: [ror, ruby]
 
 
 ---

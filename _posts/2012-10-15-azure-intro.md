@@ -2,6 +2,7 @@
 layout: post
 title:  "Azure.Intro()"
 categories: tech
+tags: [azure, microsoft]
 ---
 
 

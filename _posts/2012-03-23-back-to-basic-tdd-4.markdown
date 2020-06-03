@@ -5,6 +5,7 @@ layout: post
 slug: back-to-basic-tdd-4
 title: 'Back to basic: TDD (4)'
 categories: tech
+tags: [metodologie, tdd, testing, .net, c#]
 ---
 
 Continua la serie, per piccoli passi.

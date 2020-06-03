@@ -3,7 +3,8 @@ layout: post
 title:  "TDD: focalizza il problema"
 comments: true
 categories: tech
-tags: [tdd ]
+tags: [metodologie, tdd, testing]
+author: [ale]
 ---
 
 

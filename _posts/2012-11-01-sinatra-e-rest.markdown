@@ -5,6 +5,8 @@ layout: post
 slug: sinatra-e-rest
 title: Sinatra e REST
 categories: tech
+author: [ema]
+tags: [api, ruby]
 ---
 
 Qualche settimana fa ho avuto il piacere di fare lo speaker alla prima european [WebNet conference](http://webnetconf.eu) con un talk su [sinatra](http://www.sinatrarb.com/).

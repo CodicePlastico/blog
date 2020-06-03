@@ -6,7 +6,7 @@ slug: test-driving-an-mvvm-app-a-xedotnet
 title: Test Driving a MVVM App a XeDotNet
 
 categories: conf
-tags: [mvvm, tdd, wpf ]
+tags: [mvvm, tdd, wpf, community, design pattern]
 ---
 
 Venerdi scorso sono stato a Mestre dagli amici di [XeDotNet](http://www.xedotnet.org/) per tenere un talk sul Test Driven Development di un'applicazione MVVM (WPF/Sliverlight). Serata divertentissima, ospite della Community veneta che è sempre molto attiva e ben organizzata e che continua a raccogliere ottimi consensi dai suoi iscritti.
