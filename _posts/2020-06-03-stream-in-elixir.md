@@ -6,7 +6,8 @@ socialcover: 'assets/images/post-cover/stream-elixir-s.jpg'
 slug: stream-in-elixir
 title: 'Stream in Elixir'
 date: 2020-06-03 00:00:00
-tags: [Tech]
+categories: [tech]
+tags: [elixir, kata, stream]
 author: [ema]
 ---
 
