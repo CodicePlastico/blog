@@ -2,6 +2,8 @@
 layout: post
 title:  "DDDHandsOn - (quasi) un mese dopo"
 categories: tech
+tags: [ddd]
+author: ale
 ---
 
 Dopo il necessario mese di decompressione delle idee e delle sensazioni (o meglio questa e' la scusa migliore che ho trovato per giustificare il ritardo del post) posso dire che l'esperimento che abbiamo provato con lo [@ziobrando] (http://twitter.com/ziobrando) e il [team di Avanscoperta] (http://www.avanscoperta.it/en) e' assolutamente riuscito. Come "quale esperimento"? Ma il [workshop su DDD] (http://www.avanscoperta.it/it/training/hands-on-domain-driven-design-workshop-2014-2/)

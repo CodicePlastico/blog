@@ -3,7 +3,8 @@ layout: post
 title: "On learning TDD"
 date: 2014-12-13
 categories: tech
-author: Emanuele DelBono
+tags: [tdd, testing, kata]
+author: ema
 ---
 
 Even if Test Driven Development is an old topic and even if today almost everybody should have learned the benefits of TDD I still do a lot of mentoring on the topic and some people ask me if I have some examples of code written on TDD. 

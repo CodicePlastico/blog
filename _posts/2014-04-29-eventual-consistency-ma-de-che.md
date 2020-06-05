@@ -2,6 +2,7 @@
 layout: post
 title:  "Eventual consistency...ma de che?"
 categories: tech
+tags: [ddd]
 ---
 
 Ma cos'e' questa benedetta "eventual consistency" di cui tanto si parla? Inizio fermamente a credere che sia la nuova *buzzword* per classificare i failure dei sistemi come "feature by design" :)  

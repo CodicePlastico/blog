@@ -3,6 +3,7 @@ layout: post
 title: "Coding Conventions"
 date: 2014-04-01
 categories: tech
+tags: [c#]
 ---
 
 In CodicePlastico we take the code readability very seriously and during last months we are trying to change the way we write code to made it more readable and performant.
