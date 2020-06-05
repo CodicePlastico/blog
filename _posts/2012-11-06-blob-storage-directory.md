@@ -3,6 +3,7 @@ layout: post
 title:  "Blob storage directory"
 categories: tech
 tags: [azure, microsoft, tech]
+author: [ale]
 ---
 
 

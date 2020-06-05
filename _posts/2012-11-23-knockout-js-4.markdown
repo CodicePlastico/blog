@@ -5,6 +5,7 @@ layout: post
 slug: knockout-js-4
 title: Knockout.js (4)
 categories: tech
+tags: [javascript]
 ---
 
 Talvolta è necessario intercettare le operazioni di set fatte da una proprietà in binding per notificare altri viewmodel del cambiamento. Il parallelo con WPF è quando a fronte di un set di un attributo del viewmodel voglio avvisare un altro viewmodel del cambiamento usando un MessageBroker in memoria.

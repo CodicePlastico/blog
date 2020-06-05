@@ -3,6 +3,8 @@ layout: post
 title:  "Blogging with octopress on windows"
 comments: true
 categories: tech
+tags: [cp, tech]
+author: ale
 ---
 
 

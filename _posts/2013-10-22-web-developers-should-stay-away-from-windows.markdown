@@ -4,6 +4,8 @@ title: "Web developers should stay away from Windows"
 date: 2013-10-24 17:48
 comments: true
 categories: tech
+tags: [ruby, ror, functional, community, c#, .net, elixir]
+author: ema
 ---
 The more I explore Open Source world the more I ask myself why web developers are still using .NET for their web applications.
 

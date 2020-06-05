@@ -4,7 +4,8 @@ title: "Ruby Loves DDD (Part 5)"
 date: 2014-01-05 23:25
 comments: true
 categories: tech
-
+tags: [ruby, community, ddd]
+author: ema
 ---
 
 Going back to the handler. We saw in a previous [post](http://ema.codiceplastico.com/blog/2013/10/25/ruby-loves-ddd-part-3/) how the repository recreates the aggregate state re-executing the events. Now that we have the aggregate reference we can call methods on it:

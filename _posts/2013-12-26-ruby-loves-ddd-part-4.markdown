@@ -4,6 +4,8 @@ title: "Ruby Loves DDD (Part 4)"
 date: 2013-12-26 15:30
 comments: true
 categories: tech
+tags: [ruby, community, ddd]
+author: ema
 ---
 In the last [post](http://ema.codiceplastico.com/blog/2013/10/25/ruby-loves-ddd-part-3/) we saw how it is implemented a command handler and how it interacts with the aggregate.
 

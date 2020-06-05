@@ -3,6 +3,7 @@ layout: post
 title:  "Query polimorfiche con il table storage"
 comments: true
 categories: tech
+tags: [azure, microsoft, tech]
 ---
 
 
