@@ -5,7 +5,7 @@ layout: post
 slug: lens-in-javascript
 title: Lens in javascript
 categories: tech
-tags: [javascript, api]
+tags: [javascript, api, functional]
 author: ema
 ---
 

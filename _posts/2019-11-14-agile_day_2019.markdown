@@ -4,7 +4,7 @@ slug: agile-day-2019
 title: Agile Day 2019
 date: 2019-11-13 00:00:00
 categories: [conf]
-tags: [agile]
+tags: [agile, community]
 author: ema
 cover: 'assets/images/post-cover/2019114-agile-day.jpg'
 ---

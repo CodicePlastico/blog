@@ -6,7 +6,7 @@ date: 2018-01-02 07:25:00 +0100
 slug: testare-comportamenti-multi-thread
 categories: tech
 categories: tech
-tags: [.net,testing,concurrency,multithreading,synchronization]
+tags: [.net, testing, concurrency, multithreading, synchronization]
 author: pietro
 ---
 Mai scrivere codice di *produzione* se non a fronte di uno *unit test* che fallisce - e mai più dello stretto necessario a far passare il test: questo, fondamentalmente, lo spirito delle [*tre regole* del TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd).

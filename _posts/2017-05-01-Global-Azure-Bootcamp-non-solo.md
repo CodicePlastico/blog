@@ -2,7 +2,7 @@
 layout: post
 title:  "Global Azure Bootcamp 2017 e non solo..."
 comments: true
-tags: [azure, doker]
+tags: [azure, doker, community]
 categories: conf
 author: ema
 ---

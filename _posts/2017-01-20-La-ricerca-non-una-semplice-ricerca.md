@@ -2,7 +2,7 @@
 layout: post
 title:  "La ricerca non è solo una ricerca"
 comments: true
-tags: [ddd,CQRS]
+tags: [ddd, cqrs]
 categories: tech
 
 author: ale

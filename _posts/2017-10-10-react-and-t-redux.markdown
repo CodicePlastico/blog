@@ -3,7 +3,7 @@ layout: post
 title: "Reactjs Redux pattern"
 date: 2017-10-10
 categories: tech
-tags: [react,redux]
+tags: [react, redux, javascript]
 author: ema
 ---
 
