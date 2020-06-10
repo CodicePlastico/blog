@@ -3,7 +3,7 @@ layout: post
 title:  "CommunityDays: che esperienza!!!"
 comments: true
 categories: conf
-tags: [microsoft]
+tags: [microsoft, mongo, community]
 ---
 
 

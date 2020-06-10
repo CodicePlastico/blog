@@ -4,6 +4,8 @@ title: "ruby loves DDD (part 3)"
 date: 2013-10-25 18:10
 comments: true
 categories: tech
+tags: [ruby, community, ddd]
+author: ema
 ---
 
 In the last [post](http://ema.codiceplastico.com/blog/2013/10/21/ruby-loves-ddd-some-code/) we saw how the controller issue a command to the pipeline, now we will see how this command in managed.

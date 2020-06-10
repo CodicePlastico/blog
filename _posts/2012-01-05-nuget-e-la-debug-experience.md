@@ -3,7 +3,7 @@ layout: post
 title:  "NuGet e la debug-experience"
 comments: true
 categories: tech
-
+tags: [tech, .net]
 ---
 
 

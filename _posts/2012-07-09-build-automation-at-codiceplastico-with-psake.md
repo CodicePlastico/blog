@@ -3,6 +3,7 @@ layout: post
 title:  "Build automation @codiceplastico with psake"
 comments: true
 categories: tech
+tags: [tech, .net]
 ---
 
 

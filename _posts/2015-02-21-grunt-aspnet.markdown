@@ -3,8 +3,9 @@ layout: post
 title: "Build your ASP.NET MVC app with Grunt"
 date: 2015-02-21
 comments: true
-author: Emanuele DelBono
+author: ema
 categories: tech
+tags: [javascript, tech]
 ---
 
 [Grunt](http://gruntjs.com/) (and [Gulp](http://gulpjs.com/)) is a marvellous tool to automate your development and build pipeline but until few months ago it was directly tied to the node environment.

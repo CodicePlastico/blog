@@ -6,7 +6,7 @@ slug: uno-sguardo-sul-mio-2011-da-programmatore
 title: Uno sguardo sul mio 2011 da programmatore
 wordpress_id: 167
 categories: vita-plastica
-
+tags: [ruby, mongo, community]
 ---
 
 Come ogni anno questo è un periodo di bilanci sull'anno trascorso e di propositi per quello nuovo. Oggi sono andato a rileggermi la lista dei todo che a fine 2010 avevo scritto per il nuovo anno e posso dire con orgoglio che ho fatto quasi tutto quello che mi ero ripromesso di fare.

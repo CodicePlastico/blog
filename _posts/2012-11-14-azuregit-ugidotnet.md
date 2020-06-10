@@ -2,6 +2,7 @@
 layout: post
 title:  "Azure and Git @ UgiDotNet"
 categories: tech
+tags: [azure, microsoft, tech]
 ---
 
 

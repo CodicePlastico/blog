@@ -3,8 +3,8 @@ layout: post
 title: "About TDD (IMHO)"
 date: 2014-05-26
 categories: tech
-tags: [tdd]
-author: Emanuele DelBono
+tags: [tdd, testing]
+author: ema
 ---
 
 In these days everybody talks about TDD due to the [post](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html) of DHH titled TDD is Dead and the various [hangouts](https://www.youtube.com/watch?v=z9quxZsLcfo) with [Fowler](http://martinfowler.com/) and [Beck](https://twitter.com/KentBeck).

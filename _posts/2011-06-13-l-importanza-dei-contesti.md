@@ -3,7 +3,7 @@ layout: post
 title:  "L'importanza dei contesti"
 comments: true
 categories: tech
-tags: [database]
+tags: [database, ddd]
 ---
 
 

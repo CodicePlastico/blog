@@ -5,6 +5,7 @@ layout: post
 slug: clickonce-su-azure
 title: 'Clickonce su azure '
 categories: tech
+tags: [azure, microsoft, tech]
 ---
 
 Ultimamente ci è capitato di scrivere ancora un'applicazione con WPF e di dover integrare nel processo di build la pubblicazione del pacchetto clickonce su Azure per poter effettuare il deploy. Fortunatamente lo sconfinato mondo  di ruby mette a disposizione una gemma per poter interagire con il blobstorage di Azure, cosi il nostro file [rake](http://blog.codiceplastico.com/ema/?p=17) si arricchisce di questi task.

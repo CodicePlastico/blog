@@ -2,7 +2,7 @@
 layout: post
 title:  "MVP su Azure...#estiqaatsi"
 comments: true
-tags: [Azure]
+tags: [azure, community]
 categories: tech
 author: ale
 ---

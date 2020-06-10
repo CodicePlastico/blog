@@ -2,7 +2,7 @@
 layout: post
 title:  "Docker & Azure"
 comments: true
-tags: [azure, doker]
+tags: [azure, doker, community]
 categories: conf
 author: ale
 ---

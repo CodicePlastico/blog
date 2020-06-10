@@ -2,6 +2,8 @@
 layout: post
 title:  "Blob storage e hosting di siti statici"
 categories: tech
+tags: [azure, microsoft, tech]
+author: [ale]
 ---
 
 

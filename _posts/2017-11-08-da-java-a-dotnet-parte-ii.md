@@ -5,7 +5,7 @@ subtitle: "A che cosa non rinuncerei e che cosa mi manca"
 date: 2017-11-08 08:00:00
 
 categories: tech
-tags: [java,.net]
+tags: [java, .net, c#]
 slug: da-java-a-dotnet-parte-ii
 
 author: pietro

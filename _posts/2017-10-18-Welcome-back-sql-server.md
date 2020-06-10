@@ -5,7 +5,7 @@ comments: true
 categories: Technology SQLServer
 
 categories: tech
-tags: [database,sql]
+tags: [database, sql, doker, azure]
 author: ale
 ---
 

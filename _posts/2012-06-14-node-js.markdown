@@ -6,6 +6,7 @@ slug: node-js
 title: Node.js
 
 categories: tech
+tags: [javascript]
 ---
 
 Node.js è il framework del momento, nato solo 3 anni fa, in poco tempo ha suscitato entusiasmo nella community degli sviluppatori fino a farlo diventare un framework diffuso al punto che anche Microsoft, di solito distante a queste novità, ha deciso di supportarlo e ha aiutato il team ad effettuare il porting su windows.

@@ -6,7 +6,7 @@ slug: professionisti-del-web-ribellatevi
 title: Professionisti del web...ribellatevi!
 wordpress_id: 199
 categories: vita-plastica
-tags: [ cp, rant ]
+tags: [cp, rant]
 ---
 
 Il 2011 è stato un anno particolare: la crisi, la situazione europea, il cambio di governo in Italia hanno mosso le coscienze dei cittadini che sembrano aver iniziato un percorso verso l'acquisizione di un nuovo senso civico (io ci voglio credere :-))

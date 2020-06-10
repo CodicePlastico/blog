@@ -5,6 +5,7 @@ layout: post
 slug: web-net-european-conference
 title: Web.net european conference
 categories: conf
+tags: [community, api]
 ---
 
 [Simone](http://codeclimber.net.nz/) e [Ugo](http://tostring.it/) ce l'hanno fatta. Sono riusciti ad organizzare una [conferenza](http://webnetconf.eu/) indipendente con speaker e partecipanti da tutta Europa a Milano. Ce l'hanno fatta da soli, con pochi [sponsor](http://webnetconf.eu/#sponsor) e tanta passione. I biglietti sono stati venduti in poco più di due ore, [l'agenda](http://webnetconf.eu/#agenda) è interessantissima e chiunque scriva applicazioni web non solo sulla piattaforma Microsoft non può perdere questa occasione. Questo dimostra ancora una volta che la filosofia nata con ugialt.net sia ancora molto apprezzata.

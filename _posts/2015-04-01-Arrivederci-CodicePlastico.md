@@ -5,6 +5,7 @@ comments: true
 tags: [cp]
 categories: vita-plastica
 author: ale
+tags: [cp]
 ---
 
 Questo e' un post un po' particolare, non tecnico come solitamente faccio su questo blog, ma piu' personale.  

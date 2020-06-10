@@ -3,6 +3,8 @@ layout: post
 title:  "I prossimi appuntamenti...e quelli appena passati"
 comments: true
 categories: conf
+tags: [community, azure, mongo]
+author: [ale]
 ---
 
 

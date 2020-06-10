@@ -6,7 +6,7 @@ slug: back-to-basic-tdd
 title: 'Back to Basic: TDD'
 wordpress_id: 229
 categories: tech
-tags: [ tdd ]
+tags: [tdd, testing, metodologie]
 ---
 
 Nonostante parlo di TDD da anni, e alcuni cominciano anche ad annoiarsi, ancora oggi mi rendo conto che è una pratica che non è molto utilizzata e apprezzata come meriterebbe, molti ne parlano, ma pochi la usano.

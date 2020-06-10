@@ -3,7 +3,7 @@ layout: post
 title:  "community.StartNewYear()"
 comments: true
 categories: conf
-
+tags: [cp, community, nosql]
 ---
 
 

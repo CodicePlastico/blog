@@ -2,6 +2,7 @@
 layout: post
 title:  "DDD: sogno o realtà?"
 categories: tech
+tags: [metodologie, ddd, community]
 ---
 
 

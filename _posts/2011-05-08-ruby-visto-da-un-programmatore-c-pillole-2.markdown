@@ -6,6 +6,7 @@ slug: ruby-visto-da-un-programmatore-c-pillole-2
 title: Ruby visto da un programmatore C# (pillole) [2]
 categories: tech
 tags: [c#, ruby]
+author: ema 
 ---
 
 Nel post precedente abbiamo visto come è possibile aggiungere un metodo ad una classe, nello stesso modo in cui abbiamo aggiunto il metodo lo possiamo anche rimuovere.

@@ -5,6 +5,7 @@ layout: post
 slug: knockout-js-3
 title: knockout.js (3)
 categories: tech
+tags: [javascript]
 ---
 
 Nel precedente [articolo](http://blog.codiceplastico.com/ema/?p=414) abbiamo visto come mettere in binding una collezione di oggetti con una table, oggi riprendiamo l'esempio per aggiungere una funzionalità: vogliamo fare in modo che se la quantità di un prodotto è uguale a zero, la riga venga visualizzata in modo diverso (ad esempio mostrando un link per poterne ordinare altri).

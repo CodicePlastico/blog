@@ -7,6 +7,7 @@ title: Build con Rake
 wordpress_id: 17
 categories: tech
 tags: [ruby]
+author: ema 
 ---
 
 Per parecchi anni abbiamo usato [NANT](http://nant.sourceforge.net/) e successivamente [MSBuild](http://msdn.microsoft.com/en-us/library/ms171452(v=vs.90).aspx) per effettuare le build dei nostri progetti e per parecchi anni ho odiato l'XML per la sua "prolissità" e per la poca manutenibilità. Quante build rotte a causa di un tag non chiuso, di una variabile scritta male, di un doppio apice dimenticato....

@@ -5,6 +5,7 @@ layout: post
 slug: si-fa-presto-a-dire-rest
 title: Si fa presto a dire REST
 categories: tech
+tags: [api]
 ---
 
 Ogni periodo storico informatico ha le sue buzzword e oggi una di quelle più usate è REST. Anni fa andava di moda SOAP, oggi tutti si scagliano contro di lui (spesso senza ragione) e portano come migliore soluzione REST. Ma REST lo fanno in pochi forse perché non esistono delle vere e proprie specifiche implementate e perché all'aderenza alla teoria si preferisce (giustamente) il pragmatismo. Al di là dei dettagli implementativi una API REST deve rispettare questi principi.

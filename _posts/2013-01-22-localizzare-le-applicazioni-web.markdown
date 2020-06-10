@@ -5,6 +5,7 @@ layout: post
 slug: localizzare-le-applicazioni-web
 title: Localizzare le applicazioni web
 categories: tech
+tags: [.net]
 ---
 
 Sempre più spesso ci capita di realizzare applicazioni web multilingua e questo ci ha spinto a trovare una soluzione che sia facilmente riutilizzabile e che sia sostenibile facilmente.

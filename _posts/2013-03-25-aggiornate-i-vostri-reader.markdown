@@ -3,6 +3,8 @@ layout: post
 title: "Aggiornate i vostri reader"
 date: 2013-03-25 15:13
 categories: tech
+tags: [cp, tech]
+author: ema 
 ---
 Da qualche giorno ho spostato il blog su un nuovo server, purtroppo ogni tanto capita di dover abbandonare le vecchie piattaforme per passare a soluzioni più economiche e/o più comode.
 Quindi il nuovo indirizzo del blog è [http://ema.codiceplastico.com](http://ema.codiceplastico.com).

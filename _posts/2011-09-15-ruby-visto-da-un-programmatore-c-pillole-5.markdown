@@ -6,6 +6,7 @@ slug: ruby-visto-da-un-programmatore-c-pillole-5
 title: Ruby visto da un programmatore C# (pillole) [5]
 categories: tech
 tags: [ruby, c#]
+author: ema
 ---
 
 Nei giorni scorsi ho letto alcuni post e ho assistito ad alcune discussioni sul fatto che il mondo ruby sembra non essere interessato ai principi del buon design. Ne è conferma, per un neo-rubysta il fatto che presa una classe a caso (String), il numero di metodi che espone sono 95! La classe Object ne espone circa 50!

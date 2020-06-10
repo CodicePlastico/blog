@@ -3,7 +3,7 @@ layout: post
 title:  "Sync framework: un po' di link"
 comments: true
 categories: tech
-tags: [SyncFramework]
+tags: [sync framework, database, .net]
 ---
 
 

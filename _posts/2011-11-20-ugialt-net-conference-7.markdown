@@ -5,7 +5,7 @@ layout: post
 slug: ugialt-net-conference-7
 title: UgiALT.net Conference 7
 categories: conf
-
+tags: [community, .net]
 ---
 
 Il motore organizzativo della ugialt.net conference si è attivato da qualche mese per organizzare la prossima conferenza.

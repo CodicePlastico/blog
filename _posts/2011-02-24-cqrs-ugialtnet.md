@@ -3,7 +3,7 @@ layout: post
 title:  "CQRS @ UgiAltNet"
 comments: true
 categories: tech
-tags: [cqrs]
+tags: [cqrs, ddd]
 ---
 
 

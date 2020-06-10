@@ -8,7 +8,7 @@ socialcover: 'assets/images/post-cover/obiettivi-pair-programming-s.jpg'
 title: "Pair programming: qual è l’obiettivo?"
 date: 2017-10-25 14:00:00
 categories: tech
-tags: [pair programming]
+tags: [pair programming, software]
 author: paolo
 ---
 

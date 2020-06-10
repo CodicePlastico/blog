@@ -6,7 +6,7 @@ slug: back-to-basic-il-contesto-e-il-primo-test
 title: 'Back to basic: il contesto e il primo test'
 wordpress_id: 273
 categories: tech
-tags: [ metodologie, tdd ]
+tags: [metodologie, tdd, testing, .net, c#]
 ---
 
 Per partire con la serie di post sull'applicazione del TDD dobbiamo prima identificare un contesto che sia abbastanza semplice da capire ma anche abbastanza complesso da implementare.

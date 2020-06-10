@@ -3,6 +3,8 @@ layout: post
 title:  "Blob storage: introduzione"
 comments: true
 categories: tech
+tags: [azure, microsoft, tech, api]
+author: [ale]
 ---
 
 

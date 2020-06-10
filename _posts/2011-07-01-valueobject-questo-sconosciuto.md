@@ -3,7 +3,7 @@ layout: post
 title:  "ValueObject: questo sconosciuto"
 comments: true
 categories: tech
-tags: [value object]
+tags: [value object, ddd]
 ---
 
 

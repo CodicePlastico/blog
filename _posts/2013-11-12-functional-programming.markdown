@@ -4,6 +4,7 @@ title: "Functional programming"
 date: 2013-11-12 14:53
 comments: true
 categories: tech
+tags: [functional, elixir, fsharp]
 ---
 
 In the last year Functional Programming is the topic that devs are talking about. Many functional languages are becoming popular ([Scala](http://www.scala-lang.org/), [F#](http://www.tryfsharp.org/), [Clojure](http://clojure.org/), [Elixir](http://elixir-lang.org/) and someone is starting to say that functional programming will be the next big thing.

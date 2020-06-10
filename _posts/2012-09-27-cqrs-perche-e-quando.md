@@ -3,6 +3,7 @@ layout: post
 title:  "CQRS: perchè e quando"
 comments: true
 categories: tech
+tags: [cqrs, metodologie]
 ---
 
 

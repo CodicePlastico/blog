@@ -2,6 +2,7 @@
 layout: post
 title:  "Toolkit per lo sviluppo di applicazioni WPF/SL/WP/W8"
 categories: tech
+tags: [wpf, mvvm]
 ---
 
 

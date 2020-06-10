@@ -3,7 +3,7 @@ layout: post
 title:  "Perchè MongoDb?"
 comments: true
 categories: tech
-tags: [database, mongo]
+tags: [database, mongo, nosql]
 ---
 
 

@@ -4,6 +4,8 @@ title: "Ruby loves DDD (part 2)"
 date: 2013-10-21 12:59
 comments: true
 categories: tech
+tags: [ruby, community, ddd]
+author: ema
 ---
 
 My experiments with Ruby and Domain Driven Implementation continues. Two weeks ago I was at the [Rupy](http://13.rupy.eu) conf talking about Domain Driven Architectures in Ruby.

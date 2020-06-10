@@ -3,6 +3,8 @@ layout: post
 title:  "Il processo di bootstrapping di un'applicazione WPF con Caliburn.Micro"
 comments: true
 categories: tech
+tags: [microsoft, wpf]
+author: [ale]
 ---
 
 

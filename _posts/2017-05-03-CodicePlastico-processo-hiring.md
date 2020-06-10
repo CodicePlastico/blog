@@ -3,7 +3,7 @@ layout: post
 title:  "CodicePlastico e il nostro processo di hiring"
 comments: true
 categories: vita-plastica
-tags: [cp, hiring]
+tags: [cp, hiring, kata]
 author: ale
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Factory e leggibilità del codice (1/2)"
 comments: true
 categories: tech
+tags: [design pattern]
 ---
 
 
