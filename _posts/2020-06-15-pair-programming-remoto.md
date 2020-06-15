@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/20200615-remote-pair-programming.jpg'
+cover: 'assets/images/post-cover/20200615-remote-pair-programming.jpg'
 socialcover: 'assets/images/post-cover/20200615-remote-pair-programming-s.jpg'
 slug: pair-programming-remoto
 title: 'Pair Programming Remoto:  i consigli per renderlo efficace da chi lo sperimenta sul campo '
