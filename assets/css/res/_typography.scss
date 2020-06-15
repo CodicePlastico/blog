@@ -32,6 +32,7 @@ body{ font-family: 'Barlow', sans-serif;   font-size: $size; line-height: $lh;
   }
   strong {
     font-weight: 400;
+    &.emph{ font-weight: 600; color: $main-color;}
   }
   em {
     font-style: italic; font-weight: 300 !important;
@@ -133,6 +134,13 @@ cite{
 
 }
 
+div.emphasis{
+ 
+  padding: 1.5em;
+  margin: 2em 0;
+  h4{ font-weight: 300; color:$main-color; text-transform: uppercase;}
+  background: lighten($main-color, 45%);
+}
 @media #{$mqXS}{ //blu
 }
 

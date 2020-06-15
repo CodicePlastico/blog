@@ -162,6 +162,9 @@ figure {
 
 strong {
   font-weight: 400; }
+  strong.emph {
+    font-weight: 600;
+    color: #D93232; }
 
 em {
   font-style: italic;
@@ -259,6 +262,15 @@ cite {
     font-size: 1.8em;
     font-weight: bold;
     position: absolute; }
+
+div.emphasis {
+  padding: 1.5em;
+  margin: 2em 0;
+  background: #fdf4f4; }
+  div.emphasis h4 {
+    font-weight: 300;
+    color: #D93232;
+    text-transform: uppercase; }
 
 .row {
   display: flex;
