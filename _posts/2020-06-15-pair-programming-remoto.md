@@ -8,7 +8,7 @@ title: 'Pair Programming Remoto:  i consigli per renderlo efficace da chi lo spe
 date: 2020-06-15 00:00:00
 categories: [tech]
 tags: [pair programming, metodologie, cp]
-author: [pietro, umby, bonny]
+author: [pietro, bonny, umby]
 ---
 
 Il Pair Programming è una tecnica che prevede due programmatori che sviluppano insieme da una medesima postazione. I partecipanti, all’inizio di ogni sessione, stabiliscono due ruoli: il **driver**, che operativamente scrive il codice e ha l’onere (e l’onore!) di portare a termine la soluzione funzionante e l’**observer** che ha il compito di supervisionare il codice, indicare errori e discutere delle soluzioni attuate.
@@ -115,7 +115,7 @@ Non rischi di perdere la concentrazione a causa delle continue interruzioni?
 </p>
 <cite>Quali sono le differenze tra il Pair “dal vivo” e “da remoto”?</cite>
 
-<strong class="emph">Pietro</strong>: Come per molte altre cose, la versione dal vivo è molto più divertente di quella online (doppio senso voluto) e permette di "scambiare i ruoli" di osservato ed osservatore in modo più sistematico, semplice e rapido. Facendo Pair Programming dal vivo, generalmente, è molto più frequente che *l'osservatore prenda il controllo della tastiera* per esemplificare un pensiero scrivendo qualche riga di codice; nel Pair Programming remoto questo è molto più difficile e, di conseguenza, assai raro. L'unico vero punto dolente del fare Pair Programming è, per quanto mi riguarda, la necessità di interminabili call conference per la versione remota...
+<strong class="emph">Pietro</strong>: Come per molte altre cose, la versione dal vivo è molto più divertente di quella online e permette di "scambiare i ruoli" di osservato ed osservatore in modo più sistematico, semplice e rapido. Facendo Pair Programming dal vivo, generalmente, è molto più frequente che *l'osservatore prenda il controllo della tastiera* per esemplificare un pensiero scrivendo qualche riga di codice; nel Pair Programming remoto questo è molto più difficile e, di conseguenza, assai raro. L'unico vero punto dolente del fare Pair Programming è, per quanto mi riguarda, la necessità di interminabili call conference per la versione remota...
 
 <strong class="emph">Marco</strong>: Mmmh, secondo me sono abbastanza simili. Io trovo che da remoto sia *più pesante per i mezzi* (es .cuffia ) *ma meglio per quanto riguarda le interruzioni e la comodità di vedere bene* quello che si scrive. Dal “vivo” meglio per quanto riguarda il contatto umano fatto di tutta quella parte di comunicazione non verbale che da remoto si perde.
 
