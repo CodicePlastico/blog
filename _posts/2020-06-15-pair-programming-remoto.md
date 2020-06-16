@@ -7,7 +7,7 @@ slug: pair-programming-remoto
 title: 'Pair Programming Remoto:  i consigli per renderlo efficace da chi lo sperimenta sul campo '
 date: 2020-06-15 00:00:00
 categories: [tech]
-tags: [pair programming, metodologie, cp]
+tags: [pair programming, metodologie]
 author: [pietro, bonny, umby]
 ---
 
