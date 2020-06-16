@@ -32,9 +32,9 @@ Ma non si perde tempo a fare in due una cosa che potrebbe essere fatta da soli?
 
 <strong class="emph">Pietro</strong>: Anche acquistare tre prodotti (al prezzo di due) costa più dell'acquistare il solo necessario - ma nel medio periodo conviene. Da questo punto di vista, *fare Pair Programming è come fare regolarmente code review* - solo più divertente e sociale.
 
-<strong class="emph">Marco</strong>: Il tempo è soggettivo se si considera che un software sviluppato con due teste è sicuramente fatto meglio. Il tempo di realizzazione di una feature è la somma del tempo di sviluppo e soprattutto di quello dedicato manutenzione e refactoring.  Grazie al pair le *operazioni di mantenimento del software risultano essere più facili*, proprio perchè il software è scritto meglio.
+<strong class="emph">Marco</strong>: Il tempo è soggettivo se si considera che un software sviluppato con due teste è sicuramente fatto meglio. Il tempo di realizzazione di una feature è la somma del tempo di sviluppo e soprattutto di quello dedicato a manutenzione e refactoring.  Grazie al pair le *operazioni di mantenimento del software risultano essere più facili*, proprio perchè il software è scritto meglio.
 
-<strong class="emph">Umberto</strong>: Il Pair è una modalità di programmazione molto interessante. Sicuramente per chi è abituato a lavorare sempre da solo è facile considerare il lavorare in due sullo stesso task una perdita di tempo. Dopo anni d'esperienza in Pair, posso affermare che non è sempre così. Ad esempio *il Pair è molto efficace quando si svolge un lavoro particolarmente complesso* dove serve concentrazione sicuramente quattro occhi sono meglio che due  :-D 
+<strong class="emph">Umberto</strong>: Il Pair è una modalità di programmazione molto interessante. Sicuramente per chi è abituato a lavorare sempre da solo è facile considerare il lavorare in due sullo stesso task una perdita di tempo. Dopo anni d'esperienza in Pair, posso affermare che non è sempre così. Ad esempio *il Pair è molto efficace quando si svolge un lavoro particolarmente complesso* dove serve concentrazione: sicuramente quattro occhi sono meglio di due  :-D 
 In particolare il cliente per cui lavoriamo, lo richiede per 3 motivi principali: 
 
 <ul>
