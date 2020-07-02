@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/post-cover/20200701-azure-functions.jpg'
 socialcover: 'assets/images/post-cover//20200701-azure-functions-s.jpg'
 slug: azure-functions
-title: 'Azure Functions: ovvero il Cloud secondo me'
+title: 'Durable Function alla riscossa'
 date: 2020-07-01 14:00:00
 category : tech
 tags: [azure, serverless, howto]
@@ -12,8 +12,6 @@ author: ale
 ---
 
 Nell'ecosistema di Azure, negli ultimi anni, si sono affacciate le *Azure Functions*: la proposta di Azure per tutto cio' che sta sotto il cappello di "serverless computing".  
-Non è un approccio applicabile ovunque, per ogni caso, ma si sposa perfettamente con l'idea di "cloud" che ho io.  
-
 Il modello event-driven nativo, che sta alla base del servizio, è molto comodo in diversi scenari. Di per sè la metafora su cui si basa il funzionamento del servizio è molto semplice: quando *succede qualcosa*, dato un set di input applica l'elaborazione e genera un set di output.  
 
 In gergo tecnico,
@@ -22,7 +20,7 @@ In gergo tecnico,
 - "l'elaborazione" è la *function* vera e propria
 - il "set di output" è il *binding in uscita*
 
-L'idea di questo post non è tanto spiegare cosa sono le Functions, per questo rimando alla [documentazione ufficiale](https://azure.microsoft.com/en-us/services/functions/), che è sicuramente più esaustiva. L'idea è quella di capire, con un caso reale, *come risolvere scenari più complessi* di una chiamata HTTP e/o della inserimento di un nuovo documento in CosmosDB a fronte di un messaggio su una coda.  
+L'idea di questo post non è tanto spiegare cosa sono le Functions, per questo rimando alla [documentazione ufficiale](https://azure.microsoft.com/en-us/services/functions/), che è sicuramente più esaustiva. L'idea è quella di capire, con un caso reale, *come risolvere scenari più complessi* di una chiamata HTTP e/o della inserimento di un nuovo documento in CosmosDB a fronte di un messaggio in una coda.  
 <br/>
 ### Lo scenario: l'insidioso OCR
 Ipotizziamo di dover estrarre il contenuto testuale di un documento pdf caricato su un container dello storage account, tramite un'opportuna elaborazione OCR. Lo scenario sembra semplice, ma nasconde delle (piccole) insidie. Vediamole.  
@@ -90,7 +88,7 @@ Non avendo alcun controllo su quando il risultato sarà pronto, l'unica opzione 
 Azure Functions mette a disposizione un *trigger di tipo Timer*, ma in questo caso non è quello che fa al ca*so nostro: noi non abbiamo bisogno di un timer "continuo", ma abbiamo bisogno di *attivare un timer all'occorrenza*, permettendoci di interrogare la presenza del risultato, e, successivamente, spegnerlo. 
 <br/><br/>
 ### Molte risorse per nulla
-Altra opzione potrebbe essere quella di mettere un *messaggio su una coda*, in modo da attivare un'altra function che verifichi la presenza del risultato. Se il risultato è presente, viene salvato su CosmosDB o da qualsiasi altra parte. Se l'elaborazione OCR non fosse ancora terminata "basterebbe" ripubblicare lo stesso messaggio, riattivando di fatto la stessa funzione. Questa opzione, seppur funzionante, non è ottimale: *consumeremmo un "sacco" di risorse per nulla in un ciclo continuo*.   
+Altra opzione potrebbe essere quella di mettere un *messaggio in una coda*, in modo da attivare un'altra function che verifichi la presenza del risultato. Se il risultato è presente, viene salvato su CosmosDB o da qualsiasi altra parte. Se l'elaborazione OCR non fosse ancora terminata "basterebbe" ripubblicare lo stesso messaggio, riattivando di fatto la stessa funzione. Questa opzione, seppur funzionante, non è ottimale: *consumeremmo un "sacco" di risorse per nulla in un ciclo continuo*.   
 <br/><br/>
 ### Extra bonus! Le Durable Functions
 Quando il flusso è un po' più articolato e dobbiamo gestire dei workflow più articolati abbiamo bisogno di un extra bonus: le *Durable Functions*.  
@@ -130,5 +128,5 @@ In questo modo abbiamo creato un *timer* che ogni 30 secondi, e per un massimo d
 **ExecuteAsyncBatchAnalyzeActivity**, **GetAsyncBatchStatusActivity** e **SaveAsyncBatchAnalyzeResultsActivity** sono chiamate activity.  
 Sono di fatto le "funzioni" che compongono il workflow.
 
-### Serveless + consumption plan = Cloud
-Che dire...non per tutto, ma sicuramente per diversi scenari, un approccio "serverless" semplifica enormemente la vita. Unito al concetto di [consumption plan](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#consumption-plan) è quello che per me dovrebbe essere il cloud.
+### Serveless + consumption plan = il Cloud secondo me
+Che dire...non per tutto, ma sicuramente per diversi scenari, un approccio "serverless" semplifica enormemente la vita. Unito al concetto di [consumption plan](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#consumption-plan) è quello che piu' si avvicina all'idea di cloud che ho io.
