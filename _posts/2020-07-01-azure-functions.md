@@ -2,7 +2,7 @@
 layout: post
 current: post
 cover: 'assets/images/post-cover/20200701-azure-functions.jpg'
-socialcover: 'assets/images/post-cover//20200701-azure-functions-s.jpg'
+socialcover: 'assets/images/post-cover/20200701-azure-functions-s.jpg'
 slug: azure-functions
 title: 'Durable Function alla riscossa'
 date: 2020-07-01 14:00:00
