@@ -61,7 +61,7 @@ const axios = require('axios');
 const client = axios.create({
     baseURL: process.env['AZURE_COGNITIVE_SERVICE_BASE_URI'],
     headers: {
-        'Content-Typè: "application/json",
+        'Content-Type': "application/json",
         'Ocp-Apim-Subscription-Key': process.env['AZURE_COGNITIVE_SERVICE_API_KEY']
     }
 })
