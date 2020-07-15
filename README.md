@@ -19,7 +19,8 @@
 | react             | redux             | remote          |
 | ror               | ruby              | rust            |
 | software          | sql               | sync framework  |
-| synchronization   | serveless         |tdd              |
-| tech              | testing           | value object    |
-| video             | webdebs           | windows         |
-| women IT          | wpc               | wpf             |  
+| synchronization   | serveless         | tdd             | 
+| team management   | tech              | testing         |
+| value object      | video             | webdebs         | 
+| windows           | women IT          | wpc             |
+| wpf               |  

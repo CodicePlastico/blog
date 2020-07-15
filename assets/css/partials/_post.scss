@@ -26,8 +26,10 @@
 .post, .post-card{
     .authors{ display: flex; justify-content: center;}
 }
+
 .post{
     padding: 6em 1em 3em 1em;
+    
     .post-header{
         
         padding-bottom: 2em; 
@@ -73,6 +75,12 @@
         max-width: 685px; 
         width: 90%;
         margin: 0 auto;
+        .post-intro{
+            border: 1px solid $main-color;
+            a{ color: $main-color}
+            padding: 1em;
+            margin-bottom: 2em;
+        }
     }
 
     @media #{$mqSM}{
