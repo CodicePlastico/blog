@@ -72,7 +72,7 @@ Seppur queste teorie non siano più valide a livello medico-scientifico, questi 
 
 Prima di iniziare è d’uopo una premessa: sono un software engineer, non un esperto di comunicazione! Quello che condividerò in questo articolo è una riflessione su alcune dinamiche che ho **osservato** in questi anni, durante i quali ho avuto la fortuna di lavorare o collaborare con tante persone, amici, colleghi con i quali a volte ho collaborato in modo naturale, in altri casi ho dovuto _adattarmi per il “quieto vivere”_, in altri casi **non sono riuscito veramente a capire i perchè** (e questo varrà certamente anche per gli altri nei miei confronti).  
 
-Vi condivido alcune circostante (romanzate) che ho vissuto e che sono certo avrete osservato anche voi:
+Vi condivido alcune circostanze (romanzate) che ho vissuto e che sono certo avrete osservato anche voi:
 
 *   vi è mai capitato di fare una **proposta con l’entusiasmo a 1000** (andiamo a questa conferenza?! Ho dei biglietti per questa conferenza a Tokyo, tutto pagato, ma non ci posso andare: chi vuole andare al mio posto?!) e di vedere lo sguardo assente, indifferente o addirittura preoccupato dei vostri colleghi e di ricevere un “No, grazie. Questo weekend devo andare a ...”?
 *   vi è mai capitato di ricevere una **notifica di Venerdì alle 17.53** che vi informa che il sistema è down? Vi è mai capitato che, dopo 4 ore in cui non avete ancora trovato una soluzione, vedete spuntare il collega che inizia a sparare una **raffica di battute e vi colpisce con gomitate amichevoli e risatine**? Avete presente lo sguardo rivolto verso il simpaticone da parte di chi cercava da ore di risolvere il problema? E la reazione del simpaticone? 
