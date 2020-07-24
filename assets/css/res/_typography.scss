@@ -112,6 +112,7 @@ cite{
   font-weight: 300; font-size: 1.7em;
   color: lighten($main-dark, 30%); 
   line-height: 1.1em;
+  padding-right: 1em; 
 
   &:before{
     content:"“";
