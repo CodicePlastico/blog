@@ -1056,12 +1056,19 @@ pre.highlight {
       .post .post-content .post-intro a {
         color: #D93232; }
     .post .post-content .post-promo {
-      display: flex;
       align-items: center;
       background: #efefef;
       padding: 2em;
       margin: 1em;
       border-radius: 2px; }
+      .post .post-content .post-promo img {
+        max-width: 90%; }
+      @media only screen and (min-width: 992px) {
+        .post .post-content .post-promo {
+          display: flex;
+          align-items: center; }
+          .post .post-content .post-promo img {
+            max-width: 300px; } }
   @media only screen and (min-width: 768px) {
     .post {
       padding: 7em 1em 3em 1em; }

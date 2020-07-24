@@ -29,7 +29,7 @@ Vista da fuori, per noi che lo smartworking lo abbiamo attivato in tempi non sos
 <div class="post-promo" > 
     <div>
         <a href="https://blog.codiceplastico.com/assets/images/post-content/smartworking/smart-working-codiceplastico.pdf" target="_blank">
-        <img src="/assets/images/post-content/smartworking/cover.png" alt="smartworking" style="max-width: 300px; height:auto"/>
+        <img src="/assets/images/post-content/smartworking/cover.png" alt="smartworking"/>
         </a>
     </div>
     <div>

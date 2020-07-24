@@ -85,12 +85,16 @@
             margin-bottom: 2em;
         }
         .post-promo{
-            display: flex;
             
+            img{ max-width: 90%;}
             align-items: center;
             background:#efefef;
             padding: 2em; margin: 1em; border-radius: 2px;
-
+            @media #{$mqMD}{
+                display: flex;
+                align-items: center;
+                img{ max-width: 300px;}
+            }
         }
     }
 
