@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post-cover/'
+cover: 'assets/images/post-cover/smart-working-cover.png'
 socialcover: 'assets/images/post-cover/'
 slug: smart-working-guida
 title: 'SmartWorking: the day after.<br/>Come è andata e come affrontare il futuro. '
@@ -12,7 +12,7 @@ author: [mery, andrea]
 ---
 <div class="post-intro">La parola "Smartworking" ha registrato su Google Trends Italia un +120% di ricerche. Si è sentito di tutto in questi mesi: dalla sindrome della caverna, a proiezioni sul futuro di come sarà il <a href="https://www.corriere.it/tecnologia/cards/occhi-secchi-problemi-posturali-obesita-susan-l-elaborazione-grafica-peggiori-effetti-25-anni-smart-working/piacere-susan_principale.shtml" target="_blank">nostro fisico dopo venticinque anni di smartworking</a>. 
 <br/>
-Vista da fuori, per noi che lo smartworking lo abbiamo attivato in tempi non sospetti, la <strong>situazione appare surreale</strong>: molti discorsi su vantaggi e svantaggi, pochissimi discorsi su metodologie e strategie per rendere i team remoti efficaci. Da qui la nostra <strong>"mini-guida" in doppio formato</strong> (il classico articolo e un book pdf, facile da condividere e da sfogliare sotto l'ombrellone) per condividere alcuni spunti concreti a partire dalla nostra esperienza. </div>
+Vista da fuori, per noi che lo smartworking lo abbiamo attivato in tempi non sospetti, la <strong>situazione appare surreale</strong>: molti discorsi su vantaggi e svantaggi, pochissimi discorsi su metodologie e strategie per rendere i team remoti efficaci. Da qui la nostra <strong>"mini-guida" in doppio formato</strong> (il classico articolo e un  <a href="https://blog.codiceplastico.com/assets/images/post-content/smartworking/smart-working-codiceplastico.pdf" target="_blank">book pdf, facile da condividere e da sfogliare sotto l'ombrellone</a>) per condividere alcuni spunti concreti a partire dalla nostra esperienza. </div>
 
 # Sommario
 - [Introduzione: Smartworking a sopresa](#intro)
@@ -26,19 +26,28 @@ Vista da fuori, per noi che lo smartworking lo abbiamo attivato in tempi non sos
 - [Gli strumenti: aka “mi sentiiii?”](#strumenti)
 - [Alla fine, ne vale la pena?](#conclusione)
 
-<div class="promo">qui info per download libro</div>
-<br>
+<div class="post-promo" > 
+    <div>
+        <a href="https://blog.codiceplastico.com/assets/images/post-content/smartworking/smart-working-codiceplastico.pdf" target="_blank">
+        <img src="/assets/images/post-content/smartworking/cover.png" alt="smartworking" style="max-width: 300px; height:auto"/>
+        </a>
+    </div>
+    <div>
+        <h3><a href="https://blog.codiceplastico.com/assets/images/post-content/smartworking/smart-working-codiceplastico.pdf" target="_blank">Scarica la versione PDF</a></h3>
+    </div>
+</div>
+
 
 ## Introduzione: Smartworking a sopresa {#intro}
 Lo smart-working, in questo 2020, è entrato a sorpresa nella vita di tanti. Iniziato per molte aziende come necessità, si è poi trasformato in un’occasione per rendersi conto che “Ehi! Si può fare! Non serve essere tutti nello stesso edificio per far bene il proprio lavoro”. 
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/games.png" alt="smartworking"/>
 </p>
-Il passaggio non è stato indolore per tutte le aziende, colte impreparate sia dal punto di vista tecnologico, sia gestionale. Le resistenze rimangono tante:  dalla spinosa questione del “controllo” alla subdola convinzione che il lavoro fatto da casa, non sia vero lavoro. È difficile prevedere quale sarà il destino del mondo del lavoro nei prossimi mesi, ma quello che è certo è che la **macchina del cambiamento è partita**.
+Il passaggio **non è stato indolore per tutte le aziende**, colte impreparate sia dal punto di vista tecnologico, sia gestionale. Le resistenze rimangono tante:  dalla spinosa questione del “controllo” alla subdola convinzione che il lavoro fatto da casa, non sia vero lavoro. È difficile prevedere quale sarà il destino del mondo del lavoro nei prossimi mesi, ma quello che è certo è che la **macchina del cambiamento è partita**.
 
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/libra.png" alt="smartworking"/>
 </p>
 
-Quindi caro imprenditore che nei prossimi mesi dovrai mettere sul piatto della bilancia il controllo del tempo da una parte, con i vantaggi dei costi ridotti per la gestione della sede dall’altra; caro manager che ti sei trovato ad organizzare i tuoi collaboratori online, e caro nuovo smartworker che hai assaggiato la felicità di lavorare in camicia (sopra) e pigiama (sotto), questo articolo è per voi.
+Quindi caro imprenditore che nei prossimi mesi dovrai **mettere sul piatto della bilancia** il controllo del tempo da una parte, con i vantaggi dei costi ridotti per la gestione della sede dall’altra; caro manager che ti sei trovato ad organizzare i tuoi collaboratori online, e caro nuovo smartworker che hai assaggiato la felicità di lavorare in camicia (sopra) e pigiama (sotto), questo articolo è per voi.
 
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/wrench.png" alt="smartworking"/>
 </p>
@@ -46,7 +55,7 @@ Quindi caro imprenditore che nei prossimi mesi dovrai mettere sul piatto della b
 **Non tutti le professioni sono fatte per essere svolte in maniera remota**: sono avvantaggiati quei lavori che prevedono una buona dose di tempo da impiegare nel lavoro individuale, possibilmente davanti ad un pc. 
 
 E qui entriamo in campo noi, svelando il primo arcano: 
-<cite>per noi “nerd” lo smart working non è una novità</cite>. 
+<cite>per noi “nerd” lo smart working<br/>**non è una novità.**</cite> 
 
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/secret.png" alt="smartworking"/>
 </p>
@@ -63,7 +72,9 @@ Prima di entrare nel vivo è bene condividere un presupposto: se il lavoro da ca
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/locations-mountain.png" alt="smartworking"/>
 </p>
 
-Il passaggio più difficile da mettere in atto è passare da un sistema basato sul “controllo” delle risorse ad uno basato sull’autonomia. **Nello smart working autonomia è sinonimo di efficienza:** nessuno dovrebbe mai trovarsi nella condizione di essere bloccato e deve essere sempre in grado, nel caso in cui un task non sia risolvibile in quel preciso momento, di attingere da un elenco, condiviso e ordinato secondo priorità, di cose da fare. Autonomia non significa che ognuno fa quello che gli pare! **L’ingrediente di base dello smart working è sicuramente la fiducia, ma lo è anche saper trasformare il “controllo” in organizzazione.** Quando il lavoro è strutturato a obiettivi e ben pianificato, il dubbio che i tuoi collaboratori o i tuoi colleghi passino tutto il giorno a fare altro, non ti verrà mai. 
+Il passaggio più difficile da mettere in atto è passare da un sistema basato sul “controllo” delle risorse ad uno basato sull’autonomia. **Nello smart working autonomia è sinonimo di efficienza:** nessuno dovrebbe mai trovarsi nella condizione di essere bloccato e dovrebbe essere sempre in grado, nel caso in cui un task non sia risolvibile in quel preciso momento, di attingere da un elenco, condiviso e ordinato secondo priorità, di cose da fare.
+
+Autonomia non significa che ognuno fa quello che gli pare! **L’ingrediente di base dello smart working è sicuramente la fiducia, ma lo è anche saper trasformare il “controllo” in organizzazione.** Quando il lavoro è strutturato a obiettivi e ben pianificato, il dubbio che i tuoi collaboratori o i tuoi colleghi passino tutto il giorno a fare altro, non ti verrà mai. 
 
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/control.png" alt="smartworking"/>
 </p>
@@ -78,7 +89,7 @@ Quando le scadenze si avvicinano, la tensione sale. Se siamo tutti nella stessa 
 - conoscano le **priorità**;
 - sappiano **a chi chiedere** nel caso di mancanza di informazioni.
 
-Significa pensare il lavoro ad obiettivi, possibilmente piccoli, che possano essere facilmente distribuiti secondo le responsabilità e le competenze. Ma come posso sapere cosa stanno facendo gli altri? 
+Significa **pensare il lavoro ad obiettivi**, possibilmente piccoli, che possano essere facilmente distribuiti secondo le responsabilità e le competenze. Ma come posso sapere cosa stanno facendo gli altri? 
 
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/baby.png" alt="smartworking"/>
 </p>
@@ -94,7 +105,9 @@ Ovviamente le colonne possono essere aggiunte, tolte e adattate a ciascun contes
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/kanban.png" alt="smartworking"/>
 </p>
 
-La kanban è una fotografia di gruppo. Se aggiornata con costanza ci dà due informazioni importanti, senza dover chiedere: chi sta facendo cosa e in generale come procede il lavoro dell’intero team.  La kanban aiuta anche sul fronte autonomia. Nel momento in cui una card si blocca per qualsiasi motivo (attesa di una risposta, informazioni mancanti, cambio di priorità) il backlog funge da “ombrello”: chiunque può pescare una card da lì e continuare ad essere operativo.
+La kanban è una fotografia di gruppo. Se aggiornata con costanza ci dà due informazioni importanti senza dover chiedere: **chi sta facendo cosa e in generale come procede il lavoro dell’intero team**. 
+
+La kanban aiuta anche sul fronte autonomia. Nel momento in cui una card si blocca per qualsiasi motivo (attesa di una risposta, informazioni mancanti, cambio di priorità) il backlog funge da “ombrello”: chiunque può pescare una card da lì e continuare ad essere operativo.
 <p style="text-align:center"><img src="/assets/images/post-content/smartworking/task ombrello.png" alt="smartworking"/>
 </p>
 

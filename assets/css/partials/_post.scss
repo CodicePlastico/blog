@@ -76,10 +76,21 @@
         width: 90%;
         margin: 0 auto;
         .post-intro{
-            border: 1px solid $main-color;
+            border-left: 10px solid $main-color;
+            font-size: 16px; line-height: 1.8em; color: #333; font-weight: 300;
+            padding-left:1em;
+           
             a{ color: $main-color}
-            padding: 1em;
+        
             margin-bottom: 2em;
+        }
+        .post-promo{
+            display: flex;
+            
+            align-items: center;
+            background:#efefef;
+            padding: 2em; margin: 1em; border-radius: 2px;
+
         }
     }
 

@@ -246,7 +246,8 @@ cite {
   font-weight: 300;
   font-size: 1.7em;
   color: #4d4d4d;
-  line-height: 1.1em; }
+  line-height: 1.1em;
+  padding-right: 1em; }
   cite:before {
     content: "“";
     margin-left: -1em;
@@ -1045,11 +1046,22 @@ pre.highlight {
     width: 90%;
     margin: 0 auto; }
     .post .post-content .post-intro {
-      border: 1px solid #D93232;
-      padding: 1em;
+      border-left: 10px solid #D93232;
+      font-size: 16px;
+      line-height: 1.8em;
+      color: #333;
+      font-weight: 300;
+      padding-left: 1em;
       margin-bottom: 2em; }
       .post .post-content .post-intro a {
         color: #D93232; }
+    .post .post-content .post-promo {
+      display: flex;
+      align-items: center;
+      background: #efefef;
+      padding: 2em;
+      margin: 1em;
+      border-radius: 2px; }
   @media only screen and (min-width: 768px) {
     .post {
       padding: 7em 1em 3em 1em; }
