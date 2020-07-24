@@ -16,11 +16,11 @@
 | multithreading    | mvvm              | nerd            |
 | networking        | nhibernate        | nosql           |
 | pair programming  | powershell        | rant            |
-| react             | redux             | remote          |
-| ror               | ruby              | rust            |
-| software          | sql               | sync framework  |
-| synchronization   | serveless         | tdd             | 
-| team management   | tech              | testing         |
-| value object      | video             | webdebs         | 
-| windows           | women IT          | wpc             |
-| wpf               |  
+| react             | redux             | remote          | 
+| smartworking      | ror               | ruby            |
+| rust              | software          | sql             |
+| sync framework    | synchronization   | serveless       | 
+| tdd               | team management   | tech            | 
+| testing           | value object      | video           | 
+| webdebs           | windows           | women IT        | 
+| wpc               | wpf               |  
