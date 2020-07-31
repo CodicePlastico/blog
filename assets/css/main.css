@@ -857,6 +857,10 @@ pre.highlight {
       text-transform: uppercase; }
       .main-header .menu li a {
         text-decoration: none; }
+      .main-header .menu li.emph {
+        font-weight: bold; }
+        .main-header .menu li.emph a {
+          color: #D93232; }
   .main-header .menu-icon {
     float: right;
     cursor: pointer;

@@ -24,6 +24,7 @@
           list-style-type: none;
           text-transform: uppercase;
           a{ text-decoration: none;}
+          &.emph{ font-weight: bold; a{ color: $main-color}}
         }
   
     }
