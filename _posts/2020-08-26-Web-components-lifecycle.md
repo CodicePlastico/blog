@@ -3,9 +3,9 @@ layout: post
 current: post
 cover: 'assets/images/post-cover/20200826-web-component.jpg'
 socialcover: 'assets/images/post-cover/20200826-web-component-s.jpg'
-slug: libri-estate-2020
+slug: web-components-lifecycle
 title: 'Web Components Lifecycle'
-date: 2020-08-23 09:00:00
+date: 2020-08-26 09:00:00
 category : [tech]
 tags: [frontend]
 author: claudio
