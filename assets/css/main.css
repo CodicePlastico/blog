@@ -1033,17 +1033,18 @@ pre.highlight {
     /*margin-top: 0 !important;*/
     margin-bottom: 2em;
     background-size: cover;
+    background-position-y: center;
     margin-bottom: 2em;
     border-radius: 5px;
     position: relative; }
     .post .post-image:after {
-      content: " ";
+      /*content:" ";
       position: absolute;
       width: 100%;
-      height: 330px;
+      height: $height; 
       background-color: rgba(0, 0, 0, 0.4);
-      background-image: url("/assets/images/filigrana.png");
-      background-position: top left;
+      //background-image: url('/assets/images/filigrana.png');
+      background-position: top left ;*/
       border-radius: 5px; }
   .post .post-content {
     max-width: 685px;
@@ -1198,7 +1199,8 @@ pre.highlight {
       margin: 0;
       background-size: cover;
       height: 200px;
-      position: relative; }
+      position: relative;
+      background-position: center; }
   .post-card .post-card-content {
     text-align: center;
     padding: 2em;
@@ -1245,13 +1247,13 @@ pre.highlight {
     .home-template .post-feed .post-card:nth-child(6n+1) .post-image-link .post-image {
       height: 350px; }
       .home-template .post-feed .post-card:nth-child(6n+1) .post-image-link .post-image:after {
-        content: " ";
+        /*content:" ";
         position: absolute;
         width: 100%;
-        height: 350px;
+        height: $height; 
         background-color: rgba(0, 0, 0, 0.4);
-        background-image: url("/assets/images/filigrana.png");
-        background-position: top left; }
+        //background-image: url('/assets/images/filigrana.png');
+        background-position: top left ;*/ }
 
   .home-template .post-feed .post-card:nth-child(6n+1) h1 {
     font-size: 2.8em;

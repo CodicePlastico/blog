@@ -41,6 +41,7 @@ $post-feed-border-radius: 0px;
             background-size: cover;
             height: $height;
             position: relative;
+            background-position: center;
             &:after{
               //  @include post-image-hoverlay($height);
             }

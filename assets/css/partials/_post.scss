@@ -13,13 +13,13 @@
     font-weight: 300; line-height: 1.2em; 
 }
 @mixin post-image-hoverlay($height:330px){
-            content:" ";
+            /*content:" ";
             position: absolute;
             width: 100%;
             height: $height; 
             background-color: rgba(0, 0, 0, 0.4);
-            background-image: url('/assets/images/filigrana.png');
-            background-position: top left ;
+            //background-image: url('/assets/images/filigrana.png');
+            background-position: top left ;*/
           
            
 }
@@ -30,7 +30,7 @@
 .post{
     padding: 6em 1em 3em 1em;
     
-    .post-header{
+    .post-header{ 
         
         padding-bottom: 2em; 
         text-align: center;
@@ -63,6 +63,7 @@
         margin-bottom: 2em; 
 
         background-size: cover;
+        background-position-y: center;
         margin-bottom: 2em; ;
         border-radius: 5px;
         position: relative;

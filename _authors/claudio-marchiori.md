@@ -1,5 +1,5 @@
 ---
-short_name: Claudio
+short_name: claudio
 position: FrontEnd Developer  @ CodicePlastico
 name: Claudio Marchiori
 nick: Claudio
