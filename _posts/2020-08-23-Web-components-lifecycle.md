@@ -295,6 +295,12 @@ Un componente personalizzato può avere un **elevato numero di potenziali attrib
 
 Nella prima versione delle api dei Web Componente (**v0**) accadeva proprio questo. Per ovviare il problema, nella seconda versione (**v1**) è necessario specificare di quali attributi si vuole rimanere in ascolto tramite il metodo statico ``observedAttributes``.
 
+<br/>
+<br/>
+<p style="text-align:center"><img src="/assets/images/post-content/sep-2.png" alt="sep"/>
+</p>
+<br/><br/>
+
 ### observedAttributes() {#observedAttributes}
 
 Per poter definire la lista degli attributi da monitorare è sufficiente definire un metodo static chiamato ``observedAttributes`` che restituisce un **array di stringhe corrispondente ai valori dei nomi degli attributi**.
