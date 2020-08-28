@@ -15,7 +15,7 @@ author: claudio
 ## Cosa sono i Web Components
 L’ecosistema Javascript ormai è ricco di librerie o framework che abbracciano i concetti di componenti e moduli per lo sviluppo di applicazioni. Questi elementi vengono generalmente considerati come porzioni di codice (_html / css / js_) indipendenti, che possono essere riutilizzate e personalizzate tramite un set di api messo a disposizione.
 
-I Web Components, allo stesso modo, sono una suite di funzionalità che permettono di creare elementi personalizzati la cui logica viene **incapsulata e separata** dal resto del codice. Il grande vantaggio offerto dai Web Components consiste nell’utilizzo di API offerte dal browser, il che rende questi componenti indipendenti a livello tecnologico ed integrabili in tutte le librerie.
+I Web Components, allo stesso modo, sono una suite di funzionalità che consente di creare elementi personalizzati la cui logica viene **incapsulata e separata** dal resto del codice. Il grande vantaggio offerto dai Web Components consiste nell’utilizzo di API offerte dal browser, il che rende questi componenti indipendenti a livello tecnologico ed integrabili in tutte le librerie.
 
 L’evoluzione di Javascript e la maturità dei moderni browser stanno alimentando questa nuova tecnologia che ormai influenza gli strumenti principali per lo sviluppo di web applications.
 
