@@ -2,7 +2,7 @@
 layout: post
 current: post
 cover: 'assets/images/post-cover/20200826-web-component.jpg'
-socialcover: 'assets/images/post-cover/20200826-web-component-s.jpg'
+socialcover: 'assets/images/post-cover/20200826-web-component-s-2.jpg'
 slug: web-components-lifecycle
 title: 'Web Components Lifecycle'
 date: 2020-08-26 09:00:00
