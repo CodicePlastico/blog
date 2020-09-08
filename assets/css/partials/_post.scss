@@ -114,12 +114,6 @@
                 
             }
         }
-        table{
-            margin-bottom: 1em;
-            th,td{ display: block; padding: 0.5em; border-bottom:1px solid #ccc;
-                @media #{$mqSM}{ display: table-cell;}
-            } 
-        }
     }
 
     @media #{$mqSM}{

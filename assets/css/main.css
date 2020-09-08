@@ -1097,15 +1097,6 @@ pre.highlight {
           display: flex; }
           .post .post-content .post-book .cover {
             margin-right: 2em; } }
-    .post .post-content table {
-      margin-bottom: 1em; }
-      .post .post-content table th, .post .post-content table td {
-        display: block;
-        padding: 0.5em;
-        border-bottom: 1px solid #ccc; }
-        @media only screen and (min-width: 768px) {
-          .post .post-content table th, .post .post-content table td {
-            display: table-cell; } }
   @media only screen and (min-width: 768px) {
     .post {
       padding: 7em 1em 3em 1em; }
