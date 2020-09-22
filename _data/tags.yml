@@ -9,7 +9,7 @@ tech:
 conf-communities:
   name: Conf & Communities
   cover: False
-getting-started:
-  name: getting-started
-  description: False
+design:
+  name: Design
   cover: False
+

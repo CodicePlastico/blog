@@ -7,7 +7,8 @@
 | .net              | agile             | api             |
 | azure             | c#                | community       |
 | company meeting   | concurrency       | cp              |
-| cqrs              | database          | ddd             | 
+| cqrs              | database          | ddd             |
+| design            |  ui               | ux              |
 | design pattern    | doker             | elixir          |
 | frontend          | fsharp            | functional      |
 | hiring            | howto             | illustrazioni   |
