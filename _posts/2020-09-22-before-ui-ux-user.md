@@ -213,7 +213,7 @@ Cercando di applicare gli strumenti ai diversi contesti, i concetti che porto se
 <p style="text-align:center"><img src="/assets/images/post-content/uxuiuser/uxuiuser_usandthem.png" alt="feedback"/></p>
 
 ## Riferimenti
-- Radical Collaboration - Maria Cristina Lavazzaz<br/>I libri della UXU UXUniversity
+- Radical Collaboration - Maria Cristina Lavazza<br/>I libri della UXU UXUniversity
 - Intranet Information Architecture Giacomo Mason<br/>I libri della UXU UXUniversity
 - Service Design Tools<br/>[www.servicedesigntools.org](http://www.servicedesigntools.org)
 - Design Thinking Comes of Age - Jon Kolko <br/>[https://hbr.org/2015/09/design-thinking-comes-of-age](https://hbr.org/2015/09/design-thinking-comes-of-age)
