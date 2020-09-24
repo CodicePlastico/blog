@@ -114,7 +114,7 @@ Strategie top-down e bottom-up: da un lato prendiamo tutti i contenuti esistenti
 
 ## UX: gli strumenti
 
-A questo punto oltre ai suggerimenti servono anche degli strumenti: a seconda della necessità ho scelto uno o più combinazioni degli strumenti a seguire, non è un elenco esaustivo e si riferisce nel dettaglio solo a una parte della mia esperienza personale in rapporto ai clienti con i quali lavoro. Se volete immergervi nella vastità degli strumenti da utilizzare sdt sarà il vostro migliore amico. <3
+A questo punto oltre ai suggerimenti servono anche degli strumenti: a seconda della necessità ho scelto uno o più combinazioni degli strumenti a seguire, non è un elenco esaustivo e si riferisce nel dettaglio solo a una parte della mia esperienza personale in rapporto ai clienti con i quali lavoro. Se volete immergervi nella vastità degli strumenti da utilizzare [sdt](http://www.servicedesigntools.org) sarà il vostro migliore amico. <3
 
 <p style="text-align:center"><img src="/assets/images/post-content/uxuiuser/uxuiuser_empathy.png" alt="feedback"/></p>
 ### Empathy map
