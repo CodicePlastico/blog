@@ -16,10 +16,10 @@ Quindi, se alla fine di questo articolo l'unica domanda che ti verrà in mente �
 </div>
 
 ### Benvenuti a “com’è un giorno nella vita di uno smart worker”.<br/>Prendete posto e accomodatevi.
-
+<figure style="text-align:center"><img src="/assets/images/post-content/smartworking-tl/swday_vampire.png" alt="img"/></figure>
 La premessa è che prenderò in considerazione la tipica giornata in modalità _io sono leggenda (il libro, non il film)_ in cui Federica (la mia compagna che quotidianamente mi sopporta) deve recarsi in ufficio e non lavora da casa (casa si trova in un ridente e silenzioso paese della bassa bresciana - distante una ventina di chilometri da Brescia e distese di campi a perdita d’occhio).
 
-<figure style="text-align:center"><img src="/assets/images/post-content/smartworking-tl/swday_vampire.png" alt="img"/></figure>
+
 _La modalità io sono leggenda (il [libro](https://en.wikipedia.org/wiki/I_Am_Legend_(novel)), non il [film](https://en.wikipedia.org/wiki/I_Am_Legend_(film))) consiste in: un essere umano (io), uno o più cani (Zeus, Midna e Impa) e il resto dell’umanità trasformata in vampiri che cercano di **farmi uscire di casa per farmi fuori** (quest’ultima parte non è necessariamente vera)._
 <figure style="text-align:center"><img src="/assets/images/post-content/smartworking-tl/swday_dogs.jpg" alt="cani"/>
     <figcaption> Da sinistra a destra: Impa, Zeus e Midna</figcaption>
@@ -48,8 +48,10 @@ Qui si aprono vari scenari, ci sono giornate in cui c’è bisogno di mettersi s
 
 Di norma invece dalle 0730 alle 0830 circa (circa circa) cerco di dedicarmi a altro: disegnare illustrazioni o fumetti, proseguire nella lettura del capitolo interrotto dopo poche pagine la sera precedente prima di crollare con la faccia sul cuscino, guardare serie tv o giocare ai videogiochi (in quarantena ad esempio ho giocato qualche ora a Fortnite - solo qualche ora, davvero).
 
-<figure style="text-align:center"><img src="/assets/images/post-content/smartworking-tl/swday_shuffle.jpg" alt="feedback"/></figure>
-Oppure rigiocare The Legend of Zelda. Ancora. E ancora.
+<figure style="text-align:center"><img src="/assets/images/post-content/smartworking-tl/swday_shuffle.jpg" alt="feedback"/>
+ <figcaption>Oppure rigiocare The Legend of Zelda. Ancora. E ancora.</figcaption>
+</figure>
+
 
 ## Dalle 08:30 alle 18:30
 
@@ -87,9 +89,11 @@ A parte gli scherzi trovo necessario (ma questo anche se fossi in ufficio) far c
 
 A questo proposito da quando sono in smart working ho cercato di aumentare l’attività fisica nel weekend per bilanciare il tempo passato seduto, chiaramente in modo maggiore durante le stagioni calde e se il tempo lo permette - camminate e giri in bicicletta a vari livelli di difficoltà in base a stanchezza e voglia - oppure se fuori c’è un diluvio alla Blade Runner (io ne ho viste cose...) e avete una console in casa vi consiglio **Just Dance**. No davvero, sono serio.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/smartworking-tl/swday_castle.jpg" alt="feedback"/></figure> 
+<figure style="text-align:center"><img src="/assets/images/post-content/smartworking-tl/swday_castle.jpg" alt="feedback"/>
+    <figcaption>O andare a caccia di castelli.</figcaption>
+</figure> 
 
-O andare a caccia di castelli.
+
 
 Oppure **Ring Fit Adventure** per Nintendo Switch, vi ricordate che c’è stato un lockdown? Beh, il gioco o era introvabile o aveva prezzi assurdi ma merita: fa leva sull’indole dei giocatori e completisti e toglie il controller classico per farvi sudare un po’. Un bel po’.
 
