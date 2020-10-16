@@ -12,7 +12,7 @@ author: [mery, andrea]
 ---
 <div class="post-intro">La parola "Smartworking" ha registrato su Google Trends Italia un +120% di ricerche. Si è sentito di tutto in questi mesi: dalla sindrome della caverna, a proiezioni sul futuro di come sarà il <a href="https://www.corriere.it/tecnologia/cards/occhi-secchi-problemi-posturali-obesita-susan-l-elaborazione-grafica-peggiori-effetti-25-anni-smart-working/piacere-susan_principale.shtml" target="_blank">nostro fisico dopo venticinque anni di smartworking</a>. 
 <br/>
-Vista da fuori, per noi che lo smartworking lo abbiamo attivato in tempi non sospetti, la <strong>situazione appare surreale</strong>: molti discorsi su vantaggi e svantaggi, pochissimi discorsi su metodologie e strategie per rendere i team remoti efficaci. Da qui la nostra <strong>"mini-guida" in doppio formato</strong> (il classico articolo e un  <a href="https://blog.codiceplastico.com/assets/images/post-content/smartworking/smart-working-codiceplastico.pdf" target="_blank">book pdf, facile da condividere e da sfogliare sotto l'ombrellone</a>) per condividere alcuni spunti concreti a partire dalla nostra esperienza. </div>
+Vista da fuori, per noi che lo smartworking lo abbiamo attivato in tempi non sospetti, la <strong>situazione appare surreale</strong>: molti discorsi su vantaggi e svantaggi, pochissimi discorsi su metodologie e strategie per rendere i team remoti efficaci. Da qui la nostra <strong>"mini-guida" in doppio formato</strong> (il classico articolo e un  <a href="https://bit.ly/3c1IxC3" target="_blank">book pdf, facile da condividere e da sfogliare sotto l'ombrellone</a>) per condividere alcuni spunti concreti a partire dalla nostra esperienza. </div>
 
 # Sommario
 - [Introduzione: Smartworking a sopresa](#intro)
@@ -28,12 +28,12 @@ Vista da fuori, per noi che lo smartworking lo abbiamo attivato in tempi non sos
 
 <div class="post-promo" > 
     <div>
-        <a href="https://blog.codiceplastico.com/assets/images/post-content/smartworking/smart-working-codiceplastico.pdf" target="_blank">
+        <a href="https://bit.ly/3c1IxC3" target="_blank">
         <img src="/assets/images/post-content/smartworking/cover.png" alt="smartworking"/>
         </a>
     </div>
     <div>
-        <h3><a href="https://blog.codiceplastico.com/assets/images/post-content/smartworking/smart-working-codiceplastico.pdf" target="_blank">Scarica la versione PDF</a></h3>
+        <h3><a href="https://bit.ly/3c1IxC3" target="_blank">Scarica la versione PDF</a></h3>
     </div>
 </div>
 
