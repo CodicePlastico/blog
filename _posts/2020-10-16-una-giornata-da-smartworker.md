@@ -109,7 +109,7 @@ Quindi √® solo una questione di gestione del tempo e magicamente non ci sono pi√
 
 *   il corriere: suonano alla porta, i cani abbaiano, scusate siamo in call, un attimo, proseguite pure, arrivo eccomi dicevate?
 *   il suono della lavatrice: non vorrai lasciare i panni nel cestello? Dai, prima della pausa vai a stendere.
-*   i cani: gironzolano e poi ti fissano. Ti cercano con la zampa, spesso mentre sei in call, quindi li fai uscire in giardino. E non vuoi coccolarli? [foto]
+*   i cani: gironzolano e poi ti fissano. Ti cercano con la zampa, spesso mentre sei in call, quindi li fai uscire in giardino. E non vuoi coccolarli?
 *   Slack: notifiche a raffica in un canale mentre sei in focus, forse meglio metterlo in un muto oppure meglio leggere subito, potrebbe servire il mio contributo.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/smartworking-tl/swday_exclamation.png" alt="feedback"/></figure>
