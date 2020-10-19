@@ -11,7 +11,7 @@ tags: [agile, remote, smartworking]
 author: andrea
 ---
 <div class="post-intro">
-&Egrave; arrivato il freddo e, come per le foglie cadute riportate in aria dal vento, si torna a parlare di smartworking. Anche se abbiamo abbondantemente affrontato l’argomento <a href="https://bit.ly/3c1IxC" target="_blank">quest’estate con il nostro e-book</a>, abbiamo deciso di tornare a parlarne in chiave decisamente ironica per sfatare il mito dello smartworker prigioniero, triste e fuori forma. Dq qui l'idea di raccogliere una testimonianza in prima persona, una time-line della giornata, proprio per dimostrare che lo smarworking, se ben organizzato, può essere normale e quotidiano e non solo legato a una situazione di emergenza.<br/>
+&Egrave; arrivato il freddo e, come per le foglie cadute riportate in aria dal vento, si torna a parlare di smartworking. Anche se abbiamo abbondantemente affrontato l’argomento <a href="https://bit.ly/3c1IxC" target="_blank">quest’estate con il nostro e-book</a>, abbiamo deciso di tornare a parlarne in chiave decisamente ironica per sfatare il mito dello smartworker prigioniero, triste e fuori forma. Da qui l'idea di raccogliere una testimonianza in prima persona, una time-line della giornata, proprio per dimostrare che lo smarworking, se ben organizzato, può essere normale e quotidiano e non solo legato a una situazione di emergenza.<br/>
 Quindi, se alla fine di questo articolo l'unica domanda che ti verrà in mente è "Beh, ma cosa c'è di strano in tutto ciò?", la buona notizia è che sei gia #smartworkerapproved. Per tutti gli altri, speriamo che questo sia un altro piccolo passo per la <em>normalizzazione</em> dello smartorking.
 </div>
 
