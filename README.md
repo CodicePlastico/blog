@@ -8,7 +8,7 @@
 | azure             | c#                | community       |
 | company meeting   | concurrency       | cp              |
 | cqrs              | database          | ddd             |
-| design            |  ui               | ux              |
+| design            | ui                | ux              |
 | design pattern    | doker             | elixir          |
 | frontend          | fsharp            | functional      |
 | hiring            | howto             | illustrazioni   |
@@ -24,4 +24,5 @@
 | serveless         | tdd               | team management |
 | tech              | testing           | value object    |
 | video             | webdebs           | windows         | 
-| women IT          | wpc               | wpf             |  
+| women IT          | wpc               | wpf             | 
+| JAMstack 
