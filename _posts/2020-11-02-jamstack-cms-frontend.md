@@ -26,7 +26,7 @@ Tutti gli indizi sembrano portare ad una soluzione scontata: un [Content Managem
 <br>
 <cite>Siamo sicuri che sia la soluzione migliore?</cite>
 
-Sicuramente i CMS risolvono al meglio le richieste del cliente ma negli anni abbiamo scoperto alcuni difetti:
+Sicuramente i CMS risolvono al meglio le richieste del cliente, ma negli anni abbiamo scoperto alcuni difetti:
 
 * _Performance_: la dinamicità delle pagine si paga in termini di elaborazione e quindi in tempi di risposta;
 * _Hosting_: l'hosting di applicazioni dinamiche è generalmente più costoso di quello di applicazioni statiche;
@@ -66,7 +66,7 @@ Il secondo grosso vantaggio è che **il risultato della build è un sito statico
 ## Ma come si gestisce la dinamicità?
 La domanda però sorge spontanea: come può un sito statico permettere al cliente di personalizzare i contenuti?
 
-Le strade che si possono percorrere sono molteplici ma l'idea di fondo è quella di fornire all'utente uno **strumento che gli permetta di creare, modificare e cancellare contenuti**; a fronte di una modifica un sistema dovrà recuperare i nuovi contenuti, generare una nuova versione del sito e pubblicarla in produzione.
+Le strade che si possono percorrere sono molteplici, ma l'idea di fondo è quella di fornire all'utente uno **strumento che gli permetta di creare, modificare e cancellare contenuti**; a fronte di una modifica un sistema dovrà recuperare i nuovi contenuti, generare una nuova versione del sito e pubblicarla in produzione.
 
 In pratica serve un CMS **(facepalm!)**.
 
