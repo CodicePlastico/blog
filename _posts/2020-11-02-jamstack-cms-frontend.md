@@ -12,8 +12,8 @@ author: davide
 ---
 <div class="post-intro">
     <p>In CodicePlastico amiamo realizzare progetti su misura che soddisfino al cento per cento le esigenze dei nostri clienti. La maggior parte del nostro lavoro consiste nell'<strong>analisi delle esigenze</strong> dell'azienda che abbiamo di fronte e nella <strong>progettazione e realizzazione</strong> di un applicativo software che risolva un problema specifico. </p>
-    <p>Capita che i clienti ci chiedano di realizzare anche siti vetrina e in questo caso la scelta dello strumento migliore non è così scontata: <strong>CMS o NON CMS? questo è il dilemma!</strong> Come garantire performance e flessibilità per l'aggiornamento dei contenuti al cliente?<br/>
-     <strong>E qui JAMStack che ci viene in aiuto.</strong></p>
+    <p>Capita che i clienti ci chiedano di realizzare anche siti vetrina e in questo caso la scelta dello strumento migliore non è così scontata: <strong>CMS o NON CMS? Questo è il dilemma!</strong> Come garantire performance e flessibilità per l'aggiornamento dei contenuti al cliente?<br/>
+     <strong>E qui JAMStack ci viene in aiuto.</strong></p>
 </div>
 
 
@@ -22,17 +22,17 @@ author: davide
 ## Identificare il problema
 Le richieste del cliente solitamente suonano più o meno così: _"Voglio un sito accattivante che mi permetta massima autonomia nella personalizzazione dei contenuti"_.
 
-Tutti gli indizi sembrano portare ad una soluzione scontata: un [Content management system](https://en.wikipedia.org/wiki/Content_management_system).
+Tutti gli indizi sembrano portare ad una soluzione scontata: un [Content Management System](https://en.wikipedia.org/wiki/Content_management_system).
 <br>
 <cite>Siamo sicuri che sia la soluzione migliore?</cite>
 
 Sicuramente i CMS risolvono al meglio le richieste del cliente ma negli anni abbiamo scoperto alcuni difetti:
 
-* _Performance_: la dinamicità delle pagine si paga in termini di elaborazione e quindi in tempi di riposta;
+* _Performance_: la dinamicità delle pagine si paga in termini di elaborazione e quindi in tempi di risposta;
 * _Hosting_: l'hosting di applicazioni dinamiche è generalmente più costoso di quello di applicazioni statiche;
 * _Sicurezza_: bisogna prestare attenzione/porre rimedio alle vulnerabilità di server e database;
-* _Applicazioni monolitiche_: la definizione, il recupero e la presentazione del dato sono in carico ad un unico software difficilmente segmentabile.
-* _Scalabilità_: è generalmente più complicato far scalare un'applicazione dinamica e monolitica;
+* _Applicazioni monolitiche_: la definizione, il recupero e la presentazione del dato sono in carico ad un unico software difficilmente segmentabile;
+* _Scalabilità_: è generalmente più complicato far scalare un'applicazione dinamica e monolitica.
 
 <p style="text-align:center"><img src="/assets/images/post-content/jamstack/jamstack_jamstack.png" alt="feedback"/></p>
 
@@ -68,7 +68,7 @@ La domanda però sorge spontanea: come può un sito statico permettere al client
 
 Le strade che si possono percorrere sono molteplici ma l'idea di fondo è quella di fornire all'utente uno **strumento che gli permetta di creare, modificare e cancellare contenuti**; a fronte di una modifica un sistema dovrà recuperare i nuovi contenuti, generare una nuova versione del sito e pubblicarla in produzione.
 
-In pratica serve un CMS **(:facepalm!)**.
+In pratica serve un CMS **(facepalm!)**.
 
 <p style="text-align:center"><img src="/assets/images/post-content/jamstack/jamstack_faceplam.png" alt="feedback"/></p>
 
@@ -94,16 +94,16 @@ Ogni soluzione ha pro e contro.
 <p style="text-align:center"><img src="/assets/images/post-content/jamstack/jamstack_git-based.png" alt="feedback"/></p>
 
 ### Git-Based CMS
-I vantaggi di un Git-Based CMS sono:
+I _vantaggi_ di un Git-Based CMS sono:
 
 * Full version control di tutti i contenuti out of the box;
 * I contenuti sono in un formato semplice da utilizzare;
 * E' facile fare rollback delle modifiche;
 * Seguono lo stesso git-based workflow che gli sviluppatori usano per il codice;
-* No esiste vendor lock-in;
+* Non esiste vendor lock-in;
 * Il setup è molto semplice.
 
-Gli svantaggi sono:
+Gli _svantaggi_ sono:
 
 * difficoltà di reperire i contenuti da fonti diverse;
 * il processo di pubblicazione, modifica dei contenuti può essere lento.
@@ -113,13 +113,13 @@ Alcuni esempi di Git-Based CMS sono [Forestry](https://forestry.io/), [Crafter C
 <p style="text-align:center"><img src="/assets/images/post-content/jamstack/jamstack_api-based.png" alt="feedback"/></p>
 
 ### API-first CMS
-Vediamo ora i vantaggi di una soluzione API-first:
+Vediamo ora i _vantaggi_ di una soluzione API-first:
 
 * Permette di recuperare contenuti da più fonti;
 * I contenuti possono essere fruiti da frontend diversi;
 * Gestiscono facilmente grosse moli di dati.
 
-I contro sono molto simili a quelli di un classico CMS e cioè costi di hosting, sicurezza e #scalabilità.
+I _contro_ sono molto simili a quelli di un classico CMS e cioè costi di hosting, sicurezza e #scalabilità.
 
 Alcuni esempi di API-first CMS sono [Storyblok](https://www.storyblok.com/), [Contentful](https://www.contentful.com/), [Sanity](https://www.sanity.io/), [Ghost](https://ghost.org/) e [Strapi](https://strapi.io/)
 
@@ -139,7 +139,7 @@ Nella nostra breve esperienza con questa nuova metodologia abbiamo riscontrato a
 
 * abbiamo ridotto (e in alcuni casi addirittura azzerato) i costi di hosting mantenendo comunque un ottimo livello di servizio;
 * abbiamo riscontrato ottime performance dei siti in termini di First Contentful Paint e Time to Interactive;
-* in alcuni casi abbiamo scelto un CMS [SASS](https://en.wikipedia.org/wiki/Software_as_a_service) come ad esempio Sanity per focalizzarci unicamente sul prodotto finale.
+* in alcuni casi abbiamo scelto un CMS [SASS](https://en.wikipedia.org/wiki/Software_as_a_service), come ad esempio Sanity, per focalizzarci unicamente sul prodotto finale.
 
 In CodicePlastico siamo soddisfatti di questo cambio di rotta e speriamo di avervi anche solo invogliato a valutarne la bontà in prima persona.
 
