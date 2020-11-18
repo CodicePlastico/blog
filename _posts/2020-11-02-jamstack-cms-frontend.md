@@ -8,7 +8,7 @@ title: 'JamStack: prendiamo esempio dal passato per un futuro migliore'
 date: 2020-11-02 09:00:00
 category : tech
 tags: [JAMstack, javascript, api, howto]
-author: davide
+author: Davide
 ---
 <div class="post-intro">
     <p>In CodicePlastico amiamo realizzare progetti su misura che soddisfino al cento per cento le esigenze dei nostri clienti. La maggior parte del nostro lavoro consiste nell'<strong>analisi delle esigenze</strong> dell'azienda che abbiamo di fronte e nella <strong>progettazione e realizzazione</strong> di un applicativo software che risolva un problema specifico. </p>
