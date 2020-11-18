@@ -22,7 +22,7 @@ Ho sempre avuto una predilezione per il **backend**, mi piace seguire cosa avvie
 
 In CodicePlastico la strada che stiamo seguendo è quella di **deployare i nostri applicativi come immagini Docker**; i vantaggi che otteniamo sono molteplici: miglior utilizzo delle risorse, migliore scalabilità, migliore sicurezza, possibilità di fare rollback con facilità..
 
-Il _principio di singola responsabilità_ ci porta ad avere un “parco applicativi” molto numeroso; le attività di monitor e deploy, che in caso di pochi applicativi possono essere talvolta manuali, necessitano inevitabilmente di un’**automazione **e di una **robustezza **maggiore. 
+Il _principio di singola responsabilità_ ci porta ad avere un “parco applicativi” molto numeroso; le attività di monitor e deploy, che in caso di pochi applicativi possono essere talvolta manuali, necessitano inevitabilmente di un’**automazione** e di una **robustezza** maggiore. 
 
 Nell’ambito della Cloud Conf ho avuto modo di seguire due workshop molto interessanti a riguardo: _Da Docker a Kubernetes in semplicità_ (di [Manuel Valentino](https://www.linkedin.com/in/brisma/?originalSubdomain=it) ) e _App Monitoring_ (di [Andrea Di Blasi](https://it.linkedin.com/in/andrea-di-blasi-888850b2)).
 
