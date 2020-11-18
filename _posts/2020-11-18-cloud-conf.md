@@ -11,7 +11,7 @@ tags: [cloud, kubernetes, howto]
 author: Vale
 ---
 <div class="post-intro">
-    <p>In questi mesi l’organizzazione di conferenze e corsi è divenuta più complicata per l’impossibilità di fornire una modalità “in presenza”; è però fondamentale, per la crescita di ogni sviluppatore, poter dedicare in **modo continuativo del tempo alla formazione personale**. In questo articolo <a href="">Valeria</a> ci racconta la sua esperienza alla Cloud Conf, i temi più interessanti e quali soluzioni si intrecciano e integrano nei nostri progetti.</p>
+    <p>In questi mesi l’organizzazione di conferenze e corsi è divenuta più complicata per l’impossibilità di fornire una modalità “in presenza”; è però fondamentale, per la crescita di ogni sviluppatore, poter dedicare in <strong>modo continuativo del tempo alla formazione personale</strong>. In questo articolo <a href="/authors/valeria-leonardi">Valeria</a> ci racconta la sua esperienza alla Cloud Conf, i temi più interessanti e quali soluzioni si intrecciano e integrano nei nostri progetti.</p>
 </div>
 
 Ancora in tempi non sospetti ho deciso di partecipare alla **[Cloud Conf](https://2020.cloudconf.it/)**, una delle conferenze sul mondo del Cloud più importanti in Europa, prevista inizialmente per la primavera. Con i vari imprevisti di questo periodo, la conferenza si è tenuta in modalità online la settimana scorsa, corredata da due giorni di workshop.
