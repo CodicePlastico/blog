@@ -11,7 +11,7 @@ tags: [team building]
 author: Madda
 ---
 <div class="post-intro">
-Natale è periodo di cene aziendali, di Secret Santa, di pacchi e pacchetti. &Egrave; il periodo delle feste improvvisate, delle merende a pandori e panettoni e di attività di <strong>Team Building</strong> costruite su una base solida di colesterolo. In CodicePlastico, da qualche anno, abbiamo adottato la tradizione del Christma Jumper Day: una giornata in cui sfoggiamo il nostro peggior outfit natalizio e in cui cogliamo l'occasione per una piccola raccolta fondi solidale da devolvere.
+Natale è periodo di cene aziendali, di Secret Santa, di pacchi e pacchetti. &Egrave; il periodo delle feste improvvisate, delle merende a pandori e panettoni e di attività di <strong>Team Building</strong> costruite su una base solida di colesterolo. In CodicePlastico, da qualche anno, abbiamo adottato la tradizione del Christmas Jumper Day: una giornata in cui sfoggiamo il nostro peggior outfit natalizio e in cui cogliamo l'occasione per una piccola raccolta fondi solidale da devolvere.
 Se pensate che il distanziamento sociale abbia in qualche modo fermato (l'autoproclamato) COMITATO delle Feste di CodicePlastico, vi sbagliate di grosso. Come è andata? Ve lo racconta <a href="/authors/maddalena-germinario" target="_blank">Maddalena</a>, nel più tradizionale dei modi.
 </div>
 
