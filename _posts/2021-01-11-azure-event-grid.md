@@ -35,7 +35,7 @@ Gli **eventi**, invece, vengono utilizzati per **notificare** che qualcosa è av
 ### Eventi: le caratteristiche
 Focalizzando l'attenzione sulla categoria degli eventi, possiamo affinare la distinzione individuando due peculiarità che possono caratterizzare e distinguere gli eventi:
 - **eventi "atomici"**, ovvero eventi che hanno la loro ragione di essere completamente scorrelata dalla produzione di altri eventi dello stesso tipo. Per esempio "un ordine è stato registrato" in un sistema di e-commerce potrebbe essere un evento di questo tipo;
-- **eventi correlati (nel tempo)**, ovvero eventi il cui contenuto informativo non è rappresentato solo dall'i-esimo evento in particolare, ma dallo _stream di tutti gli eventi:. Basti pensare ad un **sensore di temperatura**: è molto più importante sapere se la "tendenza" della temperatura e' in discesa, per attivare la caldaia, piuttosto che sapere che, in un particolare istante temporale, la temperatura rilevata era di 20.3 gradi.
+- **eventi correlati (nel tempo)**, ovvero eventi il cui contenuto informativo non è rappresentato solo dall'i-esimo evento in particolare, ma dallo _stream di tutti gli eventi_. Basti pensare ad un **sensore di temperatura**: è molto più importante sapere se la "tendenza" della temperatura e' in discesa, per attivare la caldaia, piuttosto che sapere che, in un particolare istante temporale, la temperatura rilevata era di 20.3 gradi.
 <figure style="text-align:center"><img src="/assets/images/post-content/azure-event-grid/eventgrid_letters.png" alt="azure" />
 
 </figure>
