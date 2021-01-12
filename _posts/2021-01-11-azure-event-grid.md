@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/post-cover/202101-azure-event-grid.jpg'
 socialcover: 'assets/images/post-cover/202101-azure-event-grid.jpg'
-slug: 'cloud-conf'
+slug: 'azure-event-grid'
 title: 'Azure Event Grid: a message to rule them all'
 date: 2021-01-11 09:00:00
 category : tech
