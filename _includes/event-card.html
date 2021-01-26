@@ -1,0 +1,48 @@
+
+    <article class="event-card {{ page.class }}{% unless event.cover %} no-image{% endunless %}">
+        {% if event.cover %}
+        <a class="event-image-link" href="{{ event.url | relative_url }}"> 
+            <figure class="event-image"><img src="{{ event.cover | relative_url}}" alt="event cover/">
+            </figure>
+        </a>
+        {% endif %}
+
+        <div class="event-card-content">
+            <h3 class="event-title"><a href="{{ event.url | relative_url }}">{{ event.event-title }}</a></h3>
+            <h1 class="talk-title">
+                <a href="{{ event.url | relative_url }}"> {{ event.talk-title }}</a>
+            </h1>
+          
+        <footer class="event-footer">
+            {% if event.author.size > 0 %}
+            <div class="authors">
+                 {% for current-author in event.author %}
+                    <div class="event-author">
+                        {% assign author = site.authors | where: 'short_name', current-author | first %}
+                        {% if author %}
+                        
+                            {% if author.picture %}
+                                <img class="event-author-image" src="{{ author.picture | relative_url }}" alt="{{ author.name }}" />
+                            {% endif %}
+                            <span class="event-author-name">
+                                <a href="{{ author.url | relative_url }}">{{ author.name }}</a> </a>
+                            </span>
+                            
+                        {% endif %}
+                       
+                        </div>
+                 
+                {% endfor %}
+          </div>
+        {% endif %}
+        <section class="event-info">
+            <span class="event-date-time"><a href="{{ event.url | relative_url }}"> {{ event.event-date-start | date:'%e %B %Y'}} - {{ event.event-date-start  | date: '%R' }} 
+                {% if event.talk-info-track != ""  %} - {{ event.talk-info-track }}  {% endif %}    
+            </a></span>
+            <span class="event-location"><a href="{{ event.url | relative_url }}">{{ event.location }}</a></span>
+        </section>
+    </footer>
+    </article>
+
+
+

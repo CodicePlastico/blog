@@ -1,0 +1,57 @@
+---
+layout: default
+class: 'events'
+---
+<header class="title-header events">
+  
+    <div class="header-content">
+      <h1><span>Eventi<strong> Plastici</strong></span></h1>
+      <p class="emph">In CodicePlastico siamo convinti che la formazione e condivisione della conoscenza siano due facce della stessa medaglia. Per questo siamo sempre entusiasti di portare i nostrieventi organizzati dalle community IT italiane.</p>
+    </div>
+   
+  </header>
+
+<main id="site-main" class="site-main outer events" role="main">
+ 
+
+  <article class="events ">
+      
+       {% assign next_events = site.events | where_exp:"event", "event.event-date-start >= site.time" %}
+       {% if next_events.size  > 0  %} 
+           <section class="event event-list">
+                <h1 class="section-title">I prossimi eventi in programma</h1>
+                <div class="post-feed">
+                  {% for event in next_events %}
+                      {%  include event-card.html %}
+                  {% endfor %}
+                </div>
+      </section>
+       {% endif %}
+   
+      {% assign past_events = site.events | where_exp:"event", "event.event-date-start < site.time"  %}
+
+        <section class="event event-list">
+          <h1 class="section-title">Gli utlimi materiali, slide e video degli eventi passati</h1>
+             <div class="post-feed">
+               {% for event in past_events limit:10 %}
+                   {%  include event-card.html %}
+               {% endfor %}
+             </div>
+       </section>
+     
+       <p class="event-link-archive"><a href="archive-events.html">Tutti i talk di CodicePlastico</a></p>
+  </article>
+</main>
+
+
+ 
+
+
+
+
+
+
+
+
+
+     

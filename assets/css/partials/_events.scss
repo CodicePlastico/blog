@@ -1,0 +1,212 @@
+.events-intro,
+.event-link-archive{
+text-align: center;
+}
+
+
+/*stili comuni*/
+.event-card,
+.single-event{
+    .event-title{   font-size: 1em; font-weight: 200; text-transform: uppercase; letter-spacing: 4px; 
+        a{ color: $main-color; text-decoration: none;}
+    }
+
+    .talk-title{ font-size: 1.6em;
+        @media #{$mqMD}{  
+            font-weight:600;font-size: 2.5em;
+        }
+    }
+
+    .event-author{display: flex; flex-direction: column; align-items: center;
+        @media #{$mqMD}{
+            flex-direction: row;
+        }
+    }
+    .event-author-image{ max-width: 60px; flex:1; margin: 0.5em 0; 
+        @media #{$mqMD}{mimg{ border: 1px solid #ccc; } margin-right: 0.4em;}
+    }
+    .event-author-name{ font-weight: 300;  font-size: 1em; text-transform: uppercase; font-family: "Barlow Condensed", sans-serif;
+        a{color: $main-color; }
+        @media #{$mqSM}{font-size: 1.2em;}
+    }
+}
+
+
+.event-link-archive{
+    text-transform: uppercase;
+    font-size: 1em; 
+    margin: 2em;
+}
+.title-header.events{
+    padding-bottom: 2em;;
+    .title-header h1{
+        letter-spacing: -2px;
+        @media #{$mqMD}{  letter-spacing: 0;}
+    }
+    p.emph{font-size: 1.0em;
+        @media #{$mqMD}{  
+            font-size: 1.7em;
+            line-height: 1.2em;
+        }
+    }
+}
+.site-main.events{
+   .section-title{ color: $main-color; text-align: center; margin: 2em 0;}
+   
+}
+
+.event-card{
+    border: 1px solid #efefef;
+    margin: 20px 40px; width: 100%;
+    @media #{$mqMD}{ 
+        margin: 20px 0px;
+    }
+    padding: 1em ;
+    box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
+    transition: all 0.5s ease;
+    .event-image{
+         margin: 0; 
+        img{max-width: 100%;
+            @media #{$mqMD}{  
+            max-width: 350px;}
+        }
+    }
+    text-align: center;
+    .event-footer{
+      
+        margin: 0.2em;
+        display: flex; 
+        flex-direction: column;     
+        align-items: center;
+        
+        
+        .event-info{
+            font-family: "Barlow Condensed", sans-serif;
+            margin: 0.5em 0;
+            span{ display: block;}
+            a{ text-decoration: none;}
+            .event-location{ font-weight: bold; text-transform: capitalize;}
+            @media #{$mqMD}{
+                text-align: right;
+                font-size: 1.2em;
+            }
+
+        }
+        @media #{$mqMD}{
+            flex-direction: row;
+            justify-content: space-between;
+            border-top: 1px solid $main-color; padding-top: 0.8em; margin-top: 1em;
+        }
+    }
+   
+    
+    .event-card-content{
+        padding: 1em;
+        @media #{$mqMD}{
+            text-align: left;
+            padding: 2em; 
+            flex: 1;       
+        }
+    }
+   
+    
+    @media #{$mqMD}{   
+            display: flex; align-items: center;
+        }
+    }
+    .event-card:hover {
+        box-shadow: 0 0 1px rgba(39,44,49,0.10), 0 3px 16px rgba(39, 44, 49,0.07);
+        transition: all 0.3s ease;
+        transform: translate3D(0, -1px, 0);
+    }
+
+    .single-event{
+        padding-top: 4em;
+   
+        width: 100%;
+        @media #{$mqSM}{
+            padding-top: 6em;
+            margin: 0 auto;
+        }
+
+        .event-container{
+            display: flex;
+            flex-direction: column-reverse;
+            @media #{$mqSM}{
+                flex-direction: row;
+            }
+            aside{
+                margin: 1em; padding: 1em 1em 1.5em 1em;
+                background: $main-color;
+                color: $main-light;
+             
+                text-align: center;
+                h4{  font-family: "Barlow Condensed", sans-serif;
+                    font-weight: 300;
+                     text-transform: uppercase;
+                     margin-bottom: 0.2em; 
+                     margin-top: 0.5em;
+                    }
+                p{ font-size: 0.8em; 
+                    margin-bottom: 0.2em; 
+                }
+                .event-image{
+                    display: none;
+                    @media #{$mqSM}{
+                        margin: 0;
+                        display: block;
+                    }
+                }
+               
+                @media #{$mqSM}{
+                    max-width: 250px;
+                }
+            }
+
+            .event-content{
+                padding: 1.5em;
+                margin-bottom: 2em;
+                .event-author-image{ max-width: 30px;}
+                .event-author-name{
+                    font-size: 1em;
+                  
+                }
+                .event-card-content-intro{
+                    text-align: center;
+                    @media #{$mqSM}{
+                        text-align: left;
+                    }
+
+                    .talk-title{
+                        font-weight: bold;
+                    }  
+
+                    .event-image{
+                      
+                    }
+                    @media #{$mqSM}{  
+                        .event-image{
+                            display: none;
+                        }
+                        border-bottom: 1px solid $main-color;
+                        padding-bottom: 3em;
+                        margin-bottom: 3em;
+                    }
+                }
+                .event-card-content-main{
+
+                }
+                
+                
+            }
+
+           
+            
+        }
+
+        .related-post{
+            
+            h4{ text-align: center; margin-top: 2em; margin-bottom: 2em; 
+             }
+        }
+    }
