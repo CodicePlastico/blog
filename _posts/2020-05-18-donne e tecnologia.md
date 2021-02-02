@@ -6,7 +6,7 @@ socialcover: 'assets/images/post-cover/donne-it-s.jpg'
 slug: donne-tecnologia
 title: 'Donne e IT: un viaggio tra dati, stereotipi e action points'
 date: 2020-05-18 00:00:00
-categories: [vita-plastica]
+categories: [people-at-work]
 tags: [women IT]
 author: [mery]
 ---

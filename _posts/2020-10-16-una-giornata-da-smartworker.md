@@ -6,7 +6,7 @@ socialcover: 'assets/images/post-cover/20201016-giornata-smartworker-s.jpg'
 slug: 'una-giornata-da-smartworker'
 title: 'A day in the life of (one) smart worker'
 date: 2020-10-16 09:00:00
-category : tech
+category : people-at-work
 tags: [agile, remote, smartworking]
 author: andrea
 ---

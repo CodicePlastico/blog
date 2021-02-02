@@ -6,7 +6,7 @@ socialcover: 'assets/images/post-cover/20200715-colore-team-s.jpg'
 slug: coloriamo i nostri team
 title: 'Coloriamo i nostri team'
 date: 2020-07-14 09:00:00
-category : tech
+category : people-at-work
 tags: [team management, agile, cp]
 author: gianni
 ---
