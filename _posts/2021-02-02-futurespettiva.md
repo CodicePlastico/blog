@@ -113,14 +113,14 @@ Noi abbiamo deciso di utilizzare Google Sheet, suddividendo il foglio in 6 colon
 Troviamo una descrizione per il cluster che racchiuda TUTTI i goal che contiene. Nessuno deve dire si, ma il mio goal...
 
 ### 7. Votare!
-Votiamo i cluster e ordiniamoli in base al punteggio in ordine descrente
+Votiamo i cluster e ordiniamoli in base al punteggio in ordine descrente.
 <figure style="text-align:center"><img src="/assets/images/post-content/futurespettiva/future_divider.png" alt="futurespettiva" /></figure>
 
 ### 8. Identifichiamo cosa ha minato il raggiungimento del MACRO-GOAL di questo cluster.
-Attenzione... **HA MINATO**, ricordatevi che partiamo sempre dal presupposto che  l’obiettivo è stato raggiunto per cui quello che andiamo ad individuare è un rischio che, durante l’ipotetica vita del progetto, abbiamo rilevato e gestito e la cui gestione ci ha permesso di raggiungere l’obiettivo, ma che certamente non vogliamo più trovarci ad affrontare
+Attenzione... **HA MINATO**, ricordatevi che partiamo sempre dal presupposto che  l’obiettivo è stato raggiunto per cui quello che andiamo ad individuare è un rischio che, durante l’ipotetica vita del progetto, abbiamo rilevato e gestito e la cui gestione ci ha permesso di raggiungere l’obiettivo, ma che certamente non vogliamo più trovarci ad affrontare.
 
 ### 9. &Egrave; il successo, darling!
-Identifichiamo gli elementi di successo 
+Identifichiamo gli elementi di **successo**.
 
 ### 10. L'azione è tutto!
 Identifichiamo le **action** da mettere a terra per raggiungere quest'obiettivo
