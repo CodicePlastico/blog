@@ -6,7 +6,7 @@ socialcover: 'assets/images/post-cover/20200724-smart-working-s.jpg'
 slug: smart-working-guida
 title: 'SmartWorking: the day after.<br/>Come è andata e come affrontare il futuro. '
 date: 2020-07-21 09:00:00
-category : tech
+category : people-at-work
 tags: [agile, remote, smartworking]
 author: [mery, andrea]
 ---

@@ -31,11 +31,11 @@ body{ font-family: 'Barlow', sans-serif;   font-size: $size; line-height: $lh;
     }
   }
   strong {
-    font-weight: 400;
+    font-weight: 600;
     &.emph{ font-weight: 600; color: $main-color;}
   }
   em {
-    font-style: italic; font-weight: 300 !important;
+    font-style: italic; font-weight: 300!important;
   }
   
   p, li, address {
