@@ -26,7 +26,7 @@ text-align: center;
         @media #{$mqMD}{mimg{ border: 1px solid #ccc; } margin-right: 0.4em;}
     }
     .event-author-name{ font-weight: 300;  font-size: 1em; text-transform: uppercase; font-family: "Barlow Condensed", sans-serif;
-        a{color: $main-color; }
+        a{color: $main-dark; }
         @media #{$mqSM}{font-size: 1.2em;}
     }
 }
@@ -58,17 +58,13 @@ text-align: center;
 .event-card{
     border: 1px solid #efefef;
     margin: 20px 40px; width: 100%;
-    @media #{$mqMD}{ 
-        margin: 20px 0px;
-    }
     padding: 1em ;
     box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
     transition: all 0.5s ease;
     .event-image{
          margin: 0; 
         img{max-width: 100%;
-            @media #{$mqMD}{  
-            max-width: 350px;}
+           
         }
     }
     text-align: center;
@@ -78,42 +74,76 @@ text-align: center;
         display: flex; 
         flex-direction: column;     
         align-items: center;
-        
-        
         .event-info{
             font-family: "Barlow Condensed", sans-serif;
             margin: 0.5em 0;
             span{ display: block;}
             a{ text-decoration: none;}
-            .event-location{ font-weight: bold; text-transform: capitalize;}
-            @media #{$mqMD}{
+            .event-location{ font-weight: bold; text-transform: capitalize; color:$main-color}
+        }
+       
+    }
+    .event-card-content{
+        padding: 1em;
+    }
+ }
+ .events-list.future .event-card{
+    
+    @media #{$mqMD}{ 
+        margin: 20px 0px;
+        border: 1px solid #ccc;
+        display: flex; align-items: center;
+        .event-image{
+            img{
+                max-width: 250px;}
+        }
+        .event-footer{
+            .event-info{
                 text-align: right;
                 font-size: 1.2em;
             }
-
-        }
-        @media #{$mqMD}{
             flex-direction: row;
             justify-content: space-between;
             border-top: 1px solid $main-color; padding-top: 0.8em; margin-top: 1em;
         }
-    }
-   
-    
-    .event-card-content{
-        padding: 1em;
-        @media #{$mqMD}{
+        .event-card-content{
             text-align: left;
             padding: 2em; 
             flex: 1;       
         }
     }
-   
+ }
+
+
+.events-list.past{
     
-    @media #{$mqMD}{   
-            display: flex; align-items: center;
+    @media #{$mqSM}{
+        .post-feed {display: flex; justify-content: space-between;}
+        .event-card{
+            margin: 1%;
+            min-width: 265px;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            flex-direction: column;
+            max-width: 265px;
+            .talk-title{
+                font-size: 1.3em;
+            }
+            .event-author{
+                flex-direction: column;
+                .event-author-name{ font-size: 0.8em; }
+            }
+            .event-card-content{
+                display: flex;
+                flex: 1;
+                flex-direction: column;
+                justify-content: space-between;
+            }
         }
     }
+}
+
     .event-card:hover {
         box-shadow: 0 0 1px rgba(39,44,49,0.10), 0 3px 16px rgba(39, 44, 49,0.07);
         transition: all 0.3s ease;
@@ -131,7 +161,7 @@ text-align: center;
 
         .event-container{
             display: flex;
-            flex-direction: column-reverse;
+            flex-direction: column;
             @media #{$mqSM}{
                 flex-direction: row;
             }
@@ -179,6 +209,9 @@ text-align: center;
 
                     .talk-title{
                         font-weight: bold;
+                        @media #{$mqSM}{
+                            font-size: 3.5em;
+                        }
                     }  
 
                     .event-image{
@@ -196,7 +229,14 @@ text-align: center;
                 .event-card-content-main{
 
                 }
-                
+                .video{
+                    background: #efefef;
+                    padding: 1em;
+                    margin: 2em 0;
+                    @media #{$mqSM}{  
+                        padding: 3em;
+                    }
+                }
                 
             }
 
@@ -210,3 +250,39 @@ text-align: center;
              }
         }
     }
+
+
+.archive-event-feed{
+    .event-item{ 
+       margin-right: 1em;
+        .event-date-time{
+            a{ text-decoration: none;}
+        }
+        .event-title{
+            display: block;
+            font-family: "Barlow Condensed", sans-serif;
+                    font-weight: 300;
+                     text-transform: uppercase;
+                     
+            a{ text-decoration: none; color: $main-color;}
+        }
+        .talk-title{
+            font-weight: bold;
+            display: block;
+        }
+        padding-bottom: 1em; 
+        margin-bottom: 1em;
+        border-bottom: 1px solid #efefef;
+    
+        @media #{$mqSM}{
+         margin: 0;
+         list-style-type: none;
+         display: flex;
+         align-items: center;
+         padding-top: 1em; 
+         .event-date-time{width: 20%;}
+         .event-title{ width: 30%;}
+         .talk-title{ width: 50%;}
+        }
+    }
+}

@@ -18,7 +18,7 @@ class: 'events'
       
        {% assign next_events = site.events | where_exp:"event", "event.event-date-start >= site.time" %}
        {% if next_events.size  > 0  %} 
-           <section class="event event-list">
+           <section class="event events-list future">
                 <h1 class="section-title">I prossimi eventi in programma</h1>
                 <div class="post-feed">
                   {% for event in next_events %}
@@ -30,7 +30,7 @@ class: 'events'
    
       {% assign past_events = site.events | where_exp:"event", "event.event-date-start < site.time"  %}
 
-        <section class="event event-list">
+        <section class="event events-list past">
           <h1 class="section-title">Gli utlimi materiali, slide e video degli eventi passati</h1>
              <div class="post-feed">
                {% for event in past_events limit:10 %}
