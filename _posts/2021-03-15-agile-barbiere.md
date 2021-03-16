@@ -92,11 +92,11 @@ processo._"
 
 ### Perché avevate deciso di passare insieme due giorni?
 
-Eh il problema era chiaro, dovevamo trovare una soluzione principalmente a due problemi:
-*   come **fare modifiche con basso effort** al nostro software;
-*   come **portare a termine progetti definiti parzialmente** ed in modo sommario.
+_Eh il problema era chiaro, dovevamo trovare una soluzione principalmente a due problemi:_
+*   _come **fare modifiche con basso effort** al nostro software;_
+*   _come **portare a termine progetti definiti parzialmente** ed in modo sommario._
 
-Nel 1970 Winston Royce pubblicò un paper (“[Managing the Development of Large Software System](https://docs.google.com/viewer?url=http%3A%2F%2Fleadinganswers.typepad.com%2Fleading_answers%2Ffiles%2Foriginal_waterfall_paper_winston_royce.pdf)”) dove introdusse il metodo _waterfall_: l’articolo diventò virale e soprattutto questo diagramma (Robert estrae il suo smartphone e ci mostra questa figura)
+_Nel 1970 Winston Royce pubblicò un paper (“[Managing the Development of Large Software System](https://docs.google.com/viewer?url=http%3A%2F%2Fleadinganswers.typepad.com%2Fleading_answers%2Ffiles%2Foriginal_waterfall_paper_winston_royce.pdf)”) dove introdusse il metodo **waterfall**: l’articolo diventò virale e soprattutto questo diagramma (Robert estrae il suo smartphone e ci mostra questa figura)_
 <figure style="text-align:center"><img src="/assets/images/post-content/storia-manifesto-agile/waterfall.png" alt="futurespettiva" /></figure>
 
 _Sicuramente aveva la sua razionalità, ma era un approccio… beh diciamolo, povero Royce... Sbagliato! Semplicemente perché si tratta di un approccio adatto a sistemi produttivi molto prevedibili fin dagli stadi iniziali, dove il costo del cambiamento “in corsa” è altissimo. Beh, lo sviluppo software, nella maggior parte dei casi, è l’esatto opposto no?_
@@ -152,7 +152,7 @@ _I **clienti**, gli utenti ed i vostri manager si aspettano una **fearless compe
 
 _I **clienti** si aspettano che quanto rilasciato sia stato abbondantemente testato ed i test manuali sono noiosi, lenti e dispendiosi._
 
-_Inoltre, **più avanti nel tempo si scoprono i problemi**, più **costoso diventa risolverli**; per questo sconsiglio l’approccio con test manuali fatti da team di Q/A e invece può venire fortemente in aiuto un’altra pratica dell’Acceptance Testing: se scriviamo prima ciò che dobbiamo testare, otterremo una suite di test da utilizzare per la fase di Q/A e verificare in modo automatico il comportamento atteso._
+_Inoltre, **più avanti nel tempo si scoprono i problemi**, più **costoso diventa risolverli**; per questo sconsiglio l’approccio con test manuali fatti da team di Q/A e invece può venire fortemente in aiuto un’altra pratica chiamata Acceptance Testing: se scriviamo prima ciò che dobbiamo testare, otterremo una suite di test da utilizzare per la fase di Q/A e verificare in modo automatico il comportamento atteso._
 
 
 ### Ma come facciamo ad essere sicuri che la modifica non introduca regressioni?
@@ -162,7 +162,7 @@ _Semplice, con la pratica del **TDD**: praticando il TDD con disciplina e determ
 
 Paolo a questo punto, incuriosito chiede 
 
-“_Scusa Bob… maaaaaaa, Emanuele intendi EmaDb, cioè Emanuele DelBono?_”. 
+“_Scusa Bob… maaaaaaa, Emanuele intendi EmaDb, cioè <a href="https://blog.codiceplastico.com/authors/emanuele-delbono">Emanuele DelBono</a>?_”. 
 
 “_Certo ragazzi” risponde Robert estraendo nuovamente lo smartphone dalla tasca dei jeans, “guardatevi questo [video](https://blog.codiceplastico.com/test-driven-development-live-session) e capirete subito l’importanza del TDD_”. 
 
@@ -238,6 +238,7 @@ Paolo: "_Ma certo! Non hai sentito il chiaro accento di Chicago???"_
 Gianni: "_Certo, perché tu vuoi farmi credere che conosci perfettamente l’accento di Chicago…_"
 
 Paolo: "_Ti dico di sì! Ehm...Yes, indeed!_"
+
 Gianni: "_Vabbè dai, lascia stare, andiamo… devo cospargere lo spiedo con il burro. Ho fatto partire il [Ferraboli](http://ferraboli.it/) prima di uscire di casa… speriamo non si sia bruciato!_"
 
 Paolo: "_Cospargere cosa??_"
@@ -258,7 +259,7 @@ Gianni: (Mettendo la mano sulla spalla a Paolo e incamminandosi) "_Si, dico… d
 *   [Clean Agile, Back to Basics](https://www.amazon.com/gp/product/B07XTL99JQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i4)
 *   [https://manifesto.softwarecraftsmanship.org/](https://manifesto.softwarecraftsmanship.org/)
 *   [https://www.scruminc.com/how-the-agile-manifesto-came-to-be/](https://www.scruminc.com/how-the-agile-manifesto-came-to-be/)
-*   
+
 
 
 
