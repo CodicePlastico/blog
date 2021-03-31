@@ -16,7 +16,7 @@ class: 'events'
 
   <article class="events ">
       
-       {% assign next_events = site.events | where_exp:"event", "event.event-date-start >= site.time" %}
+       {% assign next_events = site.events | where_exp:"event", "event.event-date-start >= site.time"  %}
        {% if next_events.size  > 0  %} 
            <section class="event events-list future">
                 <h1 class="section-title">I prossimi eventi in programma</h1>
@@ -28,7 +28,7 @@ class: 'events'
       </section>
        {% endif %}
    
-      {% assign past_events = site.events | where_exp:"event", "event.event-date-start < site.time"  %}
+      {% assign past_events = site.events | where_exp:"event", "event.event-date-start < site.time" | sort: "event-date-start", "first"   %}
 
         <section class="event events-list past">
           <h1 class="section-title">Gli utlimi materiali, slide e video degli eventi passati</h1>
