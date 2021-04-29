@@ -27,7 +27,7 @@ Poi, nel 2010 durante l’**Agile Day** [Luca Grulla](https://twitter.com/lucagr
 
 Luca disse una frase, una cosa del tipo: 
 
-> *nel browser gira un’applicazione che utilizza i dati che provengono dalle API*
+<cite>nel browser gira un’applicazione che utilizza i dati che provengono dalle API</cite>
 
 Sembra banale ma fu allora che capii che il client e il server erano due contesti separati che comunicavano via API, proprio come una vista di un’applicazione WPF comunicava con un servizio, o un client con un database.
 
