@@ -11,8 +11,6 @@ tags: [programming]
 author: [ema]
 ---
 
-# Spa vs Classic Web App
-
 ## I bei vecchi tempi, erano davvero belli?
 
 Programmo da abbastanza tempo per ricordarmi le prime applicazioni web sviluppate con [ASP.NET](http://asp.net/) ~~WebForm~~, MVC e Ruby on Rails, mi ricordo dei post-back, dei linguaggi di templating (quanto era bello [Haml](notion://www.notion.so/emadb/Spa-vs-Classic-Web-App-ee48da00e18747f6ac16d208ddedc3b2?)) e naturalmente di jQuery.
@@ -23,7 +21,7 @@ Inoltre, mentre sul backend si faceva uso di pattern efficaci per ottenere la se
 
 <figure style="text-align:center"><img src="/assets/images/post-content/spavscwa/spavscla_ancient.png" alt="old times" /></figure>
 
-Poi, nel 2010 durante l’**Agile Day** [Luca Grulla](https://twitter.com/lucagrulla) fece un talk dal titolo [**Secret art of javascripting](https://www.agileday.it/2010/www.agileday.it/front/programma/secret-art/index.html)** che fece chiarezza su quel malessere che sentivo mentre sviluppavo applicazioni web: la mancanza di dignità e di una vera architettura design nel codice Javascript.
+Poi, nel 2010 durante l’**Agile Day** [Luca Grulla](https://twitter.com/lucagrulla) fece un talk dal titolo **[Secret art of javascripting](https://www.agileday.it/2010/www.agileday.it/front/programma/secret-art/index.html)** che fece chiarezza su quel malessere che sentivo mentre sviluppavo applicazioni web: la mancanza di dignità e di una vera architettura design nel codice Javascript.
 
 Luca disse una frase, una cosa del tipo: 
 
