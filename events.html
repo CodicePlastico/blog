@@ -28,14 +28,17 @@ class: 'events'
       </section>
        {% endif %}
    
-      {% assign past_events = site.events | where_exp:"event", "event.event-date-start < site.time" | sort: "event-date-start", "first"   %}
+      {% assign past_events = site.events | where_exp:"event", "event.event-date-start < site.time" | sort: "event-date-start" | reverse %}
 
         <section class="event events-list past">
-          <h1 class="section-title">Gli utlimi materiali, slide e video degli eventi passati</h1>
+          <h1 class="section-title">Gli ultimi materiali, slide e video degli eventi passati</h1>
              <div class="post-feed">
-               {% for event in past_events limit:10 %}
+               {% for event in past_events limit:12 %}
                    {%  include event-card.html %}
                {% endfor %}
+               <article class="event-card event-card--fake"></article>
+               <article class="event-card event-card--fake"></article>
+               <article class="event-card event-card--fake"></article>
              </div>
        </section>
      

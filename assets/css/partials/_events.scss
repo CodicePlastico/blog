@@ -61,6 +61,12 @@ text-align: center;
     padding: 1em ;
     box-shadow: rgba(39,44,49,0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
     transition: all 0.5s ease;
+
+    &--fake{
+        border: none;
+        box-shadow: none;
+    }
+    
     .event-image{
          margin: 0; 
         img{max-width: 100%;

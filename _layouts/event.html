@@ -74,7 +74,7 @@ current: event
         <div class="post-feed">
             {% assign filtered_posts = site.posts | where: 'author', page.page.author %}
             {% for post in filtered_posts limit:3 %}
-            {%  include post-card.html %}
+            {% include post-card.html %}
             {% endfor %}
         </div>
     </section>
