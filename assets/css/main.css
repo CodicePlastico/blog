@@ -1546,6 +1546,10 @@ section.newsletter {
     border: none;
     box-shadow: none;
   }
+  .event-card.event-card--fake:hover {
+    border: none;
+    box-shadow: none;
+  }
   .event-card .event-image {
     margin: 0; }
     .event-card .event-image img {

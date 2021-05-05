@@ -65,10 +65,15 @@ text-align: center;
     &--fake{
         border: none;
         box-shadow: none;
+
+        &:hover {
+            border: none;
+            box-shadow: none;
+        }
     }
-    
+
     .event-image{
-         margin: 0; 
+        margin: 0; 
         img{max-width: 100%;
            
         }
