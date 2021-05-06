@@ -50,7 +50,7 @@ La giornata è stata divisa quindi in due momenti: **Marketplace** e **Open sess
 ## Marketplace:
 La prima fase della giornata è stato il **Marketplace**.
 
-In uno slot di un'ora chiunque volesse ha proposto un argomento aggiunto poi alla pianificazione pomeridiana fino a completamento degli slot disponibili: il primo che ha proposto un argomento sceglie la stanza e l'ora in cui vorrebbe cominciare il dialogo.
+Chiunque volesse ha proposto un argomento sapendo di avere a disposizione uno slot di 45 minuti. Le proposte sono state aggiunte poi alla pianificazione pomeridiana fino a completamento degli slot disponibili: il primo che ha proposto un argomento sceglie la stanza e lo slot.
 
 
 <figure style="text-align:center"><img src="/assets/images/post-content/open-space/open_room.png" alt="find your room" /></figure>
@@ -86,7 +86,7 @@ A pochi giorni di distanza abbiamo mandato un **questionario** per avere dei fee
 
 # Considerazioni finali:
 
-C'è stata una **leggera frizione iniziale** ma ci siamo lasciati andare mentre passava il tempo, dovremo re-imparare a comunicare con gli altri: ha vinto però la voglia di chiacchierare, di raccontarsi al di fuori della propria abitazione e della propria routine.
+Dopo una *leggera frizione iniziale* col passare del tempo ci siamo lasciati andare. Dovremo certamente **re-imparare a comunicare** con gli altri: ha vinto però la voglia di chiacchierare, di raccontarsi al di fuori della propria abitazione e della propria routine.
 
 Unica nota dolente è stata essere in **call tutto il giorno**, il limite dello schermo è, sfortuntamente, difficile da superare.
 
