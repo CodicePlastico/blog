@@ -17,15 +17,19 @@ Leggenda vuole che, nel corso degli anni durante le conferenze nel mondo informa
 
 # OPEN DAY
 
-Da qui quindi è nata l'idea di creare gli **Open Day**: eventi incentrati esclusivamente sulla modalità della *tavola rotonda*, cioè una serie di chiacchierate su diversi argomenti proposti.
+Da qui quindi è nata l'idea di creare gli **Open Day**: eventi incentrati esclusivamente sulla modalità della *tavola rotonda*, cioè una serie di chiacchierate su argomenti decisi dai partecipanti e non discesi dall'alto in stile **deus ex machina**.
+
+Abbiamo quindi deciso di provare a organizzarne uno interno.
 
 ## REGOLE
 
-La **regola delle regole** è la legge dei *due piedi*: significa che ognuno si prende la responsabilità per ciò che interessa e ha il diritto di spostarsi tra le conversazioni dove può contribuire o imparare al meglio.
-
 <figure style="text-align:center"><img src="/assets/images/post-content/open-space/open_rules.png" alt="rules" /></figure>
 
-Le **quattro regole** sono:
+Partiamo dai punti fermi di un Open Day.
+
+La **regola delle regole** è la legge dei *due piedi*: significa che ognuno si prende la responsabilità per ciò che interessa e ha il diritto di spostarsi tra le conversazioni dove può contribuire o imparare al meglio.
+
+Mentre le **quattro regole** fondamentali sono:
 *   Chiunque partecipi è la persona giusta
 *   Qualsiasi cosa accada è quello che è giusto che accada
 *   Quando comincia (e come comincia la conversazione) è il momento giusto
