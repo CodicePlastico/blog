@@ -15,9 +15,7 @@ author: [andrea, jacek]
 Leggenda vuole che, nel corso degli anni durante le conferenze nel mondo informatico, le idee migliori uscissero durante le chiacchierate tra un talk e l'altro tra i partecipanti (oppure se non credete alle leggende, c'è sempre <a href="https://en.wikipedia.org/wiki/Open_Space_Technology">Wikipedia</a>)
 </div>
 
-# OPEN DAY
-
-Da qui quindi è nata l'idea di creare gli **Open Day**: eventi incentrati esclusivamente sulla modalità della *tavola rotonda*, cioè una serie di chiacchierate su argomenti decisi dai partecipanti e non discesi dall'alto in stile **deus ex machina**.
+Da qui è nata l'idea di creare gli **Open Day**: eventi incentrati esclusivamente sulla modalità della *tavola rotonda*, cioè una serie di chiacchierate su argomenti decisi dai partecipanti e non discesi dall'alto in stile **deus ex machina**.
 
 Abbiamo quindi deciso di provare a organizzarne uno interno.
 
@@ -35,14 +33,14 @@ Mentre le **quattro regole** fondamentali sono:
 *   Quando comincia (e come comincia la conversazione) è il momento giusto
 *   Quando l'argomento è esaurito o chi partecipa ritiene sia arriva la conclusione, si chiude.
 
-Queste regole servono per chiarire che la **cosa giusta** è seguire il *flusso*, nessun paletto, nessuna costrizione, anche se si apre la conversazione parlando di programmazione funzionale e si prosegue parlando di coltivazione di patate sulle Ande va bene lo stesso (e nel caso si sfori rispetto allo slot temporale prestabilito ci si può spostare in un altro spazio per proseguire).
+Queste regole servono per chiarire che la **cosa giusta** è seguire il *flusso*, nessun paletto, nessuna costrizione, anche se la conversazione si apre parlando di *programmazione funzionale* e prosegue con la *coltivazione di patate sulle Ande* va tutto bene (e nel caso si sfori rispetto allo slot temporale prestabilito ci si può spostare in un altro spazio per proseguire).
 
 <figure style="text-align:center"><img src="/assets/images/post-content/open-space/open_sq_bell2.png" alt="ring ring" /></figure>
 
 # Come l'abbiamo organizzato:
 Il tema della giornata è stato **come abbiamo affrontato il lockdown extra lavorativo**?
 
-Abbiamo deciso di non parlare di argomenti tecnici per poter staccare completamente dalla **code routine** e condividere con i colleghi le passioni e gli interessi che non rientrano (necessariamente) nella grande sfera IT. In questo modo abbiamo potuto far emergere le persone dietro al codice, facilitando quei momenti di conoscenza tra **human beings** di team diversi che faticano a trovare momenti di condivisione causa impedimenti geografici, di tempistiche e consegne.
+Abbiamo deciso di non parlare di argomenti tecnici per poter staccare completamente dalla **code routine** e condividere con i colleghi le *passioni* e gli *interessi* che non rientrano (necessariamente) nella grande sfera IT. In questo modo abbiamo potuto far emergere le persone dietro al codice, facilitando quei momenti di conoscenza tra **human beings** di team diversi che faticano a trovare momenti di condivisione causa impedimenti geografici, di tempistiche e consegne.
 
 La giornata è stata divisa quindi in due momenti: **Marketplace** e **Open sessions**.
 
@@ -84,14 +82,15 @@ A pochi giorni di distanza abbiamo mandato un **questionario** per avere dei fee
 * c'è stata una **soddisfazione generale** per l'evento,
 * è stata reputata una **giusta durata** dalla maggior parte dei partecipanti,
 * è stata suggerita la **votazione degli argomenti** a sostituzione del "chi prima arriva meglio alloggia", magari successiva alla fase di Marketplace,
-* altro consiglio: l'aggiunta di una **Pausa** a metà pomeriggio per staccare qualche minuto dallo schermo.
+* altro consiglio: l'aggiunta di una **pausa** a metà pomeriggio per staccare qualche minuto dallo schermo.
 
 # Considerazioni finali:
-è stata una giornata per non pensare al codice e una giornata per condividere il lockdown e se stessi, c'è stata la voglia di chiacchierare, di raccontarsi al di fuori della propria abitazione. Lo **smartworking** è un ottimo modo per lavorare ma, non potendo vedere altre persone uscendo la sera o invitandole a casa, **manca l'equilibrio**.
 
-C'è stata una **leggera frizione iniziale** ma ci siamo lasciati andare mentre passava il tempo, dovremo re-imparare a comunicare con gli altri e l'unica nota dolente è stata essere in **call tutto il giorno**, il limite dello schermo è, sfortuntamente, difficile da superare.
+C'è stata una **leggera frizione iniziale** ma ci siamo lasciati andare mentre passava il tempo, dovremo re-imparare a comunicare con gli altri: ha vinto però la voglia di chiacchierare, di raccontarsi al di fuori della propria abitazione e della propria routine.
 
-Siamo rimasti però in call per un po' anche alle 12.00 con colleghi che non sentiamo abitualmente partendo dalla **dieta vegana** arrivando a **amazon**, prima di salutarci per il pranzo, e anche prima di cominciare le sessioni ci siamo presi un **caffè da remoto**.
+Unica nota dolente è stata essere in **call tutto il giorno**, il limite dello schermo è, sfortuntamente, difficile da superare.
+
+Alcuni di noi sono rimasti in call anche alle 12.00 con colleghi che non sentiamo abitualmente parlando di **dieta vegana** e arrivando a **amazon**, prima di salutarci per il pranzo, e ci siamo connessi nuovamente anche prima di cominciare le sessioni prendendo un classico **caffè da remoto**.
 
 Abbiamo percepito la **voglia di aiutare** e dare una mano a affrontare questo momento (anno) difficile per tutti e è stato bello prendersi del tempo per dare **profondità e tridimensionalità** a persone che abitualmente non si frequentano.
 
