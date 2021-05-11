@@ -15,7 +15,7 @@ author: [andrea, jacek]
 Leggenda vuole che, nel corso degli anni durante le conferenze nel mondo informatico, le idee migliori uscissero durante le chiacchierate tra un talk e l'altro tra i partecipanti (oppure se non credete alle leggende, c'è sempre <a href="https://en.wikipedia.org/wiki/Open_Space_Technology">Wikipedia</a>)
 </div>
 
-Da qui è nata l'idea di creare gli **Open Day**: eventi incentrati esclusivamente sulla modalità della *tavola rotonda*, cioè una serie di chiacchierate su argomenti decisi dai partecipanti e non discesi dall'alto in stile **deus ex machina**.
+Da qui è nata l'idea di organizzare gli **Open Space**: eventi incentrati esclusivamente sulla modalità della *tavola rotonda*, cioè una serie di chiacchierate su argomenti decisi dai partecipanti e non discesi dall'alto in stile **deus ex machina**.
 
 Abbiamo quindi deciso di provare a organizzarne uno interno.
 
@@ -23,7 +23,7 @@ Abbiamo quindi deciso di provare a organizzarne uno interno.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/open-space/open_rules.png" alt="rules" /></figure>
 
-Partiamo dai punti fermi di un Open Day.
+Partiamo dai punti fermi di un Open Space.
 
 La **regola delle regole** è la legge dei *due piedi*: significa che ognuno si prende la responsabilità per ciò che interessa e ha il diritto di spostarsi tra le conversazioni dove può contribuire o imparare al meglio.
 
