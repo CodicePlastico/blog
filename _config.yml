@@ -44,6 +44,7 @@ collections:
     output: true
   events:
     output: true
+    permalink: /events/:slug
  
 
 defaults:
@@ -64,11 +65,11 @@ defaults:
   - scope:
       path: "categories"
     values:
-        layout: "categories"
+      layout: "categories"
   - scope:
       path: "events"
     values:
-        layout: "events"
+      layout: "events"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

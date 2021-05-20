@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: ".NET Conference Italia 2020"
+title: ".NET Conference Italia 2020"
 talk-title: "Azure Kubernetes Service con .NET 5"
 event-date-start: 2020-11-24 17:30:00
 talk-info-track: ''

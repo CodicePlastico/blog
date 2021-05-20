@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "WPC2020"
+title: "WPC2020"
 talk-title: "Container options in Azure"
 event-date-start: 2020-11-18 14:45:00
 talk-info-track: ''

@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "AZURE: Tips from Field Reloaded"
+title: "AZURE: Tips from Field Reloaded"
 talk-title: "Sviluppare applicazioni reliable con .net core e AKS"
 event-date-start: 2020-02-11 19:00:00
 talk-info-track: ''

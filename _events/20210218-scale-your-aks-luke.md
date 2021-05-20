@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "Container & DevOps Day"
+title: "Container & DevOps Day"
 talk-title: "Scale your (AKS) cluster, Luke!"
 event-date-start: 2021-02-18 15:45:00
 talk-info-track: ''

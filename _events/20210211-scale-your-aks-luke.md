@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "ItalianCoders DevTalks"
+title: "ItalianCoders DevTalks"
 talk-title: "Scale your (AKS) cluster, Luke!"
 event-date-start: 2021-02-11 19:00:00
 talk-info-track: ''

@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "NextCODE Generation"
+title: "NextCODE Generation"
 talk-title: "Gestione dei progetti con la metodologia AgilePM"
 event-date-start: 2021-02-24 18:00:00
 talk-info-track: ''

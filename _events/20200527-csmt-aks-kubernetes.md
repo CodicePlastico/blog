@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "NextCODE Generation"
+title: "NextCODE Generation"
 talk-title: "AKS: Kubernetes e Azure to the rescue"
 event-date-start: 2020-05-27 17:30:00
 talk-info-track: ''

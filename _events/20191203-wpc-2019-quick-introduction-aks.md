@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "WPC19"
+title: "WPC19"
 talk-title: "A quick introduction to AKS"
 event-date-start: 2019-12-03 15:15:00
 talk-info-track: ''

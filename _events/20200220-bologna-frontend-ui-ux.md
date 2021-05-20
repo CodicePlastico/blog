@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "FeVR Meetup"
+title: "FeVR Meetup"
 talk-title: "UX, UI, USE(R)"
 event-date-start: 2020-02-20 19:00:00
 talk-info-track: ''

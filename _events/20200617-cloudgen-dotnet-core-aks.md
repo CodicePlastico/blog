@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "Cloudgen - Home Gen"
+title: "Cloudgen - Home Gen"
 talk-title: ".NET Core e AKS: un’accoppiata perfetta"
 event-date-start: 2020-06-17 21:00:00
 talk-info-track: ''

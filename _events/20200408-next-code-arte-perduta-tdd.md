@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "NextCODE Generation"
+title: "NextCODE Generation"
 talk-title: "L’arte perduta del Test Driven Development"
 event-date-start: 2020-04-08 19:00:00
 talk-info-track: ''

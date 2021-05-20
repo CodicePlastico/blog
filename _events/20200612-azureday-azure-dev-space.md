@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "Azure Day 2020"
+title: "Azure Day 2020"
 talk-title: "A quick tour around Azure Dev Spaces"
 event-date-start: 2020-06-12 16:00:00
 talk-info-track: ''

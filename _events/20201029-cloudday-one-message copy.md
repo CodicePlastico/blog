@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "Cloud Day 2020"
+title: "Cloud Day 2020"
 talk-title: "Azure Event Grid: a message to rule them all"
 event-date-start: 2020-10-29 21:00:00
 talk-info-track: ''

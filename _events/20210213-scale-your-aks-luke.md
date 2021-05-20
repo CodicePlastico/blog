@@ -1,6 +1,6 @@
 ---
 layout: event
-event-title: "CodeGen 2021"
+title: "CodeGen 2021"
 talk-title: "Scale your (AKS) cluster, Luke!"
 event-date-start: 2021-02-13 16:00:00
 talk-info-track: Track Architect

@@ -22,7 +22,7 @@ class: 'events'
               <span class="event-date-time"><a href="{{ event.url | relative_url }}"> {{ event.event-date-start | date:'%e %B %Y'}} - {{ event.event-date-start  | date: '%R' }} 
                
               </a></span>
-              <span class="event-title"><a href="{{ event.url | relative_url }}">{{ event.event-title }}</a></span>
+              <span class="event-title"><a href="{{ event.url | relative_url }}">{{ event.title }}</a></span>
               <span class="talk-title">
                   <a href="{{ event.url | relative_url }}"> {{ event.talk-title }}</a>
               </span>
