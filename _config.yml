@@ -67,7 +67,8 @@ defaults:
     values:
       layout: "categories"
   - scope:
-      path: "events"
+      path: ""
+      type: "events"
     values:
       layout: "events"
 
