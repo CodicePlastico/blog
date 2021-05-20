@@ -16,7 +16,7 @@ author: [ale]
 
 ---
 ## Abstract
-LKubernetes sta diventando lo standard de-facto come tool di orchestrazione di un ecosistema di container. In questa sessione, dopo una veloce introduzione a Kubernetes, vedremo come l'integrazione con Azure possa semplificare l'installazione, la configurazione e il monitoraggio di un'applicazione multi-container.
+Kubernetes sta diventando lo standard de-facto come tool di orchestrazione di un ecosistema di container. In questa sessione, dopo una veloce introduzione a Kubernetes, vedremo come l'integrazione con Azure possa semplificare l'installazione, la configurazione e il monitoraggio di un'applicazione multi-container.
 
 <!--div class="video">
 

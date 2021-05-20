@@ -20,12 +20,3 @@ Come designer e developer siamo chiamati alla realizzazione di prodotti che sodd
 
 Vedremo quali sono gli strumenti che possiamo scegliere per soddisfare entrambe le parti in causa, quando usarle e con chi, e come vanno ad impattare sul tempo di sviluppo: analisi dei requisiti, workshop, wireframe, prototipi, librerie di componenti e una buona dose di empatia.
 
-
-
-<!--div class="slide">
-<h3>Materiali</h3>
-<ul>
-    <li><a href="https://www.facebook.com/matteoguidotto/videos/10221295274475276" target="_blank">Video del Talk (Facebook)</a></li>
-</ul>
-</div-->
-

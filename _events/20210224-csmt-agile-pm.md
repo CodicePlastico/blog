@@ -24,6 +24,6 @@ Per questo serve conoscere pregi e difetti di ciascuna metodologia per poter far
 
 <div class="video">
 <div class="responsive-iframe-container-16">
-<iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=b4lFvMSk0aQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/b4lFvMSk0aQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
