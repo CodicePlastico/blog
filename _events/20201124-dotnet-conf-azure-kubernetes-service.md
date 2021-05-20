@@ -9,8 +9,8 @@ org: ASPItalia
 event-link: https://www.aspitalia.com/eventi/85/.NET-Conference-Italia-2020-Online.aspx
 org-link: https://www.aspitalia.com/
 org-twitter: aspitalia
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_core.png'
+socialcover: 'assets/images/events/20201124.jpg'
 slug: 'dotnet-conf-azure-kubernetes-service'
 author: [ale]
 

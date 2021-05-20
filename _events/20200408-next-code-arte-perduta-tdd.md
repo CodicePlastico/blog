@@ -9,8 +9,8 @@ org: CSMT Brescia
 event-link: https://nextcodegeneration.it/
 org-link: https://nextcodegeneration.it/2020/03/30/larte-perduta-del-test-driven-development/
 org-twitter: csmtgestione
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_design.png'
+socialcover: 'assets/images/events/20200408.jpg'
 slug: 'next-code-arte-perduta-tdd'
 author: [ema]
 

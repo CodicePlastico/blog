@@ -9,8 +9,8 @@ org: OverNet Education
 event-link: https://www.wpc2020.it/
 org-link: https://www.wpc2020.it/
 org-twitter: OverNetE
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_code.png'
+socialcover: 'assets/images/events/20201118.jpg'
 slug: 'wpc-container-options-azure'
 author: [ale]
 

@@ -9,8 +9,8 @@ org: ItalianCoders
 event-link: https://italiancoders.it/
 org-link: https://italiancoders.it/
 org-twitter: italian_coders
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_core.png'
+socialcover: 'assets/images/events/20210211.jpg'
 slug: 'italiancoders-devtalks-scale-your-aks-luke'
 author: [ale]
 

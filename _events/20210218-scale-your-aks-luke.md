@@ -9,8 +9,8 @@ org: ASPItalia
 event-link: https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx
 org-link: https://www.aspitalia.com/
 org-twitter: aspitalia
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_space.png'
+socialcover: 'assets/images/events/20210218.jpg'
 slug: 'container-devops-day-scale-your-aks-luke'
 author: [ale]
 

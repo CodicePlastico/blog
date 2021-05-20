@@ -9,8 +9,8 @@ org: BolognaFrontEnd
 event-link: https://www.meetup.com/it-IT/Bologna-front-end/events/268651391/
 org-link: 
 org-twitter: bolognafrontend
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_ux.png'
+socialcover: 'assets/images/events/20200220.jpg'
 slug: 'bologna-frontend-ui-ux'
 author: [andrea]
 

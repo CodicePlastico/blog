@@ -9,8 +9,8 @@ org: Cloudgen
 event-link: https://cloudgen.it/wp-event/home-gen-ottava-serata/
 org-link: https://www.cloudgen.it/
 org-twitter: cloudgen_verona
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_core.png'
+socialcover: 'assets/images/events/20200617.jpg'
 slug: 'cloudgen-dotnet-core-aks'
 author: [ale]
 

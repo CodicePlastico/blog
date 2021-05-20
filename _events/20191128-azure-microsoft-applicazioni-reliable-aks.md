@@ -9,8 +9,8 @@ org: DotNetLombardia
 event-link: ''
 org-link: https://m.facebook.com/DotNetLombardia-123472467667149/
 org-twitter: ''
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_storage.png'
+socialcover: 'assets/images/events/20191128.jpg'
 slug: 'azure-microsoft-applicazioni-reliable-aks'
 author: [ale]
 

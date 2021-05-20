@@ -9,8 +9,8 @@ org: DomusDotNet
 event-link: 'https://www.domusdotnet.org/events/'
 org-link: https://www.domusdotnet.org/
 org-twitter: 'domusdotnet'
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_storage.png'
+socialcover: 'assets/images/events/20200116.jpg'
 slug: 'microsoft-roma-aks-dal-primo-commit-alla-produzione'
 author: [ale]
 

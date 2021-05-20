@@ -9,8 +9,8 @@ org: XPugBologna
 event-link: 'https://www.facebook.com/xpugbologna/posts/2678142248972544'
 org-link: https://www.facebook.com/xpugbologna/
 org-twitter: 'xpugbologna'
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_code.png'
+socialcover: 'assets/images/events/20200211.jpg'
 slug: 'xpug-bologna-applicazioni-reliable-aks'
 author: [ale]
 

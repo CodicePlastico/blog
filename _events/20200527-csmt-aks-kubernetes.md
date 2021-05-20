@@ -9,8 +9,8 @@ org: NextCODE Generation
 event-link: https://nextcodegeneration.it/2020/05/11/aks-kubernetes-e-azure-to-the-rescueonline-27-maggio-ore-1730/
 org-link: https://nextcodegeneration.it/
 org-twitter: CSMTgestione
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_code.png'
+socialcover: 'assets/images/events/20200527.jpg'
 slug: 'csmt-aks-kubernetes'
 author: [ale]
 

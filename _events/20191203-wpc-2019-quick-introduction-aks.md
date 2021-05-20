@@ -9,8 +9,8 @@ org: OverNetEducation
 event-link: 'http://www.wpc2019.it/www.wpc2019.it/cms/it-IT/SessionDetail75de.html?Parameters[0]=137109'
 org-link: https://overneteducation.it/
 org-twitter: 'OverNetE'
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_cloud.png'
+socialcover: 'assets/images/events/20191203.jpg'
 slug: 'wpc-2019-quick-introduction-aks'
 author: [ale]
 

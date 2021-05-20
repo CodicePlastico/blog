@@ -9,8 +9,8 @@ org: UGIdotNET
 event-link: https://www.ugidotnet.org/e/sessione/1902/Azure-Event-Grid-a-message-to-rule-them-all
 org-link: https://www.ugidotnet.org/
 org-twitter: ugidotnet
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_space.png'
+socialcover: 'assets/images/events/20201029.jpg'
 slug: 'cloudday-azure-event-grid'
 author: [ale]
 

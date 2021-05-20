@@ -9,8 +9,8 @@ org: DotNetCode
 event-link: ''
 org-link: https://www.dotnetcode.it/
 org-twitter: dotnetcodeit
-cover: 'assets/images/events/web-day.jpg'
-socialcover: 'assets/images/events/202101-azure-event-grid-s.jpg'
+cover: 'assets/images/events/event_storage.png'
+socialcover: 'assets/images/events/20200612.jpg'
 slug: 'azure-day-dev-spaces'
 author: [ale]
 
