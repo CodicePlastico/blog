@@ -1,0 +1,38 @@
+---
+layout: default
+class: 'events'
+---
+<header class="title-header events">
+  
+    <div class="header-content">
+      <h1><span>Eventi<strong> Plastici</strong></span></h1>
+      <p class="emph">Archivio</p>
+    </div>
+   
+  </header>
+
+<main id="site-main" class="site-main outer" role="main">
+  <div class="inner archive-template">
+
+      <div class="archive-event-feed">
+        <ul class="event-list">
+          {% assign events = site.events  | sort: event-date-start, "last" %}
+            {% for event in site.events %}
+            <li class="event-item">
+              <span class="event-date-time"><a href="{{ event.url | relative_url }}"> {{ event.event-date-start | date:'%e %B %Y'}} - {{ event.event-date-start  | date: '%R' }} 
+               
+              </a></span>
+              <span class="event-title"><a href="{{ event.url | relative_url }}">{{ event.event-title }}</a></span>
+              <span class="talk-title">
+                  <a href="{{ event.url | relative_url }}"> {{ event.talk-title }}</a>
+              </span>
+             
+            
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+  </div>
+</main>
+

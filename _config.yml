@@ -42,6 +42,8 @@ collections:
     output: true
   tags:
     output: true
+  events:
+    output: true
  
 
 defaults:
@@ -63,6 +65,10 @@ defaults:
       path: "categories"
     values:
         layout: "categories"
+  - scope:
+      path: "events"
+    values:
+        layout: "events"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

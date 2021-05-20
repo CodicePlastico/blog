@@ -1,0 +1,86 @@
+---
+layout: default
+current: event
+---
+
+<main id="site-main" class="site-main outer single-event" role="main">
+ <article>
+    <section class="event-container">
+      
+        <section class="event-content">
+            <div class="event-card-content-intro">
+               <h3 class="event-title">{{ page.event-title }}</a></h3>
+                <h1 class="talk-title">
+                    {{ page.talk-title }}
+                </h1>
+
+                 {% if page.author.size > 0 %}
+                    <div class="authors">
+                        {% for current-author in page.author %}
+                            <div class="event-author">
+                                {% assign author = site.authors | where: 'short_name', current-author | first %}
+                                {% if author %}
+                                
+                                    {% if author.picture %}
+                                        <img class="event-author-image" src="{{ author.picture | relative_url }}" alt="{{ author.name }}" />
+                                    {% endif %}
+                                    <span class="event-author-name">
+                                        <a href="{{ author.url | relative_url }}">{{ author.name }}</a> </a>
+                                    </span>
+                                    
+                                {% endif %}
+                            
+                                </div>
+                        
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                <figure class="event-image"><img src="{{ page.cover | relative_url}}" alt="event cover/">
+                </figure>
+
+            </div>
+            <div class="event-card-content-main">
+                {{ content }}
+
+                
+            </div>
+            
+               
+        </section>
+
+   
+        <aside>
+            {% if page.cover %}
+                <figure class="event-image"><img src="{{ page.cover | relative_url}}" alt="event cover/">
+                </figure>
+            {% endif %}
+             <h4>Dove e quando</h4>   
+             <p><span class="event-date-time">{{ page.event-date-start | date:'%e %B %Y'}} - {{ page.event-date-start  | date: '%R' }} 
+                {% if page.talk-info-track != ""  %} - {{ page.talk-info-track }}  {% endif %}    
+            </span></p>
+           
+            <p><a href="{{ page.event-link}}"><span class="event-link">{{ page.location }}</span></a></p>
+           
+
+            <h4>Organizzatore</h4> 
+            <p><a href="{{ page.org-link}}"><span class="host-name">{{ page.org}}</span></a>  -  <a href="https://twitter.com/{{ page.org-twitter}}"><span class="host-twitter">@{{ page.org-twitter}}</span></a></p>
+        </aside>
+      
+    </article>
+ 
+
+    <section class="author post-list related-posts ">
+        <h4>Ecco cosa ha scritto {{ author.nick }} per il PlastiBlog</h4>
+        <div class="post-feed">
+            {% assign filtered_posts = site.posts | where: 'author', page.page.author %}
+            {% for post in filtered_posts limit:3 %}
+            {% include post-card.html %}
+            {% endfor %}
+        </div>
+    </section>
+    <footer><p class="event-link-archive"><a href="./events.html">Torna alla lista degli EventiPlastici</a></footer></p>
+</main>
+
+
+
+
