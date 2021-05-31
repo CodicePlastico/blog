@@ -25,4 +25,4 @@
 | tech              | testing           | value object    |
 | video             | webdebs           | windows         | 
 | women IT          | wpc               | wpf             | 
-| JAMstack 
+| JAMstack          | bug
