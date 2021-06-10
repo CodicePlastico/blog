@@ -63,7 +63,7 @@ current: event
            
 
             <h4>Organizzatore</h4> 
-            <p><a href="{{ page.org-link}}"><span class="host-name">{{ page.org}}</span></a>  -  <a href="https://twitter.com/{{ page.org-twitter}}"><span class="host-twitter">@{{ page.org-twitter}}</span></a></p>
+            <p><a href="{{ page.org-link}}"><span class="host-name">{{ page.org}}</span></a>  {% if page.org-twitter %} - <a href="https://twitter.com/{{ page.org-twitter}}"><span class="host-twitter">@{{ page.org-twitter}}</span></a>{% endif %}</p>
         </aside>
       
     </article>
