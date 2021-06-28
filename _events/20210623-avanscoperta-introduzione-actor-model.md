@@ -10,7 +10,7 @@ event-link: https://www.meetup.com/en-AU/Avanscoperta-Meetups-Workshops-Courses/
 org-link: https://www.avanscoperta.it/it/
 org-twitter: avanscoperta
 cover: 'assets/images/events/event_cluster.png'
-socialcover: 'assets/images/events/20210625.jpg'
+socialcover: 'assets/images/events/20210623.jpg'
 slug: 'avanscoperta-introduzione-actor-model'
 author: [ema]
 
