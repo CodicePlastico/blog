@@ -16,4 +16,4 @@ author: [ale]
 
 ---
 ## Abstract
-Integrando le capabilities di Kubernetes con il runtime di Keda possiamo riprodurre, all'interno del cluster le stesse dinamiche di scaling a cui siamo abituati nel mondo serverless delle Azure Functions. In questa sessione vedremo come fare
+Integrando le capabilities di Kubernetes con il runtime di Keda possiamo riprodurre, all'interno del cluster, le stesse dinamiche di scaling a cui siamo abituati nel mondo serverless delle Azure Functions. In questa sessione vedremo come fare.
