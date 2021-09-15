@@ -1,8 +1,8 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post-cover/20210530-bug.jpg'
-socialcover: 'assets/images/post-cover/20210530-bug-s.jpg'
+cover: 'assets/images/post-cover/2021-microtesti.jpg'
+socialcover: 'assets/images/post-cover/2021-microtesti-s.jpg'
 slug: microtesti-microcopy-cosa-sono
 title: 'Microtesti: l’arte silenziosa della guida'
 date: 2021-09-14 09:00:00
@@ -15,15 +15,21 @@ I microtesti sono tutte le parole, frasi brevi e indicazioni che vengono utilizz
 
 ## Utente chiede, sistema risponde
 
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext-system-talk.png" alt="immagini microtesti" /></figure>
+
 Ogni esperienza che progettiamo, software o reale che sia, può essere vista come chiacchierata tra il sistema che stiamo realizzando e il dialogo interno dell’utente. Pensiamo, ad esempio, al senso di smarrimento  quando entriamo in un supermercato che non frequentiamo spesso, o quando avviamo per la prima volta una nuova applicazione. Velocemente, nella  nostra mente affioreranno domande come:
 
 <cite>Che cosa devo fare? Dove devo schiacciare? Come mi devo muovere?</cite>
+
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext-error.png" alt="immagini microtesti" /></figure>
 
 Come fa il sistema a rispondere a queste domande? Grazie ad un **mix di fattori che compongono il design dell’esperienza**: dall’architettura dell’informazione al layout, ogni elemento suggerisce all’utente il prossimo passo.
 
 Torniamo all’esempio del supermercato: ci serve lo zucchero. Cosa facciamo? Ci guardiamo in giro: la disposizione dei prodotti e delle corsie ci guida nell’orientamento. Dopo di che, alziamo lo sguardo e oplà: ogni corsia ha un cartello che descrive le categorie principali dei prodotti che potremo trovare percorrendo quello spazio. Un elenco breve, di alto livello, che unito alle nostre esperienze precedenti di acquisto in un supermercato, ci guiderà nella scelta della corsia corretta. 
 
 ## I microtesti: tutti intorno a noi
+
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext-around-us.png" alt="immagini microtesti" /></figure>
 
 Ora che abbiamo scoperto come i microtesti possono aiutarci fare la spesa, possiamo facilmente prendere coscienza del fatto che sono **un’assidua guida silenziosa** durante le nostre giornate. Un’indicazione stradale, un claim pubblicitario, l'sms di notifica della banca, il testo di un bottone che ci porta all’iscrizione di una newsletter, le voci di un menù di navigazione, il messaggio di errore che ci segnala di aver inserito un indirizzo email errato: sono tutti ottimi esempi di microtesti in cui inciampiamo, più o meno consapevolmente, ogni giorno. Se la loro funzione di guide, di piccoli suggeritori è palese, il loro potere di condizionare le scelte spesso è sottovalutato.
 
@@ -41,6 +47,8 @@ Il secondo signore è il compagno di viaggio ideale: è esperto, ha capito qual 
 
 Nel digitale il "Signor Frutti di Bosco" è il messaggio di errore che non solo ti dice che hai sbagliato, ma che ti indica come correggere. E’ la call to action che non ti dice subito “Attiva il servizio” ma “Scopri la rata”.
 
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext-pillow.png" alt="immagini microtesti" /></figure>
+
 ## Microtesti, il costo nascosto della ux
 
 Potremmo dire che scrivere microtesti è un arte, nella realtà il primo passo che dobbiamo fare è prendere consapevolezza che **scrivere microtesti è un lavoro**. Se il patinato mondo del marketing e delle applicazioni _consumer_ ha perfettamente colto il magico potere del microtesto ben fatto (ehi! non c’è niente di più convincente della metrica "fatturato" in aumento!), nel mondo del software B2B la musica è ben diversa.
@@ -55,6 +63,8 @@ Ma più i testi inducono delle azioni corrette, più gli utenti-dipendenti lavor
 
 ## Microtesti pungolanti: da dove si parte
 
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext-needle.png" alt="immagini microtesti" /></figure>
+
 La scorso maggio ho avuto il piacere di partecipare al corso [Scrivere per la Ux](https://www.uxuniversity.it/11/c_3/scrivere-per-la-ux) tenuto [Andrea Fiacchi](https://it.linkedin.com/in/andrea-fiacchi-383a222/it) e [Valentina Di Michele](https://www.linkedin.com/in/valedimichele/). Davvero illuminante e super consigliato se volete approfondire. 
 
 Faccio un passo indietro. In CodicePlastico, lavorando spesso su applicativi interni alle aziende, **la costruzione e il controllo dei flussi è un’attività fondamentale**. Le applicazioni che costruiamo sono la trasposizione digitale di regole complesse legate a leggi, procedure finanziare, sistemi di produzione. Che sia un flowchart, un elenco di user stories o uno scenario, è cruciale arrivare al mockup avendo idea dei passi che l’utente può compiere. 
@@ -65,7 +75,9 @@ La prototipazione dei flussi è fantastica per capire:
 * l’**ordine** in cui questo eventi possono accadere;
 * i punti in cui si possono **scatenare degli errori** (e di conseguenza capire quali messaggi andranno curati) 
 
-A che punto entrano in gioco i microtesti?  L’analisi dei flussi è molto focalizzata sulle funzionalità - “_metti messaggio d’errore per mail non corretta_”-  ma **poco sul come i messaggi possono essere scritti**. L’anello di congiunzione tra il flowchart, microtesti e i primi prototipi preliminari l’ho scoperto al corso di Andrea e Valentina: la matrice SEPA. 
+A che punto entrano in gioco i microtesti?  L’analisi dei flussi è molto focalizzata sulle funzionalità - “_metti messaggio d’errore per mail non corretta_”-  ma **poco sul come i messaggi possono essere scritti**. L’anello di congiunzione tra il flowchart, microtesti e i primi prototipi preliminari l’ho scoperto al corso di Andrea e Valentina: la matrice SEPA.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext-scheme.png" alt="immagini microtesti" /></figure>
 
 Un buon messaggio è il frutto della scelta delle **parole** giuste, del **tono** di voce e della **forma**, ma ci sono anche numerosi altri aspetti che danzano dietro alle quinte, come: 
 
@@ -109,11 +121,15 @@ La scomposizione del flusso, deve seguire la coppia stimolo-azione.
 
 Il **trigger** è tipicamente legato a qualcosa che, come designer, decidiamo di presentare nell’interfaccia. Un bottone, un testo, lo stesso questionario sono tutti trigger: elementi con cui l’utente può attivare un’azione. Riprendendo l’esempio, il trigger è il banner ADV, l’azione corrispondente è il clic sul banner per far raggiungere al nostro utente una parte informativa.
 
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext-trigger.png" alt="immagini microtesti" /></figure>
+
 Ora è il momento di mettersi nei panni di Marco: **cosa prova** un adolescente con un problema nella gestione delle emozioni? Probabilmente ansia, ma anche interesse o sollievo per aver scoperto una possibile soluzione ai suoi problemi.
 
 La colonna dei pensieri risponde alla domanda “_Che cosa pensa Marco? Che domande si pone mentre vede il banner?”_. Immaginare il dialogo interno dell’utente e immedesimarci nelle sue emozioni ci aiuta a immaginare agire a livello di copy: serviranno informazioni precise, semplici per attivare la curiosità e spingere Marco a cliccare sul nostro banner.
 
-Il metodo SEPA fornisce anche ottimi **campanelli d’allarme quando non sappiamo come riempire una casella**. Significa che ci mancano delle informazioni, suggerisce quali aspetti indagare ulteriormente con gli utenti a livello di azioni di ricerca o come correggere il flusso per rendere l’esperienza più piacevole. 
+Il metodo SEPA fornisce anche ottimi **campanelli d’allarme quando non sappiamo come riempire una casella**. Significa che ci mancano delle informazioni, suggerisce quali aspetti indagare ulteriormente con gli utenti a livello di azioni di ricerca o come correggere il flusso per rendere l’esperienza più piacevole.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext-film.png" alt="immagini microtesti" /></figure>
 
 ## Piccoli e potenti alleati
 
