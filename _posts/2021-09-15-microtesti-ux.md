@@ -59,6 +59,8 @@ I microtesti vengono dimenticati o scaricati sul povero developer di turno che �
 
 (quante volte ti è capitato di leggere messaggi di errore incomprensibili?)
 
+<figure style="text-align:center"><img src="/assets/images/post-content/microtesti/microtext_error-unknown.png" alt="immagini microtesti" /></figure>
+
 Ma più i testi inducono delle azioni corrette, più gli utenti-dipendenti lavoreranno meglio, risparmiando tempo. Sarà necessaria meno formazione e meno supporto tecnico, perchè gli utenti saranno autonomi e, a fronte di un errore, sapranno come correggersi. Last but not least, meno silos di conoscenza, se il sistema è intuitivo, non dovremo preoccuparci se Luigi-quello-che-sa-fare-le-note-di-credito parte per una vacanza di un mese.
 
 ## Microtesti pungolanti: da dove si parte
