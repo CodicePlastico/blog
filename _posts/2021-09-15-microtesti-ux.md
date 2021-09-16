@@ -11,7 +11,7 @@ tags: [ux, copy]
 author: [mery]
 ---
 
-I microtesti sono tutte le parole, frasi brevi e indicazioni che vengono utilizzate per indicare a suggerire la strada da percorrere ad un utente. 
+I microtesti sono tutte le parole, frasi brevi e indicazioni che vengono utilizzate per indicare e suggerire la strada da percorrere ad un utente. 
 
 ## Utente chiede, sistema risponde
 
@@ -39,7 +39,7 @@ Se la fruizione dell’esperienza è un dialogo tra utente e sistema, questo dia
 
 ## Le parole che vogliamo sentire
 
-Siamo in montagna ed è la prima volta che affrontiamo questo sentiero. Siamo affamato e un po’ stanchi. Nel nostro cammino incontriamo due persone cui a cui chiediamo come arrivare al prossimo rifugio. Tutte e due ci indicano la strada corretta, ma il primo, sentendosi esperto, ci racconta tutta la storia della montagna, di come suo nonna ha tracciato il sentiero e quante volte è stato al rifugio. Il secondo ci dice di non preoccuparci, che se vogliamo, possiamo allungare la strada passando per una via ricca piante di frutti di bosco, con cui fare uno spuntino.  
+Siamo in montagna ed è la prima volta che affrontiamo questo sentiero. Siamo affamati e un po’ stanchi. Nel nostro cammino incontriamo due persone a cui chiediamo come arrivare al prossimo rifugio. Tutte e due ci indicano la strada corretta, ma il primo, sentendosi esperto, ci racconta tutta la storia della montagna, di come suo nonno ha tracciato il sentiero e quante volte è stato al rifugio. Il secondo ci dice di non preoccuparci, che se vogliamo, possiamo allungare la strada passando per una via ricca di cespugli di frutti di bosco, con cui fare uno spuntino.  
 
 Il signore prolisso, rappresenta **la tentazione di scrivere tutto**. Nel nostro mondo iperconnesso, dove gli utenti sono bombardati di informazioni dobbiamo far pace con il dato di fatto che gli utenti dedicano alla lettura delle istruzioni pochissimo tempo. **“Ma c’è scritto!” non può essere un alibi, almeno per un designer**. 
 
@@ -137,7 +137,7 @@ Il metodo SEPA fornisce anche ottimi **campanelli d’allarme quando non sappiam
 
 I flussi e le esperienze che progettiamo non esistono finchè non vengono realmente vissute dagli utenti: i microtesti sono la scintilla che attiva, prende per mano l’utente e lo tiene in movimento. Per questo dobbiamo considerarli dei piccoli e potenti alleati in grado, letteralmente, di mettere in moto il mondo intero!
 
-Quindi: 3, 2, 1… Printi a scrivere?! :D
+Quindi: 3, 2, 1… Pronti a scrivere?! :D
 
 
 ### Note
