@@ -10,7 +10,7 @@ event-link: https://cloudgen-2021.azurewebsites.net/agenda
 org-link: https://www.cloudgen.it/
 org-twitter: cloudgen_verona
 cover: 'assets/images/events/event_storage.png'
-socialcover: 'assets/images/events/20211001.jpg'
+socialcover: 'assets/images/events/20210924.jpg'
 slug: 'cloudgen-scale-your-aks-luke'
 author: [ale]
 

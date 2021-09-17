@@ -10,7 +10,7 @@ event-link: https://www.avanscoperta.it/it/training/actor-model-workshop/
 org-link: https://www.avanscoperta.it/
 org-twitter: avanscoperta
 cover: 'assets/images/events/event_space.png'
-socialcover: 'assets/images/events/20210929.jpg'
+socialcover: ''
 slug: 'avanscoperta-actor-model-workshop-2021'
 author: [ema]
 
