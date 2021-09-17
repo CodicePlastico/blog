@@ -86,7 +86,7 @@ Un buon messaggio è il frutto della scelta delle **parole** giuste, del **tono*
 * Gli **stimoli**: la scintilla, gli elementi scatenanti che mettono in moto l’azione.  Possono essere esterni, come  un bottone, un banner publicitario, un link o bisogni interni, come nel caso del nostro esempio del bosco.
 * Le **emozioni**: quale emozioni prova nel momento in cui incontra lo stimolo. È felice? È ansioso? Ha paura?
 * I **pensieri**: qual è il modello mentale dell’utente? Cosa si dice? Qual è il suo dialogo interno?
-* L’**azioni**: e infine l’azione che l’utente compie. 
+* Le **azioni**: e infine l’azione che l’utente compie. 
 
 Per ogni passo del flusso, andremo quindi a riempire le quattro colonne della matrice SEPA. Materiale necessario: un foglio di calcolo e le informazioni necessarie per mettersi nei panni del cliente. 
 
