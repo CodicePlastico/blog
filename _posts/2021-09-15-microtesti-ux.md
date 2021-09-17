@@ -143,4 +143,4 @@ Quindi: 3, 2, 1… Pronti a scrivere?! :D
 ### Note
 
 [^1]: **Nudge. La spinta gentile. La nuova strategia per migliorare le nostre decisioni su denaro, salute, felicità** è un libro di Richard H. Thaler, Cass R. Sunstein che racconta come le scelte che prendiamo ogni giorno sono guidate dal modo in cui le informazioni ci vengono presentate e, soprattutto, come creare dei nudge, dei “pungoli” per rendere questa spinta all’azione un qualcosa di positivo in grado di migliorare il mondo in cui viviamo.
-[^2]: Emotional Driven Design - De Micheli Fiacchi - Apogeo
+[^2]: Emotion Driven Design - Di Michele Fiacchi - Apogeo
