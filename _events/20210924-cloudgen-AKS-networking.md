@@ -11,7 +11,7 @@ org-link: https://www.cloudgen.it/
 org-twitter: cloudgen_verona
 cover: 'assets/images/events/event_storage.png'
 socialcover: 'assets/images/events/20210924.jpg'
-slug: 'cloudgen-scale-your-aks-luke'
+slug: 'cloudgen-AKS-networking'
 author: [ale]
 
 ---
