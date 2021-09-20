@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Cloudgen 2021"
-talk-title: "Scale your (AKS) cluster Luke!"
+talk-title: "AKS networking"
 event-date-start: 2021-09-24 15:05:00
 talk-info-track: 'Room Two'
 location: Online
@@ -16,6 +16,7 @@ author: [ale]
 
 ---
 ## Abstract
-Hai rilasciato la tua soluzione su Kubernetes, e, come nei tuoi sogni piu' belli, sta avendo successo. Molto bene!
-Per non esagerare, pero', hai definito un cluster con due soli nodi, giusto per avere un po' di "ridondanza". Ora che i due nodi sono a "tappo" che si fa?
-In questa sessione vedremo quali possibilita', piu' o meno automatiche, abbiamo con AKS per risolvere queste situazione
+Ti sei sempre chiesto come funziona il networking su k8s e nello specifico su AKS?
+A cosa fa riferimento l'acronimo CNI? Come funzionano le network policy di Calico?
+Bhe, forse, questa è la sessione che fa per te.
+
