@@ -6,7 +6,7 @@ event-date-start: 2021-10-12 21:00:00
 talk-info-track: ''
 location: Online
 org: '1nn0va'
-event-link: TBD
+event-link: https://www.eventbrite.it/e/biglietti-1nn0va-after-hour-fy22-6-puntata-186178734607
 org-link: https://www.eventbrite.it/o/1nn0va-14698832592
 org-twitter:
 cover: 'assets/images/events/event_design.png'
