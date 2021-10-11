@@ -21,4 +21,10 @@ Al giorno d’oggi, ancor più con l’avvento del cloud, il perimetro dello svi
 Terraform è lo strumento più diffuso per l’automazione dell’infrastruttura e in questa sessione vedremo come iniziare ad usarlo: dalle basi ad Azure!
 
 
+<div class="video">
+<div class="responsive-iframe-container-16">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/xKd5ImShlro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+
 
