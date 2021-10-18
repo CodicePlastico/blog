@@ -9,7 +9,7 @@ org: Codemotion
 event-link: TBD
 org-link: https://www.codemotion.com/
 org-twitter: CodemotionIT
-cover: 'assets/images/events/event_space.png'
+cover: 'assets/images/events/event_core.png'
 socialcover: 'assets/images/events/20211117.jpg'
 slug: 'codemotion-sulu'
 author: [ale]

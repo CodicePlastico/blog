@@ -22,3 +22,9 @@ L'integrazione con il nostro IDE di riferimento è una componente fondamentale p
 In questa sessione vedremo come sfruttare Visual Studio Code e Docker insieme, dalla creazione, al debug fino ad arrivare al deploy.
 
 
+
+<div class="video">
+<div class="responsive-iframe-container-16">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/SdQKsQEZeT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
