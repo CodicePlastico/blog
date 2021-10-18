@@ -20,3 +20,8 @@ Ti sei sempre chiesto come funziona il networking su k8s e nello specifico su AK
 A cosa fa riferimento l'acronimo CNI? Come funzionano le network policy di Calico?
 Bhe, forse, questa è la sessione che fa per te.
 
+<div class="video">
+<div class="responsive-iframe-container-16">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/oF5fWwgnehw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
