@@ -19,3 +19,4 @@ author: [ale]
 Quando si parla di CI/CD si pensa spesso alla sola componente applicativa. Ma per poter deployare la nostra applicazione abbiamo bisogno di un'infrastruttura su cui farla "girare".
 
 Perchè non applicare gli stessi principi anche all'infrastruttura? In questa sessione vedremo come rispondere a questa domanda sfruttando le GitHub Actions e Terraform.
+
