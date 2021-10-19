@@ -88,6 +88,18 @@ andrea:
   twitter: False
   cover: False
 
+nicholas:
+  username: nicholas
+  name: Nicholas Roscino
+  location: Milano
+  url_full: False
+  url: False
+  bio: ''
+  picture: assets/images/authors/av-nicholas.jpg
+  facebook: False
+  twitter: False
+  cover: False
+
 pietroandrea:
   username: pietroandrea
   name: Pietro Martinelli & Andrea Gadaldi

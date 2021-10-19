@@ -1,8 +1,8 @@
 ---
-short_name: Nicholas
+short_name: nicholas
 position: Software Developer  @ CodicePlastico
 name: Nicholas Roscino
-nick: Nicholas
+nick: nicholas
 slug: nicholas-roscino
 location: Milano
 cite: 
