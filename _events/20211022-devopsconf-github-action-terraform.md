@@ -7,8 +7,8 @@ talk-info-track: 'Room 1'
 location: Online
 org: DevOps Conference
 event-link: https://devopsconf.dotnetdev.it/agenda/
-org-link: https://www.ugidotnet.org/
-org-twitter: 
+org-link: https://devopsconf.dotnetdev.it/
+org-twitter: DotNetCodeIT
 cover: 'assets/images/events/event_storage.png'
 socialcover: 'assets/images/events/20211022.jpg'
 slug: 'devopsconf-github-action-terraform'
