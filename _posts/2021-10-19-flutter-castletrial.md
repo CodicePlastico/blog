@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post-cover/.jpg'
-socialcover: 'assets/images/post-cover/2-s.jpg'
-slug: flutter-casteltrial
+cover: 'assets/images/post-cover/2021-castletrial.jpg'
+socialcover: 'assets/images/post-cover/2021-castletrial-s.jpg'
+slug: flutter-castletrial
 title: 'Facciamo un videogioco?'
 date: 2021-10-19 09:00:00
 category : [vita-plastica]
@@ -12,6 +12,8 @@ author: [andrea, nicholas]
 ---
 
 Certo! Ma perché? Prima di tutto, molti in CodicePlastico sono appassionati di videogiochi ([ehi, abbiamo anche un cabinato in ufficio, sai?](https://blog.codiceplastico.com/arcade)): c’è chi è più legato ai grandi classici, chi continua imperterrito a seguire le nuove uscite e chi invece seleziona accuratamente il titolo giusto per il tempo libero che ha a disposizione. Seconda cosa,creare qualcosa di interno all’azienda ci permette di _provare tecnologie diverse_ da quelle che usiamo abitualmente e che potrebbero, alla fine, portare nuove opportunità.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/castletrial/Castletrial_intro.png" alt="castletrial" /></figure>
 
 ## Da dove partire?
 
@@ -26,6 +28,8 @@ Le avventure testuali erano quei videogiochi degli anni '80 in cui l’utente do
 In alcuni casi queste avventure erano corredate con delle immagini evocative che aiutassero l’immersione del giocatore o che dessero un suggerimento visivo per particolari situazioni.
 
 Se consideriamo questo tipo di approccio come un lavoro letterario applicato al videogioco, allora queste immagini non interattive rappresentano le _illustrazioni di un libro_.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/castletrial/Castletrial_01.png" alt="castletrial" /></figure>
 
 A proposito di libri, ci siamo rifatti concettualmente ai **librogame** dove, al posto che inserire i comandi per muoversi nel gioco, le azioni vengono effettuate scegliendo tra poche opzioni disponibili che portano l’utente avanti nel racconto.
 
@@ -42,6 +46,8 @@ E per quanto riguarda la **durata**, non più di una pausa caffè lunga (così n
 Abbiamo usato **Flutter**, che è un Toolkit UI creato da Google per lo sviluppo di applicazioni multipiattaforma compilate nativamente per Mobile (iOS/Android), Web, Desktop o embedded (come ad esempio macchine, frigoriferi, termostati).
 
 Partito in sordina rispetto a React Native, oggi le cose stanno cambiando: se prima la community non era abbastanza grande, ora **sta crescendo esponenzialmente** e al momento è il framework di maggior interesse (su GitHub) paragonato ai suoi fratelli React Native e Ionic (grazie per l’info, Google Trends! :D).
+
+<figure style="text-align:center"><img src="/assets/images/post-content/castletrial/Castletrial_02.png" alt="castletrial" /></figure>
 
 **Flutter ha degli ottimi vantaggi rispetto ai concorrenti:**
 
@@ -70,14 +76,16 @@ Di contro, per ora abbiamo riscontrato che **ci sono (ovviamente) meno librerie 
 
 Il grande vantaggio di poter lavorare su **side project** di questo tipo risiede proprio nella possibilità di fare formazione, approfondire tecnologie e sviluppare dall’inizio alla fine (la fine di un’iterazione almeno :D) qualcosa di spendibile anche su altri progetti.
 
+<figure style="text-align:center"><img src="/assets/images/post-content/castletrial/Castletrial_03.png" alt="castletrial" /></figure>
 
 ## Sì, ok la parte tecnica, ma dove trovo il gioco?
 
-Lo puoi trovare qui per Android [https://play.google.com/store/apps/details?id=com.codiceplastico.cp_castletrial](https://play.google.com/store/apps/details?id=com.codiceplastico.cp_castletrial)
+**Castletrial**, questo il suo nome, lo puoi trovare qui per Android [https://play.google.com/store/apps/details?id=com.codiceplastico.cp_castletrial](https://play.google.com/store/apps/details?id=com.codiceplastico.cp_castletrial)
 
 E per IOS? **Sta arrivando!** (Se vuoi sapere esattamente quando ti basta aspettare la prossima newsletter. [Come, non sei ancora iscritto?](https://codiceplastico.us18.list-manage.com/subscribe/post?u=3a6d4d4fc68bc32031e87e865&id=2f6137b5df))
 
 Questo è ovviamente un primo passo, ci piacerebbe sapere la tua per capire come possiamo ottimizzarlo e se le feature successive che avevamo in mente rientrano nei tuoi feedback. **Buona partita e mi raccomando...**
 
+<figure style="text-align:center"><img src="/assets/images/post-content/castletrial/Castletrial_outro.png" alt="castletrial" /></figure>
 
 ## #nospoiler
