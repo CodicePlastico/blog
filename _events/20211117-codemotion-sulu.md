@@ -2,11 +2,11 @@
 layout: event
 title: "Codemotion Talk"
 talk-title: "Velocità cloud, signor Sulu"
-event-date-start: 2021-11-22 00:00:00
+event-date-start: 2021-11-22 11:00:00
 talk-info-track: ''
 location: Online
 org: Codemotion
-event-link: TBD
+event-link: https://live.codemotion.com/devcast/cloud-native-davvero
 org-link: https://www.codemotion.com/
 org-twitter: CodemotionIT
 cover: 'assets/images/events/event_core.png'
