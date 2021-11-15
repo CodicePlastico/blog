@@ -2,7 +2,7 @@
 layout: event
 title: "Codemotion Talk"
 talk-title: "Velocità cloud, signor Sulu"
-event-date-start: 2021-11-22 11:00:00
+event-date-start: 2021-11-17 11:00:00
 talk-info-track: ''
 location: Online
 org: Codemotion
