@@ -126,14 +126,14 @@ Le miniere dopo un anno riaprirono e gli incidenti, grazie alle migliorie frutto
 
 Queste politiche possono portare ad una minor trasparenza per il raggiungimento degli obiettivi personali e quindi invece di innovare a livello sistemico, si innova per silos. 
 
-I riconoscimenti vanno al team e devono essere celebrati anche i fallimenti se, a fronte di un’analisi dei rischi, hanno consentito di imparare, migliorare e portare innovazione.
+I riconoscimenti vanno al team e devono essere **celebrati anche i fallimenti** se, a fronte di un’analisi dei rischi, hanno consentito di imparare, migliorare e portare innovazione.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/psycho/psycho_xl_004.png" alt="psychological safety" /></figure>
 
 
 #### La cultura del silenzio
 
-&Egrave; diffusa la convinzione che “nessuno è mai stato licenziato per il suo silenzio” e quindi... meglio stare zitti. Inoltre i manager possono interpretare il silenzio di un team come un fattore positivo, un segnale che tutto sta andando per il verso giusto. Come per il caso di Cynthia Carroll che abbiamo visto in precedenza, è importantissimo cercare di capire se ci sono problemi, creando un contesto nel quale ci si senta liberi di parlare e cercando di stimolare il dialogo ponendo le giuste domande.
+&Egrave; diffusa la convinzione che “nessuno è mai stato licenziato per il suo silenzio” e quindi... meglio stare zitti. Inoltre i manager possono interpretare il silenzio di un team come un fattore positivo, un segnale che tutto sta andando per il verso giusto. Come per il caso di Cynthia Carroll che abbiamo visto in precedenza, è importantissimo cercare di capire se ci sono problemi, creando un contesto nel quale **ci si senta liberi di parlare** e cercando di stimolare il dialogo ponendo le giuste domande.
 
 #### Sentirsi vulnerabili
 
@@ -142,28 +142,28 @@ Tutti noi a volte ci sentiamo o abbiamo avuto un momento nel quale ci siamo sent
 * **Danneggiare i rapporti interpersonali** - 
 Anche in questo caso Amy Edmonson ci presenta due casi reali di due leader che con l’esempio, hanno aiutato i propri collaboratori a sentirsi meno vulnerabili.
 
-Ed Catmull, CEO di **Pixar**, afferma che “se vogliamo che i nostri collaboratori si sentano liberi di ammettere i propri errori, dobbiamo essere noi i primi a farlo”. In Pixar sono stati creati dei meeting chiamati _Braintrust_ nei quali qualsiasi idea di film viene presentata ad un gruppo di direttori e storytellers in modo informale, pranzando insieme e raccogliendo feedback indispensabili per migliorare il progetto oppure dirottare altrove le proprie energie. Un processo simile viene adottato in **Google** per valutare quando un side project può avere successo ed evitare quindi di ricadere in un _Avoidable failure_.
+Ed Catmull, CEO di **Pixar**, afferma che “se vogliamo che i nostri collaboratori si sentano liberi di ammettere i propri errori, **dobbiamo essere noi i primi a farlo**”. In Pixar sono stati creati dei meeting chiamati _Braintrust_ nei quali qualsiasi idea di film viene presentata ad un gruppo di direttori e storytellers in modo informale, pranzando insieme e raccogliendo feedback indispensabili per migliorare il progetto oppure dirottare altrove le proprie energie. Un processo simile viene adottato in **Google** per valutare quando un side project può avere successo ed evitare quindi di ricadere in un _Avoidable failure_.
 
-Eileen Fisher, CEO di uno dei maggiori e-commerce di moda americani, definisce se stessa una _don’t knower_, ammettendo le proprie vulnerabilità e la propria ignoranza, in modo da aiutare chiunque a vincere la paura di non sentirsi all’altezza. Vi è mai capitato di parlare con "quello che sa già tutto"? 
+Eileen Fisher, CEO di uno dei maggiori e-commerce di moda americani, definisce se stessa una _don’t knower_, **ammettendo le proprie vulnerabilità e la propria ignoranza**, in modo da aiutare chiunque a vincere la paura di non sentirsi all’altezza. Vi è mai capitato di parlare con "quello che sa già tutto"? 
 
 ## Psychological safety non significa...
 
 <figure style="text-align:center"><img src="/assets/images/post-content/psycho/psycho_xl_005.png" alt="psychological safety" /></figure>
 
-Ma che bello quindi per creare un clima di psychological safety basta essere sempre allegri, ammettere di non sapere niente, entrare in ufficio dando 5 a destra ed a manca ed il gioco è fatto? Ennò, non è così. Infatti creare un ambiente psychological safe non significa...
+Ma che bello quindi per creare un clima di psychological safety basta essere sempre allegri, ammettere di non sapere niente, entrare in ufficio dando "il cinque" a destra ed a manca ed il gioco è fatto? Ennò, non è così. Infatti creare un ambiente psychological safe non significa...
 
 
 ### Essere sempre simpatici, piacevoli e scherzosi
-Creare un ambiente basato sulla chiarezza e sulla schiettezza a volte può creare dei problemi. Essere schietti e trasparenti significa anche dire che così le cose non vanno bene. E’ importante comunicare in modo corretto e mettendo al centro il rispetto per la persona: dare [feedback](https://blog.codiceplastico.com/feedback-o-giudizio-la-differenza) in modo corretto è essenziale!
+Creare un ambiente basato sulla chiarezza e sulla schiettezza a volte può creare dei problemi. Essere schietti e trasparenti significa anche dire che così le cose non vanno bene. &Egrave; importante comunicare in modo corretto e mettendo al centro il **rispetto per la persona**: dare [feedback](https://blog.codiceplastico.com/feedback-o-giudizio-la-differenza) in modo corretto è essenziale!
 
 ### Essere sempre d’accordo
-Creare un contesto in cui di verificano disaccordi costruttivi e un libero scambio di idee è essenziale. I disaccordi sono inevitabili in ambienti lavorativi, ma dal confronto deve nascere sempre qualcosa che ci porti a conoscerci meglio ed a migliorare.
+Creare un contesto in cui di verificano disaccordi costruttivi e un libero scambio di idee è essenziale. I **disaccordi sono inevitabili** in ambienti lavorativi, ma dal confronto deve nascere sempre qualcosa che ci porti a conoscerci meglio ed a migliorare.
 
 ### Essere estroversi
 Certo, essere estroversi in alcuni casi aiuta, ma un clima psychological safe consente a tutti, anche a quelli più taciturni e timidi, di esporre la propria perchè il terreno è fertile per far sbocciare nuove idee
 
 ### Avere fiducia
-La fiducia è a livello di persone, la psychological safety è a livello di gruppo! Sono aspetti che hanno molto in comune, ma non sono intercambiabili: ad esempio, posso avere una gran fiducia nel mio responsabile perchè so che raggiungeremo tutti gli obiettivi fissati per il prossimo anno, ma certo è che tutto quello che dirò non verrà preso in considerazione. 
+La fiducia è a livello di persone, la psychological safety è a livello di **gruppo**! Sono aspetti che hanno molto in comune, ma non sono intercambiabili: ad esempio, posso avere una gran fiducia nel mio responsabile perchè so che raggiungeremo tutti gli obiettivi fissati per il prossimo anno, ma certo è che tutto quello che dirò non verrà preso in considerazione. 
 
 Sul tema Amy Edmonson afferma che:
 
@@ -172,15 +172,15 @@ Sul tema Amy Edmonson afferma che:
 – even obligated – to be <strong>candid</strong>.</cite>
 
 ### Abbassare le performance
-Un ambiente Psychological Safe ci permette di operare in _Learning Zone_, cioè dove nonostante alti livelli di responsabilità e motivazione, possiamo operare in un contesto di crescita, innovazione, collaborazione, condivisione ed accettazione dei fallimenti. 
-In Learning Zone è normale “avere la sana paura” di:
-* non rispettare una deadline
-* non aver dato tutto
-* Non aver rispettato le aspettative del cliente
+Un ambiente Psychological Safe ci permette di operare in _Learning Zone_, cioè dove nonostante **alti livelli di responsabilità e motivazione**, possiamo operare in un contesto di crescita, innovazione, collaborazione, condivisione ed accettazione dei fallimenti. 
+In Learning Zone è **normale** “avere la sana paura” di:
+* non rispettare una deadline;
+* non aver dato tutto;
+* Non aver rispettato le aspettative del cliente;
 
 Mentre non è normale avere “timore”
-* Del proprio responsabile
-* Del giudizio dei colleghi
+* Del proprio responsabile;
+* Del giudizio dei colleghi.
 
 
 <figure style="text-align:center"><img src="/assets/images/post-content/psycho/psycho_s_002.png" alt="psychological safety" /></figure>
@@ -188,46 +188,48 @@ Mentre non è normale avere “timore”
 ## Cosa aiuta a creare un ambiente Psychological safe…
 
 ### Definire con chiarezza ruoli e responsabilità 
-Consente di eliminare alla radice fraintendimenti ed inutili disaccordi
+Consente di eliminare alla radice fraintendimenti ed inutili disaccordi.
 
 ### Interdipendenza e Peer support
-È più facile che si sviluppi in team dove è previsto il contributo di più membri, piuttosto che in team i contributi di singoli individui sono indispensabili. Quando abbiamo una buona comprensione dei compiti e delle responsabilità di ciascun membro del team ed un supporto eccellente da parte dei colleghi, ci si sente più sicuri nel dare il proprio contributo
+È più facile che si sviluppi in team dove è previsto il contributo di più membri, piuttosto che in team i contributi di singoli individui sono indispensabili. Quando abbiamo una buona comprensione dei compiti e delle responsabilità di ciascun membro del team ed un supporto eccellente da parte dei colleghi, ci si sente **più sicuri nel dare il proprio contributo**.
 
 ### Garantire il rispetto 
 Essere trasparenti e poter comunicare apertamente in un ambiente dove ogni membro del team deve poter liberamente 
 
- * Condividere ciò che ha imparato
- * Essere diretto
- * Prendersi dei rischi
- * Ammettere o far notare il fatto di essere chiari
- * Essere propenso a chiedere aiuto
+ * Condividere ciò che ha imparato;
+ * Essere diretto;
+ * Prendersi dei rischi;
+ * Ammettere o far notare il fatto di essere chiari;
+ * Essere propenso a chiedere aiuto.
 
 ### Gestire la Uncertainty Avoidance
-&Egrave; la capacità di gestire l’incertezza. Non tutti sappiamo coesistere in uno scenario incerto allo stesso modo, per vari motivi, tra cui ragioni culturali. Ed ecco che in un team distribuito la capacità di gestire l’incertezza può essere legata alla nazione di provenienza del soggetto: russi e americani gestiscono, affrontano e si sentono a proprio agio in scenari in cui l’incertezza regna sovrana in modo totalmente differente. Per questo è molto importante che nel team si tenga in considerazione di tali aspetti
+&Egrave; la capacità di **gestire l’incertezza**. Non tutti sappiamo coesistere in uno scenario incerto allo stesso modo, per vari motivi, tra cui ragioni culturali. Ed ecco che in un team distribuito la capacità di gestire l’incertezza può essere legata alla nazione di provenienza del soggetto: russi e americani gestiscono, affrontano e si sentono a proprio agio in scenari in cui l’incertezza regna sovrana in modo totalmente differente. Per questo è molto importante che nel team si tenga in considerazione di tali aspetti.
+
 ### Favorire momenti di creatività
 Organizzare attività creative e, perchè no, ricreative dove dar sfogo a creatività allo scopo di apprendere per innovare. Come ci insegna Amy Edmonson: 
 <cite>Creating these safe and structured spaces for voice <strong>was absolutely mission critical</strong> to a dramatic improvement in worker safety</cite>
 
 ### Porre domande nel modo corretto
-Porre domande senza creare bias non è sempre facile. La domanda “Cosa ne pensi di quel meraviglioso ecosistema di strumenti cross-platform, dalle eccellenti performance, di .Net?” è una domanda che già ci pone nelle condizioni di conoscere l’opinione del nostro interlocutore e quindi di poter avere qualche reticenza nell’esporre il nostro reale pensiero e le nostre considerazioni.  Ricordate: Cynthia Carroll favorì lo la collaborazione, il dialogo e la nascita di nuove idee proprio cambiando il modo di porre domande sui problemi legati alla sicurezza dei lavoratori. 
+Porre domande senza creare bias non è sempre facile. La domanda “Cosa ne pensi di quel meraviglioso ecosistema di strumenti cross-platform, dalle eccellenti performance, di .Net?” è una domanda che già ci pone nelle condizioni di conoscere l’opinione del nostro interlocutore e quindi di poter avere qualche reticenza nell’esporre il nostro reale pensiero e le nostre considerazioni. Ricordate: Cynthia Carroll favorì lo la collaborazione, il dialogo e la nascita di nuove idee proprio **cambiando il modo di porre domande** sui problemi legati alla sicurezza dei lavoratori. 
 
 ### Dare feedback in modo corretto
 Tenere in considerazione che:
-- il [feedback](https://blog.codiceplastico.com/feedback-o-giudizio-la-differenza) è parte del processo di conoscenza ed apprendimento
-- è sempre necessario condividere l’impatto e le condizioni che ci hanno portato a ciò che stiamo condividendo
-- riconoscere che il feedback è incompleto, perchè è solo la mia visione, la mia faccia della medaglia
+- il [feedback](https://blog.codiceplastico.com/feedback-o-giudizio-la-differenza) è parte del processo di conoscenza ed apprendimento;
+- è sempre necessario condividere l’impatto e le condizioni che ci hanno portato a ciò che stiamo condividendo;
+- riconoscere che il feedback è incompleto, perchè è solo la mia visione, la mia faccia della medaglia.
 
 ### Dare merito a chi si assume dei rischi, anche in caso di fallimento 
 Fallire non è mai piacevole, diciamocelo chiaro. Nel caso il fallimento fosse il risultato di un’iniziativa per cui era stata effettuata una valutazione dei rischi, è corretto celebrare il fallimento perchè da questo risultato, seppur negativo, possiamo imparare qualcosa. 
 
 Non si celebrano tutti i fallimenti: riscrivere una codebase decennale in un altro linguaggio dopo aver letto un post su Twitter e aver fatto l’hello-world (che in realtà non compilava, ma vabbè… sarà colpa del fatto che…) potrebbe portare un fallimento in cui forse non si era pensato con attenzione a ciò che sarebbe potuto andare male durante il processo di riscrittura. Amy Edmonson ci dice che è fondamentale:
+
 <cite>The belief that the team is safe for interpersonal risk-taking. That one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes.</cite>
 
 <figure style="text-align:center"><img src="/assets/images/post-content/psycho/psycho_xl_003.png" alt="psychological safety" /></figure>
 
 ## E quindi, come possiamo capire se il nostro ambiente è psycological safe?
 
-Sui vari siti e libri si trovano questionari per verificare se il nostro ambiente è psychological safe o meno. Di seguito le domande tratte dal libro di Fearless Organization: possono essere un utile strumento per i team leader per capire, ad esempio, se il silenzio del team è un reale stato di pace oppure è una bomba ad orologeria, oppure per se stessi per capire se il nostro stato d’animo negativo è legato a problemi “più grandi di noi” che dobbiamo risolvere a livello di team oppure organizzazione. Le domande sono le seguenti:
+Sui vari siti e libri si trovano questionari per verificare se il nostro ambiente è psychological safe o meno. Di seguito le domande tratte dal libro di Fearless Organization: possono essere un utile strumento per i **team leader** per capire, ad esempio, se il silenzio del team è un reale stato di pace oppure è una bomba ad orologeria, oppure per se stessi per capire se il nostro stato d’animo negativo è legato a problemi “più grandi di noi” che dobbiamo risolvere a livello di team oppure organizzazione. Le domande sono le seguenti:
 
 1. If you make a mistake on your team, is it held against you?
 2. Are you able to bring up problems and tough issues?
@@ -244,9 +246,9 @@ Provate a rispondere e… in bocca al lupo!!!
 Ora che sei giunto alle conclusioni ti svelo il segreto di questo post, della riflessione che che sta alla base di questo approfondimento: **per essere Agili è INDISPENSABILE che l’ambiente in cui ci troviamo ad operare sia Psychological Safe!**
 <figure style="text-align:center"><img src="/assets/images/post-content/psycho/psycho_s_001.png" alt="psychological safety" /></figure>
 
-Eh si, come possiamo fare retrospettive sincere, contribuire alla crescita del team, ** mettere le interazioni con le persone al primo posto** , accogliere il cambiamento, dialogare con i clienti in modo trasparente e costruttivo e realizzare un prodotto di valore se dobbiamo combattere con dei vincoli che frenano la nostra creatività, il nostro essere noi stessi, la nostra voglia di sparare la proposta che sappiamo che comunque sarà irrealizzabile? 
+Eh si, come possiamo fare retrospettive sincere, contribuire alla crescita del team, mettere le interazioni con le persone al primo posto, accogliere il cambiamento, dialogare con i clienti in modo trasparente e costruttivo e realizzare un prodotto di valore se dobbiamo combattere con dei vincoli che frenano la nostra creatività, il nostro essere noi stessi, la nostra voglia di sparare la proposta che sappiamo che comunque sarà irrealizzabile? 
 
-Da uno studio di Google emerge ed è confermato dai dati che i team più performanti sono quelli in cui è garantita la psychological safety. Quindi, prima di adottare il framework agile più alla moda, prima di scegliere il formato di retrospettiva e incollare post-it sul muro, prima di adottare il modello "{metti qui il nome dell'azienda che preferisci, ad esempio, Spotify}" chiediamoci se il nostro ambiente è psychological safety: solo se lo è, o quando lo sarà, avremo il mindset giusto per capire che da successi e fallimenti trarremo insegnamenti che ci porteranno ad essere sempre migliori, un po’ come avviene per la pattuglia delle Frecce Tricolori, da cui questa mia riflessione prende spunto.
+Da uno studio di Google emerge ed è confermato dai dati che i **team più performanti sono quelli in cui è garantita la psychological safety**. Quindi, prima di adottare il framework agile più alla moda, prima di scegliere il formato di retrospettiva e incollare post-it sul muro, prima di adottare il modello "{metti qui il nome dell'azienda che preferisci, ad esempio, Spotify}" chiediamoci se il nostro ambiente è psychological safety: solo se lo è, o quando lo sarà, avremo il mindset giusto per capire che da successi e fallimenti trarremo insegnamenti che ci porteranno ad essere sempre migliori, un po’ come avviene per la pattuglia delle Frecce Tricolori, da cui questa mia riflessione prende spunto.
 
 ## Riferimenti 
 
