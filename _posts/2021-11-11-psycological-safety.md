@@ -107,7 +107,7 @@ In un ambiente psychological UNsafe, quindi, è alto il
 
 ## Le principali minacce
 
-Vediamo insieme alcune dei principali fattori che possono portare alla creazione di un ambiente _psychological UNsafe_.
+Vediamo insieme alcuni dei principali fattori che possono portare alla creazione di un ambiente _psychological UNsafe_.
 
 ### Adottare una rigida organizzazione gerarchica
 
@@ -174,8 +174,8 @@ Sul tema Amy Edmonson afferma che:
 ### Abbassare le performance
 Un ambiente Psychological Safe ci permette di operare in _Learning Zone_, cioè dove nonostante **alti livelli di responsabilità e motivazione**, possiamo operare in un contesto di crescita, innovazione, collaborazione, condivisione ed accettazione dei fallimenti. 
 In Learning Zone è **normale** “avere la sana paura” di:
-* non rispettare una deadline;
-* non aver dato tutto;
+* Non rispettare una deadline;
+* Non aver dato tutto;
 * Non aver rispettato le aspettative del cliente;
 
 Mentre non è normale avere “timore”
