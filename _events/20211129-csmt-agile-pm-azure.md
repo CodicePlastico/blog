@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "NextCODE Generation"
-talk-title: "Gestione dei progetti con la metodologia AgilePM"
+talk-title: "Gestire progetti con la metodologia AgilePM ed Azure DevOp"
 event-date-start: 2021-11-29 18:00:00
 talk-info-track: ''
 location: Online
