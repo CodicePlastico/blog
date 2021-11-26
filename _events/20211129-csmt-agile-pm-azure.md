@@ -1,26 +1,19 @@
 ---
 layout: event
 title: "NextCODE Generation"
-talk-title: "Gestire progetti con la metodologia AgilePM ed Azure DevOp"
+talk-title: "Che Agile sarebbe senza Psychological Safety"
 event-date-start: 2021-11-29 18:00:00
 talk-info-track: ''
 location: Online
 org: NextCODE Generation
-event-link: https://nextcodegeneration.it/2021/11/16/gestire-progetti-con-la-metodologia-agilepm-ed-azure-devops-online-29-novembre-ore-1800/
+event-link: #
 org-link: https://nextcodegeneration.it/
 org-twitter: CSMTgestione
 cover: 'assets/images/events/event_cluster.png'
 socialcover: 'assets/images/events/20211129.jpg'
-slug: 'csmt-agile-pm-azure'
+slug: 'psychological-safety-agile'
 author: [gianni]
 
 ---
 ## Abstract
-Una sessione dedicata alla metodologia AgilePM per la gestione a 360 gradi dei progetti, a cura di Gianni Bossini di CodicePlastico e Gaetano Paterno di Blexin, in programma lunedì 29 novembre alle ore 18.
-
-AgilePM è una metodologia Agile strutturata che aiuta a gestire i progetti a 360 gradi.
-Per gestire il progetto è necessario uno strumento che consenta di rendere operative tutte le persone in base al ruolo e di produrre i documenti previsti dalla metodologia.
-
-Durante la sessione vedremo come gestire un progetto AgilePM utilizzando Azure DevOps.
-
-E poi… la nostra consueta NextCODE Challenge, una sfida di problem solving e coding aperta a tutti!
+L'Agile è ovunque, i post che celebrano il conseguimento di una certificazione anche e tutti usano Scrum. Ma poi scopri che i team non fanno retrospettive, che tra colleghi non si parla e che il fallimento... beh... non è visto di buon occhio dal capo. Per essere realmente agili ai team serve quel pizzico di magia che rende tutto più... Agile!
