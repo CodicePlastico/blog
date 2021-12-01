@@ -11,9 +11,7 @@ tags: [teambuilding, agile]
 author: [mery]
 ---
 
-**Team Building**.
-
-Mai come negli ultimi due anni questa parola è entrata prepotentemente in ogni nostra retrospettiva. 
+**Team Building**. Mai come negli ultimi due anni questa parola è entrata prepotentemente in ogni nostra retrospettiva. 
 
 Inutile girarci intorno: anche se CodicePlastico è sempre stata un'azienda remote _oriented_, abbiamo sempre creato diverse occasioni per trovarci di persona. 
 
