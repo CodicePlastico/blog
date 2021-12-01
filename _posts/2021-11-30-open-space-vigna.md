@@ -73,5 +73,5 @@ Grazie all'accoglienza di **Gianluigi** della famiglia Vimercati Castellini prop
 
 Gianluigi ci ha insegnato anche a fare le domande giuste e ora ci sentiamo perfetti sommelier chiedendo l'anno della _sboccatura_ e non solo quello della vendemmia.
 
-Ultima tappa, cena, camino acceso e degustazione: terzo punto della perfetta giornata di team building: ✔️
+Ultima tappa, cena, camino acceso e degustazione... e anche il terzo punto della perfetta giornata di team building: ✔️
 <figure style="text-align:center"><img src="/assets/images/post-content/vigna/retreat_s_002.png" alt="retrospettiva vigna" /></figure>
