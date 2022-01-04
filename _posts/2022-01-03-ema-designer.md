@@ -21,11 +21,11 @@ Ma si sa che crescendo si cambia e alcune cose che fino a qualche anno fa veniva
 
 <figure style="text-align:center"><img src="/assets/images/post-content/ema-designer/emadesigner_xl_001.png" alt="Progettare applicazioni utili per i clienti" /></figure>
 
-Va detto che in CodicePlastico abbiamo sempre avuto una certa attenzione al design delle interfacce delle nostre applicazioni (tra i nostri early-influencer annoveriamo l'illustre [Cristiano Rastelli](https://twitter.com/areaweb) ma solo nell'ultimo anno abbiamo iniziato a dare un ruolo primario a questo aspetto dedicando una serie di attività utili alla scoperta dei **requisiti di UX** e alla **progettazione della UI**.
+Va detto che in CodicePlastico abbiamo sempre avuto una certa attenzione al design delle interfacce delle nostre applicazioni (tra i nostri early-influencer annoveriamo l'illustre [Cristiano Rastelli](https://twitter.com/areaweb)) ma solo nell'ultimo anno abbiamo iniziato a dare un ruolo primario a questo aspetto dedicando una serie di attività utili alla scoperta dei **requisiti di UX** e alla **progettazione della UI**.
 
 E così da ormai parecchi mesi in CodicePlastico è nato un nuovo team dedicato allo studio e progettazione della user experience. Il team **True Colors**!
 
-Non è certo una novità, anche in Italia esistono molte aziende che hanno come core business la progettazione di UX, ma pochissime lo fanno dando ai loro workshop un taglio concreto con l'obbiettivo dichiarato di arrivare ad una soluzione che sia realizzabile rimanendo nei budget concordati.
+Non è certo una novità, anche in Italia esistono molte aziende che hanno come core business la progettazione di UX, ma pochissime lo fanno dando ai loro workshop un taglio concreto con l'obiettivo dichiarato di arrivare ad una soluzione che sia realizzabile rimanendo nei budget concordati.
 <br>
 <br>
 
