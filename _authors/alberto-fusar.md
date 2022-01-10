@@ -1,6 +1,6 @@
 ---
 short_name: alberto
-position: Developer  @ CodicePlastico
+position: Developer @ CodicePlastico
 name: Alberto Fusar
 nick: Alberto
 slug: alberto-fusar

@@ -1,6 +1,6 @@
 ---
 short_name: Vale
-position: Software Engineer  @ CodicePlastico
+position: Software Engineer @ CodicePlastico
 name: Valeria Leonardi
 nick: Valeria
 slug: valeria-leonardi

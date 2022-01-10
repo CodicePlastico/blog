@@ -1,6 +1,6 @@
 ---
 short_name: nicholas
-position: Software Developer  @ CodicePlastico
+position: Software Developer @ CodicePlastico
 name: Nicholas Roscino
 nick: nicholas
 slug: nicholas-roscino

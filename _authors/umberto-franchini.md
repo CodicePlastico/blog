@@ -1,6 +1,6 @@
 ---
 short_name: umby
-position: Software Engineer  @ CodicePlastico
+position: Software Engineer @ CodicePlastico
 name: Umberto Franchini
 nick: Umberto
 slug: umberto-franchini
