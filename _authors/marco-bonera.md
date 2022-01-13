@@ -1,6 +1,6 @@
 ---
 short_name: bonny
-position: Software Engineer  @ CodicePlastico
+position: Software Engineer @ CodicePlastico
 name: Marco Bonera
 nick: Marco
 slug: marco-bonera

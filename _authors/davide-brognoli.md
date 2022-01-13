@@ -1,6 +1,6 @@
 ---
 short_name: Davide
-position: FrontEnd Developer  @ CodicePlastico
+position: FrontEnd Developer @ CodicePlastico
 name: Davide Brognoli
 nick: Davide
 slug: davide-brognoli

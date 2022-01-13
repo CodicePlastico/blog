@@ -1,6 +1,6 @@
 ---
 short_name: Madda
-position: Software Engineer  @ CodicePlastico
+position: Software Engineer @ CodicePlastico
 name: Maddalena Germinario
 nick: Maddalena
 slug: maddalena-germinario

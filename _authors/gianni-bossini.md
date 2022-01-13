@@ -1,6 +1,6 @@
 ---
 short_name: gianni
-position: Software Engineer  @ CodicePlastico
+position: Software Engineer @ CodicePlastico
 name: Gianni Bossini
 nick: Gianni
 slug: gianni-bossini
