@@ -2,7 +2,7 @@
 layout: post
 current: post
 cover: 'assets/images/post-cover/2022-chaos-game.jpg'
-socialcover: 'assets/images/post-cover/2021-chaos-game-s.jpg'
+socialcover: 'assets/images/post-cover/2022-chaos-game-s.jpg'
 slug: chaos-game
 title: 'Il Gioco del Caos'
 date: 2022-01-10 09:00:00
