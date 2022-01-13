@@ -77,6 +77,10 @@
         }
       </script>
       {% endif %}
+
+      {% if page.customStyle  %}
+        <link href="{{ root_url }}{{page.customStyle}}" rel="stylesheet">
+      {% endif %}
   
       {% if page.layout == 'author' %}
       
@@ -168,8 +172,6 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-WBH6523');</script>
     <!-- End Google Tag Manager -->
-
-
 
   </head>
   <body>

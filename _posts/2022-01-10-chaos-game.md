@@ -9,6 +9,7 @@ date: 2022-01-10 09:00:00
 category : [tech]
 tags: [software, functional, programming, howto]
 author: [claudiol]
+customStyle: 'assets/webgl/TemplateData/style.css'
 ---
 
 <cite>Io come Dio non gioco ai dadi e non credo nelle coincidenze.</cite>
@@ -47,6 +48,82 @@ Dopo molteplici iterazioni tra l’ultimo Tracepoint e uno dei vertici del trian
 Qualsiasi posizione dei vertici o del Tracepoint finirà per generare quasi sempre la stessa immagine. Infine, non posso non citare il famoso frattale chiamato **"Barnsley fern"**, dove, mediante semplici regole e numeri generati a caso, viene creata una felce.
 
 # Qui sotto potete provare in maniera interattiva il "Chaos game".
-GIOCO
+<div id="unity-container" class="unity-desktop">
+  <canvas id="unity-canvas" width="960" height="600"></canvas>
+  <div id="unity-loading-bar">
+    <div id="unity-logo"></div>
+    <div id="unity-progress-bar-empty">
+      <div id="unity-progress-bar-full"></div>
+    </div>
+  </div>
+  <div id="unity-mobile-warning">
+    WebGL builds are not supported on mobile devices.
+  </div>
+  <div id="unity-footer">
+    <div id="unity-webgl-logo"></div>
+    <div id="unity-fullscreen-button"></div>
+    <div id="unity-build-title">Chaos Game</div>
+  </div>
+</div>
+
+<script>
+  console.log('Qui');
+  var buildUrl = "/assets/webgl/Build";
+  var loaderUrl = buildUrl + "/Build.loader.js";
+  var config = {
+    dataUrl: buildUrl + "/Build.data",
+    frameworkUrl: buildUrl + "/Build.framework.js",
+    codeUrl: buildUrl + "/Build.wasm",
+    streamingAssetsUrl: "StreamingAssets",
+    companyName: "DefaultCompany",
+    productName: "Chaos Game",
+    productVersion: "0.1",
+  };
+
+  var container = document.querySelector("#unity-container");
+  var canvas = document.querySelector("#unity-canvas");
+  var loadingBar = document.querySelector("#unity-loading-bar");
+  var progressBarFull = document.querySelector("#unity-progress-bar-full");
+  var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+  var mobileWarning = document.querySelector("#unity-mobile-warning");
+
+  // By default Unity keeps WebGL canvas render target size matched with
+  // the DOM size of the canvas element (scaled by window.devicePixelRatio)
+  // Set this to false if you want to decouple this synchronization from
+  // happening inside the engine, and you would instead like to size up
+  // the canvas DOM size and WebGL render target sizes yourself.
+  // config.matchWebGLToCanvasSize = false;
+
+  if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+    container.className = "unity-mobile";
+    // Avoid draining fillrate performance on mobile devices,
+    // and default/override low DPI mode on mobile browsers.
+    config.devicePixelRatio = 1;
+    mobileWarning.style.display = "block";
+    setTimeout(() => {
+      mobileWarning.style.display = "none";
+    }, 5000);
+  } else {
+    canvas.style.width = "960px";
+    canvas.style.height = "600px";
+  }
+  loadingBar.style.display = "block";
+
+  var script = document.createElement("script");
+  script.src = loaderUrl;
+  script.onload = () => {
+    createUnityInstance(canvas, config, (progress) => {
+      progressBarFull.style.width = 100 * progress + "%";
+    }).then((unityInstance) => {
+      loadingBar.style.display = "none";
+      fullscreenButton.onclick = () => {
+        unityInstance.SetFullscreen(1);
+      };
+    }).catch((message) => {
+      alert(message);
+    });
+  };
+  document.body.appendChild(script);
+</script>
 
 <figure style="text-align:center"><img src="/assets/images/post-content/chaos-game/chaos-game_s_004.png" alt="Chaos game" /></figure>
