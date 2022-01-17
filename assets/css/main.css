@@ -1542,14 +1542,12 @@ section.newsletter {
   box-shadow: rgba(39, 44, 49, 0.06) 8px 14px 38px, rgba(39, 44, 49, 0.03) 1px 3px 8px;
   transition: all 0.5s ease;
   text-align: center; }
-  .event-card.event-card--fake {
+  .event-card--fake {
     border: none;
-    box-shadow: none;
-  }
-  .event-card.event-card--fake:hover {
-    border: none;
-    box-shadow: none;
-  }
+    box-shadow: none; }
+    .event-card--fake:hover {
+      border: none;
+      box-shadow: none; }
   .event-card .event-image {
     margin: 0; }
     .event-card .event-image img {
@@ -1728,6 +1726,18 @@ section.newsletter {
         width: 30%; }
       .archive-event-feed .event-item .talk-title {
         width: 50%; } }
+
+.jobs-banner {
+  display: flex;
+  align-items: center;
+  background: #D93232;
+  color: #FFF;
+  padding: 1em;
+  margin-top: 2.5em; }
+  .jobs-banner p {
+    padding-left: 20px; }
+    .jobs-banner p a {
+      color: #FFF; }
 
 nav.pagination {
   text-align: center;
