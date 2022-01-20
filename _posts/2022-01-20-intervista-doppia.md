@@ -15,7 +15,7 @@ Cosa succede quando un developer e un designer si incontrano? Le leggende narran
 
 <figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_l_001.png" alt="UX & Code: intervista doppia" /></figure>
 
-Nella realtà rispondono a delle domande sul rapporto che hanno tra di loro sia in relazione alla UX.
+Nella realtà rispondono a delle domande sul rapporto che hanno sia tra di loro come colleghi sia in relazione alla UX.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_001.png" alt="UX & Code: intervista doppia - Round 1" /></figure>
 
