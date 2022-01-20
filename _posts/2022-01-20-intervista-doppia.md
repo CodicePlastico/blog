@@ -63,8 +63,8 @@ Dall'altro lato la possibilità del designer di condividere con lo sviluppo ques
 
 <figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_004.png" alt="UX & Code: intervista doppia - Round 4" /></figure>
 
-## Strumenti e documentazione
-**manna o dannazione?**
+## Strumenti e documentazione:
+**Manna o dannazione?**
 
 **Davide**: La questione strumenti e documentazione è forse la più spinosa.
 Negli anni abbiamo fatto molti passi avanti: sono lontani i tempi in cui si cercava di sviluppare un frontend partendo da un file psd. Strumenti come Sketch, Figma, Zepplin, Invision hanno semplificato le operazioni ma non sempre sono sufficienti: se da un lato semplificano le operazioni di misurazione, estrazione degli assets e di individuazione di font e colori dall'altro non riescono a mostrare in maniera semplice le interazioni possibili e i diversi stati che la UI potrà assumere.
@@ -72,7 +72,8 @@ In CodicePlastico cerchiamo di sopperire a queste mancanze con una documentazion
 In molti casi serve comunque un confronto diretto per dirimere le interazioni meno comprensibili.
 E' anche per questo motivo che ritengo un grosso valore il fatto di avere UX designer all'interno del team perché questo permette un confronto continuo e riduce i tempi dei feedback.
 
-**Tra librerie e modi di scambiarsi le informazioni.**
+**Muoversi tra librerie e modi di scambiarsi le informazioni.**
+
 **Andrea**: Consegnare un design system, tutte le schermate di un'applicazione, i flussi o le interazioni con le relative animazioni è sicuramente l'output migliore per tutti gli attori in gioco, sia per i designer che mettono in chiaro il dove si sia arrivati, sia per i developer che hanno un punto di partenza dal quale partire con lo sviluppo e soprattutto per il cliente che ha sottomano non solo delle immagini ma un prototipo. Per quanto Figma e gli altri tool di design possano aiutare i developer a confrontarsi con i designer anche in asincrono, non siamo ancora riusciti a avere una singola sorgente di informazioni che, al momento, viene affiancata da altri strumenti come meeting notes o Notion (per documentazioni più complesse) che completano il range di informazioni necessarie ad avere una visione d'insieme.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_005.png" alt="UX & Code: intervista doppia - Round 5" /></figure>
