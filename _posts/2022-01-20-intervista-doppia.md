@@ -33,7 +33,7 @@ In entrambi questi scenari la figura dello UX designer non viene utilizzata e il
 Con un team di sviluppo si ha il vantaggio di potere definire dei confini con i quali controllare eventuali leak in termini di tempo e costi oppure, allo stesso tempo, capire quali nuovi paradigmi possano essere messi in gioco per ottimizzare i nuovi flussi. 
 Quello che non cambia in entrambi i casi è la necessità di capire, insieme al cliente quale sia la richiesta e come trasformare l’idea in qualcosa di utilizzabile.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_001.png" alt="UX & Code: intervista doppia - Round 2" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_002.png" alt="UX & Code: intervista doppia - Round 2" /></figure>
 
 ## Lavoro interattivo: non solo schermate consegnate ma confronto costante.
 **Che cosa ti piace di questo approccio? Cosa funziona e cosa non funziona.**
@@ -50,7 +50,7 @@ Come in tutte le relazioni ci possono essere alti e bassi ma nel nostro team la 
 **Andrea**: Esattamente, la relazione con lo sviluppo aiuta a disinnescare dubbi tecnici e, sulla base della tecnologia utilizzata, modificare alcuni pattern o behaviour per ottimizzare funzionamento, tempi di realizzazione e costi.
 L'aggiornamento continuo dell'output, grazie anche al confronto costante con il team di sviluppo, è necessario a tenere aggiornate le due facce dell'applicazione per avere due binari sempre paralleli e ottimizzati. Apprezzo molto anche il lavoro in parallelo su eventuali change request dove io e Davide abbiamo fatto co-design direttamente su Figma e successivamente abbiamo verificato nel codice che le modifiche fossero implementabili.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_001.png" alt="UX & Code: intervista doppia - Round 3" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_003.png" alt="UX & Code: intervista doppia - Round 3" /></figure>
 
 ## Rapporto con il cliente: come cambia la gestione del cliente con uno ux designer nel team.
 **Davide**: Il primo vantaggio che vedo nella gestione del cliente è la semplificazione delle comunicazioni: noi developer tendiamo spesso a dilungarci con tecnicismi che in molti casi possono confondere il cliente. La presenza di uno UX designer riesce a sintetizzare meglio i discorsi portando la conversazione su argomenti più confortevoli per il cliente.
@@ -61,7 +61,7 @@ L'ultimo vantaggio riguarda la validazione del prodotto da consegnare: l'occhio 
 **Andrea**: Si aggiunge la possibilità di avere un layer che aiuti il team di sviluppo a definire al meglio le richieste sulla base degli obiettivi e delle priorità. Non è più il cliente che chiede un software ma sono cliente e CodicePlastico a iniziare un dialogo volto alla realizzazione del miglior prodotto possibile sulla base di tempistiche e budget. Spesso lo UX designer può accompagnare il cliente nella scelta di quelle che sono le feature obbligatorie per la messa in produzione dell'applicazione o comprendere al meglio gli obiettivi di business che portano valore.
 Dall'altro lato la possibilità del designer di condividere con lo sviluppo queste considerazioni porta un grosso vantaggio competitivo: la mediazione tra necessità e tempi e criticità di sviluppo è palese e chiara anche al cliente che può scegliere come procedere senza lati oscuri.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_001.png" alt="UX & Code: intervista doppia - Round 4" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_004.png" alt="UX & Code: intervista doppia - Round 4" /></figure>
 
 ## Strumenti e documentazione
 **manna o dannazione?**
@@ -75,7 +75,7 @@ E' anche per questo motivo che ritengo un grosso valore il fatto di avere UX des
 **Tra librerie e modi di scambiarsi le informazioni.**
 **Andrea**: Consegnare un design system, tutte le schermate di un'applicazione, i flussi o le interazioni con le relative animazioni è sicuramente l'output migliore per tutti gli attori in gioco, sia per i designer che mettono in chiaro il dove si sia arrivati, sia per i developer che hanno un punto di partenza dal quale partire con lo sviluppo e soprattutto per il cliente che ha sottomano non solo delle immagini ma un prototipo. Per quanto Figma e gli altri tool di design possano aiutare i developer a confrontarsi con i designer anche in asincrono, non siamo ancora riusciti a avere una singola sorgente di informazioni che, al momento, viene affiancata da altri strumenti come meeting notes o Notion (per documentazioni più complesse) che completano il range di informazioni necessarie ad avere una visione d'insieme.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_001.png" alt="UX & Code: intervista doppia - Round 5" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_s_005.png" alt="UX & Code: intervista doppia - Round 5" /></figure>
 
 ## Ti viene in mente altro sul tema?
 **Davide**: Come già scritto in precedenza, ritengo che la presenza di un team di UX all'interno della nostra azienda sia un vero plus sia per noi sviluppatori che per i nostri clienti.
