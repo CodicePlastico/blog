@@ -70,16 +70,47 @@ current: event
  
 
     <section class="author post-list related-posts ">
-        <!--h4>Ecco cosa ha scritto {{ author.nick }} per il PlastiBlog</h4-->
-        <h4>Scopri gli ultimi articoli del PlasticBlog</h4>
+        <h4>Ecco cosa ha scritto {{ author.nick }} per il PlasticBlog</h4>
         <div class="post-feed">
-            {% assign filtered_posts = site.posts | where: 'author', page.page.author %}
-            {% for post in filtered_posts limit:3 %}
-            {% include post-card.html %}
+            {% assign maxRelated = 3 %}
+            {% assign minCommonAuthor =  1 %}
+            {% assign maxRelatedCounter = 0 %}
+            {% assign postCounter = 0 %}
+            {% for post in site.posts %}
+            
+                {% assign sameAuthorCount = 0 %}
+                {% assign commonAuthor = '' %}
+            
+                {% for author in post.author %}
+                {% if post.url != page.url %}
+                    {% if page.author contains author %}
+                    {% assign sameAuthorCount = sameAuthorCount | plus: 1 %}
+                    {% capture authormarkup %} <span class="label label-default">{{ author }}</span> {% endcapture %}
+                    {% assign commonAuthors = commonAuthors | append: authormarkup %}
+                    {% endif %}
+                {% endif %}
+                {% endfor %}
+            
+                {% if sameAuthorCount >= minCommonAuthor %}
+                {%  include post-card.html %}
+                {% assign postCounter = postCounter | plus: 1 %}
+                {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                {% if maxRelatedCounter >= maxRelated %}
+                    {% break %}
+                {% endif %}
+                
+                {% endif %}
+            
             {% endfor %}
+
+            {% if postCounter == 0 %}
+                {% for post in  site.posts limit:3 %}
+                {%  include post-card.html %}
+                {% endfor %}
+            {% endif %}
         </div>
     </section>
-    <footer><p class="event-link-archive"><a href="./events.html">Torna alla lista degli EventiPlastici</a></footer></p>
+    <footer><p class="event-link-archive"><a href="/events.html">Torna alla lista degli EventiPlastici</a></footer></p>
 </main>
 
 
