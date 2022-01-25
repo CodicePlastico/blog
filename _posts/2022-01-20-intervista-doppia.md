@@ -11,7 +11,7 @@ tags: [design, ux, code, teambuilding, cp]
 author: [Davide, andrea]
 ---
 
-Cosa succede quando un developer e un designer si incontrano? Le leggende narrano che siano ancora in corso guerre sacre tra i tenutari della fiamma sacra del codice e i pittori digitali! Ma se, nelle leggende, c’è sempre un fondo di verità le cose non sono davvero come vengono raccontate.
+Cosa succede quando un developer e un designer si incontrano? Le leggende narrano che siano ancora in corso guerre sacre tra i tenutari della fiamma del codice e i pittori digitali! Ma se, nelle leggende, c’è sempre un fondo di verità le cose non sono davvero come vengono raccontate.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/intervista-doppia/double_l_001.png" alt="UX & Code: intervista doppia" /></figure>
 
