@@ -31,7 +31,7 @@ Questa attività, fatta durante il workshop, richiede ai partecipanti di provare
 
 Ne escono schede di questo tipo:
 
-# inserire schede esempio
+<figure style="text-align:center"><img src="/assets/images/post-content/ema-designer/emadesigner_people.png" alt="Progettare applicazioni utili per i clienti" /></figure>
 
 ## Step 2. Il flusso
 
@@ -47,7 +47,7 @@ Nel caso di esempio sopra della "compilazione della scheda prodotto" viene chies
 
 Tutte queste informazioni vengono riportate sul flusso temporale, ricorrendo ai nostri amati post-it e a disegni che aggiungono contesto e collegano gli elementi del flusso.
 
-# esempio di flusso
+<figure style="text-align:center"><img src="/assets/images/post-content/ema-designer/emadesigner_flusso.png" alt="Progettare applicazioni utili per i clienti" /></figure>
 
 ## Step 3. Prototipazione
 
