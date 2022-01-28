@@ -51,7 +51,7 @@ Tutte queste informazioni vengono riportate sul **flusso temporale**, ricorrendo
 
 ## Step 3. Prototipazione
 
-Disegnare interfacce è compito dei designer. E' una cosa che ho sempre pensato... ma cosa succede se gli utenti sono chiamati in prima persona a progettare le schermate delle proprie applicazioni?
+Disegnare interfacce è compito dei designer: è una cosa che ho sempre pensato... ma cosa succede se gli utenti sono chiamati in prima persona a progettare le schermate delle proprie applicazioni?
 
 (anche qui ero molto scettico, fino a quando...)
 
