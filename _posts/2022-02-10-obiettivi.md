@@ -11,8 +11,10 @@ tags: [design, ux, cp]
 author: [mery]
 ---
 
-Come nasce un progetto in una software house? In CodicePlastico, nasce con un gruppo di persone attorno ad un tavolo, un grande cartellone, poche slide, pennarelli, tanti post-it e una buona dose di creatività. Se siete curiosi di sapere come siamo arrivati a capire che i Workshop Collaborativi rendono migliore il nostro processo di sviluppo, non potete perdervi l’[articolo di Ema](https://blog.codiceplastico.com/progettare-applicazioni-utili-per-i-clienti-pt2).
-
+<div class="post-intro">
+<p>Come nasce un progetto in una software house? In CodicePlastico, nasce con un gruppo di persone attorno ad un tavolo, un grande cartellone, poche slide, pennarelli, tanti post-it e una buona dose di creatività. </p>
+<p>Se siete curiosi di sapere come siamo arrivati a capire che i Workshop Collaborativi rendono migliore il nostro processo di sviluppo, non potete perdervi l’[articolo di Ema](https://blog.codiceplastico.com/progettare-applicazioni-utili-per-i-clienti-pt2). Nel frattempo oggi vi parliamo di una delle attività <em>regine</em> dei nostri workshop: la <strong>definizione degli obiettivi</strong>.</p>
+</div>
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_001.png" alt="obiettivi" /></figure>
 
 ## La soluzione in tasca
