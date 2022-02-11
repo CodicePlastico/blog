@@ -19,7 +19,7 @@ Come nasce un progetto in una software house? In CodicePlastico, nasce con un gr
 Realizziamo software. Questo implica che, il più delle volte, i nostri clienti arrivano da noi già con una soluzione in tasca. L’obiettivo del workshop è quello di aumentare consapevolezza su questa soluzione, sugli utenti che la useranno e sui motivi che li spingeranno a compiere determinate azioni.
 Questo comporta che, alla fine della progettazione collaborativa, la soluzione iniziale può essere validata, può essere modificata, rimpicciolita, ingrandita, sdoppiata o meramente buttata nel cestino.
 
-Per questo , prima ancora di portare i clienti a costruire  empathy maps, customer journey o rapid prototyping pensiamo sia fondamentale capire in che modo, quello che andremo a costruire, avrà un impatto nel mondo: creiamo un gruppo di lavoro con la dirigenza (i decisori) e lavoriamo insieme sulla validazione degli obiettivi.
+Per questo, prima ancora di portare i clienti a costruire empathy maps, customer journey o rapid prototyping pensiamo sia fondamentale capire in che modo, quello che andremo a costruire, avrà un impatto nel mondo: creiamo un gruppo di lavoro con la dirigenza (i decisori) e lavoriamo insieme sulla validazione degli obiettivi.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_002.png" alt="obiettivi" /></figure>
 
@@ -66,8 +66,8 @@ E passiamo al controllo ecologico, che non è direttamente legato al concetto am
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_003.png" alt="obiettivi" /></figure>
 
-E’ un momento molto delicato e spesso anche spinoso. Queste domande pongono i decisori di fronte alle conseguenze di quello che vogliono costruire.  Le prime risposte sono sempre del tipo:
-Aumenterò  il mio stipendio di X%, saremo in grado di gestire un X% di produzione in più!
+E’ un momento molto delicato e spesso anche spinoso. Queste domande pongono i decisori di fronte alle conseguenze di quello che vogliono costruire. Le prime risposte sono sempre del tipo:
+Aumenterò il mio stipendio di X%, saremo in grado di gestire un X% di produzione in più!
 Poi si arriva alla sfera personale:
 
 ***Avrò meno tempo per la mia famiglia? Avrò tempo per i miei hobby?***
@@ -84,6 +84,6 @@ E infine affiorano le implicazioni come:
 
 Dare forma alle paure prima del processo di progettazione (e non a prodotto finito) consente di scegliere per tempo una strategia che faciliti il raggiungimento di un obiettivo non fine a se stesso, ma che porti un valore concreto all’azienda intera.
 
-Un secondo aspetto importante del controllo ecologico è individuare le resistenze! Quanti progetti nascono con entusiasmo in un gruppo di lavoro e si schiantano contro burocrazia e timore del cambiamento?  Conoscere chi è detrattore di un progetto è importante tanto quanto scrivere un software perfetto: saranno le prime persone da coinvolgere per conoscere il loro punto di vista.
+Un secondo aspetto importante del controllo ecologico è individuare le resistenze! Quanti progetti nascono con entusiasmo in un gruppo di lavoro e si schiantano contro burocrazia e timore del cambiamento? Conoscere chi è detrattore di un progetto è importante tanto quanto scrivere un software perfetto: saranno le prime persone da coinvolgere per conoscere il loro punto di vista.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_004.png" alt="obiettivi" /></figure>
