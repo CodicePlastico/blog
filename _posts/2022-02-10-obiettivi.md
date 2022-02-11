@@ -38,7 +38,7 @@ Il primo step serve per creare un modello mentale condiviso, mettendo sul tavolo
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_l_003.png" alt="obiettivi" /></figure>
 
-E’ interessante vedere come i clienti costruiscono delle scene precise: c’è chi si immagina il proprio reparto di amministrazione al lavoro, c’è chi vuole trovarsi a capo di una convention europea come leader del settore. 
+E’ interessante vedere come i clienti costruiscano delle scene precise: c’è chi si immagina il proprio reparto di amministrazione al lavoro, c’è chi vuole trovarsi a capo di una convention europea come leader del settore. 
 Solitamente quando gli obiettivi sono epici, il lavoro del processo e la facilitazione aiuta ad individuare dei sotto obiettivi realizzabili e misurabili:
 
 ***Quando? In quanto? Per quanto?***
