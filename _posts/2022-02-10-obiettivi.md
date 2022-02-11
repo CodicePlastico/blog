@@ -29,59 +29,64 @@ Iniziamo chiediamo al gruppo di lavoro di accordarsi in pochi minuti su quello c
 <cite>Stiamo facendo questo progetto perché… 
 e tra sei mesi, un anno, cinque anni, saremo…</cite>
 
+### Il tuo obiettivo è espresso in positivo? Ne abbiamo una rappresentazione condivisa?
 Dopo aver scritto un obiettivo iniziale lo mettiamo sotto processo. Il facilitatore parte riformulando in positivo le <strong>eventuali negazioni</strong> e parte con una serie di domande come: 
 
-### Quando l'avrai ottenuto, cosa vedrai? cosa ascolterai?Cosa sentirai?
-#### Come fai a sapere di averlo ottenuto?
+_Quando l'avrai ottenuto, cosa vedrai? cosa ascolterai?Cosa sentirai?_
+_Come fai a sapere di averlo ottenuto?_
 
-Il primo step serve per creare un modello mentale condiviso, mettendo sul tavolo le aspettative, i dettagli e le implicazioni.
+Il primo step serve per creare un <strong>modello mentale condiviso</strong>, mettendo sul tavolo le aspettative, i dettagli e le implicazioni.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_l_003.png" alt="obiettivi" /></figure>
 
-E’ interessante vedere come i clienti costruiscono delle scene precise: c’è chi si immagina il proprio reparto di amministrazione al lavoro, c’è chi vuole trovarsi a capo di una convention europea come leader del settore. 
-Solitamente quando gli obiettivi sono epici, il lavoro del processo e la facilitazione aiuta ad individuare dei sotto obiettivi realizzabili e misurabili:
+&Egrave; interessante vedere come i clienti costruiscano delle scene precise: c’è chi si immagina il proprio reparto di amministrazione al lavoro, c’è chi vuole trovarsi a capo di una convention europea come leader del settore. 
 
-***Quando? In quanto? Per quanto?***
+### Il tuo obiettivo è sotto la tua responsabilità? &Egrave; misurabile?
+Solitamente quando gli obiettivi sono epici, il processo e la facilitazione aiutano ad individuare dei <strong>sotto obiettivi realizzabili e misurabili</strong>:
 
-***Da chi dipende il raggiungimento di questo obiettivo?*** 
+_Quando? In quanto? Per quanto?_
 
-***Abbiamo tutti gli strumenti necessari o dipendiamo da qualcuno?***
+_Da chi dipende il raggiungimento di questo obiettivo?_ 
 
-***E’ sotto la nostra responsabilità? Da chi dipende?***
+_Abbiamo tutti gli strumenti necessari o dipendiamo da qualcuno?_
+
+_E’ sotto la nostra responsabilità? Da chi dipende?_
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_l_001.png" alt="obiettivi" /></figure>
 
-Ogni volta che viene ridefinito un obiettivo più piccolo, li mettiamo in gerarchia: anche se al tempo zero il mio obiettivo è quello di mettere sul mercato un'app nei prossimi due mesi per dare ai miei clienti la possibilità di prenotare un servizio più facilmente, è importante e motivante ricordarsi della rappresentazione delle epiche.
+Ogni volta che viene ridefinito un obiettivo più piccolo, lo mettiamo in <strong>gerarchia</strong>. Dall'obietivo di diventare leader del settore in cinque anni, arriviamo al sottoobiettivo di mettere rapidamente sul mercato un'app per dare ai clienti la possibilità di prenotare il nostro servizio più facilmente. I sotto obiettivi devono essere definiti sul piano del "fare": azioni che portano valore ma su cui possiamo avere un impatto concreto. Le epiche, diversamente, si collocano in un futuro distante e spesso hanno contorni sfumati, all'inizio del progetto. Attenzione, non sono inutili: ispirano, motivano e danno una direzione: sono una guida per una visione globale del progetto. 
 
-Insomma, non dimentichiamoci che vogliamo arrivare ad essere leader europei del settore.
-E passiamo al controllo ecologico, che non è direttamente legato al concetto ambientale (no, non ha a che vedere con quanta Co2 produrrai al raggiungimento dell'obiettivo), ma una verifica sull’impatto sistemico ad obiettivo raggiunto:
+### Verificare l'ecologia del sistema 
+Ora possiamo passare al controllo ecologico. No, non ha a che fare con quanta Co2 produrrai al raggiungimento dell'obiettivo, ma si tratta una verifica sull’<strong>impatto sistemico</strong> ad obiettivo raggiunto:
 
-***Quando lo avrai raggiunto cosa succederà a te? Come ti sentirai? cosa succederà agli altri?***
+_Quando lo avrai raggiunto cosa succederà a te? Come ti sentirai? cosa succederà agli altri?_
 
-***C'è qualcosa che stiamo perdendo? Gli altri perdono qualcosa?***
+_C'è qualcosa che stiamo perdendo? Gli altri perdono qualcosa?_
 
-***Cosa c'è di importante in quello che perdi?***
+_Cosa c'è di importante in quello che perdi?_
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_003.png" alt="obiettivi" /></figure>
 
-E’ un momento molto delicato e spesso anche spinoso. Queste domande pongono i decisori di fronte alle conseguenze di quello che vogliono costruire. Le prime risposte sono sempre del tipo:
-Aumenterò il mio stipendio di X%, saremo in grado di gestire un X% di produzione in più!
-Poi si arriva alla sfera personale:
+&Egrave; un momento molto delicato e spesso anche spinoso. Queste domande pongono i decisori di fronte alle conseguenze di quello che vogliono costruire. Le prime risposte sono sempre del tipo:
 
-***Avrò meno tempo per la mia famiglia? Avrò tempo per i miei hobby?***
+_Aumenterò il mio stipendio di X%, saremo in grado di gestire un X% di produzione in più!_
+
+Poi si arriva alla sfera personale:
+_Avrò meno tempo per la mia famiglia? Avrò tempo per i miei hobby?_
 
 E infine affiorano le implicazioni come:
 
-***Se la nuova app porterà nuovi clienti, saremo in grado di gestirli bene come oggi?***
+_Se la nuova app porterà nuovi clienti, saremo in grado di gestirli bene come oggi?_
 
-***Dovremo rinunciare al lato umano del nostro business? Il reparto X perderà di importanza?***
+_Dovremo rinunciare al lato umano del nostro business? Il reparto X perderà di importanza?_
 
-***Il reparto X non userà mai il nostro software.***
+_Il reparto X non userà mai il nostro software._
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_l_002.png" alt="obiettivi" /></figure>
 
-Dare forma alle paure prima del processo di progettazione (e non a prodotto finito) consente di scegliere per tempo una strategia che faciliti il raggiungimento di un obiettivo non fine a se stesso, ma che porti un valore concreto all’azienda intera.
+Dare forma alle paure prima del processo di progettazione (e non a prodotto finito) consente di <strong>scegliere per tempo una strategia</strong> che faciliti il raggiungimento di un obiettivo non fine a se stesso, ma che porti un valore concreto all’azienda intera.
 
-Un secondo aspetto importante del controllo ecologico è individuare le resistenze! Quanti progetti nascono con entusiasmo in un gruppo di lavoro e si schiantano contro burocrazia e timore del cambiamento? Conoscere chi è detrattore di un progetto è importante tanto quanto scrivere un software perfetto: saranno le prime persone da coinvolgere per conoscere il loro punto di vista.
+Un secondo aspetto importante del controllo ecologico è individuare le resistenze! Quanti progetti nascono con entusiasmo in un gruppo di lavoro e si schiantano contro <strong>burocrazia e timore del cambiamento</strong>? Conoscere chi è detrattore di un progetto è importante tanto quanto scrivere un software perfetto: saranno le prime persone da coinvolgere per conoscere il loro punto di vista.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_004.png" alt="obiettivi" /></figure>
+
