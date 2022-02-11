@@ -16,25 +16,23 @@ Come nasce un progetto in una software house? In CodicePlastico, nasce con un gr
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_001.png" alt="obiettivi" /></figure>
 
 ## La soluzione in tasca
-Realizziamo software. Questo implica che, il più delle volte, i nostri clienti arrivano da noi già con una soluzione in tasca. L’obiettivo del workshop è quello di aumentare consapevolezza su questa soluzione, sugli utenti che la useranno e sui motivi che li spingeranno a compiere determinate azioni.
-Questo comporta che, alla fine della progettazione collaborativa, la soluzione iniziale può essere validata, può essere modificata, rimpicciolita, ingrandita, sdoppiata o meramente buttata nel cestino.
-
-Per questo, prima ancora di portare i clienti a costruire empathy maps, customer journey o rapid prototyping pensiamo sia fondamentale capire in che modo, quello che andremo a costruire, avrà un impatto nel mondo: creiamo un gruppo di lavoro con la dirigenza (i decisori) e lavoriamo insieme sulla validazione degli obiettivi.
+Realizziamo software. Questo implica che, il più delle volte, i nostri clienti arrivano da noi già con una soluzione in tasca. L’obiettivo del workshop è quello di <strong>aumentare consapevolezza</strong> su questa soluzione, sugli utenti che la useranno e sui motivi che li spingeranno a compiere determinate azioni.<br/>
+Questo comporta che, alla fine della progettazione collaborativa, questa soluzione iniziale può essere validata, può essere modificata, rimpicciolita, ingrandita, sdoppiata o meramente buttata nel cestino.
+Prima ancora di portare i clienti a costruire empathy maps, customer journey o rapid prototyping pensiamo sia fondamentale capire come, quello che andremo a costruire, avrà un <strong>impatto nel mondo</strong>: creiamo un gruppo di lavoro con la dirigenza (i decisori) e lavoriamo insieme sulla validazione degli <strong>obiettivi</strong>.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_002.png" alt="obiettivi" /></figure>
 
 ## Obiettivi ben formati: il processo
-Un canvas che abbiamo trovato particolarmente efficace è la definizione di un **obiettivo ben formato** (espresso in positivo, sotto la propria responsabilità, misurabile ed ecologico).
-Chiediamo al gruppo di lavoro di accordarsi in pochi minuti su quello che secondo loro è l’obiettivo principale dell’artefatto che stiamo creando.
+Un canvas che abbiamo trovato particolarmente efficace è la definizione di un **obiettivo ben formato** (espresso in positivo, sotto la propria responsabilità, misurabile ed ecologico). <br/>
+Iniziamo chiediamo al gruppo di lavoro di accordarsi in pochi minuti su quello che secondo loro è <strong>l’obiettivo principale</strong> del progetto.
 
 <cite>Stiamo facendo questo progetto perché… 
 e tra sei mesi, un anno, cinque anni, saremo…</cite>
 
-Dopo aver scritto un obiettivo iniziale lo mettiamo sotto processo. Il facilitatore parte riformulando in positivo le eventuali negazioni e parte con una serie di domande come: 
+Dopo aver scritto un obiettivo iniziale lo mettiamo sotto processo. Il facilitatore parte riformulando in positivo le <strong>eventuali negazioni</strong> e parte con una serie di domande come: 
 
-***Quando l'avrai ottenuto, cosa vedrai? cosa ascolterai?Cosa sentirai?***
-
-***Come fai a sapere di averlo ottenuto?***
+### Quando l'avrai ottenuto, cosa vedrai? cosa ascolterai?Cosa sentirai?
+#### Come fai a sapere di averlo ottenuto?
 
 Il primo step serve per creare un modello mentale condiviso, mettendo sul tavolo le aspettative, i dettagli e le implicazioni.
 
