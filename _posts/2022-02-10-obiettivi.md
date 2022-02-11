@@ -50,7 +50,7 @@ _Da chi dipende il raggiungimento di questo obiettivo?_
 
 _Abbiamo tutti gli strumenti necessari o dipendiamo da qualcuno?_
 
-_E’ sotto la nostra responsabilità? Da chi dipende?_
+_&Egrave; sotto la nostra responsabilità? Da chi dipende?_
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_l_001.png" alt="obiettivi" /></figure>
 
@@ -63,7 +63,7 @@ _Quando lo avrai raggiunto cosa succederà a te? Come ti sentirai? cosa succeder
 
 _C'è qualcosa che stiamo perdendo? Gli altri perdono qualcosa?_
 
-_Cosa c'è di importante in quello che perdi?_
+_Cosa c'è di importante in quello che perdi?_ 
 
 <figure style="text-align:center"><img src="/assets/images/post-content/obiettivi-ux/goal_s_003.png" alt="obiettivi" /></figure>
 
