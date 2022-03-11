@@ -19,3 +19,9 @@ author: [ale]
 Sfruttare il paradigma event-driven, tipico di una piattaforma serverless, come le Azure Functions, all'interno di un cluster Kubernetes non è mai stato così semplice grazie a KEDA. Ad oggi non è più necessario scegliere: possiamo ottenere il meglio dai due mondi.
 
 In questa sessione, dopo una breve introduzione teorica dei componenti di base, vedremo, passo passo, come poter sfruttare all'interno di un cluster k8s, trigger e binding tipici di una "function".
+
+<div class="video">
+<div class="responsive-iframe-container-16">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ly5QIf-L72w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
