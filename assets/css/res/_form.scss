@@ -6,13 +6,16 @@ input[type="textarea"]{
     border: 1px solid $main-dark; 
 }
 input[type="submit"],
+a.button, 
 button{
     padding: 0.8em; background: $main-color;
     color: $main-light; text-transform: uppercase;
     border: 0;
     cursor: pointer;
 }
-
+a.button{ display: block; text-decoration: none;
+  &:hover{ background-color: darken($main-color, 10);}
+}
 input[type=checkbox].checkbox-custom + label {
     display: block;
     margin: 0.2em;
