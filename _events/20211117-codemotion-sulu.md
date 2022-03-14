@@ -17,3 +17,6 @@ author: [ale]
 ---
 ## Abstract
 Le piattaforme di cloud computing mettono a disposizione delle nostre applicazioni una riserva di potenza computazionale virtualmente infinita. Per sfruttarla, però, abbiamo a disposizione varie opzioni tecnologiche tutt'altro che equivalenti ed intercambiabili; sbagliare la scelta non ha solo conseguenze sul fronte delle performance e della scalabilità, ma anche su quello del costo che pagheremo mensilmente. Ma noi siamo contrari agli sprechi e, in questo talk, impareremo ad evitarli pur facendo “correre” le nostre applicazioni.
+
+## Video
+Il video dell'intervento è disponibile [qui](https://talks.codemotion.com/velocit-cloud-signor-sulu)

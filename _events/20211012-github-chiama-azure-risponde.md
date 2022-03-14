@@ -18,3 +18,8 @@ author: [ale]
 ## Abstract
 Tutto ha sempre inizio con un commit. E poi, si sa, un commit tira l'altro. Aggiungiamo un paio di GitHub action e un cluster AKS, condiamo con un po' di Helm Chart...et voilà: il nostro sistema di CI/CD è pronto per essere messo alla prova.
 
+<div class="video">
+<div class="responsive-iframe-container-16">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ErcyLcqhbo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>

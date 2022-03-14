@@ -485,6 +485,7 @@ input[type="textarea"] {
   border: 1px solid #000; }
 
 input[type="submit"],
+a.button,
 button {
   padding: 0.8em;
   background: #D93232;
@@ -492,6 +493,12 @@ button {
   text-transform: uppercase;
   border: 0;
   cursor: pointer; }
+
+a.button {
+  display: block;
+  text-decoration: none; }
+  a.button:hover {
+    background-color: #b62222; }
 
 input[type=checkbox].checkbox-custom + label {
   display: block;
@@ -1381,7 +1388,19 @@ pre.highlight {
 section.newsletter {
   background: #f9f9f9;
   padding: 2em 2em;
-  text-align: center; }
+  text-align: center;
+  /*  .mc-field-group.input-group{
+        text-align: left;
+        strong{ text-transform: uppercase; font-size: 12px; letter-spacing: 1px;}
+        ul{
+            li{ list-style-type: none; margin-left: 0;}
+        }
+        margin-bottom: 1.1em;
+    }
+    .privacy-disclaimer{ font-size: 12px; margin-top: 0.8em;
+        @media only screen and (min-width:  480px){ text-align: left;} 
+        @media only screen and (min-width:  992px){ margin-top: -3.8em;}
+    }*/ }
   section.newsletter .label-email {
     display: none; }
   section.newsletter input[type="email"] {
@@ -1389,25 +1408,35 @@ section.newsletter {
     margin-bottom: 0.8em; }
   section.newsletter input[type="submit"] {
     width: 100%; }
-  section.newsletter .mc-field-group.input-group {
+  section.newsletter .content .nl {
+    display: flex;
     text-align: left;
-    margin-bottom: 1.1em; }
-    section.newsletter .mc-field-group.input-group strong {
-      text-transform: uppercase;
-      font-size: 12px;
-      letter-spacing: 1px; }
-    section.newsletter .mc-field-group.input-group ul li {
-      list-style-type: none;
-      margin-left: 0; }
-  section.newsletter .privacy-disclaimer {
-    font-size: 12px;
-    margin-top: 0.8em; }
-    @media only screen and (min-width: 480px) {
-      section.newsletter .privacy-disclaimer {
-        text-align: left; } }
-    @media only screen and (min-width: 992px) {
-      section.newsletter .privacy-disclaimer {
-        margin-top: -3.8em; } }
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em; }
+    section.newsletter .content .nl img {
+      max-width: 100px;
+      height: auto;
+      margin-right: 15px; }
+    section.newsletter .content .nl .description {
+      margin-right: 15px;
+      flex: 1; }
+      section.newsletter .content .nl .description p {
+        font-size: 0.8em; }
+    section.newsletter .content .nl.scrivere-software {
+      border-bottom: 1px solid #ccc; }
+  @media only screen and (min-width: 992px) {
+    section.newsletter .content {
+      display: flex;
+      justify-content: space-between; }
+      section.newsletter .content .nl {
+        width: 48%;
+        padding: 0; }
+        section.newsletter .content .nl img {
+          max-height: 60px;
+          width: auto; }
+        section.newsletter .content .nl.scrivere-software {
+          border-bottom: 0; } }
 
 #mc_embed_signup div {
   /*border: 1px solid red;*/ }
