@@ -1410,7 +1410,8 @@ section.newsletter {
     width: 100%; }
   section.newsletter .content .nl {
     display: flex;
-    text-align: left;
+    flex-direction: column;
+    text-align: center;
     align-items: center;
     justify-content: space-between;
     padding: 1em; }
@@ -1431,7 +1432,9 @@ section.newsletter {
       justify-content: space-between; }
       section.newsletter .content .nl {
         width: 48%;
-        padding: 0; }
+        padding: 0;
+        flex-direction: row;
+        text-align: left; }
         section.newsletter .content .nl img {
           max-height: 60px;
           width: auto; }
