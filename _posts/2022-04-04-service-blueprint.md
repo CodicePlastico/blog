@@ -12,18 +12,18 @@ author: [andrea]
 ---
 
 <div class="post-intro">
-Qual è l'itinerario del nostro viaggio? Ovvero, perché mappare quello che c'è permette di avventurarsi preparati nell'ignoto.
+Qual è l'itinerario del nostro viaggio? Ovvero: perché mappare quello che c'è permette di avventurarsi preparati nell'ignoto.
 </div>
 
 <figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_l_001.png" alt="obiettivi" /></figure>
 
 # Partire dall'arrivo
 
-Dopo avere definito gli **obiettivi** (di cosa sto parlando? Ma dell'[articolo](https://blog.codiceplastico.com/cosa-chi-c-entra-l-obiettivo) della Mery!) è importante capire come raggiungerli.
+Dopo avere definito gli **obiettivi** (Nel caso ve lo steste chiedendo, sto parlando dell'[articolo](https://blog.codiceplastico.com/cosa-chi-c-entra-l-obiettivo) di Mariachiara!) è importante capire come raggiungerli.
 
-Prendiamo un cliente che aveva, come *obiettivo principale*, che il proprio servizio diventasse un canale unico di comunicazione tra vari utenti con ruoli diversi e che la documentazione relativa fosse digitalizzata, controllata e sempre disponibile.
+Prendiamo un cliente che ha definito, come *obiettivo principale*, che il proprio servizio diventi un canale unico di comunicazione tra vari utenti con ruoli diversi e che la documentazione relativa sia digitalizzata, controllata, approvata e sempre disponibile.
 
-In questo caso si trattava di un servizio già in uso: abbiamo proposto quindi un **workshop** nel quale - come prima fase - avremmo mappato, analizzato e verificato il flusso attuale.
+In questo caso si tratta di un servizio già in uso: abbiamo proposto quindi un **workshop** nel quale - come prima fase - abbiamo mappato, analizzato e verificato il flusso attuale.
 <br>
 <br>
 <br>
@@ -33,7 +33,7 @@ In questo caso si trattava di un servizio già in uso: abbiamo proposto quindi u
 
 <figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_001.png" alt="obiettivi" /></figure>
 
-<cite>*Pensate a un capo spedizione che ha già un percorso definito per le proprie avventure ma che vorrebbe migliorarlo, come può farlo?*</cite>
+<cite>*Pensate a un capo spedizione che ha già un itinerario definito per il proprio percorso avventuroso ma che vorrebbe migliorarlo, come può farlo?*</cite>
 
 Sono presenti vari strumenti a seconda dell'obiettivo e del dettaglio che vogliamo raggiungere, la forbice è ampia: possiamo concentrarci su un *singolo utente* e su un *singolo scenario* (es.: l'aggiunta di un articolo al carrello di un ecommerce) oppure intersecare i *percorsi completi* di tutti gli utenti che dovrebbero usare il nostro servizio (es: la registrazione a un evento fino alla partecipazione).
 <br>
