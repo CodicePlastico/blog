@@ -2,7 +2,7 @@
 layout: post
 current: post
 cover: 'assets/images/post-cover/2022-service-blueprint.jpg'
-socialcover: 'assets/images/post-cover/2022-serviceblueprint-s.jpg'
+socialcover: 'assets/images/post-cover/2022-service-blueprint-s.jpg'
 slug: mappare-il-flusso-di-un-servizio-service-blueprint
 title: "Il viaggio dell'utente"
 date: 2022-04-4 09:00:00
