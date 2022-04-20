@@ -15,7 +15,7 @@ author: [andrea]
 Qual è l'itinerario del nostro viaggio? Ovvero: perché mappare quello che c'è permette di avventurarsi preparati nell'ignoto.
 </div>
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_l_001.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_l_001.jpg" alt="obiettivi" /></figure>
 
 # Partire dall'arrivo
 
@@ -31,7 +31,7 @@ In questo caso si tratta di un servizio già in uso: abbiamo proposto quindi un 
 
 # Qual è il percorso giusto?
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_001.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_001.jpg" alt="obiettivi" /></figure>
 
 <cite>*Pensate a un capo spedizione che ha già un itinerario definito per il proprio percorso avventuroso ma che vorrebbe migliorarlo, come può farlo?*</cite>
 
@@ -43,7 +43,7 @@ Sono presenti vari strumenti a seconda dell'obiettivo e del dettaglio che voglia
 
 # Service Blueprint
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_002.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_002.jpg" alt="obiettivi" /></figure>
 
 <cite>*La spedizione è formata da più tappe e ogni tappa ha più passaggi, non gestiti solo dagli avventurieri, quindi il capo spedizione ha bisogno di avere una visione d'insieme di tutto il percorso.*</cite>
 
@@ -67,7 +67,7 @@ Si tratta di un diagramma che mostra l'**intero processo del servizio**, elencan
 
 # Chi partecipa al viaggio? 
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_003.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_003.jpg" alt="obiettivi" /></figure>
 
 <cite>*Qualcuno partirà dalla sede principale, qualcun altro salirà sull'aereo o su una nave in una tappa intermedia, qualcuno invece attenderà al capolinea...*</cite>
 
@@ -85,7 +85,7 @@ Queste proto-personas sono basate sugli utenti attuali del servizio ma sono pers
 
 # Si parte!
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_004.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_004.jpg" alt="obiettivi" /></figure>
 
 <cite>*La nostra mappa dovrà contenere ogni itinerario di ogni avventuriero, guida, autista o spedizioniere.*</cite>
 
@@ -103,7 +103,7 @@ In questo modo possiamo capire i **rapporti cross-funzionali** tra utenti e sist
 
 # Come abbiamo svolto questa attività?
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_005.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_005.jpg" alt="obiettivi" /></figure>
 
 Io, Mariachiara e Emanuele abbiamo fatto da moderatori durante il workshop: sono state create le proto-personas nella prima parte della mattinata e, nel resto della giornata è stato esposto il flusso attuale, discusso in ogni singolo passaggio, e successivamente arricchito dagli spunti emersi durante la presentazione.
 
@@ -111,7 +111,7 @@ Fondamentale per noi svolgere queste attività in presenza: anche da remoto è p
 
 Abbiamo **diviso i partecipanti in gruppi** e ogni gruppo ha rappresentato un utente del sistema: a questo punto si sono verificati dibattiti a ogni passaggio.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_006.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_006.jpg" alt="obiettivi" /></figure>
 
 <cite>*A questo punto è chiaro che non c'è quindi un singolo capo ma un consiglio riunito che non dovrà solo osservare la mappa ma viverla, come se fossero gli avventurieri stessi, le guide, gli autisti o gli spedizionieri.*</cite>
 
@@ -119,7 +119,7 @@ Sono emerse considerazioni che hanno stupito gli interlocutori: convinti che alc
 
 <cite>*Uno dei consiglieri è certo che ci sia un ponte in legno che attraversa un fiume, mentre gli esploratori hanno sempre usato una liana per passare da una riva all'altra.*</cite>
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_007.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_007.jpg" alt="obiettivi" /></figure>
 
 L'attività di mappatura che è stata svolta ha portato alla luce varie **criticità** che sono state confermate dagli stakeholder e che abbiamo potuto trasformare insieme in opportunità di miglioramento direttamente durante l'attività di co-design.
 
@@ -133,7 +133,7 @@ Ma non è detto che tutti siano favorevoli al cambiamento...
 
 # Qual è stato l'output?
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_008.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_s_008.jpg" alt="obiettivi" /></figure>
 
 <cite>*Il consiglio sa che ci vorrà tempo prima di ottimizzare tutto ma ora ha una visione d'insieme sulla quale riflettere per poi intervenire*</cite>
 
@@ -145,7 +145,7 @@ Ma non è detto che tutti siano favorevoli al cambiamento...
 
 # Conclusioni
 
-<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_l_002.png" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/service-blueprint/service-blueprint_l_002.jpg" alt="obiettivi" /></figure>
 
 Alla fine della giornata di workshop è stato chiaro per il cliente che il **design** non è solo una serie di schermate ma **è progettazione e analisi**.
 
