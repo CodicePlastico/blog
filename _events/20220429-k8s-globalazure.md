@@ -3,7 +3,7 @@ layout: event
 title: "Global Azure 2022"
 talk-title: "K8s...without K8s: welcome to Azure Container Apps"
 event-date-start: 2022-04-29 11:00:00
-talk-info-track: 'Track 2'
+talk-info-track: ''
 location: Online
 org: Cloudgen
 event-link: https://cloudgen.it/global-azure-2022/
