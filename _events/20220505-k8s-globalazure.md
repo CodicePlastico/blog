@@ -10,7 +10,7 @@ event-link: https://cloudgen.it/global-azure-2022/
 org-link: https://www.cloudgen.it/
 org-twitter: cloudgen_verona
 cover: 'assets/images/events/event_code.png'
-socialcover: 'assets/images/events/20220419-ale.jpg'
+socialcover: 'assets/images/events/20220505-ale.jpg'
 slug: 'ks'
 author: [ale]
 
