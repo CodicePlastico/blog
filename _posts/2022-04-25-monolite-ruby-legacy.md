@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/post-cover/2022-legacy.jpg'
 socialcover: 'assets/images/post-cover/2022-legacy-s.jpg'
 slug: come-rimodernare-app-legacy-monolite-ruby-microservizi
-title: "Dal monolite legacy ai microservizi"
+title: "Spezzare un monolite microservizio dopo microservizio"
 date: 2022-04-25 09:00:00
 category : [tech]
 tags: [legacy, coding, ruby]
