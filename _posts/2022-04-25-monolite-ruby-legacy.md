@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post-cover/2022-.jpg'
-socialcover: 'assets/images/post-cover/2022--s.jpg'
-slug: come-rimodernare-app-legacy-monolite-ruby
-title: "Unpimp my (legacy) App"
+cover: 'assets/images/post-cover/2022-legacy.jpg'
+socialcover: 'assets/images/post-cover/2022-legacy-s.jpg'
+slug: come-rimodernare-app-legacy-monolite-ruby-microservizi
+title: "Dal monolite legacy ai microservizi"
 date: 2022-04-25 09:00:00
 category : [tech]
 tags: [legacy, coding, ruby]
@@ -17,22 +17,24 @@ L’applicazione in questione è un **monolite scritto in Ruby on Rails**, nato 
 
 Il cliente ha bisogno di nuove funzionalità tra cui un’app mobile e nuovi meccanismi di gestione del proprio business e ha chiesto a noi di prenderci in carico l’applicazione e di farla evolvere. Il tutto **senza andare ad impattare sul business esistente**.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/legacy/.jpg" alt="obiettivi" /></figure>
-
 Sfida non facile anche per questioni di **budget** e di **rischio** che non ci hanno permesso di riscrivere da zero tutta l’applicazione. Che fare allora?
 
-### Passo uno: capire il processi
-Il primo step è stato quello di capire cosa voleva il cliente e come funzionavano i loro processi di business. Per questo abbiamo organizzato un primo [workshop](https://blog.codiceplastico.com/progettare-applicazioni-utili-per-i-clienti-pt2) per studiare la situazione attuale e capire quali erano gli **obbiettivi** nel medio e lungo periodo.
+<figure style="text-align:center"><img src="/assets/images/post-content/legacy/legacy_s_001.png" alt="monolite legacy" /></figure>
+
+### Passo uno: capire i processi
+Il primo step è stato quello di capire cosa voleva il cliente e come funzionavano i loro processi di business. Per questo abbiamo organizzato un primo [workshop](https://blog.codiceplastico.com/progettare-applicazioni-utili-per-i-clienti-pt2) per studiare la situazione attuale e capire quali erano gli **obiettivi** nel medio e lungo periodo.
 
 Il workshop ci ha permesso di capire come funzionavano le cose dall’interno: abbiamo individuato almeno quattro applicazioni, all'interno del monolite Rails, che potevano (e **dovevano**) essere separate .
 
 In termini **DDD** si tratta di quattro diversi **Bounded Context** ognuno con le proprie regole, i propri dati e i propri utenti.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/legacy/.jpg" alt="obiettivi" /></figure>
+<figure style="text-align:center"><img src="/assets/images/post-content/legacy/legacy_l_001.png" alt="monolite legacy" /></figure>
 
 ### Passo due: decidere da dove cominciare
 
 Una volta compresa la struttura di questo _mostro a quattro teste_ abbiamo proposto al cliente di partire dallo scenario più semplice. L'idea era quella di creare una nuova App mobile (app, api e database), che gestisse una parte specifica dei processi, in grado di lavorare in **aggiunta all’esistente**, integrandosi in modo trasparente con il resto dell’applicazione Rails che doveva continuare a vivere (almeno per un po’).
+
+<figure style="text-align:center"><img src="/assets/images/post-content/legacy/legacy_s_003.png" alt="monolite legacy" /></figure>
 
 ### Passo tre: sfida accettata, siamo partiti.
 
@@ -42,7 +44,7 @@ Arrivati a 3/4 di progetto, con le idee ormai chiare e l’app a buon punto (ave
 
 L’app mobile generava una serie di **informazioni che dovevano essere passate all’app legacy** e viceversa l’app legacy aveva dei **dati che dovevano in qualche modo finire sull’app mobile**.
 
-Il primo caso (app mobile → legacy) è stato abbastanza semplice, avevamo pieno controllo sulla nostra codebase, quindi ci è bastano mettere su una **coda di RabbitMq un set di eventi** contenenti le informazioni che dovevano essere travasate nell’app legacy e scrivere un terzo servizio che consumava i messaggi, predisponeva i dati nel formato giusto per l’app legacy e li salvava sul database. 
+Il primo caso (app mobile → legacy) è stato abbastanza semplice, avevamo pieno controllo sulla nostra codebase, quindi ci è bastano mettere su una **coda di RabbitMq un set di eventi** contenenti le informazioni che dovevano essere travasate nell’app legacy e scrivere un terzo servizio che consumava i messaggi, predisponeva i dati nel formato giusto per l’app legacy e li salvava sul database.
 
 Il viceversa è stato un po’ più complesso, i due vincoli che ci siamo imposti sono stati:
 
@@ -51,6 +53,8 @@ Il viceversa è stato un po’ più complesso, i due vincoli che ci siamo impost
 - 2) non vogliamo che la nostra applicazione sia influenzata dalle scelte dell’app legacy. Leggendo il codice abbiamo notato degli **errori di modellazione** dovuti quasi certamente alla poca conoscenza del dominio nelle fasi iniziali, riportare questi errori nel nostro contesto ci sarebbe costato caro.
 
 Con questi due vincoli abbiamo iniziato a studiare soluzioni tecniche che ci permettessero di risolvere il problema.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/legacy/legacy_s_002.png" alt="monolite legacy" /></figure>
 
 ### Passo quattro: notifichiamo
 Abbiamo deciso di lavorare a livello di dati scrivendo un servizio che stia in ascolto delle modifiche sul database: Postgres mette a disposizione un meccanismo per notificare eventuali applicazioni collegate tramite il comando NOTIFY ([https://www.postgresql.org/docs/14/sql-notify.html](https://www.postgresql.org/docs/14/sql-notify.html)).
@@ -113,6 +117,8 @@ Questo `GenServer` al suo avvio attiva una connessione con il database in modali
 Gli event handler, oltre al payload contenente il record,  hanno accesso al **database legacy per costruire dei messaggi** completi da inviare poi alla nuova applicazione sotto forma di **messaggi RabbitMQ**.
 
 In questo modo abbiamo gestito lo **scambio di informazioni in modo bidirezionale**, senza dover scendere a compromessi sul design della nuova applicazione mobile e mantenendo una completa compatibilità con il sistema legacy che continua a convivere con il nuovo.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/legacy/legacy_l_002.png" alt="monolite legacy" /></figure>
 
 ### E domani? 
 
