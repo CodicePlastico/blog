@@ -4,7 +4,7 @@ position: Software Developer @ CodicePlastico
 name: Emilio Palmerini
 nick: emilio
 slug: emilio-palmerini
-location: Milano
+location: Cinisello Balsamo
 cite: 
 picture: assets/images/authors/av-emilio-palmerini-codiceplastico.jpg
 single-picture: assets/images/authors/emilio-palmerini-codiceplastico.jpg
