@@ -2,7 +2,7 @@
 short_name: emilio
 position: Software Developer @ CodicePlastico
 name: Emilio Palmerini
-nick: emilio
+nick: Emilio
 slug: emilio-palmerini
 location: Cinisello Balsamo
 cite: 
