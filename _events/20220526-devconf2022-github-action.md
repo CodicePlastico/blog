@@ -6,7 +6,7 @@ event-date-start: 2022-05-26 17:00:00
 talk-info-track: 'Track Advanced'
 location: Online
 org: 'ASPItalia.com'
-event-link:https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx
+event-link: https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx
 org-link: https://www.aspitalia.com
 org-twitter: aspitalia
 cover: 'assets/images/events/event_core.png'
