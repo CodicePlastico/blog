@@ -1,8 +1,8 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post-cover/2022-partner-pledge.jpg'
-socialcover: 'assets/images/post-cover/2022-partner-pledge-s.jpg'
+cover: 'assets/images/post-cover/2022-ai-tool-agents.jpg'
+socialcover: 'assets/images/post-cover/2022-ai-tool-agents-s.jpg'
 slug: etica-intelligenza-artificiale-ai
 title: 'Intelligenze artificiali: strumenti o agenti? Un problema etico.'
 date: 2022-06-01 09:00:00
@@ -13,9 +13,13 @@ author: [emilio]
 
 L’ascesa delle intelligenze artificiali e del *machine learning* ha portato alla luce le profonde discriminazioni che le intelligenze artificiali, se prive di controllo, possono creare o amplificare. Per la prima volta, un sistema etico costruito per valutare le azioni di esseri umani adulti si trova a dover definire e valutare **strumenti tecnologici in grado di prendere decisioni** di alto livello come, per esempio, fare diagnosi, prevenire frodi o concedere prestiti. Finora il risultato è stato quello di perdere il controllo dello sviluppo e dell'applicazione delle intelligenze artificiali rendendo difficile individuare **bias** e discriminazioni.
 
+<figure style="text-align:center"><img src="/assets/images/post-content/ai-tool-agents/ai-tool-agents_l_001.png" alt="intelligenza artificiale e etica" /></figure>
+
 Una possibile soluzione è pensare a questi **problemi etici** durante il design delle AI.
 
 Un’altra opzione, più interessante, è considerare le intelligenze artificiali alla stregua di agenti umani e di sottoporle allo stesso processo di controllo, condivisione e *ownership* delle decisioni che viene applicato in ambienti ad alto rischio etico come, per esempio, la medicina.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/ai-tool-agents/ai-tool-agents_s_001.png" alt="intelligenza artificiale e etica" /></figure>
 
 ## Di cosa parliamo quando parliamo di AI
 
@@ -27,11 +31,15 @@ In questo articolo parleremo in generale di intelligenza artificiale o AI, ma ci
 
 Questa è una differenza abissale sotto il profilo etico e filosofico. Pensate a **Alpha Star**, l’intelligenza artificiale che ha imparato a giocare a StarCraft II (un famoso videogioco di strategia). Alpha Star ha imparato a giocare osservando giocatori umani e poi giocando tornei contro versioni *freezate* ad un certo livello di bravura di se stessa. Nessuno nel team di sviluppo sapeva giocare al livello che l’intelligenza artificiale ha raggiunto. Di chi è il merito delle vittorie di Alpha Star?      
 
+<figure style="text-align:center"><img src="/assets/images/post-content/ai-tool-agents/ai-tool-agents_l_002.png" alt="intelligenza artificiale e etica" /></figure>
+
 ## Le luminose promesse delle Intelligenze Artificiali
 
 Negli ultimi due decenni le intelligenze artificiali sono tornate alla ribalta. Grazie allo sviluppo di nuove tecniche di *machine learning* e al miglioramento di tecniche già esistenti, le intelligenze artificiali sembrano poter promettere e realizzare qualsiasi cosa ben oltre al campo dei videogiochi. Intelligenze artificiali basate su tecniche di machine learning sono state applicate con successo ai più disparati campi: dalla **concessione del credito**, alla **diagnosi medica** passando per la **guida autonoma** di automobili e la **previsione di frodi** e crimini. Le promesse sono sempre le stesse: abbattere i costi, ottimizzare i sistemi, ridurre l’errore umano. 
 
 Sebbene questi sviluppi siano incredibilmente affascinanti non sono privi di un lato problematico. Qualcuno direbbe che hanno...
+
+<figure style="text-align:center"><img src="/assets/images/post-content/ai-tool-agents/ai-tool-agents_s_002.png" alt="intelligenza artificiale e etica" /></figure>
 
 ## ...Un lato oscuro
 
@@ -42,6 +50,8 @@ Si suppone che uno dei fattori di rischio valutati dalla macchina fosse la doppi
 
 Ma come abbiamo detto, i punti di forza principali di queste nuove tecnologie sono **l’autonomia decisionale, la velocità operativa e il (relativamente) basso costo di sviluppo**. Tutti e tre i fattori sono stati pesantemente coinvolti nello scandalo olandese: **per abbattere i costi** e rendere più veloce il sistema burocratico, **l’intelligenza artificiale è stata privata di qualsiasi forma di controllo**, sia in fase di sviluppo che in fase di applicazione. L'intelligenza artificiale olandese ha deciso autonomamente chi escludere dal sistema di supporto economico senza che nessun essere umano si sia preso la briga di controllare. Quello olandese non è un caso isolato.
 
+<figure style="text-align:center"><img src="/assets/images/post-content/ai-tool-agents/ai-tool-agents_s_003.png" alt="intelligenza artificiale e etica" /></figure>
+
 ## Non è un fatto isolato
 
 Questo *trade-off* tra il vantaggio economico derivante dall'ottimizzazione tecnologica e la libertà dal controllo etico e politico è tipico dello sviluppo tecnologico contemporaneo. Basti pensare alle dinamiche attorno alla **privacy dei social network**. Nella storia recente delle intelligenze artificiali, però, gli scandali si sono susseguiti con una certa frequenza. Da quando le intelligenze artificiali sono uscite dal campo della ricerca e hanno trovato una vera e propria applicazione industriale, sono già state protagoniste di svariati casi come quello olandese. Intelligenze artificiali applicate al **campo legale** hanno discriminato minoranze etniche negli Stati Uniti d'America. Reti neurali per il **triage delle terapie** intensive hanno escluso persone solo sulla base dell'appartenenza a determinati quartieri e così via. 
@@ -49,7 +59,9 @@ Questo *trade-off* tra il vantaggio economico derivante dall'ottimizzazione tecn
 Alcuni di questi casi sono attribuibili a bias già presenti nei database di addestramento.
 Altri casi sono imputabili **all'opacità implicita di alcuni modelli di intelligenza artificiale**. Sia per complessità sia per la mancanza di tecniche di controllo (efficaci e *cost-effective*) delle sue logiche interne risulta difficile sapere a priori come si comporterà una AI sul campo. 
 
-Rimane però una domanda: come ha fatto la nostra controversa AI olandese ad agire incontrollata per così tanto tempo? Stranamente, la risposta è filosofica. 
+Rimane però una domanda: come ha fatto la nostra controversa AI olandese ad agire incontrollata per così tanto tempo? Stranamente, la risposta è filosofica.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/ai-tool-agents/ai-tool-agents_l_003.png" alt="intelligenza artificiale e etica" /></figure>
 
 ## Agenti o strumenti? Questo è il dilemma
 
@@ -75,7 +87,9 @@ Chi sostiene somiglianza tra intelligenze artificiali e agenti umani si basa su 
 
 Dotati di questi tre parametri di giudizio fondamentale possiamo ora tornare a una delle domande che ci siamo posti all’inizio. Di chi è il merito delle vittorie di un’intelligenza artificiale? O di chi è la colpa dei suoi errori? 
 
-Se la somiglianza tra un’AI e un agente è così forte da farcele sembrare come **autonome**, **adattabili** e **interattive** in parte il merito e la colpa sono loro... Così come daremmo la colpa al gatto per il vaso rotto. 
+Se la somiglianza tra un’AI e un agente è così forte da farcele sembrare come **autonome**, **adattabili** e **interattive** in parte il merito e la colpa sono loro... Così come daremmo la colpa al gatto per il vaso rotto.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/ai-tool-agents/ai-tool-agents_s_004.png" alt="intelligenza artificiale e etica" /></figure>
 
 ## Soluzioni
 
@@ -89,9 +103,8 @@ In secondo luogo si possono progettare **architetture della scelta in cui le int
 
 Concludendo, per imbrigliare le intelligenze artificiali e i vantaggi economici che possono portare in ambienti delicati, dobbiamo prestare particolare attenzione al design delle intelligenze artificiali stesse e a condividere il loro sviluppo e la loro applicazione con tutte le parti interessate.
 
+<figure style="text-align:center"><img src="/assets/images/post-content/ai-tool-agents/ai-tool-agents_s_005.png" alt="intelligenza artificiale e etica" /></figure>
+
 ## Un’ultima domanda filosofica
 
 L’analisi del livello di autonomia, adattabilità e interattività di un agente dipende molto dal livello di astrazione a cui si compie l’analisi. Immaginiamo un robot umanoide governato da un’intelligenza artificiale programmata “tradizionalmente”. Astraendo da circuiti e codice, il suo comportamento esterno potrebbe essere identico a quello di un essere umano. Considerando tutto l’insieme di circuiti e *if statement “*al suo interno” sarebbe più difficile considerarlo autonomo. Ma non è così anche per un essere umano? Considerando tutte le attivazioni neuronali non sembreremmo anche noi completamente legati all’ambiente e senza una vera autonomia decisionale?
-
-
-<figure style="text-align:center"><img src="/assets/images/post-content/pp_l_001.png" alt="intelligenza artificiale e etica" /></figure>
