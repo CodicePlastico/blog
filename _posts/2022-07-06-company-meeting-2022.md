@@ -86,9 +86,6 @@ Ed è proprio qui che ho potuto assistere ad un altro fenomeno incredibile: da f
 
 La strada di ritorno è stata forse più impegnativa dell’andata e, tornati in hotel, avevo completamente perso il senso del tempo pensando fosse già sera (siamo tornati verso le 15). Dopo un po’ di meritatissimo relax - chi in sauna e in idromassaggio, chi a ping pong e biliardo -  abbiamo cenato e ripetuto la serata D&D.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2022/company-meeting_s_004.png" alt="Company Meeting 2022" />
-</figure>
-
 Nuova avventura e nuovo dungeon master (così si chiama il narratore che guida i giocatori): una landa di ghiaccio perennemente in penombra, branchi di lupi affamati e una comunità di animali antropomorfi con una spiccata comicità. Tutto accompagnato da una morbida grappa trentina. Come immaginare qualcosa di meglio?! 
 
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2022/company-meeting_dice.jpg" alt="Company Meeting 2022" />
