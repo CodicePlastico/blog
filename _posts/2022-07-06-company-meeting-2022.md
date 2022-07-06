@@ -41,7 +41,7 @@ Nonostante il giro d’Italia abbia provato a ostacolare il nostro arrivo (passa
 
 I talk interni sono un grande classico di CodicePlastico: si propongono dei temi (tecnici e non), si votano i titoli per realizzare una “mini-conf” tra colleghi. In questo modo ci scambiamo conoscenza e facciamo esperienza con il public speaking.
 
-Ho trovato estremamente interessante l'intervento sui problemi psicologici del remote working e su cosa fare per tutelare la salute mentale dei lavoratori (quasi quanto quello sull'utilizzo delle pialle da legno!)
+Ho trovato estremamente interessante l'intervento sui [problemi psicologici del remote working](https://blog.codiceplastico.com/psychological-safety) e su cosa fare per tutelare la salute mentale dei lavoratori (quasi quanto quello sull'utilizzo delle pialle da legno!)
 
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2022/company-meeting_s_001.png" alt="Company Meeting 2022" />
 </figure>
@@ -57,7 +57,7 @@ Mi sono messo in prima linea e ho provato a fare il "project manager". L’entus
 
 ## Giorno 2 - unicorni, structured innovation e D&D
 
-Il secondo giorno inizia con una passeggiata tonificante, seguita dalla colazione, e da altri due talk: il primo su unicorni parlanti e sulla gestione dei compiti scolastici estivi e l’altro sull'importanza di comunicare e ricevere feedback e le modalità più indicate per farlo.
+Il secondo giorno inizia con una passeggiata tonificante, seguita dalla colazione, e da altri due talk: il primo su unicorni parlanti e sulla gestione dei compiti scolastici estivi e l’altro sull'importanza di [comunicare e ricevere feedback e le modalità più indicate per farlo](https://blog.codiceplastico.com/feedback-o-giudizio-la-differenza).
 Cosa ho imparato? Che il feedback è un strumento tanto utile quanto delicato, ed è fondamentale capire come fare in modo che sia un'esperienza costruttiva sia per chi lo dà che per chi lo riceve (ma ho imparato anche che gli unicorni esistono davvero e sono degli ottimi compagni di avventura)
 
 Il resto della giornata è stato dedicato alla **structured innovation**: una forma di innovazione con spinta “dal basso”. Ognuno di noi ha potuto evidenziare le aree di potenziale miglioramento per l'azienda e, le proposte più votate, sono state discusse e trasformate in progetti concreti.
@@ -113,4 +113,6 @@ Ho capito che anche lavorando a distanza si possono creare legami solidi e genui
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2022/company-meeting_team.jpg" alt="Company Meeting 2022" />
     <figcaption>Il team di CodicePlastico.</figcaption>
 </figure>
+
+*Si ringrazia [Jacek](https://blog.codiceplastico.com/authors/jacek) per le fotografie.*
 
