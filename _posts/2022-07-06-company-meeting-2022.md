@@ -37,9 +37,7 @@ Il viaggio di andata, in bus, è stato un po’ come tornare al liceo: chi stava
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2022/company-meeting_s_002.png" alt="Company Meeting 2022" />
 </figure>
 
-Nonostante il giro d’Italia abbia provato a ostacolare il nostro arrivo (passava proprio da Dimaro, proprio quando saremmo dovuti arrivare), riusciamo a raggiungere l’hotel subito dopo pranzo. Giusto il tempo per sistemare le valigie, lavarci e iniziamo con i primi talk interni.
-
-I talk interni sono un grande classico di CodicePlastico: si propongono dei temi (tecnici e non), si votano i titoli per realizzare una “mini-conf” tra colleghi. In questo modo ci scambiamo conoscenza e facciamo esperienza con il public speaking.
+Nonostante il giro d’Italia abbia provato a ostacolare il nostro arrivo (passava proprio da Dimaro, proprio quando saremmo dovuti arrivare), riusciamo a raggiungere l’hotel subito dopo pranzo. Giusto il tempo per sistemare le valigie, lavarci e iniziamo con i primi talk interni, un grande classico di CodicePlastico: si propongono dei temi (tecnici e non), si votano i titoli per realizzare una “mini-conf” tra colleghi. In questo modo ci scambiamo conoscenza e facciamo esperienza con il public speaking.
 
 Ho trovato estremamente interessante l'intervento sui [problemi psicologici del remote working](https://blog.codiceplastico.com/psychological-safety) e su cosa fare per tutelare la salute mentale dei lavoratori (quasi quanto quello sull'utilizzo delle pialle da legno!)
 
