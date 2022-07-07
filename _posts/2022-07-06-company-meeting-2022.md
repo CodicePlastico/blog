@@ -44,12 +44,12 @@ Ho trovato estremamente interessante l'intervento sui [problemi psicologici del 
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2022/company-meeting_s_001.png" alt="Company Meeting 2022" />
 </figure>
 
-La giornata si é conclusa con LegoPM: un gioco-formativo basato sulla costruzione di oggetti coi lego, utilizzato per dimostrare i benefici del lavoro agile.
+La giornata si é conclusa con LegoPO: un gioco-formativo basato sulla costruzione di oggetti coi lego, utilizzato per dimostrare i benefici del lavoro agile.
 Il gioco è stato molto difficile ma stimolante perché rispecchiava con molta fedeltà diversi meccanismi che si creano in un processo di sviluppo di questo genere.
 Mi sono messo in prima linea e ho provato a fare il "project manager". L’entusiasmo mi ha trascinato sin da subito ed ho potuto toccare con mano le innumerevoli difficoltà che questo ruolo comporta.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2022/company-meeting_lego.jpg" alt="Company Meeting 2022" />
-    <figcaption>LegoPM in azione.</figcaption>
+    <figcaption>LegoPO in azione.</figcaption>
 </figure>
 
 
