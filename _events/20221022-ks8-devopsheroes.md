@@ -10,7 +10,7 @@ event-link: https://1nn0vasat2022.1nn0va.it/index.html
 org-link: https://www.eventbrite.it/o/1nn0va-14698832592
 org-twitter: 'DevOpsHeroes'
 cover: 'assets/images/events/event_design.png'
-socialcover: '20221022.jpg'
+socialcover: 'assets/images/events/20221022.jpg'
 slug: 'ks8-devopsheroes-22'
 author: [ale]
 
