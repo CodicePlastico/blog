@@ -2,7 +2,7 @@
 layout: event
 title: "WPC22"
 talk-title: "Architetture a Microservizi con Azure Container Apps"
-event-date-start: 20221017
+event-date-start: 2022-10-17 00:00:00
 talk-info-track: ''
 location: Milano
 org: OverNetEducation
