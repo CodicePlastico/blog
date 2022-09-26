@@ -26,4 +26,4 @@ Da sviluppatore, ti è mai capitato di rilasciare nuove features e, appena termi
 </div>
 </div>
 
-<p><a href="https://github.com/GianniBortoloBossini/azureday2022-microsoft-feature-management">Il <strong>Repo</strong> è disponibile qui: https://github.com/GianniBortoloBossini/azureday2022-microsoft-feature-management</a></p><iframe width="560" 
+<p><a href="https://github.com/GianniBortoloBossini/azureday2022-microsoft-feature-management">Il <strong>Repo</strong> è disponibile qui: https://github.com/GianniBortoloBossini/azureday2022-microsoft-feature-management</a></p>
