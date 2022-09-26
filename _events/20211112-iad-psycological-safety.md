@@ -17,3 +17,9 @@ author: [gianni]
 ---
 ## Abstract
 L'Agile è ovunque, i post che celebrano il conseguimento di una certificazione anche e tutti usano Scrum. Ma poi scopri che i team non fanno retrospettive, che tra colleghi non si parla e che il fallimento... beh... non è visto di buon occhio dal capo. Per essere realmente agili ai team serve quel pizzico di magia che rende tutto più... Agile!
+
+<div class="video">
+<div class="responsive-iframe-container-16">
+<iframe class="responsive-iframe" src="https://vimeo.com/675962294" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
