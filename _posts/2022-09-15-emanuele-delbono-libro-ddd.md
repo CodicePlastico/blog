@@ -12,7 +12,7 @@ author: [ema]
 
 
 ---
-Un paio di mesi fa è stato pubblicato su Leanpub un [libro](https://leanpub.com/cronache-di-domain-driven-design) in italiano che raccoglie *storie di vita vissuta* intorno al tema del _Domain Driven Design_. Il libro, di cui insieme ad altri amici e colleghi sono autore, è nato da un’idea del team di [Avascoperta](https://www.avanscoperta.it/it/) che circa un’anno fa ha chiamato a raccolta tutti i teacher dei loro corsi proponendo di scrivere un capitolo per il libro. L’idea era di creare un una raccolta di storie, esperienze, aneddoti in qualche modo legati al Domain Driven Design. 
+Un paio di mesi fa è stato pubblicato su Leanpub un [libro](https://leanpub.com/cronache-di-domain-driven-design) in italiano che raccoglie *storie di vita vissuta* intorno al tema del _Domain Driven Design_. Il libro, di cui insieme ad altri amici e colleghi sono autore, è nato da un’idea del team di [Avascoperta](https://www.avanscoperta.it/it/) che circa un anno fa ha chiamato a raccolta tutti i teacher dei loro corsi proponendo di scrivere un capitolo per il libro. L’idea era di creare un una raccolta di storie, esperienze, aneddoti in qualche modo legati al Domain Driven Design. 
 
 Dopo un’anno di call, bozze, revisioni, pull request il libro è stato terminato ed è possibile acquistarlo dalla piattaforma Leanpub.
 
