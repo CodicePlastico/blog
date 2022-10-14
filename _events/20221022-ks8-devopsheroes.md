@@ -6,8 +6,8 @@ event-date-start: 2022-10-22 10:50:00
 talk-info-track: 
 location: 'Viale G.P. Usberti - Parco Area delle Scienze, 181/a 43100 Parma'
 org: 'DevOpsHeroes'
-event-link: https://1nn0vasat2022.1nn0va.it/index.html
-org-link: https://www.eventbrite.it/o/1nn0va-14698832592
+event-link: https://www.eventbrite.co.uk/e/devopsheroes-parma-2022-tickets-324923122807
+org-link: https://devopsheroes-2022.sessionize.com/
 org-twitter: 'DevOpsHeroes'
 cover: 'assets/images/events/event_design.png'
 socialcover: 'assets/images/events/20221022.jpg'
