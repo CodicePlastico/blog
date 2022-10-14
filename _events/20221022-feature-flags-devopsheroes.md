@@ -11,8 +11,8 @@ org-link: https://devopsheroes-2022.sessionize.com/
 org-twitter: 'DevOpsHeroes'
 cover: 'assets/images/events/event_cluster.png'
 socialcover: 'assets/images/events/20221022.jpg'
-slug: 'ks8-devopsheroes-22'
-author: [ale]
+slug: 'FF-devopsheroes-22'
+author: [gianni]
 
 ---
 ## Abstract
