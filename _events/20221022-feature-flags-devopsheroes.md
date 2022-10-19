@@ -10,7 +10,7 @@ event-link: https://www.eventbrite.co.uk/e/devopsheroes-parma-2022-tickets-32492
 org-link: https://devopsheroes-2022.sessionize.com/
 org-twitter: 'DevOpsHeroes'
 cover: 'assets/images/events/event_cluster.png'
-socialcover: 'assets/images/events/20221022.jpg'
+socialcover: 'assets/images/events/20221022-gianni.jpg'
 slug: 'FF-devopsheroes-22'
 author: [gianni]
 
