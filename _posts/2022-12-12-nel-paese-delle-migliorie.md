@@ -16,8 +16,8 @@ Se ci pensiamo, ci vengono in mente almeno un paio di ideuzze per apportare dei 
 </div>
 
 <figure style="text-align:center"><img src="/assets/images/post-content/migliorie/migliorie_l_002.png" alt="migliorie" /></figure>
-
-## Giù nella tana del coniglio
+ 
+## Giù nella tana del coniglio!
 È davvero un peccato rinunciare ai propri propositi di miglioramento. Ci teniamo molto, è vero, ma abbiamo quella sensazione che anche stavolta sarebbe solo una perdita di tempo.
 
 Bisogna anche considerare che restare immobili presenta dei rischi: un giorno saremo comunque costretti a smuoverci a causa di **spinte esterne che non possiamo controllare** e, a quel punto, dovremo farlo controvoglia, in modalità panico e senza possibilità di rifiatare.
