@@ -3,14 +3,14 @@ layout: event
 title: "UGIdotNET DevOps Time"
 talk-title: "Feature flags con Microsoft Feature Management"
 event-date-start: 2023-01-17 17:00:00
-talk-info-track: 
+talk-info-track: ''
 location: 'Online'
 org: 'UGIdotNET'
 event-link: https://www.ugidotnet.org/tv/episodio/3102/DevOps-Time/Feature-flags-con-Microsoft-Feature-Management
 org-link: https://www.ugidotnet.org
 org-twitter: ugidotnet
-cover: 'assets/images/events/event_cluster.png'
-socialcover: 'assets/images/events/20221022-gianni.jpg'
+cover: 'assets/images/events/event_space.png'
+socialcover: 'assets/images/events/event_space.png'
 slug: 'FF-devopstime-ugi'
 author: [gianni]
 
