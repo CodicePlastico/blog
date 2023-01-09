@@ -4,7 +4,7 @@ title: ".NET Conf 2022 1nn0va"
 talk-title: "Proteggiamo le nostre applicazioni con il rate limiting"
 event-date-start: 2023-01-28 13:55:00
 talk-info-track: 'Aula S8'
-location: 'Online'
+location: 'Consorzio Universitario di Pordenone, Via Prasecco 3/A, Pordenone'
 org: '1nn0va'
 event-link: https://netconf2022.1nn0va.it/
 org-link: https://www.eventbrite.it/o/1nn0va-14698832592
