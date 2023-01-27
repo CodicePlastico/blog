@@ -4,7 +4,7 @@ position: Software Developer @ CodicePlastico
 name: Daniele Ferrari
 nick: Daniele F
 slug: daniele-ferrari
-location: Milano
+location: Bologna
 cite: 
 picture: assets/images/authors/av-daniele-ferrari-codiceplastico.png
 single-picture: assets/images/authors/daniele-ferrari-codiceplastico.png
