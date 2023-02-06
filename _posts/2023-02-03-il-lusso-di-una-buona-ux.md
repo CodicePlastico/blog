@@ -6,11 +6,11 @@ socialcover: 'assets/images/post-cover/2023-02-il-lusso-di-una-buona-ux-s.jpg'
 slug: il lusso di una buona ux
 title: 'Il lusso di una buona UX'
 date: 2023-02-03 18:00:00
-category : people-at-work
+category :  [design]
 tags: [design, ux]
 author: team
 ---
-<div class="post-intro">Oggi parliamo di UX e buone pratiche di usabilità, dando il benvenuto a Isabella</a> (e al suo primo articolo!), nuovo arrivo del Team di CodicePlastico.
+<div class="post-intro">Oggi parliamo di UX e buone pratiche di usabilità, dando il benvenuto a <a href="#">Isabella</a> (e al suo primo articolo!), nuovo arrivo del Team di CodicePlastico.
 <strong>Per rimanere aggiornati sui nostri articoli e su molto altro, la newsletter di CodicePlastico vi aspetta: <a href="http://eepurl.com/g3FY2T" target="_blank">potete iscrivervi qui</a>!</strong>
 </div>
 
@@ -20,7 +20,7 @@ Come ogni evento impattante nell’esistenza di un essere umano, il Covid ha avu
 
 Ti starai chiedendo cosa significhi questa frase. Personalmente, da dopo la pandemia, divido la mia vita da “prima del Covid” a “dopo il Covid”, tant’è che tendo a dimenticare tutto ciò che c’è stato in mezzo. 
 
-<i>Non dire stupidaggini, lo pensi solo tu questo.</i>
+<cite>Non dire stupidaggini, lo pensi solo tu questo.</cite>
 
 Probabile. 
 Eppure, questa sensazione di sbalzo temporale in avanti si percepisce anche in riferimento alle esperienze digitali che viviamo ogni giorno. 
@@ -39,7 +39,7 @@ E’ una base minima di requisiti che un’azienda, un brand, o chiunque voglia 
 
 ## Il cambio di target
 
-<i>Ma il mio target non è interessato a vivere esperienze digitali, come le chiami tu. Non usa nemmeno internet.</i>
+<cite>Ma il mio target non è interessato a vivere esperienze digitali, come le chiami tu. Non usa nemmeno internet.</cite>
 
 Eppure, con il lockdown del 2020, la quota di tempo dedicato al digitale è aumentato in media dell’11% rispetto al pre-pandemia. Il tempo passato online dai Baby Boomers è aumentato del 16%, con particolare attenzione alla GDO, alla PA online e al settore Non Profit (Fonte: [GFK, 2020](https://www.gfk.com/it/stampa/covid-19-come-le-diverse-generazioni-stanno-cambiando-lapproccio-al-digitale)).
 La digitalizzazione, quindi, è un tema fondamentale che interessa tutti e **non basta** fare il minimo indispensabile per rendere un sito, un’applicazione o una piattaforma usabile. L’esperienza deve stare al passo con le aspettative degli utenti. Non viceversa.
