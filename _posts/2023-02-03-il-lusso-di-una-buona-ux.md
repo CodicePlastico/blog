@@ -10,7 +10,7 @@ category : ux
 tags: [ux, design]
 author: [isa]
 ---
-<div class="post-intro">Oggi parliamo di UX e buone pratiche di usabilità, dando il benvenuto a <a href="">Isabella</a> (e al suo primo articolo!), nuovo arrivo del Team di CodicePlastico.
+<div class="post-intro">Oggi parliamo di UX e buone pratiche di usabilità, dando il benvenuto a <a href="https://blog.codiceplastico.com/authors/isabella-bonora">Isabella</a> (e al suo primo articolo!), nuovo arrivo del Team di CodicePlastico.
 <strong>Per rimanere aggiornati sui nostri articoli e su molto altro, la newsletter di CodicePlastico vi aspetta: <a href="http://eepurl.com/g3FY2T" target="_blank">potete iscrivervi qui</a>!</strong>
 </div>
 
