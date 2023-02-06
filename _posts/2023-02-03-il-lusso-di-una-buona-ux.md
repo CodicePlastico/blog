@@ -14,6 +14,7 @@ author: [isa]
 <strong>Per rimanere aggiornati sui nostri articoli e su molto altro, la newsletter di CodicePlastico vi aspetta: <a href="http://eepurl.com/g3FY2T" target="_blank">potete iscrivervi qui</a>!</strong>
 </div>
 
+
 <figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/sbalzo-temporale.png" alt="lusso-ux" /></figure>
 
 ## Uno sbalzo temporale
@@ -39,6 +40,7 @@ Una buona UX non è più un lusso, è uno **standard**.
 
 E’ una base minima di requisiti che un’azienda, un brand, o chiunque voglia offrire un servizio o vendere prodotti, dovrebbe rispettare.
 
+
 ## Il cambio di target
 
 <cite>Ma il mio target non è interessato a vivere esperienze digitali, come le chiami tu. Non usa nemmeno internet.</cite>
@@ -54,7 +56,11 @@ Forse sembra un dettaglio irrilevante, ma immagina un semaforo che, al contrario
 Una buona UX non è più un lusso, appunto. 
 Se sono abituato ad associare il verde con la conferma e il rosso con l’errore, nel momento in cui vedo il rosso penso di aver scritto l’email sbagliata. Per risolvere il problema è necessario associare i colori con quelle che sono le aspettative degli utenti.
 
+
+<figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/label.png" alt="lusso-ux" /></figure>
+
 ## E se non bastasse il colore?
+
 Prova a metterti nei panni di una persona con disturbi della vista, che fatica a riconoscere i colori. Se l’unica caratteristica che cambia nel testo email è il colore, sarà molto difficile per te capire come procedere per effettuare la ricarica telefonica. Allo stesso modo, sarà molto difficile capire se puoi passare nel caso in cui il semaforo abbia i colori corretti, ma l’ordine sbagliato (ad esempio Verde-Rosso-Giallo invece di Rosso-Giallo-Verde).
 Un solo cambiamento non basta per comunicare un messaggio o un’informazione: è necessario che ci siano più cambiamenti negli elementi che rendano facilmente riconoscibile ciò che si vuole comunicare.
 Nel caso del testo email, oltre al colore verde se l’email è stata confermata, potrebbe essere utile accostare un simbolo riconoscibile o un messaggio esplicito di conferma. 
@@ -70,7 +76,6 @@ E’ fondamentale che l’esperienza utente sia chiara e semplice e che vengano 
 *   **L’altro lato della medaglia** → I dark pattern.
 I dark pattern sono interfacce utente progettate con l’intento di indurre gli utenti a compiere alcune azioni fraudolentemente. Un esempio è il caso in cui l’interfaccia spinga l’utente a prendere delle scelte, ponendo l’attenzione su determinati contenuti per non farne notare altri. Se vuoi creare un’esperienza positiva per il tuo utente e apparire affidabile ai suoi occhi, non usare scorciatoie dark, non fai una bella figura.
 
-<figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/label.png" alt="lusso-ux" /></figure>
 
 ## Anche i software generano emozioni
 
@@ -83,6 +88,7 @@ Questo perché gli utenti del tuo software, anche se sono i tuoi dipendenti, che
 
 Giusto per chiarire, se il tuo approccio è “spieghiamo all'utente come funziona questa cosa all’infinito, prima o poi capirà”, forse c’è qualcosa che non va.
 
+
 <figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/rules.png" alt="lusso-ux" /></figure>
 
 ## Perché investire nell’esperienza utente?
@@ -93,6 +99,7 @@ Se utilizzi strumenti piacevoli e funzionali, in grado di facilitare il lavoro, 
 Strano a dirsi, ma una buona esperienza utente dovrebbe consentire all’utente di pensare meno, o addirittura fare la scelta giusta, riducendo così il rischio di commettere errori. Inoltre, è importante conoscere i **pattern comportamentali** che oggi tutti adottano nell’utilizzo di prodotti digitali. Gesti comuni e quotidiani come lo scroll verso il basso per caricare nuovi elementi di una lista  o lo zoom con due dita consentono all’utente di capire immediatamente come funziona un’interfaccia, proprio perché corrispondono ad azioni che già conosce. In questo modo, sarà possibile ridurre eventuali costi di assistenza e formazione necessari per l’azienda. 
 Ultimo aspetto, non meno importante, è identificare tutte quelle operazioni che l’utente compie in maniera ripetitiva durante la giornata: operazioni che si prestano ad essere automatizzate, anche grazie all’aiuto dell’intelligenza artificiale. Insomma, se una buona interfaccia può aiutare l’utente a prendere decisioni, un buon software può arrivare a prendere decisioni per l’utente.
 Un utilizzo **intelligente** del software può anche permettere di superare momenti di emergenza, segnalando errori e suggerendo le azioni da compiere per risolvere il problema, oltre a monitorare il software e valutare le performance, al fine di individuare possibili ottimizzazioni dei flussi informazione e dell’operatività.
+
 
 ### Conclusione
 
