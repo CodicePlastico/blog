@@ -1,16 +1,16 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post-cover/2023-02-il-lusso-di-una-buona-ux.jpg'
-socialcover: 'assets/images/post-cover/2023-02-il-lusso-di-una-buona-ux-s.jpg'
+cover: 'assets/images/post-cover/20200715-colore-team.jpg'
+socialcover: 'assets/images/post-cover/20200715-colore-team-s.jpg'
 slug: il lusso di una buona ux
 title: 'Il lusso di una buona UX'
 date: 2023-02-03 18:00:00
-category :  [design]
-tags: [design, ux]
-author: [isa]
+category : ux
+tags: [ux, design]
+author: isabella
 ---
-<div class="post-intro">Oggi parliamo di UX e buone pratiche di usabilità, dando il benvenuto a <a href="#">Isabella</a> (e al suo primo articolo!), nuovo arrivo del Team di CodicePlastico.
+<div class="post-intro">Oggi parliamo di UX e buone pratiche di usabilità, dando il benvenuto a Isabella</a> (e al suo primo articolo!), nuovo arrivo del Team di CodicePlastico.
 <strong>Per rimanere aggiornati sui nostri articoli e su molto altro, la newsletter di CodicePlastico vi aspetta: <a href="http://eepurl.com/g3FY2T" target="_blank">potete iscrivervi qui</a>!</strong>
 </div>
 
