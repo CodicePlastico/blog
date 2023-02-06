@@ -41,6 +41,7 @@ Una buona UX non è più un lusso, è uno **standard**.
 E’ una base minima di requisiti che un’azienda, un brand, o chiunque voglia offrire un servizio o vendere prodotti, dovrebbe rispettare.
 
 
+
 ## Il cambio di target
 
 <cite>Ma il mio target non è interessato a vivere esperienze digitali, come le chiami tu. Non usa nemmeno internet.</cite>
@@ -77,6 +78,7 @@ E’ fondamentale che l’esperienza utente sia chiara e semplice e che vengano 
 I dark pattern sono interfacce utente progettate con l’intento di indurre gli utenti a compiere alcune azioni fraudolentemente. Un esempio è il caso in cui l’interfaccia spinga l’utente a prendere delle scelte, ponendo l’attenzione su determinati contenuti per non farne notare altri. Se vuoi creare un’esperienza positiva per il tuo utente e apparire affidabile ai suoi occhi, non usare scorciatoie dark, non fai una bella figura.
 
 
+
 ## Anche i software generano emozioni
 
 Casi particolari in cui la UX viene portata in secondo piano, sono rappresentati dalle **applicazioni backoffice**, spesso non correlate a sforzi di vendita ai clienti e, quindi, non focalizzate sull’esperienza che l’utente vive durante l’utilizzo. In questi casi, lo studio del design viene considerato un costo aggiuntivo, non essendo legato ad un ritorno monetario diretto, e, di conseguenza, lasciato in secondo piano.
@@ -99,6 +101,7 @@ Se utilizzi strumenti piacevoli e funzionali, in grado di facilitare il lavoro, 
 Strano a dirsi, ma una buona esperienza utente dovrebbe consentire all’utente di pensare meno, o addirittura fare la scelta giusta, riducendo così il rischio di commettere errori. Inoltre, è importante conoscere i **pattern comportamentali** che oggi tutti adottano nell’utilizzo di prodotti digitali. Gesti comuni e quotidiani come lo scroll verso il basso per caricare nuovi elementi di una lista  o lo zoom con due dita consentono all’utente di capire immediatamente come funziona un’interfaccia, proprio perché corrispondono ad azioni che già conosce. In questo modo, sarà possibile ridurre eventuali costi di assistenza e formazione necessari per l’azienda. 
 Ultimo aspetto, non meno importante, è identificare tutte quelle operazioni che l’utente compie in maniera ripetitiva durante la giornata: operazioni che si prestano ad essere automatizzate, anche grazie all’aiuto dell’intelligenza artificiale. Insomma, se una buona interfaccia può aiutare l’utente a prendere decisioni, un buon software può arrivare a prendere decisioni per l’utente.
 Un utilizzo **intelligente** del software può anche permettere di superare momenti di emergenza, segnalando errori e suggerendo le azioni da compiere per risolvere il problema, oltre a monitorare il software e valutare le performance, al fine di individuare possibili ottimizzazioni dei flussi informazione e dell’operatività.
+
 
 
 ### Conclusione
