@@ -1,18 +1,20 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post-cover/20200715-colore-team.jpg'
-socialcover: 'assets/images/post-cover/20200715-colore-team-s.jpg'
-slug: il lusso di una buona ux
+cover: 'assets/images/post-cover/2023-02-il-lusso-di-una-buona-ux.jpg'
+socialcover: 'assets/images/post-cover/2023-02-il-lusso-di-una-buona-ux-s.jpg'
+slug: il-lusso-di-una-buona-ux
 title: 'Il lusso di una buona UX'
 date: 2023-02-03 18:00:00
 category : ux
 tags: [ux, design]
-author: isabella
+author: [isa]
 ---
-<div class="post-intro">Oggi parliamo di UX e buone pratiche di usabilità, dando il benvenuto a Isabella</a> (e al suo primo articolo!), nuovo arrivo del Team di CodicePlastico.
+<div class="post-intro">Oggi parliamo di UX e buone pratiche di usabilità, dando il benvenuto a <a href="https://blog.codiceplastico.com/authors/isabella-bonora">Isabella</a> (e al suo primo articolo!), nuovo arrivo del Team di CodicePlastico.
 <strong>Per rimanere aggiornati sui nostri articoli e su molto altro, la newsletter di CodicePlastico vi aspetta: <a href="http://eepurl.com/g3FY2T" target="_blank">potete iscrivervi qui</a>!</strong>
 </div>
+
+<figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/sbalzo-temporale.png" alt="lusso-ux" /></figure>
 
 ## Uno sbalzo temporale
 
@@ -68,6 +70,8 @@ E’ fondamentale che l’esperienza utente sia chiara e semplice e che vengano 
 *   **L’altro lato della medaglia** → I dark pattern.
 I dark pattern sono interfacce utente progettate con l’intento di indurre gli utenti a compiere alcune azioni fraudolentemente. Un esempio è il caso in cui l’interfaccia spinga l’utente a prendere delle scelte, ponendo l’attenzione su determinati contenuti per non farne notare altri. Se vuoi creare un’esperienza positiva per il tuo utente e apparire affidabile ai suoi occhi, non usare scorciatoie dark, non fai una bella figura.
 
+<figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/label.png" alt="lusso-ux" /></figure>
+
 ## Anche i software generano emozioni
 
 Casi particolari in cui la UX viene portata in secondo piano, sono rappresentati dalle **applicazioni backoffice**, spesso non correlate a sforzi di vendita ai clienti e, quindi, non focalizzate sull’esperienza che l’utente vive durante l’utilizzo. In questi casi, lo studio del design viene considerato un costo aggiuntivo, non essendo legato ad un ritorno monetario diretto, e, di conseguenza, lasciato in secondo piano.
@@ -78,6 +82,8 @@ Eppure, quando un utente utilizza un software, la persona vive un’esperienza, 
 Questo perché gli utenti del tuo software, anche se sono i tuoi dipendenti, che tu lo voglia o no, al di fuori dell’utilizzo del tuo prodotto acquisiranno determinate competenze nell’utilizzo personale della tecnologia, accrescendo il bisogno di fruire di tecnologie di pari livello anche in ambito lavorativo. L’esperienza offerta dovrà, quindi, proporre interazioni che si avvicinino ai modelli mentali definiti dagli utenti nel loro percorso di apprendimento, in modo da non essere mai percepito come un ostacolo. 
 
 Giusto per chiarire, se il tuo approccio è “spieghiamo all'utente come funziona questa cosa all’infinito, prima o poi capirà”, forse c’è qualcosa che non va.
+
+<figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/rules.png" alt="lusso-ux" /></figure>
 
 ## Perché investire nell’esperienza utente?
 
