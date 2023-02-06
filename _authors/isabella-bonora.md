@@ -1,5 +1,5 @@
 ---
-short_name: Isa
+short_name: isa
 position: Designer @ CodicePlastico
 name: Isabella Bonora
 nick: Isabella
