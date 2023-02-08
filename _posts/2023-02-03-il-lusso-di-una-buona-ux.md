@@ -56,9 +56,9 @@ Vediamo un esempio:
 
 <figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/ricarica.png" alt="lusso-ux" /></figure>
 
-Rosso. Ho confermato l’email e il testo è diventato rosso. Quale è il mio primo pensiero? Ho sbagliato a scrivere la mia email. Eppure l’email è giusta. Il testo dovrebbe diventare verde, non rosso. Come mai è rosso, quindi?
+Rosso. **Ho confermato l’email e il testo è diventato rosso**. Quale è il mio primo pensiero? Ho sbagliato a scrivere la mia email. Eppure l’email è giusta. Il testo dovrebbe diventare verde, non rosso. Come mai è rosso, quindi?
 Forse sembra un dettaglio irrilevante, ma immagina un semaforo che, al contrario di tutti i semafori nel mondo, ha i colori invertiti: il rosso viene usato per passare e il verde per fermarsi. Le conseguenze potrebbero essere gravi.
-Una buona UX non è più un lusso, appunto. 
+Una buona UX non è più un lusso, appunto. <br/>
 Se sono abituato ad associare il verde con la conferma e il rosso con l’errore, nel momento in cui vedo il rosso penso di aver scritto l’email sbagliata. Per risolvere il problema è necessario associare i colori con quelle che sono le aspettative degli utenti.
 
 
@@ -72,13 +72,16 @@ Nel caso del testo email, oltre al colore verde se l’email è stata confermata
 
 In CodicePlastico, da qualche tempo si raccolgono esempi di questo tipo in un thread "__Roast My UI__", dove convergono vari temi: dagli esempi più <a href="https://www.reddit.com/r/CrappyDesign/" target="_blank">divertenti</a>, al <a href="https://brutalistwebsites.com/" target="_blank">brutalismo</a>, ad esperienze di vita vissuta.  
 
-<a href="https://blog.codiceplastico.com/authors/davide-brognoli">Davide</a>, per esempio si è ritrovato nella classica  **Ristrutturazione di facciata**, aka se ristrutturi il tuo sito, fallo fino in fondo.<br/>
+<a href="https://blog.codiceplastico.com/authors/davide-brognoli">Davide</a>, per esempio si è ritrovato nella classica  **Ristrutturazione di facciata**, aka se ristrutturi il tuo sito, fallo fino in fondo.
+<figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/inps.png" alt="lusso-ux" /></figure>
 Nonostante il sito INPS abbia subito un aggiornamento, accedendo alla sezione relativa alla richiesta di Prestazioni e Servizi ed effettuando, ad esempio, la Domanda per il Bonus asili nido, si può notare che l’interfaccia è datata, precedente alla ristrutturazione e con un __bel__ <a href="https://youtu.be/TbTT8XSNAEM?t=149" target="_blank">video online</a> che spiega come accedere al servizio.
 
-Poi c'è l'**Eccesso di zelo**, ovvero tutte quelle situazioni in cui la semplicità avrebbe semplificato la vita dell'utente. Ad esempio Daniele era davvero contento che il suo medico di base avesse adottato una piattaforma per la prenotazione online onlide d
+Poi c'è l'**Eccesso di zelo**, ovvero tutte quelle situazioni in cui la semplicità avrebbe semplificato la vita dell'utente. Ad esempio Daniele era davvero contento che il suo medico di base avesse adottato una piattaforma per la prenotazione online delle visite. Era contento fino a che non ha prenotato per la prima volta.
+<figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/visita.png" alt="lusso-ux" /></figure>
 E’ fondamentale che l’esperienza utente sia chiara e semplice e che vengano utilizzati elementi adatti allo scopo che si vuole perseguire. La realizzazione di visualizzazioni complesse dovrebbe essere gestita solamente se si dispone delle conoscenze e risorse adeguate per implementarle nel modo migliore per l’utente. Esempio: se vuoi facilitare agli utenti l’identificazione degli slot prenotabili sul tuo calendario, ma non hai la possibilità di rendere la visualizzazione chiara: semplifica. Utilizza una lista.
 
-*   **L’altro lato della medaglia** → I dark pattern.
+Poi c'è il **lato oscuro della forza**, ovvero i dark pattern: provate a procedere alla sottoscrizione di queto conto corrente online, senza polizza assicurativa. 
+<figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/polizza.png" alt="lusso-ux" /></figure>
 I dark pattern sono interfacce utente progettate con l’intento di indurre gli utenti a compiere alcune azioni fraudolentemente. Un esempio è il caso in cui l’interfaccia spinga l’utente a prendere delle scelte, ponendo l’attenzione su determinati contenuti per non farne notare altri. Se vuoi creare un’esperienza positiva per il tuo utente e apparire affidabile ai suoi occhi, non usare scorciatoie dark, non fai una bella figura.
 
 
