@@ -70,7 +70,7 @@ Prova a metterti nei panni di una persona con disturbi della vista, che fatica a
 Un solo cambiamento non basta per comunicare un messaggio o un’informazione: è necessario che ci siano più cambiamenti negli elementi che rendano facilmente riconoscibile ciò che si vuole comunicare.
 Nel caso del testo email, oltre al colore verde se l’email è stata confermata, potrebbe essere utile accostare un simbolo riconoscibile o un messaggio esplicito di conferma. 
 
-In CodicePlastico, da qualche tempo, raccogliamo esempi come quesot in un thread "__Roast My UI__": dai reddit <a href="https://www.reddit.com/r/CrappyDesign/" target="_blank">divertenti</a>, al <a href="https://brutalistwebsites.com/" target="_blank">brutalismo</a>, passando per le esperienze di vita vissuta.  
+In CodicePlastico, da qualche tempo, raccogliamo esempi come questo in un thread "__Roast My UI__": dai reddit <a href="https://www.reddit.com/r/CrappyDesign/" target="_blank">divertenti</a>, al <a href="https://brutalistwebsites.com/" target="_blank">brutalismo</a>, passando per le esperienze di vita vissuta.  
 
 <a href="https://blog.codiceplastico.com/authors/davide-brognoli">Davide</a>, per esempio, si è ritrovato nella classica  **ristrutturazione di facciata**.
 <figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/inps.png" alt="lusso-ux" /></figure>
