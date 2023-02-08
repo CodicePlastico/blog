@@ -80,7 +80,7 @@ Poi c'è l'**Eccesso di zelo**, ovvero tutte quelle situazioni in cui la semplic
 <figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/visita.png" alt="lusso-ux" /></figure>
 E’ fondamentale che l’esperienza utente sia chiara e semplice e che vengano utilizzati elementi adatti allo scopo che si vuole perseguire. La realizzazione di visualizzazioni complesse dovrebbe essere gestita solamente se si dispone delle conoscenze e risorse adeguate per implementarle nel modo migliore per l’utente. Esempio: se vuoi facilitare agli utenti l’identificazione degli slot prenotabili sul tuo calendario, ma non hai la possibilità di rendere la visualizzazione chiara: semplifica. Utilizza una lista.
 
-Poi c'è il **lato oscuro della forza**, ovvero i dark pattern: provate a procedere alla sottoscrizione di queto conto corrente online, senza polizza assicurativa. 
+Poi c'è il **lato oscuro della forza**, ovvero i dark pattern: provate a procedere alla sottoscrizione di queto conto corrente online, senza sottoscrivere la polizza assicurativa. 
 <figure style="text-align:center"><img src="/assets/images/post-content/lusso-ux/polizza.png" alt="lusso-ux" /></figure>
 I dark pattern sono interfacce utente progettate con l’intento di indurre gli utenti a compiere alcune azioni fraudolentemente. Un esempio è il caso in cui l’interfaccia spinga l’utente a prendere delle scelte, ponendo l’attenzione su determinati contenuti per non farne notare altri. Se vuoi creare un’esperienza positiva per il tuo utente e apparire affidabile ai suoi occhi, non usare scorciatoie dark, non fai una bella figura.
 
