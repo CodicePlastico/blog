@@ -6,8 +6,8 @@ nick: Isabella
 slug: isabella-bonora
 location: Brescia
 cite:
-picture: assets/images/authors/av-temp.png
-single-picture: assets/images/authors/temp.jpg
+picture: assets/images/authors/av-isabella-bonora-codiceplastico.jpg
+single-picture: assets/images/authors/isabella-bonora-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/isabella-bonora-39a0a4194/
 twitter: 
 layout: author
