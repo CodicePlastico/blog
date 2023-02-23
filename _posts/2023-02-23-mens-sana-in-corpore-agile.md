@@ -15,7 +15,7 @@ author: [gianni, emilio]
 
 <figure style="text-align:center"><img src="/assets/images/post-content/mens-sana-corpore-agile/tweet-mens-sana-corpore-agile.png" alt="mens-sana-corpore-agile" /></figure>
 
-Proprio dal tweet nasce l’idea di scrivere questo articolo! Un anno fa, [@EmaDB] (https://blog.codiceplastico.com/authors/emanuele-delbono) ci ha suggerito di approfondire il tema della salute del programmatore dal punto di vista del… programmatore, con la storia, il bias, le passioni che a volte influenzano i nostri comportamenti e le nostre decisioni. 
+Proprio dal tweet nasce l’idea di scrivere questo articolo! Un anno fa, [@EmaDB](https://blog.codiceplastico.com/authors/emanuele-delbono) ci ha suggerito di approfondire il tema della salute del programmatore dal punto di vista del… programmatore, con la storia, il bias, le passioni che a volte influenzano i nostri comportamenti e le nostre decisioni. 
 
 Ci siamo fermati a pensare un attimo e in effetti, per chiunque, lo stereotipo dello sviluppatore è il seguente:
 
