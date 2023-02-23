@@ -184,15 +184,15 @@ Serve poco nella quotidianità per lavorare in modo più salutare! Piccoli accor
 
 **Siti**
 
-- The Healthy Programmer’s site, http://healthyprog.com/
-- 'Email Apnea' Is a Real Thing, https://www.msn.com/en-us/health/medical/email-apnea-is-a-real-thing-here-s-how-to-stop-holding-your-breath-while-working-and-feel-less-stressed/ar-AALmCqX
+- The Healthy Programmer’s site, [http://healthyprog.com/](http://healthyprog.com/)
+- 'Email Apnea' Is a Real Thing, [https://www.msn.com/en-us/health/medical/email-apnea-is-a-real-thing-here-s-how-to-stop-holding-your-breath-while-working-and-feel-less-stressed/ar-AALmCqX](https://www.msn.com/en-us/health/medical/email-apnea-is-a-real-thing-here-s-how-to-stop-holding-your-breath-while-working-and-feel-less-stressed/ar-AALmCqX)
 
 **Libri**
 
-- https://pragprog.com/titles/jkthp/the-healthy-programmer/
+- [https://pragprog.com/titles/jkthp/the-healthy-programmer/](https://pragprog.com/titles/jkthp/the-healthy-programmer/)
 
 **Video**
 
-- La salute del programmatore - Filippo Liverani - #iad14, https://vimeo.com/115789061
+- La salute del programmatore - Filippo Liverani - #iad14, [https://vimeo.com/115789061](https://vimeo.com/115789061)
 
 
