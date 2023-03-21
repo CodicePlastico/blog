@@ -15,23 +15,23 @@ author: [gianni, emilio]
 
 <figure style="text-align:center"><img src="/assets/images/post-content/mens-sana-corpore-agile/tweet-mens-sana-corpore-agile.png" alt="mens-sana-corpore-agile" /></figure>
 
-Proprio dal tweet nasce l’idea di scrivere questo articolo! Un anno fa, [@EmaDB](https://blog.codiceplastico.com/authors/emanuele-delbono) ci ha suggerito di approfondire il tema della salute del programmatore dal punto di vista del… programmatore, con la storia, il bias, le passioni che a volte influenzano i nostri comportamenti e le nostre decisioni. 
+Proprio dal tweet nasce l’idea di scrivere questo articolo! Un anno fa, [@EmaDB](https://blog.codiceplastico.com/authors/emanuele-delbono) ci ha suggerito di approfondire il tema della salute del programmatore dal punto di vista del… programmatore, con la storia, i bias, le passioni che a volte influenzano i nostri comportamenti e le nostre decisioni. 
 
 Ci siamo fermati a pensare un attimo e in effetti, per chiunque, lo stereotipo dello sviluppatore è il seguente:
 
-“Individuo piuttosto chiuso ed emaciato, che vive nascosto tra scatole di pizza parzialmente chiuse, lattine di Coca Cola e brocche di caffè. Prevalentemente notturno si dedica a risolvere piccoli esercizi comunemente chiamati kata, o allo sviluppo di complicatissimi progetti incomprensibili ai più, chiamati Side Projects. Privo di massa muscolare, indossa gli occhiali per supplire a carenze visive, usa collirio per lenire l’arrossamento degli occhi ed è totalmente sprovvisto di vitamina D”.
+<cite>“Individuo piuttosto chiuso ed emaciato, che vive nascosto tra scatole di pizza parzialmente chiuse, lattine di Coca Cola e brocche di caffè. Prevalentemente notturno si dedica a risolvere piccoli esercizi comunemente chiamati kata, o allo sviluppo di complicatissimi progetti incomprensibili ai più, chiamati Side Projects. Privo di massa muscolare, indossa gli occhiali per supplire a carenze visive, usa collirio per lenire l’arrossamento degli occhi ed è totalmente sprovvisto di vitamina D”.</cite>
 
 E ci siamo chiesti perché siamo giunti a tutto questo? Sostanzialmente per tre motivi:
 
 
-- **La televisione**
+### La televisione
 
 <figure style="text-align:center"><img src="/assets/images/post-content/mens-sana-corpore-agile/jurassic-park.png" alt="jurassic-park" /></figure>
 
 Nel film Jurassic Park, il noto e malvagio sviluppatore che, dietro compenso di Product Owner senza scrupoli di aziende rivali, è l’unico ad avere la conoscenza per disattivare la sicurezza del parco. Le condizioni lavorative dello sviluppatore, come si vede dalla foto, erano per lo meno grottesche.
 
 
-- **La scarsa comprensione di chi ci circonda**
+### La scarsa comprensione di chi ci circonda
 
 “Hey Paul, andiamo a fare un giro a Riccione questo weekend? Danno sole e potremmo passare…”
 
@@ -42,7 +42,7 @@ Nel film Jurassic Park, il noto e malvagio sviluppatore che, dietro compenso di 
 <figure style="text-align:center"><img src="/assets/images/post-content/mens-sana-corpore-agile/car.png" alt="car" /></figure>
 
 
-- **La responsabilità verso un mondo migliore**
+### La responsabilità verso un mondo migliore
 
 Durante i pranzi di Natale, chi non si è sentito responsabile di risolvere il disagio della zia ottantenne che, estraendo il telefonino del 1976, esponeva ai commensali tutto il disagio nella difficoltà di attivare il teethering e accedere ad internet dal suo iMac? 
 
@@ -52,7 +52,7 @@ Le cose però stanno cambiando! Se abbiamo la fortuna di partecipare a conferenz
 
 Quindi, fare lo sviluppatore significa non avere una vita sana? Beh, vivendo la vita da sviluppatore secondo lo stereotipo, i problemi di salute possono essere molteplici. Ad esempio,
 
-- **Troppe ore seduti** nella stessa posizione possono comportare gravi rischi cardiovascolari, aumentando la probabilità di insorgenza di trombosi, malattie cardiache e diabete
+- **Troppe ore seduti** nella stessa posizione possono comportare gravi rischi cardiovascolari, aumentando la probabilità di insorgenza di trombosi, malattie cardiovascolari e diabete
 
 - **L’errata illuminazione** della stanza può provocare gravi problemi di vista o l’insorgenza di mal di testa
 
@@ -140,9 +140,13 @@ Gianni è sicuramente l’esperto qui, quindi lascio il microfono a lui. Sicuram
 **GIANNI:**
 
 Il libro consiglia di fare uno standup ogni mattina con noi stessi durante il quale ci chiediamo:
-Cosa ho fatto ieri per la mia salute? 
-Cosa farò oggi per la mia salute? 
-Che impedimenti ho riscontrato che hanno penalizzato una condotta più salutare?
+
+- Cosa ho fatto ieri per la mia salute? 
+
+- Cosa farò oggi per la mia salute? 
+
+- Che impedimenti ho riscontrato che hanno penalizzato una condotta più salutare?
+
 Inoltre, suggerisce di fare una retrospettiva ogni 1-2 settimane per fare il punto della situazione, durante la quale dobbiamo rispondere a 8 domande.
 Non sono molto ferreo su queste pratiche applicate alla salute, ma certamente mi sono fatto un foglio dove cerco di rispondere a queste domande per tenere traccia soprattutto dei momenti in cui perdo contatto col miglioramento e torno alla cattive abitudini e prenderne coscienza.
 
@@ -180,19 +184,19 @@ La nostra salute è un aspetto fondamentale del lavoro che troppo spesso ignoria
 Serve poco nella quotidianità per lavorare in modo più salutare! Piccoli accorgimenti per arrivare alla pensione con la stessa forma fisica che avevamo il primo giorno di lavoro!
 
 
-## Riferimenti
+# Links
 
-**Siti**
+## Siti
 
-- The Healthy Programmer’s site, [http://healthyprog.com/](http://healthyprog.com/)
-- 'Email Apnea' Is a Real Thing, [https://www.msn.com/en-us/health/medical/email-apnea-is-a-real-thing-here-s-how-to-stop-holding-your-breath-while-working-and-feel-less-stressed/ar-AALmCqX](https://www.msn.com/en-us/health/medical/email-apnea-is-a-real-thing-here-s-how-to-stop-holding-your-breath-while-working-and-feel-less-stressed/ar-AALmCqX)
+* The Healthy Programmer’s site, [http://healthyprog.com/](http://healthyprog.com/)
+* 'Email Apnea' Is a Real Thing, [https://www.msn.com/en-us/health/medical/email-apnea-is-a-real-thing-here-s-how-to-stop-holding-your-breath-while-working-and-feel-less-stressed/ar-AALmCqX](https://www.msn.com/en-us/health/medical/email-apnea-is-a-real-thing-here-s-how-to-stop-holding-your-breath-while-working-and-feel-less-stressed/ar-AALmCqX)
 
-**Libri**
+## Libri
 
-- [https://pragprog.com/titles/jkthp/the-healthy-programmer/](https://pragprog.com/titles/jkthp/the-healthy-programmer/)
+* [https://pragprog.com/titles/jkthp/the-healthy-programmer/](https://pragprog.com/titles/jkthp/the-healthy-programmer/)
 
-**Video**
+## Video
 
-- La salute del programmatore - Filippo Liverani - #iad14, [https://vimeo.com/115789061](https://vimeo.com/115789061)
+* La salute del programmatore - Filippo Liverani - #iad14, [https://vimeo.com/115789061](https://vimeo.com/115789061)
 
 
