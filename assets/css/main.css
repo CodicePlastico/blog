@@ -1520,7 +1520,8 @@ section.newsletter {
 .single-event .event-author-image {
   max-width: 60px;
   flex: 1;
-  margin: 0.5em 0; }
+  margin: 0.5em 0;
+  height: auto; }
   @media only screen and (min-width: 992px) {
     .event-card .event-author-image,
     .single-event .event-author-image {
