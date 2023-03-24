@@ -7,7 +7,7 @@ slug: erica-de-giovanni
 location: Zola
 cite: 
 picture: assets/images/authors/av-erica-de-giovanni-codiceplastico.png
-single-picture: assets/images/authors/erica-de-giovanni-codiceplastico.png
+single-picture: assets/images/authors/erica-de-giovanni-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/erica-de-giovanni-45403721b
 twitter: 
 layout: author

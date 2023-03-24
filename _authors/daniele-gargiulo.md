@@ -7,7 +7,7 @@ slug: daniele-gargiulo
 location: Cremona
 cite: 
 picture: assets/images/authors/av-daniele-gargiulo-codiceplastico.png
-single-picture: assets/images/authors/daniele-gargiulo-codiceplastico.png
+single-picture: assets/images/authors/daniele-gargiulo-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/daniele-gargiulo/
 
 layout: author

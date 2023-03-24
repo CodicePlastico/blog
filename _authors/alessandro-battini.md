@@ -7,7 +7,7 @@ slug: alessandro-battini
 location: Cinisello Balsamo
 cite: 
 picture: assets/images/authors/av-alessandro-battini-codiceplastico.png
-single-picture: assets/images/authors/alessandro-battini-codiceplastico.png
+single-picture: assets/images/authors/alessandro-battini-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/alessandro-b-99a59a15/
 
 layout: author

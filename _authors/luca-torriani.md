@@ -7,7 +7,7 @@ slug: luca-torriani
 location: Cremona
 cite: 
 picture: assets/images/authors/av-luca-torriani-codiceplastico.png
-single-picture: assets/images/authors/luca-torriani-codiceplastico.png
+single-picture: assets/images/authors/luca-torriani-codiceplastico.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/luca-torriani
 layout: author

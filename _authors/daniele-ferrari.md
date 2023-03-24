@@ -7,7 +7,7 @@ slug: daniele-ferrari
 location: Bologna
 cite: 
 picture: assets/images/authors/av-daniele-ferrari-codiceplastico.png
-single-picture: assets/images/authors/daniele-ferrari-codiceplastico.png
+single-picture: assets/images/authors/daniele-ferrari-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/daniele-ferrari-5ba37b105
 
 layout: author

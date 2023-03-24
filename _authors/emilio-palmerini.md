@@ -7,7 +7,7 @@ slug: emilio-palmerini
 location: Cinisello Balsamo
 cite: 
 picture: assets/images/authors/av-emilio-palmerini-codiceplastico.png
-single-picture: assets/images/authors/emilio-palmerini-codiceplastico.png
+single-picture: assets/images/authors/emilio-palmerini-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/emiliopalmerini/
 
 layout: author

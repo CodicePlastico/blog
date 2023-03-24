@@ -7,7 +7,7 @@ slug: stefano-petrilli
 location: Roma
 cite: 
 picture: assets/images/authors/av-stefano-petrilli-codiceplastico.png
-single-picture: assets/images/authors/stefano-petrilli-codiceplastico.png
+single-picture: assets/images/authors/stefano-petrilli-codiceplastico.jpg
 linkedin: https://www.linkedin.com/in/stefano-petrilli-38378a12b/
 layout: author
 ---

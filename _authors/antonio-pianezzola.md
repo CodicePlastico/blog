@@ -7,7 +7,7 @@ slug: antonio-pianezzola
 location: Altavilla Vicentina
 cite: 
 picture: assets/images/authors/av-antonio-pianezzola-codiceplastico.png
-single-picture: assets/images/authors/antonio-pianezzola-codiceplastico.png
+single-picture: assets/images/authors/antonio-pianezzola-codiceplastico.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/antonio-pianezzola
 layout: author
