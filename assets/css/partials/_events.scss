@@ -22,8 +22,8 @@ text-align: center;
             flex-direction: row;
         }
     }
-    .event-author-image{ max-width: 60px; flex:1; margin: 0.5em 0; height: auto;
-        @media #{$mqMD}{mimg{ border: 1px solid #ccc; } margin-right: 0.4em;}
+    .event-author-image{ width: 60px; flex:1; margin: 0.5em 0; height: auto;
+        @media #{$mqMD}{ margin-right: 0.4em;}
     }
     .event-author-name{ font-weight: 300;  font-size: 1em; text-transform: uppercase; font-family: "Barlow Condensed", sans-serif;
         a{color: $main-dark; }
