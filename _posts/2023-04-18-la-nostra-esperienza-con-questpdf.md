@@ -81,19 +81,17 @@ public class TestDocument : IDocument
 
 ```
 
-Ora facciamo partire il progetto tramite il comando 
-
-`dotnet watch` 
-
-e, esattamente come ci aspettavamo, viene aperto un programma che visualizza il nostro file PDF, che per ora non è altro che una pagina vuota.
+Ora facciamo partire il progetto tramite il comando `dotnet watch` e, esattamente come ci aspettavamo, viene aperto un programma che visualizza il nostro file PDF, che per ora non è altro che una pagina vuota.
 
 <figure style="text-align:center"><img src="/assets/images/post-content/questPDF/questpdf-01.png" alt="la-nostra-esperienza-con-questpdf" /></figure>
 
 Andiamo ad aggiungere del contenuto!
 
 Le pagine di QuestPDF sono divise in 3 sezioni: **Header**, **Content** e **Footer**.
+
 Come sicuramente avrete notato però, abbiamo anche la possibilità di agire direttamente sul componente della pagina ed andare quindi ad impostare dei parametri, che saranno automaticamente rispettati da tutte le sezioni.
 Nell’esempio mostrato sopra, sono andato ad agire sulla dimensione della pagina specificando che si tratta di un foglio standard A4.
+
 **Sono disponibili moltissimi formati**, anche A0, nel caso doveste stampare il vostro PDF da un plotter!
 
 Procediamo ora con ordine e andiamo a creare un nostro Header.
@@ -107,6 +105,7 @@ container.Page(page =>
     });
 
 ```
+
 
 Grazie al previewer il risultato delle nostre modifiche è immediato, e questo ci permette di **risparmiare molto tempo** nell'effettuare piccole modifiche estetiche, ad esempio centrando la nostra immagine.
 
@@ -145,6 +144,7 @@ Per il footer ci andrà bene un semplice contatore della pagina in basso a destr
         text.TotalPages();
       });
 ```
+
 
 E così **in pochissimo tempo** siamo riusciti a creare il nostro file PDF, con un font personalizzato, senza perdere tempo con la creazione di un template HTML e senza dover cercare su StackOverflow come centrare un'immagine all’interno di un div.
 
