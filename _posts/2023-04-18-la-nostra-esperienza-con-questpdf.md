@@ -5,7 +5,7 @@ cover: 'assets/images/post-cover/2023-04-la-nostra-esperienza-con-questpdf.jpg'
 socialcover: 'assets/images/post-cover/2023-04-la-nostra-esperienza-con-questpdf-s.jpg'
 slug: la-nostra-esperienza-con-questpdf
 title: 'Soluzioni per la creazione di PDF: la nostra esperienza con QuestPDF'
-date: 2023-04-18 11:00:00
+date: 2023-04-18 08:00:00
 category : [tech]
 tags: [library, pdf]
 author: [luca]
