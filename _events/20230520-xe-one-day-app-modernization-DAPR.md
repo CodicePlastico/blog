@@ -3,7 +3,7 @@ layout: event
 title: "XE - One Day - App modernization"
 talk-title: "Microservices tips&tricks con .net e DAPR"
 event-date-start: 2023-05-20 10:55:00
-talk-info-track: ""
+talk-info-track: "Auditorium"
 location: Training Center - Banchina dell'Azoto 15 - Venezia
 org: XE Development User Group
 event-link: https://www.xedotnet.org/eventi/one-day-app-modernization/
