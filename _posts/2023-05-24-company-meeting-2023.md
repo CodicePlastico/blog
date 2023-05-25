@@ -45,7 +45,7 @@ Fabio ha saputo coinvolgere e facilitare le discussioni, permettendoci di esprim
 È stato interessante votare i principi proposti dagli altri team nelle loro board, ottenendo un punto di vista esterno e prezioso.
 
 Analizzare questi aspetti inisieme ai miei colleghi ha rafforzato la mia convinzione che il **valore** che attribuiamo a noi stessi come sviluppatori si rifletta direttamente nel **valore** che siamo in grado di offrire ai nostri clienti. Questa consapevolezza costituisce una spinta continua per la nostra crescita professionale e per il costante miglioramento in ogni ambito del nostro lavoro.
-<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/3.jpg" alt="Company Meeting 2023" />
+<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/2.jpg" alt="Company Meeting 2023" />
     <figcaption>Retrospettiva </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ La sera ci siamo goduti una birra in compagnia, tra una chiacchiera e l'altra, a
 
 ### Hackathon #TiSemplificoLaVita
 
-Il secondo giorno del nostro Company Meeting si è tenuto il **primo Hackathon di CodicePlastico **della durata di 24 ore! 
+Il secondo giorno del nostro Company Meeting si è tenuto il **primo Hackathon di CodicePlastico** della durata di 24 ore! 
 
 
 Tutti i team a votazione hanno decretato come tema principale **#TiSemplificoLaVita**, lo scopo quindi è stato di trovare soluzioni innovative che potessero semplificare la vita quotidiana delle persone.
