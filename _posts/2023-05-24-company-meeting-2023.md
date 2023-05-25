@@ -66,9 +66,7 @@ Abbiamo scelto questo tipo di evento con un obiettivo ben preciso: promuovere la
 </figure>
 
 Un aspetto che mi è piaciuto particolarmente è stata la riuscita nel coinvolgimento attivo dei membri del team non tecnici.
-
-
-Nel mio caso, abbiamo avuto la fortuna di avere Chiara nel nostro gruppo, che ha contribuito in modo significativo nella definizione delle specifiche della nostra app '_Cosa mi porto?_'. Essendo un potenziale cliente, il suo punto di vista è stato prezioso nel garantire che l'app soddisfacesse le reali esigenze degli utenti.
+Nel mio caso, abbiamo avuto la fortuna di avere Chiara nel nostro gruppo, che ha contribuito in modo significativo nella definizione delle specifiche della nostra app **Cosa mi porto"**. Essendo un potenziale cliente, il suo punto di vista è stato prezioso nel garantire che l'app soddisfacesse le reali esigenze degli utenti.
 
 Non avevo mai partecipato ad un hackathon prima d’ora e devo dire che è stata un’ esperienza davvero divertente! Fin dall'inizio, si è respirato un clima di sfida e impegno, tanto che alcuni di noi hanno lavorato fino a tarda notte per portare avanti i nostri progetti.
 
@@ -102,7 +100,7 @@ Nonostante il maltempo che ci ha accompagnati, le passeggiate in compagnia, le c
 
 
 
-<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/4.jpg" alt="Company Meeting 2023" />
+<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/6.jpg" alt="Company Meeting 2023" />
     <figcaption>Cooking class (più o meno seria= e gruppo di cammino sulla spiaggia</figcaption>
 </figure>
 È stato incredibile vedere come l'obiettivo di team building sia stato pienamente raggiunto grazie a questa idea. Ora guardo avanti, pronta a continuare a sviluppare le mie competenze professionali e offrire un **valore** ancora maggiore sia al nostro team che ai nostri clienti.
