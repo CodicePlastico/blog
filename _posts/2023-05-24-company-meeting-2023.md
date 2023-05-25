@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/post-cover/2023-05-24-company-meeting-23.jpg'
 socialcover: 'assets/images/post-cover/2023-05-24-company-meeting-23-s.jpg'
-slug: company-meeting-23
+slug: 'company-meeting-23'
 title: 'CP Company Meeting 2023: ecco com'è andata!'
 date: 2023-05-24 08:00:00
 category : [vita-plastica]
@@ -11,17 +11,17 @@ tags: [teambuilding]
 author: [Erica]
 ---
 
-Lavorando full-remote, ho sempre considerato ogni occasione per incontrare i miei colleghi come un momento prezioso per conoscere meglio le persone che si "celano" dietro lo schermo,  e trarre insegnamenti da qualsiasi tipo di confronto che puo’ emergere con loro, e devo confessare che l’ esperienza che ho vissuto ha superato tutte le mie aspettative!
+Lavorando full-remote, ho sempre considerato ogni occasione per incontrare i miei colleghi come un momento prezioso per conoscere meglio le persone che si "celano" dietro lo schermo, trarre insegnamenti da qualsiasi tipo di confronto che puo’ emergere con loro: devo confessare che l’ esperienza che ho vissuto al Company Meeting, ha superato tutte le mie aspettative!
 
-Quest’anno ho avuto l’ occasione di essere parte del team di organizzazione che ha reso possibile questo evento. Fin dall'inizio, abbiamo deciso di adottare un tema centrale che avrebbe guidato le nostre intense giornate di lavoro e condivisione:  **il** **Valore**. 
+Quest’anno ho avuto l’ occasione di essere parte del team di organizzazione che ha reso possibile questo evento. Fin dall'inizio, abbiamo deciso di adottare un tema centrale che avrebbe guidato le nostre intense giornate di lavoro e condivisione:  **il Valore**. 
 
-Nonostante sia una parola apparentemente semplice, risulta  intriso da molteplici significati e abbiamo deciso di esplorarlo da diverse prospettive, rendendolo il fulcro attorno al quale organizzare l'intero evento.
+Nonostante sia una parola apparentemente semplice, il valore è un concetto intriso di molteplici significati: abbiamo deciso di esplorarlo da diverse prospettive, rendendolo il fulcro attorno al quale organizzare l'intero evento.
 
 La destinazione di questo Company Meeting è stata **Riccione**, il meteo non è stato dei migliori ma andarci ne è comunque valsa la pena!
 
 
 ## La retrospettiva guidata da Fabio Fabbrucci
-Come l’anno scorso, tradizione ha voluto che l’arrivo fosse ostacolato da alcuni imprevisti (come pioggia a dirotto e pulmino che non è partito), ma con determinazione e il supporto morale dei deliziosi biscotti di Madda, siamo riusciti a superare queste avversità e a raggiungere finalmente la nostra destinazione.
+Come l’anno scorso, tradizione ha voluto che l’arrivo fosse ostacolato da alcuni imprevisti (come pioggia a dirotto e pulmino che non è partito), ma con determinazione e il supporto morale dei deliziosi biscotti di [Madda](), siamo riusciti a superare queste avversità e a raggiungere finalmente la nostra destinazione.
 
 Dopo pranzo siamo entrati subito nell'atmosfera della retrospettiva guidata da **Fabio Fabbrucci**, un volto familiare per i colleghi di CodicePlastico. 
 
