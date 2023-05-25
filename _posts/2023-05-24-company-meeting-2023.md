@@ -51,7 +51,7 @@ Analizzare questi aspetti inisieme ai miei colleghi ha rafforzato la mia convinz
 
 La sera ci siamo goduti una birra in compagnia, tra una chiacchiera e l'altra, approfittando dell'occasione per conoscerci meglio. Mentre alcuni erano concentrati sul derby in corso, altri erano già proiettati mentalmente al grande evento pianificato per il giorno seguente! 
 
-## Hackathon #TiSemplificoLaVita
+### Hackathon #TiSemplificoLaVita
 
 Il secondo giorno del nostro Company Meeting si è tenuto il **primo Hackathon di CodicePlastico **della durata di 24 ore! 
 
@@ -71,7 +71,7 @@ Nel mio caso, abbiamo avuto la fortuna di avere Chiara nel nostro gruppo, che ha
 
 Non avevo mai partecipato ad un hackathon prima d’ora e devo dire che è stata un’ esperienza davvero divertente! Fin dall'inizio, si è respirato un clima di sfida e impegno, tanto che alcuni di noi hanno lavorato fino a tarda notte per portare avanti i nostri progetti.
 
-## Una cooking class e l’attesa premiazione!
+### Una cooking class e l’attesa premiazione!
 
 Alle 10 del mattino, l'hackathon è giunto al termine! Alcuni di noi hanno lavorato per le rifiniture finali fino all’ultimo secondo.
 
@@ -93,7 +93,7 @@ Ogni team ha presentato la propria creazione con una piccola demo dimostrativa e
 
 È stato un momento di grande suspense, ma alla fine il team **Chiligeddon** è stato decretato vincitore! Hanno conquistato non solo la gloria ma anche la tanto ambita spilletta ufficiale del primo hackathon di Codiceplastico.
 
-## Conclusioni
+### Conclusioni
 Nonostante il maltempo che ci ha accompagnati, le passeggiate in compagnia, le chiacchierate sulla programmazione e le risate condivise resteranno impresse nei miei ricordi. Partecipare all 'hackathon mi ha fornito nuove conoscenze e competenze, e per questo sono davvero grata. 
 
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/5.jpg" alt="Company Meeting 2023" />
