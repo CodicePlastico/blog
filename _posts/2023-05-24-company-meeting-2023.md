@@ -42,12 +42,13 @@ Fabio ha saputo coinvolgere e facilitare le discussioni, permettendoci di esprim
 * Apprendimento
 * Passione
 
-È stato interessante votare i principi proposti dagli altri team nelle loro board, ottenendo un punto di vista esterno e prezioso.
-
-Analizzare questi aspetti inisieme ai miei colleghi ha rafforzato la mia convinzione che il **valore** che attribuiamo a noi stessi come sviluppatori si rifletta direttamente nel **valore** che siamo in grado di offrire ai nostri clienti. Questa consapevolezza costituisce una spinta continua per la nostra crescita professionale e per il costante miglioramento in ogni ambito del nostro lavoro.
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/2.jpg" alt="Company Meeting 2023" />
     <figcaption>Retrospettiva </figcaption>
 </figure>
+È stato interessante votare i principi proposti dagli altri team nelle loro board, ottenendo un punto di vista esterno e prezioso.
+
+Analizzare questi aspetti inisieme ai miei colleghi ha rafforzato la mia convinzione che il **valore** che attribuiamo a noi stessi come sviluppatori si rifletta direttamente nel **valore** che siamo in grado di offrire ai nostri clienti. Questa consapevolezza costituisce una spinta continua per la nostra crescita professionale e per il costante miglioramento in ogni ambito del nostro lavoro.
+
 
 La sera ci siamo goduti una birra in compagnia, tra una chiacchiera e l'altra, approfittando dell'occasione per conoscerci meglio. Mentre alcuni erano concentrati sul derby in corso, altri erano già proiettati mentalmente al grande evento pianificato per il giorno seguente! 
 
@@ -90,16 +91,20 @@ Nonostante qualche incertezza iniziale il risultato finale è stato ottimo e tut
 Dopo aver mangiato è giunto il momento tanto atteso delle premiazioni dell' hackathon. 
 
 Ogni team ha presentato la propria creazione con una piccola demo dimostrativa e le votazioni poi si sono basate su alcuni criteri principali: **completezza**, **aderenza al tema**, **originalità**,**presentazione** e **architettura**.
+<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/5.jpg" alt="Company Meeting 2023" />
+    <figcaption>Menzione d'onore alla pazienza di Jacek per la foto di gruppo</figcaption>
+</figure>
 
 È stato un momento di grande suspense, ma alla fine il team **Chiligeddon** è stato decretato vincitore! Hanno conquistato non solo la gloria ma anche la tanto ambita spilletta ufficiale del primo hackathon di Codiceplastico.
 
 ### Conclusioni
 Nonostante il maltempo che ci ha accompagnati, le passeggiate in compagnia, le chiacchierate sulla programmazione e le risate condivise resteranno impresse nei miei ricordi. Partecipare all 'hackathon mi ha fornito nuove conoscenze e competenze, e per questo sono davvero grata. 
 
-<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/5.jpg" alt="Company Meeting 2023" />
-    <figcaption>Menzione d'onore alla pazienza di Jacek per la foto di gruppo</figcaption>
-</figure>
 
+
+<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/4.jpg" alt="Company Meeting 2023" />
+    <figcaption>Cooking class (più o meno seria= e gruppo di cammino sulla spiaggia</figcaption>
+</figure>
 È stato incredibile vedere come l'obiettivo di team building sia stato pienamente raggiunto grazie a questa idea. Ora guardo avanti, pronta a continuare a sviluppare le mie competenze professionali e offrire un **valore** ancora maggiore sia al nostro team che ai nostri clienti.
 
 Non vedo l'ora di sperimentare altre esperienze simili in futuro e creare ancora più forti legami con i miei fantastici colleghi!
