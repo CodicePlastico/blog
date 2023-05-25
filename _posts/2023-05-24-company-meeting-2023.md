@@ -13,24 +13,22 @@ author: [erica]
 
 Lavorando full-remote, ho sempre considerato ogni occasione per incontrare i miei colleghi come un momento prezioso per conoscere meglio le persone che si "celano" dietro lo schermo, trarre insegnamenti da qualsiasi tipo di confronto che puo’ emergere con loro: devo confessare che l’ esperienza che ho vissuto al Company Meeting, ha superato tutte le mie aspettative!
 
+Quest’anno ho avuto l’ occasione di essere parte del team di organizzazione che ha reso possibile questo evento. Fin dall'inizio, abbiamo deciso di adottare un tema centrale che avrebbe guidato le nostre intense giornate di lavoro e condivisione:  **il Valore**. 
+
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/1.jpg" alt="Company Meeting 2023" />
     <figcaption>Che cos'è il valore? </figcaption>
 </figure>
-
-Quest’anno ho avuto l’ occasione di essere parte del team di organizzazione che ha reso possibile questo evento. Fin dall'inizio, abbiamo deciso di adottare un tema centrale che avrebbe guidato le nostre intense giornate di lavoro e condivisione:  **il Valore**. 
 
 Nonostante sia una parola apparentemente semplice, il valore è un concetto intriso di molteplici significati: abbiamo deciso di esplorarlo da diverse prospettive, rendendolo il fulcro attorno al quale organizzare l'intero evento.
 
 La destinazione di questo Company Meeting è stata **Riccione**, il meteo non è stato dei migliori ma andarci ne è comunque valsa la pena!
 
 
-## La retrospettiva guidata da Fabio Fabbrucci
-Come l’anno scorso, tradizione ha voluto che l’arrivo fosse ostacolato da alcuni imprevisti (come pioggia a dirotto e pulmino che non è partito), ma con determinazione e il supporto morale dei deliziosi biscotti di [Madda](), siamo riusciti a superare queste avversità e a raggiungere finalmente la nostra destinazione.
+### La retrospettiva guidata da Fabio Fabbrucci
+Come l’anno scorso, tradizione ha voluto che l’arrivo fosse ostacolato da alcuni imprevisti (come pioggia a dirotto e pulmino che non è partito), ma con determinazione e il supporto morale dei deliziosi biscotti di [Madda](https://blog.codiceplastico.com/authors/maddalena-germinario), siamo riusciti a superare queste avversità e a raggiungere finalmente la nostra destinazione.
 
 Dopo pranzo siamo entrati subito nell'atmosfera della retrospettiva guidata da **Fabio Fabbrucci**, un volto familiare per i colleghi di CodicePlastico. 
-<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/3.jpg" alt="Company Meeting 2023" />
-    <figcaption>Retrospettiva </figcaption>
-</figure>
+
 
 Fabio ha saputo coinvolgere e facilitare le discussioni, permettendoci di esprimere la nostra personale soddisfazione riguardo a diversi principi fondamentali che hanno guidato il nostro lavoro durante l'anno:
 
@@ -44,22 +42,27 @@ Fabio ha saputo coinvolgere e facilitare le discussioni, permettendoci di esprim
 * Apprendimento
 * Passione
 
-È stato interessante durante la retrospettiva, avere avuto la possibilità di votare i principi proposti dagli altri team nelle loro board, ottenendo un punto di vista esterno e prezioso.
+È stato interessante votare i principi proposti dagli altri team nelle loro board, ottenendo un punto di vista esterno e prezioso.
 
-L'analisi di questi aspetti insieme ai miei colleghi ha rafforzato la mia convinzione che il **valore** che attribuiamo a noi stessi come sviluppatori si rifletta direttamente nel **valore** che siamo in grado di offrire ai nostri clienti. Questa consapevolezza costituisce una spinta continua per la nostra crescita professionale e per il costante miglioramento in ogni ambito del nostro lavoro.
+Analizzare questi aspetti inisieme ai miei colleghi ha rafforzato la mia convinzione che il **valore** che attribuiamo a noi stessi come sviluppatori si rifletta direttamente nel **valore** che siamo in grado di offrire ai nostri clienti. Questa consapevolezza costituisce una spinta continua per la nostra crescita professionale e per il costante miglioramento in ogni ambito del nostro lavoro.
+<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/3.jpg" alt="Company Meeting 2023" />
+    <figcaption>Retrospettiva </figcaption>
+</figure>
 
 La sera ci siamo goduti una birra in compagnia, tra una chiacchiera e l'altra, approfittando dell'occasione per conoscerci meglio. Mentre alcuni erano concentrati sul derby in corso, altri erano già proiettati mentalmente al grande evento pianificato per il giorno seguente! 
 
 ## Hackathon #TiSemplificoLaVita
 
 Il secondo giorno del nostro Company Meeting si è tenuto il **primo Hackathon di CodicePlastico **della durata di 24 ore! 
-<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/3.jpg" alt="Company Meeting 2023" />
-    <figcaption>Hackathon</figcaption>
-</figure>
+
 
 Tutti i team a votazione hanno decretato come tema principale **#TiSemplificoLaVita**, lo scopo quindi è stato di trovare soluzioni innovative che potessero semplificare la vita quotidiana delle persone.
 
 Abbiamo scelto questo tipo di evento con un obiettivo ben preciso: promuovere la collaborazione e l'interazione tra colleghi provenienti da diversi team aziendali. È stata un'opportunità unica per condividere progetti, sfide quotidiane e approcci lavorativi, mettendo in gioco le nostre competenze e, naturalmente anche per divertirci a sperimentare le tecnologie che più ci appassionano!
+
+<figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/3.jpg" alt="Company Meeting 2023" />
+    <figcaption>Hackathon</figcaption>
+</figure>
 
 Un aspetto che mi è piaciuto particolarmente è stata la riuscita nel coinvolgimento attivo dei membri del team non tecnici.
 
