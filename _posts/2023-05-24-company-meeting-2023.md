@@ -66,7 +66,7 @@ Abbiamo scelto questo tipo di evento con un obiettivo ben preciso: promuovere la
 </figure>
 
 Un aspetto che mi è piaciuto particolarmente è stata la riuscita nel coinvolgimento attivo dei membri del team non tecnici.
-Nel mio caso, abbiamo avuto la fortuna di avere Chiara nel nostro gruppo, che ha contribuito in modo significativo nella definizione delle specifiche della nostra app **Cosa mi porto"**. Essendo un potenziale cliente, il suo punto di vista è stato prezioso nel garantire che l'app soddisfacesse le reali esigenze degli utenti.
+Nel mio caso, abbiamo avuto la fortuna di avere Chiara nel nostro gruppo, che ha contribuito in modo significativo nella definizione delle specifiche della nostra app "**Cosa mi porto?**". Essendo un potenziale cliente, il suo punto di vista è stato prezioso nel garantire che l'app soddisfacesse le reali esigenze degli utenti.
 
 Non avevo mai partecipato ad un hackathon prima d’ora e devo dire che è stata un’ esperienza davvero divertente! Fin dall'inizio, si è respirato un clima di sfida e impegno, tanto che alcuni di noi hanno lavorato fino a tarda notte per portare avanti i nostri progetti.
 
