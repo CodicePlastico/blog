@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/post-cover/2023-05-24-company-meeting-23.jpg'
 socialcover: 'assets/images/post-cover/2023-05-24-company-meeting-23-s.jpg'
 slug: 'company-meeting-23'
-title: 'CP Company Meeting 2023: ecco com'è andata!'
+title: 'CP Company Meeting 2023: ecco come è andata!'
 date: 2023-05-24 08:00:00
 category : [vita-plastica]
 tags: [teambuilding]
