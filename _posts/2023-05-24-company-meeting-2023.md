@@ -77,7 +77,7 @@ Alle 10 del mattino, l'hackathon è giunto al termine! Alcuni di noi hanno lavor
 Poco dopo, ci siamo recati verso la location della nostra nuova attività di gruppo: una **cooking class**!
 
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/4.jpg" alt="Company Meeting 2023" />
-    <figcaption>Cooking class (più o meno seria= e gruppo di cammino sulla spiaggia</figcaption>
+    <figcaption>Cooking class (più o meno seria)</figcaption>
 </figure>
 
 Divisi in coppie ci siamo uniti a delle simpatiche Nonne Romagnole che ci hanno mostrato i segreti della loro cucina.
@@ -101,7 +101,7 @@ Nonostante il maltempo che ci ha accompagnati, le passeggiate in compagnia, le c
 
 
 <figure style="text-align:center"><img src="/assets/images/post-content/company-meeting-2023/6.jpg" alt="Company Meeting 2023" />
-    <figcaption>Cooking class (più o meno seria= e gruppo di cammino sulla spiaggia</figcaption>
+    <figcaption>Gruppo di cammino sulla spiaggia</figcaption>
 </figure>
 È stato incredibile vedere come l'obiettivo di team building sia stato pienamente raggiunto grazie a questa idea. Ora guardo avanti, pronta a continuare a sviluppare le mie competenze professionali e offrire un **valore** ancora maggiore sia al nostro team che ai nostri clienti.
 
