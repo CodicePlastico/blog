@@ -4,7 +4,7 @@ title: "Birra e Kubernetes"
 talk-title: 'AKS: da zero a (quasi) cento'
 event-date-start: 2022-10-22 10:50:00
 talk-info-track: 
-location: 'MATHIS – HOTEL&OSTERIA Viale G. Matteotti, 68 29017 Fiorenzuola d'Arda'
+location: 'MATHIS – HOTEL&OSTERIA Viale G. Matteotti, 68 29017 Fiorenzuola'
 org: 'Klab'
 event-link: https://www.eventbrite.com/e/biglietti-klab-2022-3-aks-da-zero-a-quasi-cento-460999470827
 org-link: http://www.klabcommunity.org/
