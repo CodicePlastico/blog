@@ -3,6 +3,7 @@
 <html>
   <head>
       <meta charset="utf-8">
+      <meta name="robots" content="noindex">
       <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
       <meta name="description" content="CodicePlastico's personal blog">
       <meta name="keywords" content="Blog,Elixir,Javascript,Impresa,Programmazione,Coding,Developers">
@@ -15,7 +16,7 @@
       <link rel="shortcut icon" href="https://blog.codiceplastico.com/assets/images/favicon.ico" />
       <link href="{{ site.url }}/favicon.ico" rel="icon">
       <link href="{{ root_url }}/assets/css/main.css" rel="stylesheet">
-      <meta name="google-site-verification" content="sxkGtIrL0EQQjbmddNz8FouZPQC9k4FGdIvy82Edk4c" />
+     
       
       <!-- Twitter cards -->
       <meta name="twitter:site"    content="CodicePlastico - PlasticBlog">
@@ -109,56 +110,7 @@
         </script>
       {% endif %}
 
-      <script type="text/javascript">
-        var _iub = _iub || [];
-        _iub.csConfiguration = {
-          "invalidateConsentWithoutLog": true,
-          "cookiePolicyInOtherWindow": true,
-          "reloadOnConsent": true,
-          "consentOnContinuedBrowsing": false,
-          "perPurposeConsent": true,
-          "enableTcf": true,
-          "googleAdditionalConsentMode": true,
-          "lang": "it",
-          "siteId": 1900950,
-          "cookiePolicyId": 96999165,
-          "banner": {
-            "closeButtonRejects": true,
-            "acceptButtonDisplay": true,
-            "customizeButtonDisplay": true,
-            "acceptButtonColor": "#d93232",
-            "acceptButtonCaptionColor": "white",
-            "customizeButtonColor": "#212121",
-            "customizeButtonCaptionColor": "white",
-            "rejectButtonDisplay": true,
-            "rejectButtonColor": "#d93232",
-            "rejectButtonCaptionColor": "white",
-            "listPurposes": true,
-            "explicitWithdrawal": true,
-            "position": "float-top-center",
-            "textColor": "#060606",
-            "backgroundColor": "#ffffff"
-          },
-          "callback": {
-            onConsentGiven: function() { 
-              if(!window.dataLayer){ 
-                window.dataLayer = [] 
-              } 
-              window.dataLayer.push({ 'event': 'iubenda_consent_given' }); 
-            }
-          }
-        }
-      </script>
-      <script type="text/javascript" src="//cdn.iubenda.com/cs/tcf/stub-v2.js"></script>
-      <script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
-
-   <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-WBH6523');</script>
-    <!-- End Google Tag Manager -->
+     
 
   </head>
   <body>
